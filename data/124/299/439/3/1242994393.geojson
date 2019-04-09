@@ -1,0 +1,67 @@
+{
+  "id": 1242994393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.61422,13.43439,8.61422,13.43439",
+    "geom:latitude":13.43439,
+    "geom:longitude":8.61422,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kore Elhadji",
+    "gn:country_code":"NE",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6736809,
+    "gn:latitude":13.43439,
+    "gn:longitude":8.61422,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Kor\u00e9 Elhadji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6736809
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"f9b6d8d5931d56e009e2db3b2fc3b07e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051165,
+            "locality_id":1242994393,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1242994393,
+    "wof:lastmodified":1536960272,
+    "wof:name":"Kore Elhadji",
+    "wof:parent_id":1092051165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.61422,
+    13.43439,
+    8.61422,
+    13.43439
+],
+  "geometry": {"coordinates":[8.61422,13.43439],"type":"Point"}
+}

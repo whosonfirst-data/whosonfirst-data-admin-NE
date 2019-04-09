@@ -1,0 +1,67 @@
+{
+  "id": 1226233979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.76803,14.65077,7.76803,14.65077",
+    "geom:latitude":14.65077,
+    "geom:longitude":7.76803,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Konyao",
+    "gn:country_code":"NE",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442167,
+    "gn:latitude":14.65077,
+    "gn:longitude":7.76803,
+    "gn:modification_date":"2008-08-21",
+    "gn:name":"Konyao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442167
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"3417e1454fd7008f7ca7ba28a7794f10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1226233979,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1226233979,
+    "wof:lastmodified":1536950849,
+    "wof:name":"Konyao",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.76803,
+    14.65077,
+    7.76803,
+    14.65077
+],
+  "geometry": {"coordinates":[7.76803,14.65077],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1277001757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.81667,13.33333,2.81667,13.33333",
+    "geom:latitude":13.33333,
+    "geom:longitude":2.81667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Bomberi Kwara",
+    "gn:cc2":"NE",
+    "gn:country_code":"NE",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446665,
+    "gn:latitude":13.33333,
+    "gn:longitude":2.81667,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Bomb\u00e9ri Kwara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bomberi-Koara",
+        "Bomb\u00e9ri Kwara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446665
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"3f24c6dd8ed04902afdc31ebfa3855ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1277001757,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1277001757,
+    "wof:lastmodified":1537674847,
+    "wof:name":"Bomberi Kwara",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.81667,
+    13.33333,
+    2.81667,
+    13.33333
+],
+  "geometry": {"coordinates":[2.81667,13.33333],"type":"Point"}
+}

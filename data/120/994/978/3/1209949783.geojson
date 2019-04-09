@@ -1,0 +1,71 @@
+{
+  "id": 1209949783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.97438,14.41311,6.97438,14.41311",
+    "geom:latitude":14.41311,
+    "geom:longitude":6.97438,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dan Tchiako",
+    "gn:country_code":"NE",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445940,
+    "gn:latitude":14.41311,
+    "gn:longitude":6.97438,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dan Tchiako",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dan Tchako",
+        "Dan Tchiako"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445940
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"82174f8be3bf9974ee4854811d49ecc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1209949783,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1209949783,
+    "wof:lastmodified":1537674831,
+    "wof:name":"Dan Tchiako",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.97438,
+    14.41311,
+    6.97438,
+    14.41311
+],
+  "geometry": {"coordinates":[6.97438,14.41311],"type":"Point"}
+}

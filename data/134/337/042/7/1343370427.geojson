@@ -1,0 +1,71 @@
+{
+  "id": 1343370427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.91808,12.54139,2.91808,12.54139",
+    "geom:latitude":12.54139,
+    "geom:longitude":2.91808,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Abouko Kwara",
+    "gn:country_code":"NE",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448195,
+    "gn:latitude":12.54139,
+    "gn:longitude":2.91808,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Abouko Kwara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abouko Koara",
+        "Abouko Kwara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448195
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"8d80e7666e402b0382f0d4219999b33d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051075,
+            "locality_id":1343370427,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1343370427,
+    "wof:lastmodified":1537674874,
+    "wof:name":"Abouko Kwara",
+    "wof:parent_id":1092051075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.91808,
+    12.54139,
+    2.91808,
+    12.54139
+],
+  "geometry": {"coordinates":[2.91808,12.54139],"type":"Point"}
+}

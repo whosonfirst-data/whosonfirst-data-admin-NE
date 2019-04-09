@@ -1,0 +1,67 @@
+{
+  "id": 1276250177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.95743,13.93404,8.95743,13.93404",
+    "geom:latitude":13.93404,
+    "geom:longitude":8.95743,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zangon Kelteme",
+    "gn:country_code":"NE",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6727947,
+    "gn:latitude":13.93404,
+    "gn:longitude":8.95743,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Zangon Kelt\u00e9m\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6727947
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"321c8d7be18d68194295a67d579ecd40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051411,
+            "locality_id":1276250177,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1276250177,
+    "wof:lastmodified":1536889768,
+    "wof:name":"Zangon Kelteme",
+    "wof:parent_id":1092051411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.95743,
+    13.93404,
+    8.95743,
+    13.93404
+],
+  "geometry": {"coordinates":[8.95743,13.93404],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293508693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.46884,12.82647,1.46884,12.82647",
+    "geom:latitude":12.82647,
+    "geom:longitude":1.46884,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Golgano",
+    "gn:country_code":"NE",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7503260,
+    "gn:latitude":12.82647,
+    "gn:longitude":1.46884,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Golgano",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7503260
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"10f5063de2c85238d56518beee9d0a3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051103,
+            "locality_id":1293508693,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1293508693,
+    "wof:lastmodified":1536756619,
+    "wof:name":"Golgano",
+    "wof:parent_id":1092051103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.46884,
+    12.82647,
+    1.46884,
+    12.82647
+],
+  "geometry": {"coordinates":[1.46884,12.82647],"type":"Point"}
+}

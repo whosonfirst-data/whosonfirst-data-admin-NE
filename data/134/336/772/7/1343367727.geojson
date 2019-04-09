@@ -1,0 +1,67 @@
+{
+  "id": 1343367727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.68158,13.71504,11.68158,13.71504",
+    "geom:latitude":13.71504,
+    "geom:longitude":11.68158,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Garin Toudou",
+    "gn:country_code":"NE",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6787359,
+    "gn:latitude":13.71504,
+    "gn:longitude":11.68158,
+    "gn:modification_date":"2013-02-09",
+    "gn:name":"Garin Toudou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6787359
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"567ec9b16174803b776f5dc8beb3b16e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051363,
+            "locality_id":1343367727,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1343367727,
+    "wof:lastmodified":1536879152,
+    "wof:name":"Garin Toudou",
+    "wof:parent_id":1092051363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.68158,
+    13.71504,
+    11.68158,
+    13.71504
+],
+  "geometry": {"coordinates":[11.68158,13.71504],"type":"Point"}
+}

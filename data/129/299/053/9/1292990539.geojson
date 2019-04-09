@@ -1,0 +1,67 @@
+{
+  "id": 1292990539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.6932,14.51008,2.6932,14.51008",
+    "geom:latitude":14.51008,
+    "geom:longitude":2.6932,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Yadya",
+    "gn:country_code":"NE",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438056,
+    "gn:latitude":14.51008,
+    "gn:longitude":2.6932,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Yadya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438056
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"7947703ccacac1e08634fb01707561f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051633,
+            "locality_id":1292990539,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1292990539,
+    "wof:lastmodified":1537005721,
+    "wof:name":"Yadya",
+    "wof:parent_id":1092051633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6932,
+    14.51008,
+    2.6932,
+    14.51008
+],
+  "geometry": {"coordinates":[2.6932,14.51008],"type":"Point"}
+}

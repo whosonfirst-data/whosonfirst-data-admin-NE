@@ -1,0 +1,71 @@
+{
+  "id": 1226255473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.3111,13.6192,11.3111,13.6192",
+    "geom:latitude":13.6192,
+    "geom:longitude":11.3111,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Abdouri",
+    "gn:country_code":"NE",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6819626,
+    "gn:latitude":13.6192,
+    "gn:longitude":11.3111,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Abdouri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abdouti",
+        "Abdouri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6819626
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"9f0d6fece6d21f17d3660a1ae4c681df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051363,
+            "locality_id":1226255473,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1226255473,
+    "wof:lastmodified":1537674888,
+    "wof:name":"Abdouri",
+    "wof:parent_id":1092051363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.3111,
+    13.6192,
+    11.3111,
+    13.6192
+],
+  "geometry": {"coordinates":[11.3111,13.6192],"type":"Point"}
+}

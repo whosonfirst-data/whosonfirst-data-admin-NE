@@ -1,0 +1,67 @@
+{
+  "id": 1327030561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.21669,13.2585,7.21669,13.2585",
+    "geom:latitude":13.2585,
+    "geom:longitude":7.21669,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kourfin Koura",
+    "gn:country_code":"NE",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441887,
+    "gn:latitude":13.2585,
+    "gn:longitude":7.21669,
+    "gn:modification_date":"2008-02-25",
+    "gn:name":"Kourfin Ko\u00fcr\u00e2",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441887
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"d6a2a6d9cd4bba1376bdc2f6440efde8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051007,
+            "locality_id":1327030561,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1327030561,
+    "wof:lastmodified":1536763403,
+    "wof:name":"Kourfin Koura",
+    "wof:parent_id":1092051007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.21669,
+    13.2585,
+    7.21669,
+    13.2585
+],
+  "geometry": {"coordinates":[7.21669,13.2585],"type":"Point"}
+}

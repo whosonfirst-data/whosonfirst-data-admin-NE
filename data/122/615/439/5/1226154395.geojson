@@ -1,0 +1,71 @@
+{
+  "id": 1226154395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.96241,12.64256,2.96241,12.64256",
+    "geom:latitude":12.64256,
+    "geom:longitude":2.96241,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Yoro Kwara",
+    "gn:country_code":"NE",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437939,
+    "gn:latitude":12.64256,
+    "gn:longitude":2.96241,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Yoro Kwara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yorokoara",
+        "Yoro Kwara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437939
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"77b2c7fe009b8af04dadf24227515858",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051075,
+            "locality_id":1226154395,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1226154395,
+    "wof:lastmodified":1537674652,
+    "wof:name":"Yoro Kwara",
+    "wof:parent_id":1092051075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.96241,
+    12.64256,
+    2.96241,
+    12.64256
+],
+  "geometry": {"coordinates":[2.96241,12.64256],"type":"Point"}
+}

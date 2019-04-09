@@ -1,0 +1,67 @@
+{
+  "id": 1193012701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.9148,13.02558,8.9148,13.02558",
+    "geom:latitude":13.02558,
+    "geom:longitude":8.9148,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"May Damoussa",
+    "gn:country_code":"NE",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6745851,
+    "gn:latitude":13.02558,
+    "gn:longitude":8.9148,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"May Damoussa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6745851
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"a664287107750804deb2141e9c47c519",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051133,
+            "locality_id":1193012701,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1193012701,
+    "wof:lastmodified":1536381821,
+    "wof:name":"May Damoussa",
+    "wof:parent_id":1092051133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.9148,
+    13.02558,
+    8.9148,
+    13.02558
+],
+  "geometry": {"coordinates":[8.9148,13.02558],"type":"Point"}
+}

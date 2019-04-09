@@ -1,0 +1,72 @@
+{
+  "id": 1327425691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.3405,13.34908,8.3405,13.34908",
+    "geom:latitude":13.34908,
+    "geom:longitude":8.3405,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Housguin",
+    "gn:country_code":"NE",
+    "gn:dem":457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444981,
+    "gn:latitude":13.34908,
+    "gn:longitude":8.3405,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Housguin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fisgin",
+        "Fisguin",
+        "Housguin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444981
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"c81dc8217f7c17b462fd5c68e61d6030",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051165,
+            "locality_id":1327425691,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1327425691,
+    "wof:lastmodified":1537674808,
+    "wof:name":"Housguin",
+    "wof:parent_id":1092051165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.3405,
+    13.34908,
+    8.3405,
+    13.34908
+],
+  "geometry": {"coordinates":[8.3405,13.34908],"type":"Point"}
+}

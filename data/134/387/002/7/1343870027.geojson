@@ -1,0 +1,67 @@
+{
+  "id": 1343870027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.2254,13.3062,3.2254,13.3062",
+    "geom:latitude":13.3062,
+    "geom:longitude":3.2254,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Koutoufani",
+    "gn:country_code":"NE",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441838,
+    "gn:latitude":13.3062,
+    "gn:longitude":3.2254,
+    "gn:modification_date":"2008-10-22",
+    "gn:name":"Koutoufani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441838
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"a16ae48c7f2de88d9c299515c56f3ff5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051041,
+            "locality_id":1343870027,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1343870027,
+    "wof:lastmodified":1536652654,
+    "wof:name":"Koutoufani",
+    "wof:parent_id":1092051041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.2254,
+    13.3062,
+    3.2254,
+    13.3062
+],
+  "geometry": {"coordinates":[3.2254,13.3062],"type":"Point"}
+}

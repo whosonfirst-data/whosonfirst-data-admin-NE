@@ -1,0 +1,67 @@
+{
+  "id": 1226536873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.09542,13.37657,10.09542,13.37657",
+    "geom:latitude":13.37657,
+    "geom:longitude":10.09542,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Komizabewa",
+    "gn:country_code":"NE",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6750127,
+    "gn:latitude":13.37657,
+    "gn:longitude":10.09542,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Komizab\u00e9wa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6750127
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"427f854c3f579c017ebf418a1b697d64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051753,
+            "locality_id":1226536873,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1226536873,
+    "wof:lastmodified":1537010209,
+    "wof:name":"Komizabewa",
+    "wof:parent_id":1092051753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.09542,
+    13.37657,
+    10.09542,
+    13.37657
+],
+  "geometry": {"coordinates":[10.09542,13.37657],"type":"Point"}
+}

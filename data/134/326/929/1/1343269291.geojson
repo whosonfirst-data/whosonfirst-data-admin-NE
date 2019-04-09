@@ -1,0 +1,67 @@
+{
+  "id": 1343269291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.83557,12.97679,2.83557,12.97679",
+    "geom:latitude":12.97679,
+    "geom:longitude":2.83557,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Donlaga",
+    "gn:country_code":"NE",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445499,
+    "gn:latitude":12.97679,
+    "gn:longitude":2.83557,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Donlaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445499
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"8d4d710e1e10b3a71fe2000c6ab86190",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051075,
+            "locality_id":1343269291,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1343269291,
+    "wof:lastmodified":1537021171,
+    "wof:name":"Donlaga",
+    "wof:parent_id":1092051075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.83557,
+    12.97679,
+    2.83557,
+    12.97679
+],
+  "geometry": {"coordinates":[2.83557,12.97679],"type":"Point"}
+}

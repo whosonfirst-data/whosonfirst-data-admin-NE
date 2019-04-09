@@ -1,0 +1,67 @@
+{
+  "id": 1293282137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.827,13.86071,1.827,13.86071",
+    "geom:latitude":13.86071,
+    "geom:longitude":1.827,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Moriban",
+    "gn:country_code":"NE",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2440883,
+    "gn:latitude":13.86071,
+    "gn:longitude":1.827,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Moriban",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2440883
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"5c134b1e35c3d4f841622f561b0f2db2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1293282137,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1293282137,
+    "wof:lastmodified":1537079920,
+    "wof:name":"Moriban",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.827,
+    13.86071,
+    1.827,
+    13.86071
+],
+  "geometry": {"coordinates":[1.827,13.86071],"type":"Point"}
+}

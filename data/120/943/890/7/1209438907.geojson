@@ -1,0 +1,61 @@
+{
+  "id": 1209438907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.61871,14.05623,7.61871,14.05623",
+    "geom:latitude":14.05623,
+    "geom:longitude":7.61871,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Guidan Kyambe",
+    "gn:country_code":"NE",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2443752,
+    "gn:latitude":14.05623,
+    "gn:longitude":7.61871,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Guidan Kyamb\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2443752
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"1149517eb34330af1fd451d833029606",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209438907
+        }
+    ],
+    "wof:id":1209438907,
+    "wof:lastmodified":1536287017,
+    "wof:name":"Guidan Kyambe",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.618710000000001,
+    14.05623,
+    7.618710000000001,
+    14.05623
+],
+  "geometry": {"coordinates":[7.61871,14.05623],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1193273457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.57258,13.86699,5.57258,13.86699",
+    "geom:latitude":13.86699,
+    "geom:longitude":5.57258,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Guidan-Albakari",
+    "gn:country_code":"NE",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7015588,
+    "gn:latitude":13.86699,
+    "gn:longitude":5.57258,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Guidan-Albakari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gidan-Albakari",
+        "Guidan-Albakari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675433,
+        1108563383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7015588
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"6b39de1493fe5c57c6f0ae61663b26de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563383,
+            "locality_id":1193273457,
+            "region_id":85675433
+        }
+    ],
+    "wof:id":1193273457,
+    "wof:lastmodified":1537674892,
+    "wof:name":"Guidan-Albakari",
+    "wof:parent_id":1108563383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.57258,
+    13.86699,
+    5.57258,
+    13.86699
+],
+  "geometry": {"coordinates":[5.57258,13.86699],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276131669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.71877,13.45681,12.71877,13.45681",
+    "geom:latitude":13.45681,
+    "geom:longitude":12.71877,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Gorodi-Birin",
+    "gn:country_code":"NE",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6777630,
+    "gn:latitude":13.45681,
+    "gn:longitude":12.71877,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Gorodi-Birin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6777630
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"e89103230053c9dc9d4603aa4af00ec2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051245,
+            "locality_id":1276131669,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1276131669,
+    "wof:lastmodified":1537046829,
+    "wof:name":"Gorodi-Birin",
+    "wof:parent_id":1092051245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.71877,
+    13.45681,
+    12.71877,
+    13.45681
+],
+  "geometry": {"coordinates":[12.71877,13.45681],"type":"Point"}
+}

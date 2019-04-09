@@ -1,0 +1,73 @@
+{
+  "id": 1343471819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.2951,13.4932,11.2951,13.4932",
+    "geom:latitude":13.4932,
+    "geom:longitude":11.2951,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bouboukwa",
+    "gn:country_code":"NE",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446525,
+    "gn:latitude":13.4932,
+    "gn:longitude":11.2951,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bouboukwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boumbougoua",
+        "Bumbukoa",
+        "Boumboukoua",
+        "Bouboukwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446525
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"8fccc2a68c9a46ee33bf897df8b48802",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051363,
+            "locality_id":1343471819,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1343471819,
+    "wof:lastmodified":1537674843,
+    "wof:name":"Bouboukwa",
+    "wof:parent_id":1092051363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.2951,
+    13.4932,
+    11.2951,
+    13.4932
+],
+  "geometry": {"coordinates":[11.2951,13.4932],"type":"Point"}
+}

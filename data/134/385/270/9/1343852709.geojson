@@ -1,0 +1,67 @@
+{
+  "id": 1343852709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.2961,14.5751,10.2961,14.5751",
+    "geom:latitude":14.5751,
+    "geom:longitude":10.2961,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Nguibidi",
+    "gn:country_code":"NE",
+    "gn:dem":538,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6847838,
+    "gn:latitude":14.5751,
+    "gn:longitude":10.2961,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Nguibidi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6847838
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"ff1a46ec500cd366dab04b2f5b0fee88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051753,
+            "locality_id":1343852709,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1343852709,
+    "wof:lastmodified":1536677826,
+    "wof:name":"Nguibidi",
+    "wof:parent_id":1092051753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2961,
+    14.5751,
+    10.2961,
+    14.5751
+],
+  "geometry": {"coordinates":[10.2961,14.5751],"type":"Point"}
+}

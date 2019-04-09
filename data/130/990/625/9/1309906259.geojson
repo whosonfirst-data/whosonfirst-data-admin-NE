@@ -1,0 +1,67 @@
+{
+  "id": 1309906259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.12258,13.35755,8.12258,13.35755",
+    "geom:latitude":13.35755,
+    "geom:longitude":8.12258,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Malam Madi Dada",
+    "gn:country_code":"NE",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6726907,
+    "gn:latitude":13.35755,
+    "gn:longitude":8.12258,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"M\u00e2lam Madi Dada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6726907
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"bbeae2523d632662c453832eb9ed6306",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051197,
+            "locality_id":1309906259,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1309906259,
+    "wof:lastmodified":1536786774,
+    "wof:name":"Malam Madi Dada",
+    "wof:parent_id":1092051197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.12258,
+    13.35755,
+    8.12258,
+    13.35755
+],
+  "geometry": {"coordinates":[8.12258,13.35755],"type":"Point"}
+}

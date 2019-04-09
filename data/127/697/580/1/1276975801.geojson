@@ -1,0 +1,71 @@
+{
+  "id": 1276975801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.309,13.9642,1.309,13.9642",
+    "geom:latitude":13.9642,
+    "geom:longitude":1.309,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Abou Bangou",
+    "gn:country_code":"NE",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446603,
+    "gn:latitude":13.9642,
+    "gn:longitude":1.309,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Abou Bangou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bou Bangou",
+        "Abou Bangou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446603
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"b77ee23e502b0f515777789e2dde2623",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051545,
+            "locality_id":1276975801,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1276975801,
+    "wof:lastmodified":1537674845,
+    "wof:name":"Abou Bangou",
+    "wof:parent_id":1092051545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.309,
+    13.9642,
+    1.309,
+    13.9642
+],
+  "geometry": {"coordinates":[1.309,13.9642],"type":"Point"}
+}

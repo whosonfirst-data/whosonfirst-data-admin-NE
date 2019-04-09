@@ -1,0 +1,71 @@
+{
+  "id": 1243264061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.33717,14.73264,7.33717,14.73264",
+    "geom:latitude":14.73264,
+    "geom:longitude":7.33717,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Guidan Dangeji",
+    "gn:country_code":"NE",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2443917,
+    "gn:latitude":14.73264,
+    "gn:longitude":7.33717,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Guidan Dangeji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guidan Dangueji",
+        "Guidan Dangeji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2443917
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"55719c3c92cf3c3944e2b88161b7dc3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1243264061,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1243264061,
+    "wof:lastmodified":1537674782,
+    "wof:name":"Guidan Dangeji",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.33717,
+    14.73264,
+    7.33717,
+    14.73264
+],
+  "geometry": {"coordinates":[7.33717,14.73264],"type":"Point"}
+}

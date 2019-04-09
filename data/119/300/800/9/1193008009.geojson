@@ -1,0 +1,67 @@
+{
+  "id": 1193008009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.03295,14.00639,2.03295,14.00639",
+    "geom:latitude":14.00639,
+    "geom:longitude":2.03295,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Koubora",
+    "gn:country_code":"NE",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6827159,
+    "gn:latitude":14.00639,
+    "gn:longitude":2.03295,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Koubora",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6827159
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"bbec1b435d912d43b706062da781e210",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051633,
+            "locality_id":1193008009,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1193008009,
+    "wof:lastmodified":1536364579,
+    "wof:name":"Koubora",
+    "wof:parent_id":1092051633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.03295,
+    14.00639,
+    2.03295,
+    14.00639
+],
+  "geometry": {"coordinates":[2.03295,14.00639],"type":"Point"}
+}

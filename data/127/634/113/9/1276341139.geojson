@@ -1,0 +1,71 @@
+{
+  "id": 1276341139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.85206,14.44363,6.85206,14.44363",
+    "geom:latitude":14.44363,
+    "geom:longitude":6.85206,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tagamawa",
+    "gn:country_code":"NE",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439426,
+    "gn:latitude":14.44363,
+    "gn:longitude":6.85206,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tagamawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tagamaoua",
+        "Tagamawa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439426
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"ae9235af55e08a7845f5d2cfda9454a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1276341139,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1276341139,
+    "wof:lastmodified":1537674683,
+    "wof:name":"Tagamawa",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.85206,
+    14.44363,
+    6.85206,
+    14.44363
+],
+  "geometry": {"coordinates":[6.85206,14.44363],"type":"Point"}
+}

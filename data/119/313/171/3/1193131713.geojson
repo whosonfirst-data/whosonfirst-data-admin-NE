@@ -1,0 +1,67 @@
+{
+  "id": 1193131713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.2893,14.3674,10.2893,14.3674",
+    "geom:latitude":14.3674,
+    "geom:longitude":10.2893,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Aleouarioua",
+    "gn:country_code":"NE",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6848065,
+    "gn:latitude":14.3674,
+    "gn:longitude":10.2893,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Al\u00e9ouarioua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6848065
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"35da0db86f1faadaee31304b5faad49f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051753,
+            "locality_id":1193131713,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1193131713,
+    "wof:lastmodified":1536375080,
+    "wof:name":"Aleouarioua",
+    "wof:parent_id":1092051753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2893,
+    14.3674,
+    10.2893,
+    14.3674
+],
+  "geometry": {"coordinates":[10.2893,14.3674],"type":"Point"}
+}

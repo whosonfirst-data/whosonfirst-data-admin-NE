@@ -1,0 +1,71 @@
+{
+  "id": 1310201069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.91887,14.48038,1.91887,14.48038",
+    "geom:latitude":14.48038,
+    "geom:longitude":1.91887,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tanda Koira",
+    "gn:country_code":"NE",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439185,
+    "gn:latitude":14.48038,
+    "gn:longitude":1.91887,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Tanda Koira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tanda Koyra",
+        "Tanda Koira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439185
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"e6fcf1a8a6a37ec9e8141c49ff1be70f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051633,
+            "locality_id":1310201069,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1310201069,
+    "wof:lastmodified":1537674678,
+    "wof:name":"Tanda Koira",
+    "wof:parent_id":1092051633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.91887,
+    14.48038,
+    1.91887,
+    14.48038
+],
+  "geometry": {"coordinates":[1.91887,14.48038],"type":"Point"}
+}

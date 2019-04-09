@@ -1,0 +1,67 @@
+{
+  "id": 1259403861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.44628,12.93408,9.44628,12.93408",
+    "geom:latitude":12.93408,
+    "geom:longitude":9.44628,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ndama",
+    "gn:country_code":"NE",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7027094,
+    "gn:latitude":12.93408,
+    "gn:longitude":9.44628,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Ndama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7027094
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"963bb5e7b067e27dbb133ea4eac4861e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051133,
+            "locality_id":1259403861,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1259403861,
+    "wof:lastmodified":1536972735,
+    "wof:name":"Ndama",
+    "wof:parent_id":1092051133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.44628,
+    12.93408,
+    9.44628,
+    12.93408
+],
+  "geometry": {"coordinates":[9.44628,12.93408],"type":"Point"}
+}

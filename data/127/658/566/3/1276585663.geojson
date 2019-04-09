@@ -1,0 +1,71 @@
+{
+  "id": 1276585663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.80344,13.90427,7.80344,13.90427",
+    "geom:latitude":13.90427,
+    "geom:longitude":7.80344,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sa'ida Afa",
+    "gn:country_code":"NE",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439808,
+    "gn:latitude":13.90427,
+    "gn:longitude":7.80344,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Sa'\u00eeda Afa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saya Afa",
+        "Sa'\u00eeda Afa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439808
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"bc940f74fbf776303a316901799ac267",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051435,
+            "locality_id":1276585663,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1276585663,
+    "wof:lastmodified":1537674691,
+    "wof:name":"Sa'ida Afa",
+    "wof:parent_id":1092051435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.80344,
+    13.90427,
+    7.80344,
+    13.90427
+],
+  "geometry": {"coordinates":[7.80344,13.90427],"type":"Point"}
+}

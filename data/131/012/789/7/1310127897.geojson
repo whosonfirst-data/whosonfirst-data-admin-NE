@@ -1,0 +1,67 @@
+{
+  "id": 1310127897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.4977,14.1991,5.4977,14.1991",
+    "geom:latitude":14.1991,
+    "geom:longitude":5.4977,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tounga Kaka",
+    "gn:country_code":"NE",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6679367,
+    "gn:latitude":14.1991,
+    "gn:longitude":5.4977,
+    "gn:modification_date":"2008-02-09",
+    "gn:name":"Tounga Kaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6679367
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"277ae92c47f2077229f1cab808d79e5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051485,
+            "locality_id":1310127897,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1310127897,
+    "wof:lastmodified":1536964065,
+    "wof:name":"Tounga Kaka",
+    "wof:parent_id":1092051485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.4977,
+    14.1991,
+    5.4977,
+    14.1991
+],
+  "geometry": {"coordinates":[5.4977,14.1991],"type":"Point"}
+}

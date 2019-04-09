@@ -1,0 +1,61 @@
+{
+  "id": 1209236603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.04026,14.66665,6.04026,14.66665",
+    "geom:latitude":14.66665,
+    "geom:longitude":6.04026,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Takasaba",
+    "gn:country_code":"NE",
+    "gn:dem":471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6849474,
+    "gn:latitude":14.66665,
+    "gn:longitude":6.04026,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Takasaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6849474
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"1ece7c6a6516fe7267d8f6d781f0ccd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209236603
+        }
+    ],
+    "wof:id":1209236603,
+    "wof:lastmodified":1536293458,
+    "wof:name":"Takasaba",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.04026,
+    14.66665,
+    6.04026,
+    14.66665
+],
+  "geometry": {"coordinates":[6.04026,14.66665],"type":"Point"}
+}

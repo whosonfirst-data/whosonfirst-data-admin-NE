@@ -1,0 +1,75 @@
+{
+  "id": 1276347313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.86789,12.80809,2.86789,12.80809",
+    "geom:latitude":12.80809,
+    "geom:longitude":2.86789,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bassi Zarma",
+    "gn:country_code":"NE",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446974,
+    "gn:latitude":12.80809,
+    "gn:longitude":2.86789,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Bassi Zarma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bashi",
+        "Baschi",
+        "Basi Dy\u00e8rma",
+        "Bassi Dyerma",
+        "Bassi Djerma",
+        "Bassi Zarma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446974
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"e1b5b9b127b3c93cca3e609fd760980c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051075,
+            "locality_id":1276347313,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1276347313,
+    "wof:lastmodified":1537674853,
+    "wof:name":"Bassi Zarma",
+    "wof:parent_id":1092051075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.86789,
+    12.80809,
+    2.86789,
+    12.80809
+],
+  "geometry": {"coordinates":[2.86789,12.80809],"type":"Point"}
+}

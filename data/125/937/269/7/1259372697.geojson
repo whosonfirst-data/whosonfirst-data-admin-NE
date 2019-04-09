@@ -1,0 +1,67 @@
+{
+  "id": 1259372697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.0353,14.142,2.0353,14.142",
+    "geom:latitude":14.142,
+    "geom:longitude":2.0353,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Niandou Koara",
+    "gn:country_code":"NE",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6827221,
+    "gn:latitude":14.142,
+    "gn:longitude":2.0353,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Niandou Koara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6827221
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"119e69ea6c8b4e0301679d4aa9e105c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051633,
+            "locality_id":1259372697,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1259372697,
+    "wof:lastmodified":1537017093,
+    "wof:name":"Niandou Koara",
+    "wof:parent_id":1092051633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.0353,
+    14.142,
+    2.0353,
+    14.142
+],
+  "geometry": {"coordinates":[2.0353,14.142],"type":"Point"}
+}

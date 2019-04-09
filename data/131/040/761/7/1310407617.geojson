@@ -1,0 +1,71 @@
+{
+  "id": 1310407617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.36838,12.25141,3.36838,12.25141",
+    "geom:latitude":12.25141,
+    "geom:longitude":3.36838,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Adiga Kaboy",
+    "gn:country_code":"NE",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448143,
+    "gn:latitude":12.25141,
+    "gn:longitude":3.36838,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Adiga Kaboy",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Adiga-Kaboye",
+        "Adiga Kaboy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092050969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448143
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"ea89fca1e5cb869611a185d403485830",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092050969,
+            "locality_id":1310407617,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1310407617,
+    "wof:lastmodified":1537674874,
+    "wof:name":"Adiga Kaboy",
+    "wof:parent_id":1092050969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.36838,
+    12.25141,
+    3.36838,
+    12.25141
+],
+  "geometry": {"coordinates":[3.36838,12.25141],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1210011067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.29965,14.31376,1.29965,14.31376",
+    "geom:latitude":14.31376,
+    "geom:longitude":1.29965,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Diambala",
+    "gn:country_code":"NE",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446111,
+    "gn:latitude":14.31376,
+    "gn:longitude":1.29965,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Diambala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Diombala",
+        "Dangala",
+        "Diambala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        890429081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446111
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"28855d7b76fef08640e7c906db7d2bde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":890429081,
+            "locality_id":1210011067,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1210011067,
+    "wof:lastmodified":1537674834,
+    "wof:name":"Diambala",
+    "wof:parent_id":890429081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.29965,
+    14.31376,
+    1.29965,
+    14.31376
+],
+  "geometry": {"coordinates":[1.29965,14.31376],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327423569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.74991,14.0886,2.74991,14.0886",
+    "geom:latitude":14.0886,
+    "geom:longitude":2.74991,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Dorobobo",
+    "gn:country_code":"NE",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445493,
+    "gn:latitude":14.0886,
+    "gn:longitude":2.74991,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Dorobobo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445493
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"c4beb362b2549e3e305c5ecd36916d5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051695,
+            "locality_id":1327423569,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1327423569,
+    "wof:lastmodified":1536693781,
+    "wof:name":"Dorobobo",
+    "wof:parent_id":1092051695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.74991,
+    14.0886,
+    2.74991,
+    14.0886
+],
+  "geometry": {"coordinates":[2.74991,14.0886],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209399181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.84277,14.00292,0.84277,14.00292",
+    "geom:latitude":14.00292,
+    "geom:longitude":0.84277,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Doumba",
+    "gn:country_code":"NE",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445453,
+    "gn:latitude":14.00292,
+    "gn:longitude":0.84277,
+    "gn:modification_date":"2008-10-21",
+    "gn:name":"Doumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445453
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"1573526c5745dbe008c35cc364471619",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209399181
+        }
+    ],
+    "wof:id":1209399181,
+    "wof:lastmodified":1536288202,
+    "wof:name":"Doumba",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.84277,
+    14.00292,
+    0.84277,
+    14.00292
+],
+  "geometry": {"coordinates":[0.84277,14.00292],"type":"Point"}
+}

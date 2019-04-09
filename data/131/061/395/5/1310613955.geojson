@@ -1,0 +1,67 @@
+{
+  "id": 1310613955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.99391,13.52399,12.99391,13.52399",
+    "geom:latitude":13.52399,
+    "geom:longitude":12.99391,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Fawa",
+    "gn:country_code":"NE",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6776934,
+    "gn:latitude":13.52399,
+    "gn:longitude":12.99391,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Fawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6776934
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"6f3b0c7a23fe1f4026e8743c705661f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051245,
+            "locality_id":1310613955,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1310613955,
+    "wof:lastmodified":1536760629,
+    "wof:name":"Fawa",
+    "wof:parent_id":1092051245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.99391,
+    13.52399,
+    12.99391,
+    13.52399
+],
+  "geometry": {"coordinates":[12.99391,13.52399],"type":"Point"}
+}

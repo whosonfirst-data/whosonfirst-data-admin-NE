@@ -1,0 +1,72 @@
+{
+  "id": 1226526793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.0162,13.8519,2.0162,13.8519",
+    "geom:latitude":13.8519,
+    "geom:longitude":2.0162,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Boyey",
+    "gn:country_code":"NE",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446708,
+    "gn:latitude":13.8519,
+    "gn:longitude":2.0162,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Boyey",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bo\u00e9ye",
+        "Boey",
+        "Boyey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446708
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"f1fc5e123e9c828848c1ea2354cf7998",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1226526793,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1226526793,
+    "wof:lastmodified":1537674849,
+    "wof:name":"Boyey",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.0162,
+    13.8519,
+    2.0162,
+    13.8519
+],
+  "geometry": {"coordinates":[2.0162,13.8519],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209518385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.74199,13.47005,12.74199,13.47005",
+    "geom:latitude":13.47005,
+    "geom:longitude":12.74199,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ngasiwa",
+    "gn:country_code":"NE",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6777636,
+    "gn:latitude":13.47005,
+    "gn:longitude":12.74199,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Ngasiwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6777636
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"ab4d1c62bd1bf4bf3aac3ff7197c40ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209518385
+        }
+    ],
+    "wof:id":1209518385,
+    "wof:lastmodified":1536284658,
+    "wof:name":"Ngasiwa",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.74199,
+    13.47005,
+    12.74199,
+    13.47005
+],
+  "geometry": {"coordinates":[12.74199,13.47005],"type":"Point"}
+}

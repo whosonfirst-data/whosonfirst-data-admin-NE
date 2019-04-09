@@ -1,0 +1,67 @@
+{
+  "id": 1293589703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.345,13.47829,7.345,13.47829",
+    "geom:latitude":13.47829,
+    "geom:longitude":7.345,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Alabata",
+    "gn:country_code":"NE",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447955,
+    "gn:latitude":13.47829,
+    "gn:longitude":7.345,
+    "gn:modification_date":"2008-02-27",
+    "gn:name":"Alabata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447955
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"23ea1ddb7a93081ebbf66739a8c6aa01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051007,
+            "locality_id":1293589703,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1293589703,
+    "wof:lastmodified":1536638719,
+    "wof:name":"Alabata",
+    "wof:parent_id":1092051007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.345,
+    13.47829,
+    7.345,
+    13.47829
+],
+  "geometry": {"coordinates":[7.345,13.47829],"type":"Point"}
+}

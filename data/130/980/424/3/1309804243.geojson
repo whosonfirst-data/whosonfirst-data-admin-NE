@@ -1,0 +1,67 @@
+{
+  "id": 1309804243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.11205,13.59485,7.11205,13.59485",
+    "geom:latitude":13.59485,
+    "geom:longitude":7.11205,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dan Gara",
+    "gn:country_code":"NE",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446093,
+    "gn:latitude":13.59485,
+    "gn:longitude":7.11205,
+    "gn:modification_date":"2008-02-12",
+    "gn:name":"Dan Gara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446093
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"856c9b027f2a30b7ad537ac9e1567af0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051229,
+            "locality_id":1309804243,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1309804243,
+    "wof:lastmodified":1536934053,
+    "wof:name":"Dan Gara",
+    "wof:parent_id":1092051229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.11205,
+    13.59485,
+    7.11205,
+    13.59485
+],
+  "geometry": {"coordinates":[7.11205,13.59485],"type":"Point"}
+}

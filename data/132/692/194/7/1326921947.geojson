@@ -1,0 +1,67 @@
+{
+  "id": 1326921947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.1783,14.5272,9.1783,14.5272",
+    "geom:latitude":14.5272,
+    "geom:longitude":9.1783,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Birnin Tchabale",
+    "gn:country_code":"NE",
+    "gn:dem":473,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6804059,
+    "gn:latitude":14.5272,
+    "gn:longitude":9.1783,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Birnin Tchabal\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6804059
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"eea9731375b8e30b20657793112b2326",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1326921947,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1326921947,
+    "wof:lastmodified":1536920271,
+    "wof:name":"Birnin Tchabale",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.1783,
+    14.5272,
+    9.1783,
+    14.5272
+],
+  "geometry": {"coordinates":[9.1783,14.5272],"type":"Point"}
+}

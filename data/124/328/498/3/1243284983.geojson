@@ -1,0 +1,67 @@
+{
+  "id": 1243284983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.8128,14.77647,8.8128,14.77647",
+    "geom:latitude":14.77647,
+    "geom:longitude":8.8128,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Toudoun Doubou",
+    "gn:country_code":"NE",
+    "gn:dem":529,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6818793,
+    "gn:latitude":14.77647,
+    "gn:longitude":8.8128,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Toudoun Doubou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6818793
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"657ab9e9194976c0eb9a1b45ff091095",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1243284983,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1243284983,
+    "wof:lastmodified":1537036786,
+    "wof:name":"Toudoun Doubou",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.8128,
+    14.77647,
+    8.8128,
+    14.77647
+],
+  "geometry": {"coordinates":[8.8128,14.77647],"type":"Point"}
+}

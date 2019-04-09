@@ -1,0 +1,67 @@
+{
+  "id": 1344251667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.09602,14.01641,1.09602,14.01641",
+    "geom:latitude":14.01641,
+    "geom:longitude":1.09602,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kooum",
+    "gn:country_code":"NE",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442166,
+    "gn:latitude":14.01641,
+    "gn:longitude":1.09602,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Kooum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442166
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"bc315d4fab78955977576ff01d1a5a0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051545,
+            "locality_id":1344251667,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1344251667,
+    "wof:lastmodified":1537093729,
+    "wof:name":"Kooum",
+    "wof:parent_id":1092051545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.09602,
+    14.01641,
+    1.09602,
+    14.01641
+],
+  "geometry": {"coordinates":[1.09602,14.01641],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226166887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.2354,13.24839,8.2354,13.24839",
+    "geom:latitude":13.24839,
+    "geom:longitude":8.2354,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"May Farou",
+    "gn:country_code":"NE",
+    "gn:dem":441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6726914,
+    "gn:latitude":13.24839,
+    "gn:longitude":8.2354,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"May F\u00e2rou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6726914
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"196ddc07e44fce5f05bcc002f4d6452c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051389,
+            "locality_id":1226166887,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1226166887,
+    "wof:lastmodified":1537045348,
+    "wof:name":"May Farou",
+    "wof:parent_id":1092051389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.2354,
+    13.24839,
+    8.2354,
+    13.24839
+],
+  "geometry": {"coordinates":[8.2354,13.24839],"type":"Point"}
+}

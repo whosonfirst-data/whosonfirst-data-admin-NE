@@ -1,0 +1,67 @@
+{
+  "id": 1242778157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.86305,13.51148,7.86305,13.51148",
+    "geom:latitude":13.51148,
+    "geom:longitude":7.86305,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Damoussa",
+    "gn:country_code":"NE",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6722431,
+    "gn:latitude":13.51148,
+    "gn:longitude":7.86305,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Damoussa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6722431
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"783923e4aecbd51b9016ab8b733a432b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051197,
+            "locality_id":1242778157,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1242778157,
+    "wof:lastmodified":1536775422,
+    "wof:name":"Damoussa",
+    "wof:parent_id":1092051197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.86305,
+    13.51148,
+    7.86305,
+    13.51148
+],
+  "geometry": {"coordinates":[7.86305,13.51148],"type":"Point"}
+}

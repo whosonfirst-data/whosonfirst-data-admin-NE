@@ -1,0 +1,67 @@
+{
+  "id": 1242569359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.89233,13.62213,8.89233,13.62213",
+    "geom:latitude":13.62213,
+    "geom:longitude":8.89233,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Machaya",
+    "gn:country_code":"NE",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6731672,
+    "gn:latitude":13.62213,
+    "gn:longitude":8.89233,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Machaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6731672
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"6585918b3cf980f3913ed65a348e301d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051411,
+            "locality_id":1242569359,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1242569359,
+    "wof:lastmodified":1537072459,
+    "wof:name":"Machaya",
+    "wof:parent_id":1092051411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.89233,
+    13.62213,
+    8.89233,
+    13.62213
+],
+  "geometry": {"coordinates":[8.89233,13.62213],"type":"Point"}
+}

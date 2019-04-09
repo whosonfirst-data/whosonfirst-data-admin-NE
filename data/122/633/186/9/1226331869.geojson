@@ -1,0 +1,67 @@
+{
+  "id": 1226331869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.2067,13.5957,2.2067,13.5957",
+    "geom:latitude":13.5957,
+    "geom:longitude":2.2067,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kouara Tegui",
+    "gn:country_code":"NE",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6858557,
+    "gn:latitude":13.5957,
+    "gn:longitude":2.2067,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Kouara T\u00e9gui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6858557
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"c0d08ce4475c30c569c41ed91981063d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1226331869,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1226331869,
+    "wof:lastmodified":1536809120,
+    "wof:name":"Kouara Tegui",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.2067,
+    13.5957,
+    2.2067,
+    13.5957
+],
+  "geometry": {"coordinates":[2.2067,13.5957],"type":"Point"}
+}

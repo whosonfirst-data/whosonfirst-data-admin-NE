@@ -1,0 +1,71 @@
+{
+  "id": 1276130229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.86986,12.49005,2.86986,12.49005",
+    "geom:latitude":12.49005,
+    "geom:longitude":2.86986,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bangoutissa",
+    "gn:country_code":"NE",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447139,
+    "gn:latitude":12.49005,
+    "gn:longitude":2.86986,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Bangoutissa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bangoutisa",
+        "Bangoutissa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447139
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"f2ae62534e6f36f7210a75eff4dcb65b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051075,
+            "locality_id":1276130229,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1276130229,
+    "wof:lastmodified":1537674857,
+    "wof:name":"Bangoutissa",
+    "wof:parent_id":1092051075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.86986,
+    12.49005,
+    2.86986,
+    12.49005
+],
+  "geometry": {"coordinates":[2.86986,12.49005],"type":"Point"}
+}

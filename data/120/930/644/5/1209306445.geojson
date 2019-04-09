@@ -1,0 +1,61 @@
+{
+  "id": 1209306445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.1883,14.6278,9.1883,14.6278",
+    "geom:latitude":14.6278,
+    "geom:longitude":9.1883,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Koreoua",
+    "gn:country_code":"NE",
+    "gn:dem":482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6804110,
+    "gn:latitude":14.6278,
+    "gn:longitude":9.1883,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Kor\u00e9oua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6804110
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"4bb02ef1f62ca41e5c88c90ce94413c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209306445
+        }
+    ],
+    "wof:id":1209306445,
+    "wof:lastmodified":1536291179,
+    "wof:name":"Koreoua",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.1883,
+    14.6278,
+    9.1883,
+    14.6278
+],
+  "geometry": {"coordinates":[9.1883,14.6278],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343545529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.0335,13.50757,2.0335,13.50757",
+    "geom:latitude":13.50757,
+    "geom:longitude":2.0335,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ganguel",
+    "gn:country_code":"NE",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444759,
+    "gn:latitude":13.50757,
+    "gn:longitude":2.0335,
+    "gn:modification_date":"2008-10-15",
+    "gn:name":"Ganguel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444759
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"b21d5679074ef62867b55a0db2a4c490",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1343545529,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1343545529,
+    "wof:lastmodified":1536621445,
+    "wof:name":"Ganguel",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.0335,
+    13.50757,
+    2.0335,
+    13.50757
+],
+  "geometry": {"coordinates":[2.0335,13.50757],"type":"Point"}
+}

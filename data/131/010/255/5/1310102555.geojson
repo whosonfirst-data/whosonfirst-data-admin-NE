@@ -1,0 +1,72 @@
+{
+  "id": 1310102555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.9,15.36667,10.9,15.36667",
+    "geom:latitude":15.36667,
+    "geom:longitude":10.9,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Lissia Boukar",
+    "gn:cc2":"NE",
+    "gn:country_code":"NE",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441636,
+    "gn:latitude":15.36667,
+    "gn:longitude":10.9,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lissia Boukar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lisia Boukar",
+        "Lissia Boukar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441636
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"d787faf598e6da3ba7ce0df3b5569e06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051753,
+            "locality_id":1310102555,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1310102555,
+    "wof:lastmodified":1537674726,
+    "wof:name":"Lissia Boukar",
+    "wof:parent_id":1092051753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.9,
+    15.36667,
+    10.9,
+    15.36667
+],
+  "geometry": {"coordinates":[10.9,15.36667],"type":"Point"}
+}

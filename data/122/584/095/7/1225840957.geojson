@@ -1,0 +1,71 @@
+{
+  "id": 1225840957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.03366,13.83869,2.03366,13.83869",
+    "geom:latitude":13.83869,
+    "geom:longitude":2.03366,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Gorou Goussa",
+    "gn:country_code":"NE",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444368,
+    "gn:latitude":13.83869,
+    "gn:longitude":2.03366,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gorou Goussa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gorgoussa",
+        "Gorou Goussa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444368
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"47a8a1adec43772b77ee50fa3b29e817",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1225840957,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1225840957,
+    "wof:lastmodified":1537674794,
+    "wof:name":"Gorou Goussa",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.03366,
+    13.83869,
+    2.03366,
+    13.83869
+],
+  "geometry": {"coordinates":[2.03366,13.83869],"type":"Point"}
+}

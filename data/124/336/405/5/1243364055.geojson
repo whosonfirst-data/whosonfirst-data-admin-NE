@@ -1,0 +1,71 @@
+{
+  "id": 1243364055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.61695,13.2241,7.61695,13.2241",
+    "geom:latitude":13.2241,
+    "geom:longitude":7.61695,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"D'aga-zari",
+    "gn:country_code":"NE",
+    "gn:dem":486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446291,
+    "gn:latitude":13.2241,
+    "gn:longitude":7.61695,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"D'aga-zari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dagaz\u00e9ri",
+        "D'aga-zari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446291
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"34c3f865338d63ae8121593d568bd221",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051197,
+            "locality_id":1243364055,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1243364055,
+    "wof:lastmodified":1537674838,
+    "wof:name":"D'aga-zari",
+    "wof:parent_id":1092051197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.61695,
+    13.2241,
+    7.61695,
+    13.2241
+],
+  "geometry": {"coordinates":[7.61695,13.2241],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327442887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.89695,12.66973,2.89695,12.66973",
+    "geom:latitude":12.66973,
+    "geom:longitude":2.89695,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Lalanedji Yero",
+    "gn:country_code":"NE",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441720,
+    "gn:latitude":12.66973,
+    "gn:longitude":2.89695,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Lalan\u00e9dji Y\u00e9ro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441720
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"f13f5a53d59b1e24a976a02e27546197",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051075,
+            "locality_id":1327442887,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1327442887,
+    "wof:lastmodified":1536665622,
+    "wof:name":"Lalanedji Yero",
+    "wof:parent_id":1092051075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.89695,
+    12.66973,
+    2.89695,
+    12.66973
+],
+  "geometry": {"coordinates":[2.89695,12.66973],"type":"Point"}
+}

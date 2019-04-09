@@ -1,0 +1,67 @@
+{
+  "id": 1310229147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.21116,13.75921,7.21116,13.75921",
+    "geom:latitude":13.75921,
+    "geom:longitude":7.21116,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Toumbouri",
+    "gn:country_code":"NE",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438301,
+    "gn:latitude":13.75921,
+    "gn:longitude":7.21116,
+    "gn:modification_date":"2008-02-13",
+    "gn:name":"Toumbouri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438301
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"3ca1b5af0de59f26ed49a3125061a10a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051229,
+            "locality_id":1310229147,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1310229147,
+    "wof:lastmodified":1536817345,
+    "wof:name":"Toumbouri",
+    "wof:parent_id":1092051229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.21116,
+    13.75921,
+    7.21116,
+    13.75921
+],
+  "geometry": {"coordinates":[7.21116,13.75921],"type":"Point"}
+}

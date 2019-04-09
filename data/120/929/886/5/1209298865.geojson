@@ -1,0 +1,61 @@
+{
+  "id": 1209298865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.1198,13.9357,3.1198,13.9357",
+    "geom:latitude":13.9357,
+    "geom:longitude":3.1198,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kobi",
+    "gn:country_code":"NE",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442360,
+    "gn:latitude":13.9357,
+    "gn:longitude":3.1198,
+    "gn:modification_date":"2008-10-22",
+    "gn:name":"Kobi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442360
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"6aeee0d3e18344e65d99be2eba18d159",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209298865
+        }
+    ],
+    "wof:id":1209298865,
+    "wof:lastmodified":1536291428,
+    "wof:name":"Kobi",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.1198,
+    13.9357,
+    3.1198,
+    13.9357
+],
+  "geometry": {"coordinates":[3.1198,13.9357],"type":"Point"}
+}

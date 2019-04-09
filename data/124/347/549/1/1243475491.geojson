@@ -1,0 +1,72 @@
+{
+  "id": 1243475491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.6487,13.19325,8.6487,13.19325",
+    "geom:latitude":13.19325,
+    "geom:longitude":8.6487,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Koaya",
+    "gn:country_code":"NE",
+    "gn:dem":441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442169,
+    "gn:latitude":13.19325,
+    "gn:longitude":8.6487,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Koaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ko\u00efa",
+        "Konya",
+        "Koaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442169
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"758c413694182e9e1e37a49734edecba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051133,
+            "locality_id":1243475491,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1243475491,
+    "wof:lastmodified":1537674742,
+    "wof:name":"Koaya",
+    "wof:parent_id":1092051133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.6487,
+    13.19325,
+    8.6487,
+    13.19325
+],
+  "geometry": {"coordinates":[8.6487,13.19325],"type":"Point"}
+}

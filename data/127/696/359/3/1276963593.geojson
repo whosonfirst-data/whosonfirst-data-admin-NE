@@ -1,0 +1,73 @@
+{
+  "id": 1276963593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.29176,13.34644,1.29176,13.34644",
+    "geom:latitude":13.34644,
+    "geom:longitude":1.29176,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bossey Bangou",
+    "gn:country_code":"NE",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446621,
+    "gn:latitude":13.34644,
+    "gn:longitude":1.29176,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Bossey Bangou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bossebandu",
+        "Bos\u00e9bangou",
+        "Boss\u00e9 Bangou",
+        "Bossey Bangou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446621
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"bafcd5a63f5baa4d0741088bad4f8561",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051103,
+            "locality_id":1276963593,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1276963593,
+    "wof:lastmodified":1537674846,
+    "wof:name":"Bossey Bangou",
+    "wof:parent_id":1092051103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.29176,
+    13.34644,
+    1.29176,
+    13.34644
+],
+  "geometry": {"coordinates":[1.29176,13.34644],"type":"Point"}
+}

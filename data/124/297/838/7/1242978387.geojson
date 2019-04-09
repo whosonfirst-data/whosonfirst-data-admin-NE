@@ -1,0 +1,67 @@
+{
+  "id": 1242978387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.351,13.59983,4.351,13.59983",
+    "geom:latitude":13.59983,
+    "geom:longitude":4.351,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kolfa",
+    "gn:country_code":"NE",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442258,
+    "gn:latitude":13.59983,
+    "gn:longitude":4.351,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Kolfa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675433,
+        1108563439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442258
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"09a75e5ce840f523f15cb661052410d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563439,
+            "locality_id":1242978387,
+            "region_id":85675433
+        }
+    ],
+    "wof:id":1242978387,
+    "wof:lastmodified":1536982563,
+    "wof:name":"Kolfa",
+    "wof:parent_id":1108563439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.351,
+    13.59983,
+    4.351,
+    13.59983
+],
+  "geometry": {"coordinates":[4.351,13.59983],"type":"Point"}
+}

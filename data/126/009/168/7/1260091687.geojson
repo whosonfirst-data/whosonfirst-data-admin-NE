@@ -1,0 +1,67 @@
+{
+  "id": 1260091687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.86673,12.8765,2.86673,12.8765",
+    "geom:latitude":12.8765,
+    "geom:longitude":2.86673,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bombohi",
+    "gn:country_code":"NE",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6855113,
+    "gn:latitude":12.8765,
+    "gn:longitude":2.86673,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Bombohi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6855113
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"9371851c2bb30641aae92c462848496a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051075,
+            "locality_id":1260091687,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1260091687,
+    "wof:lastmodified":1536975660,
+    "wof:name":"Bombohi",
+    "wof:parent_id":1092051075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.86673,
+    12.8765,
+    2.86673,
+    12.8765
+],
+  "geometry": {"coordinates":[2.86673,12.8765],"type":"Point"}
+}

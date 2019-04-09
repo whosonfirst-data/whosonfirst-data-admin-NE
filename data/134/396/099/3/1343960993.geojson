@@ -1,0 +1,67 @@
+{
+  "id": 1343960993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.04524,14.11199,13.04524,14.11199",
+    "geom:latitude":14.11199,
+    "geom:longitude":13.04524,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Garou",
+    "gn:country_code":"NE",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6787006,
+    "gn:latitude":14.11199,
+    "gn:longitude":13.04524,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Garou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6787006
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"b3d8fbf0f86bdb7745710d86bcc96b2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051781,
+            "locality_id":1343960993,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1343960993,
+    "wof:lastmodified":1537018397,
+    "wof:name":"Garou",
+    "wof:parent_id":1092051781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.04524,
+    14.11199,
+    13.04524,
+    14.11199
+],
+  "geometry": {"coordinates":[13.04524,14.11199],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242573689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.27904,12.69362,2.27904,12.69362",
+    "geom:latitude":12.69362,
+    "geom:longitude":2.27904,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tyena",
+    "gn:country_code":"NE",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438169,
+    "gn:latitude":12.69362,
+    "gn:longitude":2.27904,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Ty\u00e9na",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438169
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"b72fe152f3bfad48f3df291dd163c0a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051103,
+            "locality_id":1242573689,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1242573689,
+    "wof:lastmodified":1537066386,
+    "wof:name":"Tyena",
+    "wof:parent_id":1092051103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.27904,
+    12.69362,
+    2.27904,
+    12.69362
+],
+  "geometry": {"coordinates":[2.27904,12.69362],"type":"Point"}
+}

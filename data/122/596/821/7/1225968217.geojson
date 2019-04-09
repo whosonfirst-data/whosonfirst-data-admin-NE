@@ -1,0 +1,67 @@
+{
+  "id": 1225968217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.75266,14.2845,6.75266,14.2845",
+    "geom:latitude":14.2845,
+    "geom:longitude":6.75266,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Nahantchi",
+    "gn:country_code":"NE",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6849888,
+    "gn:latitude":14.2845,
+    "gn:longitude":6.75266,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Nahantchi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6849888
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"d38298461e0b135b8a5ba40f606c945a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1225968217,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1225968217,
+    "wof:lastmodified":1536835852,
+    "wof:name":"Nahantchi",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.75266,
+    14.2845,
+    6.75266,
+    14.2845
+],
+  "geometry": {"coordinates":[6.75266,14.2845],"type":"Point"}
+}

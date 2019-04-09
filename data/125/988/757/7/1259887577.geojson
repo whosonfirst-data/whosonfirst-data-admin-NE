@@ -1,0 +1,71 @@
+{
+  "id": 1259887577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.96852,12.89826,2.96852,12.89826",
+    "geom:latitude":12.89826,
+    "geom:longitude":2.96852,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bangou Tyire",
+    "gn:country_code":"NE",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447138,
+    "gn:latitude":12.89826,
+    "gn:longitude":2.96852,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Bangou Tyir\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bangoutir\u00e9",
+        "Bangou Tyir\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447138
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"aea638a5d9e3f2bfd4d01492150b626a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051041,
+            "locality_id":1259887577,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1259887577,
+    "wof:lastmodified":1537674857,
+    "wof:name":"Bangou Tyire",
+    "wof:parent_id":1092051041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.96852,
+    12.89826,
+    2.96852,
+    12.89826
+],
+  "geometry": {"coordinates":[2.96852,12.89826],"type":"Point"}
+}

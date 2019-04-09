@@ -1,0 +1,67 @@
+{
+  "id": 1193016199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.36859,14.21668,8.36859,14.21668",
+    "geom:latitude":14.21668,
+    "geom:longitude":8.36859,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Guidan Dabo",
+    "gn:country_code":"NE",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6818842,
+    "gn:latitude":14.21668,
+    "gn:longitude":8.36859,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Guidan Dabo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6818842
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"f8e82591b034bc58e0809263c4912cd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051389,
+            "locality_id":1193016199,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1193016199,
+    "wof:lastmodified":1536378204,
+    "wof:name":"Guidan Dabo",
+    "wof:parent_id":1092051389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.36859,
+    14.21668,
+    8.36859,
+    14.21668
+],
+  "geometry": {"coordinates":[8.36859,14.21668],"type":"Point"}
+}

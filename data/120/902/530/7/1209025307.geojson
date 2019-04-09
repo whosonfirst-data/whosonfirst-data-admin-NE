@@ -1,0 +1,61 @@
+{
+  "id": 1209025307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.88983,13.20413,1.88983,13.20413",
+    "geom:latitude":13.20413,
+    "geom:longitude":1.88983,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ouro Soridio",
+    "gn:country_code":"NE",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6844872,
+    "gn:latitude":13.20413,
+    "gn:longitude":1.88983,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Ouro Soridio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6844872
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"cd6405d43c00ee4bbecf7c50a4209013",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209025307
+        }
+    ],
+    "wof:id":1209025307,
+    "wof:lastmodified":1536300018,
+    "wof:name":"Ouro Soridio",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.88983,
+    13.20413,
+    1.88983,
+    13.20413
+],
+  "geometry": {"coordinates":[1.88983,13.20413],"type":"Point"}
+}

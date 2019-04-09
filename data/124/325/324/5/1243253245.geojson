@@ -1,0 +1,67 @@
+{
+  "id": 1243253245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.12642,14.35472,2.12642,14.35472",
+    "geom:latitude":14.35472,
+    "geom:longitude":2.12642,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tondi Kourou",
+    "gn:country_code":"NE",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6827295,
+    "gn:latitude":14.35472,
+    "gn:longitude":2.12642,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Tondi Kourou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6827295
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"251059ddbef80fcf8d61789239bc7f1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051633,
+            "locality_id":1243253245,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1243253245,
+    "wof:lastmodified":1537080896,
+    "wof:name":"Tondi Kourou",
+    "wof:parent_id":1092051633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.12642,
+    14.35472,
+    2.12642,
+    14.35472
+],
+  "geometry": {"coordinates":[2.12642,14.35472],"type":"Point"}
+}

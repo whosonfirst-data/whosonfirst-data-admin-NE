@@ -1,0 +1,72 @@
+{
+  "id": 1309707085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.2255,13.3703,2.2255,13.3703",
+    "geom:latitude":13.3703,
+    "geom:longitude":2.2255,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Gala Beri",
+    "gn:country_code":"NE",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444834,
+    "gn:latitude":13.3703,
+    "gn:longitude":2.2255,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gala B\u00e9ri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Galla",
+        "Gala",
+        "Gala B\u00e9ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444834
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"ec17743e20572ff48237995c6f978e23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1309707085,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1309707085,
+    "wof:lastmodified":1537674805,
+    "wof:name":"Gala Beri",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.2255,
+    13.3703,
+    2.2255,
+    13.3703
+],
+  "geometry": {"coordinates":[2.2255,13.3703],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293022149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.5629,14.1331,9.5629,14.1331",
+    "geom:latitude":14.1331,
+    "geom:longitude":9.5629,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zernouski",
+    "gn:country_code":"NE",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6803771,
+    "gn:latitude":14.1331,
+    "gn:longitude":9.5629,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Zernouski",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6803771
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"becc533c4e2a88877d334431a5116a2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051411,
+            "locality_id":1293022149,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1293022149,
+    "wof:lastmodified":1536960882,
+    "wof:name":"Zernouski",
+    "wof:parent_id":1092051411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.5629,
+    14.1331,
+    9.5629,
+    14.1331
+],
+  "geometry": {"coordinates":[9.5629,14.1331],"type":"Point"}
+}

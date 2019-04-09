@@ -1,0 +1,71 @@
+{
+  "id": 1343852575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.55129,15.10982,8.55129,15.10982",
+    "geom:latitude":15.10982,
+    "geom:longitude":8.55129,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tatokou",
+    "gn:country_code":"NE",
+    "gn:dem":459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2596672,
+    "gn:latitude":15.10982,
+    "gn:longitude":8.55129,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Tatokou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Takokou",
+        "Tatokou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2596672
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"b0387f5fa36c50487e88b590a6099f8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1343852575,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1343852575,
+    "wof:lastmodified":1537674876,
+    "wof:name":"Tatokou",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.55129,
+    15.10982,
+    8.55129,
+    15.10982
+],
+  "geometry": {"coordinates":[8.55129,15.10982],"type":"Point"}
+}

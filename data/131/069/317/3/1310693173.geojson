@@ -1,0 +1,67 @@
+{
+  "id": 1310693173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.1801,13.1105,9.1801,13.1105",
+    "geom:latitude":13.1105,
+    "geom:longitude":9.1801,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zagi",
+    "gn:country_code":"NE",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6807092,
+    "gn:latitude":13.1105,
+    "gn:longitude":9.1801,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Zagi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6807092
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"463c38d83c9bd0d4441f30db54e329c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051133,
+            "locality_id":1310693173,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1310693173,
+    "wof:lastmodified":1536645698,
+    "wof:name":"Zagi",
+    "wof:parent_id":1092051133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.1801,
+    13.1105,
+    9.1801,
+    13.1105
+],
+  "geometry": {"coordinates":[9.1801,13.1105],"type":"Point"}
+}

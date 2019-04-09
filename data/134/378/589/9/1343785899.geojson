@@ -1,0 +1,67 @@
+{
+  "id": 1343785899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.67664,13.52695,6.67664,13.52695",
+    "geom:latitude":13.52695,
+    "geom:longitude":6.67664,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Toudawa",
+    "gn:country_code":"NE",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438377,
+    "gn:latitude":13.52695,
+    "gn:longitude":6.67664,
+    "gn:modification_date":"2008-02-08",
+    "gn:name":"Toudawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438377
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"8093b4481b9d49b71862d4e23a32c640",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051229,
+            "locality_id":1343785899,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1343785899,
+    "wof:lastmodified":1536774937,
+    "wof:name":"Toudawa",
+    "wof:parent_id":1092051229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.67664,
+    13.52695,
+    6.67664,
+    13.52695
+],
+  "geometry": {"coordinates":[6.67664,13.52695],"type":"Point"}
+}

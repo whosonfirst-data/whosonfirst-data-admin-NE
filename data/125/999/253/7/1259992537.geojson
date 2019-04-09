@@ -1,0 +1,67 @@
+{
+  "id": 1259992537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.8226,13.611,11.8226,13.611",
+    "geom:latitude":13.611,
+    "geom:longitude":11.8226,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Fadji Ganaram",
+    "gn:country_code":"NE",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6819619,
+    "gn:latitude":13.611,
+    "gn:longitude":11.8226,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Fadji Ganaram",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6819619
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"714e2b4e82c980abae426c02625ee7e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051363,
+            "locality_id":1259992537,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1259992537,
+    "wof:lastmodified":1536619910,
+    "wof:name":"Fadji Ganaram",
+    "wof:parent_id":1092051363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.8226,
+    13.611,
+    11.8226,
+    13.611
+],
+  "geometry": {"coordinates":[11.8226,13.611],"type":"Point"}
+}

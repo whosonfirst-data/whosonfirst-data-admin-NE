@@ -1,0 +1,67 @@
+{
+  "id": 1259489593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.30523,13.4104,7.30523,13.4104",
+    "geom:latitude":13.4104,
+    "geom:longitude":7.30523,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Togue May Wake",
+    "gn:country_code":"NE",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6721703,
+    "gn:latitude":13.4104,
+    "gn:longitude":7.30523,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Togu\u00e9 May Wak\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6721703
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"fb711441ffda679ba0cd1ecbe3d072a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051007,
+            "locality_id":1259489593,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1259489593,
+    "wof:lastmodified":1536848869,
+    "wof:name":"Togue May Wake",
+    "wof:parent_id":1092051007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.30523,
+    13.4104,
+    7.30523,
+    13.4104
+],
+  "geometry": {"coordinates":[7.30523,13.4104],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327026783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.49224,13.52124,8.49224,13.52124",
+    "geom:latitude":13.52124,
+    "geom:longitude":8.49224,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tassaou Bougaje",
+    "gn:country_code":"NE",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6736512,
+    "gn:latitude":13.52124,
+    "gn:longitude":8.49224,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Tassaou Bougaj\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6736512
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"538f594d7b018a108eb9b06183211795",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051165,
+            "locality_id":1327026783,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1327026783,
+    "wof:lastmodified":1536769092,
+    "wof:name":"Tassaou Bougaje",
+    "wof:parent_id":1092051165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.49224,
+    13.52124,
+    8.49224,
+    13.52124
+],
+  "geometry": {"coordinates":[8.49224,13.52124],"type":"Point"}
+}

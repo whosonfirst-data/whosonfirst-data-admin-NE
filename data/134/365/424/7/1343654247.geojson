@@ -1,0 +1,71 @@
+{
+  "id": 1343654247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.08669,13.80033,6.08669,13.80033",
+    "geom:latitude":13.80033,
+    "geom:longitude":6.08669,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Guidan Adan Dano",
+    "gn:country_code":"NE",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444103,
+    "gn:latitude":13.80033,
+    "gn:longitude":6.08669,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Guidan Adan Dano",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gidan Adan Dano",
+        "Guidan Adan Dano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444103
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"534a883373dacc1fd13da8ffc4911d85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051329,
+            "locality_id":1343654247,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1343654247,
+    "wof:lastmodified":1537674787,
+    "wof:name":"Guidan Adan Dano",
+    "wof:parent_id":1092051329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.08669,
+    13.80033,
+    6.08669,
+    13.80033
+],
+  "geometry": {"coordinates":[6.08669,13.80033],"type":"Point"}
+}

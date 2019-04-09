@@ -1,0 +1,72 @@
+{
+  "id": 1260268653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.6,13.9,2.6,13.9",
+    "geom:latitude":13.9,
+    "geom:longitude":2.6,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Bariji Kwara",
+    "gn:cc2":"NE",
+    "gn:country_code":"NE",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447005,
+    "gn:latitude":13.9,
+    "gn:longitude":2.6,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Bariji Kwara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bariji-Koara",
+        "Bariji Kwara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447005
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"d2753fb3d8b8a0a6ff87a0833ade2606",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051695,
+            "locality_id":1260268653,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1260268653,
+    "wof:lastmodified":1537674854,
+    "wof:name":"Bariji Kwara",
+    "wof:parent_id":1092051695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6,
+    13.9,
+    2.6,
+    13.9
+],
+  "geometry": {"coordinates":[2.6,13.9],"type":"Point"}
+}

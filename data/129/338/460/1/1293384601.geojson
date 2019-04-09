@@ -1,0 +1,67 @@
+{
+  "id": 1293384601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.1613,14.6375,4.1613,14.6375",
+    "geom:latitude":14.6375,
+    "geom:longitude":4.1613,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Chinyelga",
+    "gn:country_code":"NE",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6783455,
+    "gn:latitude":14.6375,
+    "gn:longitude":4.1613,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Chiny\u00e9lga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6783455
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"9945409d3889ce51f73c5813076f0262",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051695,
+            "locality_id":1293384601,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1293384601,
+    "wof:lastmodified":1536936119,
+    "wof:name":"Chinyelga",
+    "wof:parent_id":1092051695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.1613,
+    14.6375,
+    4.1613,
+    14.6375
+],
+  "geometry": {"coordinates":[4.1613,14.6375],"type":"Point"}
+}

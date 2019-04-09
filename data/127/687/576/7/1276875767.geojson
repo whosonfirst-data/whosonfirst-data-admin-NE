@@ -1,0 +1,67 @@
+{
+  "id": 1276875767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.4771,13.6677,11.4771,13.6677",
+    "geom:latitude":13.6677,
+    "geom:longitude":11.4771,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Gadawa",
+    "gn:country_code":"NE",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6819671,
+    "gn:latitude":13.6677,
+    "gn:longitude":11.4771,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Gadawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6819671
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"41238c6b5cfdd5bb063a8c54f8fdfd10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051363,
+            "locality_id":1276875767,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1276875767,
+    "wof:lastmodified":1537044768,
+    "wof:name":"Gadawa",
+    "wof:parent_id":1092051363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.4771,
+    13.6677,
+    11.4771,
+    13.6677
+],
+  "geometry": {"coordinates":[11.4771,13.6677],"type":"Point"}
+}

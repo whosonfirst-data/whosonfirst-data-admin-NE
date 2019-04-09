@@ -1,0 +1,71 @@
+{
+  "id": 1259594917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.8403,13.3167,2.8403,13.3167",
+    "geom:latitude":13.3167,
+    "geom:longitude":2.8403,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Niabere Bella Zarma",
+    "gn:country_code":"NE",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2440492,
+    "gn:latitude":13.3167,
+    "gn:longitude":2.8403,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Niab\u00e9r\u00e9 Bella Zarma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Niab\u00e9r\u00e9 B\u00e9la",
+        "Niab\u00e9r\u00e9 Bella Zarma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2440492
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"88ddb62db48333b1aceddaa24b398da8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051075,
+            "locality_id":1259594917,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1259594917,
+    "wof:lastmodified":1537674706,
+    "wof:name":"Niabere Bella Zarma",
+    "wof:parent_id":1092051075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.8403,
+    13.3167,
+    2.8403,
+    13.3167
+],
+  "geometry": {"coordinates":[2.8403,13.3167],"type":"Point"}
+}

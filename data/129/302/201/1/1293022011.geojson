@@ -1,0 +1,71 @@
+{
+  "id": 1293022011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.8827,14.2411,8.8827,14.2411",
+    "geom:latitude":14.2411,
+    "geom:longitude":8.8827,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Garin Yousi",
+    "gn:country_code":"NE",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444539,
+    "gn:latitude":14.2411,
+    "gn:longitude":8.8827,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Garin Yousi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Garin Youssi",
+        "Garin Yousi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444539
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"e84de55593d94432eee7154a6c928f86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1293022011,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1293022011,
+    "wof:lastmodified":1537674799,
+    "wof:name":"Garin Yousi",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.8827,
+    14.2411,
+    8.8827,
+    14.2411
+],
+  "geometry": {"coordinates":[8.8827,14.2411],"type":"Point"}
+}

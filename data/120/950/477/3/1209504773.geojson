@@ -1,0 +1,65 @@
+{
+  "id": 1209504773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.1327,13.3412,2.1327,13.3412",
+    "geom:latitude":13.3412,
+    "geom:longitude":2.1327,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Boyanga",
+    "gn:country_code":"NE",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446452,
+    "gn:latitude":13.3412,
+    "gn:longitude":2.1327,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Boyanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boy\u00e8nga",
+        "Boyanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446452
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"ca93837cf2abfac6399b7b0d32c31e7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209504773
+        }
+    ],
+    "wof:id":1209504773,
+    "wof:lastmodified":1537674841,
+    "wof:name":"Boyanga",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1327,
+    13.3412,
+    2.1327,
+    13.3412
+],
+  "geometry": {"coordinates":[2.1327,13.3412],"type":"Point"}
+}

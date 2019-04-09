@@ -1,0 +1,71 @@
+{
+  "id": 1226444523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.78455,12.88707,2.78455,12.88707",
+    "geom:latitude":12.88707,
+    "geom:longitude":2.78455,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Torombi",
+    "gn:country_code":"NE",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438404,
+    "gn:latitude":12.88707,
+    "gn:longitude":2.78455,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Torombi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Toronbi",
+        "Torombi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438404
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"dd43d395cc807582ca52309669873484",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051075,
+            "locality_id":1226444523,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1226444523,
+    "wof:lastmodified":1537674665,
+    "wof:name":"Torombi",
+    "wof:parent_id":1092051075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.78455,
+    12.88707,
+    2.78455,
+    12.88707
+],
+  "geometry": {"coordinates":[2.78455,12.88707],"type":"Point"}
+}

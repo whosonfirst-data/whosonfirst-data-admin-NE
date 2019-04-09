@@ -1,0 +1,67 @@
+{
+  "id": 1259589219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.97942,13.61291,6.97942,13.61291",
+    "geom:latitude":13.61291,
+    "geom:longitude":6.97942,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Baramaka",
+    "gn:country_code":"NE",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447039,
+    "gn:latitude":13.61291,
+    "gn:longitude":6.97942,
+    "gn:modification_date":"2008-02-08",
+    "gn:name":"Baramaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447039
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"8a6d6a68c96caa3e8d4abd2326b1e63f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051229,
+            "locality_id":1259589219,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1259589219,
+    "wof:lastmodified":1536706763,
+    "wof:name":"Baramaka",
+    "wof:parent_id":1092051229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.97942,
+    13.61291,
+    6.97942,
+    13.61291
+],
+  "geometry": {"coordinates":[6.97942,13.61291],"type":"Point"}
+}

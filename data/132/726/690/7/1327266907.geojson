@@ -1,0 +1,67 @@
+{
+  "id": 1327266907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.30566,14.08605,7.30566,14.08605",
+    "geom:latitude":14.08605,
+    "geom:longitude":7.30566,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dogon Taramnia",
+    "gn:country_code":"NE",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445537,
+    "gn:latitude":14.08605,
+    "gn:longitude":7.30566,
+    "gn:modification_date":"2008-08-21",
+    "gn:name":"Dogon Taramnia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445537
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"738bb8f92d69a17ae90d35b5e0f6e2cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051435,
+            "locality_id":1327266907,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1327266907,
+    "wof:lastmodified":1536920504,
+    "wof:name":"Dogon Taramnia",
+    "wof:parent_id":1092051435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.30566,
+    14.08605,
+    7.30566,
+    14.08605
+],
+  "geometry": {"coordinates":[7.30566,14.08605],"type":"Point"}
+}

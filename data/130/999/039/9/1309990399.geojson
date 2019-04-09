@@ -1,0 +1,71 @@
+{
+  "id": 1309990399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.69199,13.74962,1.69199,13.74962",
+    "geom:latitude":13.74962,
+    "geom:longitude":1.69199,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kondo Tondi",
+    "gn:country_code":"NE",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442203,
+    "gn:latitude":13.74962,
+    "gn:longitude":1.69199,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Kondo Tondi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kondo Tonndi",
+        "Kondo Tondi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442203
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"1df5ef84c133eedd3a89b08e6ea31070",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1309990399,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1309990399,
+    "wof:lastmodified":1537674743,
+    "wof:name":"Kondo Tondi",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.69199,
+    13.74962,
+    1.69199,
+    13.74962
+],
+  "geometry": {"coordinates":[1.69199,13.74962],"type":"Point"}
+}

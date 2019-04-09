@@ -1,0 +1,67 @@
+{
+  "id": 1260386041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.5806,14.3409,8.5806,14.3409",
+    "geom:latitude":14.3409,
+    "geom:longitude":8.5806,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kacheni",
+    "gn:country_code":"NE",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442908,
+    "gn:latitude":14.3409,
+    "gn:longitude":8.5806,
+    "gn:modification_date":"2008-08-26",
+    "gn:name":"Kach\u00e9ni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442908
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"070821548ecd592cd206aecfbc92cb4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1260386041,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1260386041,
+    "wof:lastmodified":1537068618,
+    "wof:name":"Kacheni",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.5806,
+    14.3409,
+    8.5806,
+    14.3409
+],
+  "geometry": {"coordinates":[8.5806,14.3409],"type":"Point"}
+}

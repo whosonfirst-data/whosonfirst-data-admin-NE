@@ -1,0 +1,71 @@
+{
+  "id": 1343964245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.79565,13.67143,6.79565,13.67143",
+    "geom:latitude":13.67143,
+    "geom:longitude":6.79565,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kandousa",
+    "gn:country_code":"NE",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442745,
+    "gn:latitude":13.67143,
+    "gn:longitude":6.79565,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kandousa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kandoussa",
+        "Kandousa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442745
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"f160842d61dd35f804272fe64a43f537",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051229,
+            "locality_id":1343964245,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1343964245,
+    "wof:lastmodified":1537674756,
+    "wof:name":"Kandousa",
+    "wof:parent_id":1092051229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.79565,
+    13.67143,
+    6.79565,
+    13.67143
+],
+  "geometry": {"coordinates":[6.79565,13.67143],"type":"Point"}
+}

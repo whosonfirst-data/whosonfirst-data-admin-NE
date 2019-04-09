@@ -1,0 +1,67 @@
+{
+  "id": 1293293647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.23898,14.86585,7.23898,14.86585",
+    "geom:latitude":14.86585,
+    "geom:longitude":7.23898,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bawore",
+    "gn:country_code":"NE",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446945,
+    "gn:latitude":14.86585,
+    "gn:longitude":7.23898,
+    "gn:modification_date":"2008-08-21",
+    "gn:name":"Bawor\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446945
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"6899921f6906686f11b8bf7b4df78c5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1293293647,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1293293647,
+    "wof:lastmodified":1537063654,
+    "wof:name":"Bawore",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.23898,
+    14.86585,
+    7.23898,
+    14.86585
+],
+  "geometry": {"coordinates":[7.23898,14.86585],"type":"Point"}
+}

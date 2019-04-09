@@ -1,0 +1,65 @@
+{
+  "id": 1209509587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.77109,13.27818,8.77109,13.27818",
+    "geom:latitude":13.27818,
+    "geom:longitude":8.77109,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Gochalo",
+    "gn:country_code":"NE",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444445,
+    "gn:latitude":13.27818,
+    "gn:longitude":8.77109,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gochalo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gocholo",
+        "Gochalo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444445
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"18b25c8cfc195e482c3dbbc994fd23f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209509587
+        }
+    ],
+    "wof:id":1209509587,
+    "wof:lastmodified":1537674796,
+    "wof:name":"Gochalo",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.77109,
+    13.27818,
+    8.77109,
+    13.27818
+],
+  "geometry": {"coordinates":[8.77109,13.27818],"type":"Point"}
+}

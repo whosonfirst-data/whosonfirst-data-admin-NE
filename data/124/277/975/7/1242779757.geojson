@@ -1,0 +1,71 @@
+{
+  "id": 1242779757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.8091,13.6379,3.8091,13.6379",
+    "geom:latitude":13.6379,
+    "geom:longitude":3.8091,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tiartadeye",
+    "gn:country_code":"NE",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438783,
+    "gn:latitude":13.6379,
+    "gn:longitude":3.8091,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tiartad\u00e8ye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tiartadey",
+        "Tiartad\u00e8ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438783
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"4c47956960379276f8a06cc39121334d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051467,
+            "locality_id":1242779757,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1242779757,
+    "wof:lastmodified":1537674672,
+    "wof:name":"Tiartadeye",
+    "wof:parent_id":1092051467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.8091,
+    13.6379,
+    3.8091,
+    13.6379
+],
+  "geometry": {"coordinates":[3.8091,13.6379],"type":"Point"}
+}

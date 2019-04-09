@@ -1,0 +1,67 @@
+{
+  "id": 1243361233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.1113,14.862,5.1113,14.862",
+    "geom:latitude":14.862,
+    "geom:longitude":5.1113,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Arouna",
+    "gn:country_code":"NE",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6679058,
+    "gn:latitude":14.862,
+    "gn:longitude":5.1113,
+    "gn:modification_date":"2008-02-09",
+    "gn:name":"Arouna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6679058
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"f2bc2c3050cd416609a0d207223c5a2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051609,
+            "locality_id":1243361233,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1243361233,
+    "wof:lastmodified":1536929181,
+    "wof:name":"Arouna",
+    "wof:parent_id":1092051609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.1113,
+    14.862,
+    5.1113,
+    14.862
+],
+  "geometry": {"coordinates":[5.1113,14.862],"type":"Point"}
+}

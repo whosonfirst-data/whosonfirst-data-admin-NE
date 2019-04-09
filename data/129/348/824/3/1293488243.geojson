@@ -1,0 +1,68 @@
+{
+  "id": 1293488243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.84314,13.42579,7.84314,13.42579",
+    "geom:latitude":13.42579,
+    "geom:longitude":7.84314,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Gangara",
+    "gn:country_code":"NE",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444768,
+    "gn:latitude":13.42579,
+    "gn:longitude":7.84314,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Gangara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444768,
+        "wk:page":"Gangara%2C_Niger"
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"03d119a77db47a3416ba204ed8573421",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051197,
+            "locality_id":1293488243,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1293488243,
+    "wof:lastmodified":1537569963,
+    "wof:name":"Gangara",
+    "wof:parent_id":1092051197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.84314,
+    13.42579,
+    7.84314,
+    13.42579
+],
+  "geometry": {"coordinates":[7.84314,13.42579],"type":"Point"}
+}

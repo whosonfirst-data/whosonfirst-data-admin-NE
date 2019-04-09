@@ -1,0 +1,71 @@
+{
+  "id": 1309707173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.61143,14.94642,0.61143,14.94642",
+    "geom:latitude":14.94642,
+    "geom:longitude":0.61143,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Sakareoual",
+    "gn:country_code":"NE",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439790,
+    "gn:latitude":14.94642,
+    "gn:longitude":0.61143,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sakar\u00e9oual",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00e9kiraoey",
+        "Sakar\u00e9oual"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439790
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"abe5c83da333700f61344175c14709df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051545,
+            "locality_id":1309707173,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1309707173,
+    "wof:lastmodified":1537674691,
+    "wof:name":"Sakareoual",
+    "wof:parent_id":1092051545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.61143,
+    14.94642,
+    0.61143,
+    14.94642
+],
+  "geometry": {"coordinates":[0.61143,14.94642],"type":"Point"}
+}

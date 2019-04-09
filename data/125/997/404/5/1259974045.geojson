@@ -1,0 +1,71 @@
+{
+  "id": 1259974045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.89936,14.33393,0.89936,14.33393",
+    "geom:latitude":14.33393,
+    "geom:longitude":0.89936,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Fambita",
+    "gn:country_code":"NE",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445141,
+    "gn:latitude":14.33393,
+    "gn:longitude":0.89936,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Fambita",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Famb\u00e9ta",
+        "Fambita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445141
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"525f6f38255e7a91f39d85bb83ff1e8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051545,
+            "locality_id":1259974045,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1259974045,
+    "wof:lastmodified":1537674812,
+    "wof:name":"Fambita",
+    "wof:parent_id":1092051545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.89936,
+    14.33393,
+    0.89936,
+    14.33393
+],
+  "geometry": {"coordinates":[0.89936,14.33393],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1225851101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.86288,14.07578,6.86288,14.07578",
+    "geom:latitude":14.07578,
+    "geom:longitude":6.86288,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Galadima Katchatcha",
+    "gn:country_code":"NE",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6849922,
+    "gn:latitude":14.07578,
+    "gn:longitude":6.86288,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Galadima Katchatcha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6849922
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"beb7ce11da6ed383bbef79fa73d911e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1225851101,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1225851101,
+    "wof:lastmodified":1537005173,
+    "wof:name":"Galadima Katchatcha",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.86288,
+    14.07578,
+    6.86288,
+    14.07578
+],
+  "geometry": {"coordinates":[6.86288,14.07578],"type":"Point"}
+}

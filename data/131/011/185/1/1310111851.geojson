@@ -1,0 +1,72 @@
+{
+  "id": 1310111851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.29425,13.82553,7.29425,13.82553",
+    "geom:latitude":13.82553,
+    "geom:longitude":7.29425,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tagaza Dan Keraou",
+    "gn:country_code":"NE",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439411,
+    "gn:latitude":13.82553,
+    "gn:longitude":7.29425,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tagaza Dan K\u00e9raou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tagaza Dan Kl\u00e9ro",
+        "Dan K\u00e9lo",
+        "Tagaza Dan K\u00e9raou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439411
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"52325ae7220d06e897bccd0d848f91fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1310111851,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1310111851,
+    "wof:lastmodified":1537674683,
+    "wof:name":"Tagaza Dan Keraou",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.29425,
+    13.82553,
+    7.29425,
+    13.82553
+],
+  "geometry": {"coordinates":[7.29425,13.82553],"type":"Point"}
+}

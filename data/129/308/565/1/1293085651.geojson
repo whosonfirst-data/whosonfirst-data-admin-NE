@@ -1,0 +1,71 @@
+{
+  "id": 1293085651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.36524,14.24136,1.36524,14.24136",
+    "geom:latitude":14.24136,
+    "geom:longitude":1.36524,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bionte Niargou",
+    "gn:country_code":"NE",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445646,
+    "gn:latitude":14.24136,
+    "gn:longitude":1.36524,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Biont\u00e9 Niargou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Biont\u00e9 Niargou",
+        "Diont\u00e9 Niargou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        890429081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445646
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"320c15cf2bfebc62178acea86b0203d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":890429081,
+            "locality_id":1293085651,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1293085651,
+    "wof:lastmodified":1537674823,
+    "wof:name":"Bionte Niargou",
+    "wof:parent_id":890429081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.36524,
+    14.24136,
+    1.36524,
+    14.24136
+],
+  "geometry": {"coordinates":[1.36524,14.24136],"type":"Point"}
+}

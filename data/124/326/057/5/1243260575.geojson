@@ -1,0 +1,67 @@
+{
+  "id": 1243260575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.87741,13.42094,8.87741,13.42094",
+    "geom:latitude":13.42094,
+    "geom:longitude":8.87741,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Garin Malam",
+    "gn:country_code":"NE",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6739052,
+    "gn:latitude":13.42094,
+    "gn:longitude":8.87741,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Garin M\u00e2lam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6739052
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"9e9a9deec2dc03962c3a9f46731b8e14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051411,
+            "locality_id":1243260575,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1243260575,
+    "wof:lastmodified":1537070470,
+    "wof:name":"Garin Malam",
+    "wof:parent_id":1092051411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.87741,
+    13.42094,
+    8.87741,
+    13.42094
+],
+  "geometry": {"coordinates":[8.87741,13.42094],"type":"Point"}
+}

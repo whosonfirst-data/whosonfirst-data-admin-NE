@@ -1,0 +1,67 @@
+{
+  "id": 1293485395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.06978,13.78968,6.06978,13.78968",
+    "geom:latitude":13.78968,
+    "geom:longitude":6.06978,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Nakonawa Sami",
+    "gn:country_code":"NE",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6711565,
+    "gn:latitude":13.78968,
+    "gn:longitude":6.06978,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Nakonawa Sami",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6711565
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"fe2a8763a73a83b3687f43f4c7a6bdbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051329,
+            "locality_id":1293485395,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1293485395,
+    "wof:lastmodified":1536790497,
+    "wof:name":"Nakonawa Sami",
+    "wof:parent_id":1092051329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.06978,
+    13.78968,
+    6.06978,
+    13.78968
+],
+  "geometry": {"coordinates":[6.06978,13.78968],"type":"Point"}
+}

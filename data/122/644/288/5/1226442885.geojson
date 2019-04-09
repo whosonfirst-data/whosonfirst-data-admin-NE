@@ -1,0 +1,71 @@
+{
+  "id": 1226442885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.46389,13.63968,7.46389,13.63968",
+    "geom:latitude":13.63968,
+    "geom:longitude":7.46389,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kaking",
+    "gn:country_code":"NE",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442840,
+    "gn:latitude":13.63968,
+    "gn:longitude":7.46389,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Kaking",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kakin",
+        "Kaking"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442840
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"a9e7a1415bb41668e71f344a4b6d9e6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051229,
+            "locality_id":1226442885,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1226442885,
+    "wof:lastmodified":1537674759,
+    "wof:name":"Kaking",
+    "wof:parent_id":1092051229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.46389,
+    13.63968,
+    7.46389,
+    13.63968
+],
+  "geometry": {"coordinates":[7.46389,13.63968],"type":"Point"}
+}

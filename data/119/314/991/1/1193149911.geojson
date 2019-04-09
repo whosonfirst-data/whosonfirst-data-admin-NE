@@ -1,0 +1,73 @@
+{
+  "id": 1193149911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.2233,13.6598,11.2233,13.6598",
+    "geom:latitude":13.6598,
+    "geom:longitude":11.2233,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Garoumia",
+    "gn:country_code":"NE",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444522,
+    "gn:latitude":13.6598,
+    "gn:longitude":11.2233,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Garoumia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Garoumiga",
+        "Garumagi",
+        "Garoumaji",
+        "Garoumia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444522
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"b567554a7213260b122fe7db9fd25d80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051363,
+            "locality_id":1193149911,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1193149911,
+    "wof:lastmodified":1537674798,
+    "wof:name":"Garoumia",
+    "wof:parent_id":1092051363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.2233,
+    13.6598,
+    11.2233,
+    13.6598
+],
+  "geometry": {"coordinates":[11.2233,13.6598],"type":"Point"}
+}

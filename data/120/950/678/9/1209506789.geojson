@@ -1,0 +1,61 @@
+{
+  "id": 1209506789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.85789,14.65509,7.85789,14.65509",
+    "geom:latitude":14.65509,
+    "geom:longitude":7.85789,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sona",
+    "gn:country_code":"NE",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439630,
+    "gn:latitude":14.65509,
+    "gn:longitude":7.85789,
+    "gn:modification_date":"2008-08-21",
+    "gn:name":"Sona",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439630
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"90c3d1dd9bc7d47c91a767155b9280e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209506789
+        }
+    ],
+    "wof:id":1209506789,
+    "wof:lastmodified":1536285010,
+    "wof:name":"Sona",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.8578899999999985,
+    14.65509,
+    7.8578899999999985,
+    14.65509
+],
+  "geometry": {"coordinates":[7.85789,14.65509],"type":"Point"}
+}

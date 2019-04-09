@@ -1,0 +1,71 @@
+{
+  "id": 1243258665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.6302,13.4591,2.6302,13.4591",
+    "geom:latitude":13.4591,
+    "geom:longitude":2.6302,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Fetokadie",
+    "gn:country_code":"NE",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445057,
+    "gn:latitude":13.4591,
+    "gn:longitude":2.6302,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"F\u00e9tok\u00e2di\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fatakadi\u00e9",
+        "F\u00e9tok\u00e2di\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445057
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"0407b8b3e6ce7ce80e072a0ded79b9fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1243258665,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1243258665,
+    "wof:lastmodified":1537674810,
+    "wof:name":"Fetokadie",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6302,
+    13.4591,
+    2.6302,
+    13.4591
+],
+  "geometry": {"coordinates":[2.6302,13.4591],"type":"Point"}
+}

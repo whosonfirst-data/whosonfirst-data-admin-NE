@@ -1,0 +1,67 @@
+{
+  "id": 1242880321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.55428,13.97992,6.55428,13.97992",
+    "geom:latitude":13.97992,
+    "geom:longitude":6.55428,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dan Goulbi",
+    "gn:country_code":"NE",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6713464,
+    "gn:latitude":13.97992,
+    "gn:longitude":6.55428,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Dan Goulbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6713464
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"b285c88edd238df0a3c02a6045dc9c8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1242880321,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1242880321,
+    "wof:lastmodified":1536625726,
+    "wof:name":"Dan Goulbi",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.55428,
+    13.97992,
+    6.55428,
+    13.97992
+],
+  "geometry": {"coordinates":[6.55428,13.97992],"type":"Point"}
+}

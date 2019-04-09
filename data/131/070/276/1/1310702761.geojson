@@ -1,0 +1,67 @@
+{
+  "id": 1310702761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.95602,14.68742,6.95602,14.68742",
+    "geom:latitude":14.68742,
+    "geom:longitude":6.95602,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Garin Mahaman",
+    "gn:country_code":"NE",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6849396,
+    "gn:latitude":14.68742,
+    "gn:longitude":6.95602,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Garin Mahaman",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6849396
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"27723bbc45b47a3f7f24c773ae173cc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1310702761,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1310702761,
+    "wof:lastmodified":1536630712,
+    "wof:name":"Garin Mahaman",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.95602,
+    14.68742,
+    6.95602,
+    14.68742
+],
+  "geometry": {"coordinates":[6.95602,14.68742],"type":"Point"}
+}

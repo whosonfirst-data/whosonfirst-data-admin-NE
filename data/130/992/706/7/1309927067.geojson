@@ -1,0 +1,67 @@
+{
+  "id": 1309927067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.6209,14.3515,9.6209,14.3515",
+    "geom:latitude":14.3515,
+    "geom:longitude":9.6209,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Gassari",
+    "gn:country_code":"NE",
+    "gn:dem":504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6803924,
+    "gn:latitude":14.3515,
+    "gn:longitude":9.6209,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Gassari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6803924
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"e6634b3aecb4854b95eeea4591a219ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051411,
+            "locality_id":1309927067,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1309927067,
+    "wof:lastmodified":1536756440,
+    "wof:name":"Gassari",
+    "wof:parent_id":1092051411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.6209,
+    14.3515,
+    9.6209,
+    14.3515
+],
+  "geometry": {"coordinates":[9.6209,14.3515],"type":"Point"}
+}

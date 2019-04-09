@@ -1,0 +1,67 @@
+{
+  "id": 1310412041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.34553,14.2156,7.34553,14.2156",
+    "geom:latitude":14.2156,
+    "geom:longitude":7.34553,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Louga Katare",
+    "gn:country_code":"NE",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441575,
+    "gn:latitude":14.2156,
+    "gn:longitude":7.34553,
+    "gn:modification_date":"2008-08-21",
+    "gn:name":"Louga Katar\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441575
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"46a9e07ac0f9b97f41e026b46b947316",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051435,
+            "locality_id":1310412041,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1310412041,
+    "wof:lastmodified":1537049705,
+    "wof:name":"Louga Katare",
+    "wof:parent_id":1092051435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.34553,
+    14.2156,
+    7.34553,
+    14.2156
+],
+  "geometry": {"coordinates":[7.34553,14.2156],"type":"Point"}
+}

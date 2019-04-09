@@ -1,0 +1,71 @@
+{
+  "id": 1210027907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.93102,12.91047,3.93102,12.91047",
+    "geom:latitude":12.91047,
+    "geom:longitude":3.93102,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Guidam Ango",
+    "gn:country_code":"NE",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444057,
+    "gn:latitude":12.91047,
+    "gn:longitude":3.93102,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Guidam Ango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guidan Ango",
+        "Guidam Ango"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444057
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"b70ed7b6be717e904b0c25023a780488",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051467,
+            "locality_id":1210027907,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1210027907,
+    "wof:lastmodified":1537674786,
+    "wof:name":"Guidam Ango",
+    "wof:parent_id":1092051467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.93102,
+    12.91047,
+    3.93102,
+    12.91047
+],
+  "geometry": {"coordinates":[3.93102,12.91047],"type":"Point"}
+}

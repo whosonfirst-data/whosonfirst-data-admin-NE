@@ -1,0 +1,67 @@
+{
+  "id": 1243068731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.74264,13.49735,6.74264,13.49735",
+    "geom:latitude":13.49735,
+    "geom:longitude":6.74264,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Goulou Goutchi",
+    "gn:country_code":"NE",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444280,
+    "gn:latitude":13.49735,
+    "gn:longitude":6.74264,
+    "gn:modification_date":"2008-03-06",
+    "gn:name":"Goulou Goutchi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444280
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"a7835a28c06205b680991c4292c4d635",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051229,
+            "locality_id":1243068731,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1243068731,
+    "wof:lastmodified":1536851937,
+    "wof:name":"Goulou Goutchi",
+    "wof:parent_id":1092051229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.74264,
+    13.49735,
+    6.74264,
+    13.49735
+],
+  "geometry": {"coordinates":[6.74264,13.49735],"type":"Point"}
+}

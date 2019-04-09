@@ -1,0 +1,67 @@
+{
+  "id": 1309928021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.02477,14.54722,6.02477,14.54722",
+    "geom:latitude":14.54722,
+    "geom:longitude":6.02477,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Koso",
+    "gn:country_code":"NE",
+    "gn:dem":515,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6849502,
+    "gn:latitude":14.54722,
+    "gn:longitude":6.02477,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Koso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6849502
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"b2697fdedb05013c38def271f7bbba6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051515,
+            "locality_id":1309928021,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1309928021,
+    "wof:lastmodified":1536755023,
+    "wof:name":"Koso",
+    "wof:parent_id":1092051515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.02477,
+    14.54722,
+    6.02477,
+    14.54722
+],
+  "geometry": {"coordinates":[6.02477,14.54722],"type":"Point"}
+}

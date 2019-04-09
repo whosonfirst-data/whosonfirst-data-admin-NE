@@ -1,0 +1,72 @@
+{
+  "id": 1343445465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.63622,13.79429,1.63622,13.79429",
+    "geom:latitude":13.79429,
+    "geom:longitude":1.63622,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Farie H.",
+    "gn:country_code":"NE",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445076,
+    "gn:latitude":13.79429,
+    "gn:longitude":1.63622,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Fari\u00e9 H.",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fari\u00e9 Haoussa",
+        "Fari\u00e9",
+        "Fari\u00e9 H."
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        890429081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445076
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"d5820b86cb36a6df754f381b9f0a706b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":890429081,
+            "locality_id":1343445465,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1343445465,
+    "wof:lastmodified":1537674810,
+    "wof:name":"Farie H.",
+    "wof:parent_id":890429081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.63622,
+    13.79429,
+    1.63622,
+    13.79429
+],
+  "geometry": {"coordinates":[1.63622,13.79429],"type":"Point"}
+}

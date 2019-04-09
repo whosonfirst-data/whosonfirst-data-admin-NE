@@ -1,0 +1,67 @@
+{
+  "id": 1360186495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.57575,11.97424,3.57575,11.97424",
+    "geom:latitude":11.97424,
+    "geom:longitude":3.57575,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ourountoua",
+    "gn:country_code":"NE",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2440232,
+    "gn:latitude":11.97424,
+    "gn:longitude":3.57575,
+    "gn:modification_date":"2008-12-19",
+    "gn:name":"Ourountoua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092050969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2440232
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"95a6050f2972e4dc6ff3bed66bb15391",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092050969,
+            "locality_id":1360186495,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1360186495,
+    "wof:lastmodified":1536799416,
+    "wof:name":"Ourountoua",
+    "wof:parent_id":1092050969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.57575,
+    11.97424,
+    3.57575,
+    11.97424
+],
+  "geometry": {"coordinates":[3.57575,11.97424],"type":"Point"}
+}

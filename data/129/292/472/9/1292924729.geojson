@@ -1,0 +1,71 @@
+{
+  "id": 1292924729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.39772,14.1455,2.39772,14.1455",
+    "geom:latitude":14.1455,
+    "geom:longitude":2.39772,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kasa",
+    "gn:country_code":"NE",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442572,
+    "gn:latitude":14.1455,
+    "gn:longitude":2.39772,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Kasa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kassa",
+        "Kasa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442572
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"d9529d67bb99fdb86d824bc79b10fda4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051633,
+            "locality_id":1292924729,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1292924729,
+    "wof:lastmodified":1537674752,
+    "wof:name":"Kasa",
+    "wof:parent_id":1092051633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.39772,
+    14.1455,
+    2.39772,
+    14.1455
+],
+  "geometry": {"coordinates":[2.39772,14.1455],"type":"Point"}
+}

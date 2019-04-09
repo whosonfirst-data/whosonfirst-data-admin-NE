@@ -1,0 +1,67 @@
+{
+  "id": 1276124367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.99402,13.49251,6.99402,13.49251",
+    "geom:latitude":13.49251,
+    "geom:longitude":6.99402,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Batiles",
+    "gn:country_code":"NE",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446951,
+    "gn:latitude":13.49251,
+    "gn:longitude":6.99402,
+    "gn:modification_date":"2008-03-06",
+    "gn:name":"Batil\u00e8s",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446951
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"d87250e2eac9da557a5ea7b8dcc6d56c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051007,
+            "locality_id":1276124367,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1276124367,
+    "wof:lastmodified":1537056102,
+    "wof:name":"Batiles",
+    "wof:parent_id":1092051007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.99402,
+    13.49251,
+    6.99402,
+    13.49251
+],
+  "geometry": {"coordinates":[6.99402,13.49251],"type":"Point"}
+}

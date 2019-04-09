@@ -1,0 +1,71 @@
+{
+  "id": 1343253545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.96938,13.20846,8.96938,13.20846",
+    "geom:latitude":13.20846,
+    "geom:longitude":8.96938,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Garin Makad'a",
+    "gn:country_code":"NE",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6731646,
+    "gn:latitude":13.20846,
+    "gn:longitude":8.96938,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Garin Makad'\u00e2",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Angoual Hassam",
+        "Garin Makad'\u00e2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6731646
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"9d788d93700a808cf70df352ae5fa27d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051133,
+            "locality_id":1343253545,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1343253545,
+    "wof:lastmodified":1537674884,
+    "wof:name":"Garin Makad'a",
+    "wof:parent_id":1092051133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.96938,
+    13.20846,
+    8.96938,
+    13.20846
+],
+  "geometry": {"coordinates":[8.96938,13.20846],"type":"Point"}
+}

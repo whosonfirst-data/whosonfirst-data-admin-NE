@@ -1,0 +1,71 @@
+{
+  "id": 1343267935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.43065,13.57086,7.43065,13.57086",
+    "geom:latitude":13.57086,
+    "geom:longitude":7.43065,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kakouma Bara",
+    "gn:country_code":"NE",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442863,
+    "gn:latitude":13.57086,
+    "gn:longitude":7.43065,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kakouma Bara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kagouma Bara",
+        "Kakouma Bara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442863
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"38bce3ce7f6884835f2c79dd8fa87187",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051229,
+            "locality_id":1343267935,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1343267935,
+    "wof:lastmodified":1537674759,
+    "wof:name":"Kakouma Bara",
+    "wof:parent_id":1092051229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.43065,
+    13.57086,
+    7.43065,
+    13.57086
+],
+  "geometry": {"coordinates":[7.43065,13.57086],"type":"Point"}
+}

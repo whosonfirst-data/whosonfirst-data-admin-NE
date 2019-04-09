@@ -1,0 +1,67 @@
+{
+  "id": 1259703789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.23333,13.43333,2.23333,13.43333",
+    "geom:latitude":13.43333,
+    "geom:longitude":2.23333,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kialoumadobou",
+    "gn:country_code":"NE",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442448,
+    "gn:latitude":13.43333,
+    "gn:longitude":2.23333,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Kialoumadobou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442448
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"2a972bce488e9d8c40066d0102ed3895",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1259703789,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1259703789,
+    "wof:lastmodified":1537036289,
+    "wof:name":"Kialoumadobou",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.23333,
+    13.43333,
+    2.23333,
+    13.43333
+],
+  "geometry": {"coordinates":[2.23333,13.43333],"type":"Point"}
+}

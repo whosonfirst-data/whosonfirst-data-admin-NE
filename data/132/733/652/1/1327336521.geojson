@@ -1,0 +1,67 @@
+{
+  "id": 1327336521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.27335,13.80012,13.27335,13.80012",
+    "geom:latitude":13.80012,
+    "geom:longitude":13.27335,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tchoukou Wango",
+    "gn:country_code":"NE",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6698779,
+    "gn:latitude":13.80012,
+    "gn:longitude":13.27335,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Tchoukou Wango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6698779
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"7328dcb3a622a0ad1f9d2293caac5b56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051245,
+            "locality_id":1327336521,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1327336521,
+    "wof:lastmodified":1536818351,
+    "wof:name":"Tchoukou Wango",
+    "wof:parent_id":1092051245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.27335,
+    13.80012,
+    13.27335,
+    13.80012
+],
+  "geometry": {"coordinates":[13.27335,13.80012],"type":"Point"}
+}

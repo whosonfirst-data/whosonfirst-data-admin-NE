@@ -1,0 +1,70 @@
+{
+  "id": 1327024387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.93549,13.58955,1.93549,13.58955",
+    "geom:latitude":13.58955,
+    "geom:longitude":1.93549,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Sarando Ganda",
+    "gn:country_code":"NE",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439846,
+    "gn:latitude":13.58955,
+    "gn:longitude":1.93549,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Sarando Ganda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Danbou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439846
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"4761ff8d613b7bdbb8a3d2fa5ce0a17e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1327024387,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1327024387,
+    "wof:lastmodified":1537674692,
+    "wof:name":"Sarando Ganda",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.93549,
+    13.58955,
+    1.93549,
+    13.58955
+],
+  "geometry": {"coordinates":[1.93549,13.58955],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310426877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.0821,14.7106,8.0821,14.7106",
+    "geom:latitude":14.7106,
+    "geom:longitude":8.0821,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Djibri",
+    "gn:country_code":"NE",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445602,
+    "gn:latitude":14.7106,
+    "gn:longitude":8.0821,
+    "gn:modification_date":"2008-08-26",
+    "gn:name":"Djibri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445602
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"824a3452bee7a4bdfa19fbb8285f1386",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1310426877,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1310426877,
+    "wof:lastmodified":1537029199,
+    "wof:name":"Djibri",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.0821,
+    14.7106,
+    8.0821,
+    14.7106
+],
+  "geometry": {"coordinates":[8.0821,14.7106],"type":"Point"}
+}

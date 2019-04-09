@@ -1,0 +1,71 @@
+{
+  "id": 1226126993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.0778,13.0791,2.0778,13.0791",
+    "geom:latitude":13.0791,
+    "geom:longitude":2.0778,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Winde Boulay",
+    "gn:country_code":"NE",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2440472,
+    "gn:latitude":13.0791,
+    "gn:longitude":2.0778,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Wind\u00e9 Boulay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nindiboula\u00ef",
+        "Wind\u00e9 Boulay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2440472
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"e0844dc3c2973239a82251d41ffa7945",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051103,
+            "locality_id":1226126993,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1226126993,
+    "wof:lastmodified":1537674706,
+    "wof:name":"Winde Boulay",
+    "wof:parent_id":1092051103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.0778,
+    13.0791,
+    2.0778,
+    13.0791
+],
+  "geometry": {"coordinates":[2.0778,13.0791],"type":"Point"}
+}

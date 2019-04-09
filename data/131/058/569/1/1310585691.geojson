@@ -1,0 +1,72 @@
+{
+  "id": 1310585691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.89599,14.7454,0.89599,14.7454",
+    "geom:latitude":14.7454,
+    "geom:longitude":0.89599,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Doulsou",
+    "gn:country_code":"NE",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445462,
+    "gn:latitude":14.7454,
+    "gn:longitude":0.89599,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Doulsou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dounzou",
+        "Dounsou",
+        "Doulsou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        890429081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445462
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"c34caf46f46c6e8cf99eb9b2dc0e4a06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":890429081,
+            "locality_id":1310585691,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1310585691,
+    "wof:lastmodified":1537674817,
+    "wof:name":"Doulsou",
+    "wof:parent_id":890429081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.89599,
+    14.7454,
+    0.89599,
+    14.7454
+],
+  "geometry": {"coordinates":[0.89599,14.7454],"type":"Point"}
+}

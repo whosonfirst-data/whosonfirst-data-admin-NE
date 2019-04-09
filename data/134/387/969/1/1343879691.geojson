@@ -1,0 +1,67 @@
+{
+  "id": 1343879691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.69603,15.12895,8.69603,15.12895",
+    "geom:latitude":15.12895,
+    "geom:longitude":8.69603,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Aoleba",
+    "gn:country_code":"NE",
+    "gn:dem":473,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6804665,
+    "gn:latitude":15.12895,
+    "gn:longitude":8.69603,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Aol\u00e8ba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6804665
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"ff50edf6353db4d6991b861234cc2869",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1343879691,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1343879691,
+    "wof:lastmodified":1536637820,
+    "wof:name":"Aoleba",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.69603,
+    15.12895,
+    8.69603,
+    15.12895
+],
+  "geometry": {"coordinates":[8.69603,15.12895],"type":"Point"}
+}

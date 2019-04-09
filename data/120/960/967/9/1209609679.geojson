@@ -1,0 +1,61 @@
+{
+  "id": 1209609679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.58,13.06787,8.58,13.06787",
+    "geom:latitude":13.06787,
+    "geom:longitude":8.58,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dan JaKey",
+    "gn:country_code":"NE",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6745850,
+    "gn:latitude":13.06787,
+    "gn:longitude":8.58,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Dan JaKey",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6745850
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"c11ceaf9a6c225082e7d28977d0566cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209609679
+        }
+    ],
+    "wof:id":1209609679,
+    "wof:lastmodified":1536281890,
+    "wof:name":"Dan JaKey",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.58,
+    13.06787,
+    8.58,
+    13.06787
+],
+  "geometry": {"coordinates":[8.58,13.06787],"type":"Point"}
+}

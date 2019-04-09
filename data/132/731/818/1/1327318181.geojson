@@ -1,0 +1,71 @@
+{
+  "id": 1327318181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.9713,13.6596,2.9713,13.6596",
+    "geom:latitude":13.6596,
+    "geom:longitude":2.9713,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Lele",
+    "gn:country_code":"NE",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441675,
+    "gn:latitude":13.6596,
+    "gn:longitude":2.9713,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"L\u00e9l\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00e9ley",
+        "L\u00e9l\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441675
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"be2aed7d7cd9c2c7f9ba3963e8648fce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051695,
+            "locality_id":1327318181,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1327318181,
+    "wof:lastmodified":1537674728,
+    "wof:name":"Lele",
+    "wof:parent_id":1092051695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.9713,
+    13.6596,
+    2.9713,
+    13.6596
+],
+  "geometry": {"coordinates":[2.9713,13.6596],"type":"Point"}
+}

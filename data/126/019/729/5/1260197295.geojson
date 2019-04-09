@@ -1,0 +1,68 @@
+{
+  "id": 1260197295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.34361,18.71083,7.34361,18.71083",
+    "geom:latitude":18.71083,
+    "geom:longitude":7.34361,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Akokan",
+    "gn:country_code":"NE",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6271016,
+    "gn:latitude":18.71083,
+    "gn:longitude":7.34361,
+    "gn:modification_date":"2014-03-09",
+    "gn:name":"Akokan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675273,
+        1092051845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6271016,
+        "wk:page":"Akokan%2C_Niger"
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"c53cc5c307faa83e94406130ddeed20b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051845,
+            "locality_id":1260197295,
+            "region_id":85675273
+        }
+    ],
+    "wof:id":1260197295,
+    "wof:lastmodified":1537569970,
+    "wof:name":"Akokan",
+    "wof:parent_id":1092051845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.34361,
+    18.71083,
+    7.34361,
+    18.71083
+],
+  "geometry": {"coordinates":[7.34361,18.71083],"type":"Point"}
+}

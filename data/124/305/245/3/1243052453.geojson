@@ -1,0 +1,71 @@
+{
+  "id": 1243052453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.40282,12.94495,2.40282,12.94495",
+    "geom:latitude":12.94495,
+    "geom:longitude":2.40282,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tiraferi",
+    "gn:country_code":"NE",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438559,
+    "gn:latitude":12.94495,
+    "gn:longitude":2.40282,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Tiraf\u00e9ri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tillaf\u00e9ri",
+        "Tiraf\u00e9ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438559
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"bd3cfa46fad7f932eecf256617627ab5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1243052453,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1243052453,
+    "wof:lastmodified":1537674669,
+    "wof:name":"Tiraferi",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.40282,
+    12.94495,
+    2.40282,
+    12.94495
+],
+  "geometry": {"coordinates":[2.40282,12.94495],"type":"Point"}
+}

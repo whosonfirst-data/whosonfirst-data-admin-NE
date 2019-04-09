@@ -1,0 +1,71 @@
+{
+  "id": 1242963067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.25931,14.20508,2.25931,14.20508",
+    "geom:latitude":14.20508,
+    "geom:longitude":2.25931,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Boli",
+    "gn:country_code":"NE",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446670,
+    "gn:latitude":14.20508,
+    "gn:longitude":2.25931,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Boli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boc",
+        "Boli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446670
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"5674c2aeb7d113cab0bc68d443260420",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051633,
+            "locality_id":1242963067,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1242963067,
+    "wof:lastmodified":1537674847,
+    "wof:name":"Boli",
+    "wof:parent_id":1092051633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.25931,
+    14.20508,
+    2.25931,
+    14.20508
+],
+  "geometry": {"coordinates":[2.25931,14.20508],"type":"Point"}
+}

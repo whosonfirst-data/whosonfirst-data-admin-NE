@@ -1,0 +1,67 @@
+{
+  "id": 1226138811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.4664,13.375,2.4664,13.375",
+    "geom:latitude":13.375,
+    "geom:longitude":2.4664,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Fou Hinza",
+    "gn:country_code":"NE",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6858512,
+    "gn:latitude":13.375,
+    "gn:longitude":2.4664,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Fou Hinza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6858512
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"19fcd2d8cb2f1dcb88b0414186f7951b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1226138811,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1226138811,
+    "wof:lastmodified":1537084552,
+    "wof:name":"Fou Hinza",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.4664,
+    13.375,
+    2.4664,
+    13.375
+],
+  "geometry": {"coordinates":[2.4664,13.375],"type":"Point"}
+}

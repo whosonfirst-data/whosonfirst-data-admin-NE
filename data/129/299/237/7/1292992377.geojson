@@ -1,0 +1,67 @@
+{
+  "id": 1292992377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.65093,14.43656,8.65093,14.43656",
+    "geom:latitude":14.43656,
+    "geom:longitude":8.65093,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Nwala",
+    "gn:country_code":"NE",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2440439,
+    "gn:latitude":14.43656,
+    "gn:longitude":8.65093,
+    "gn:modification_date":"2008-08-26",
+    "gn:name":"Nwala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2440439
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"08608252a5039d35a5f12e8bd73df5d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1292992377,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1292992377,
+    "wof:lastmodified":1537003072,
+    "wof:name":"Nwala",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.65093,
+    14.43656,
+    8.65093,
+    14.43656
+],
+  "geometry": {"coordinates":[8.65093,14.43656],"type":"Point"}
+}

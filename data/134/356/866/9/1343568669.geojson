@@ -1,0 +1,67 @@
+{
+  "id": 1343568669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.66455,12.75222,3.66455,12.75222",
+    "geom:latitude":12.75222,
+    "geom:longitude":3.66455,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Agonga",
+    "gn:country_code":"NE",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448046,
+    "gn:latitude":12.75222,
+    "gn:longitude":3.66455,
+    "gn:modification_date":"2009-01-26",
+    "gn:name":"Agonga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092050969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448046
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"5ad0ad973b1fcf379d5a553ee1133f31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092050969,
+            "locality_id":1343568669,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1343568669,
+    "wof:lastmodified":1537084380,
+    "wof:name":"Agonga",
+    "wof:parent_id":1092050969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.66455,
+    12.75222,
+    3.66455,
+    12.75222
+],
+  "geometry": {"coordinates":[3.66455,12.75222],"type":"Point"}
+}

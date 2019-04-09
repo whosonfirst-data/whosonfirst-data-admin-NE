@@ -1,0 +1,67 @@
+{
+  "id": 1360309593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.90305,13.4439,6.90305,13.4439",
+    "geom:latitude":13.4439,
+    "geom:longitude":6.90305,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Soumarana-Abou",
+    "gn:country_code":"NE",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439571,
+    "gn:latitude":13.4439,
+    "gn:longitude":6.90305,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Soumarana-Abou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439571
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"6da39fe446f0ce132304fb4c99669b08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051007,
+            "locality_id":1360309593,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1360309593,
+    "wof:lastmodified":1536619641,
+    "wof:name":"Soumarana-Abou",
+    "wof:parent_id":1092051007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.90305,
+    13.4439,
+    6.90305,
+    13.4439
+],
+  "geometry": {"coordinates":[6.90305,13.4439],"type":"Point"}
+}

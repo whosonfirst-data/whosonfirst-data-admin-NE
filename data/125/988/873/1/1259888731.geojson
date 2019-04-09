@@ -1,0 +1,67 @@
+{
+  "id": 1259888731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.952,13.54356,12.952,13.54356",
+    "geom:latitude":13.54356,
+    "geom:longitude":12.952,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tyasabasa",
+    "gn:country_code":"NE",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6777211,
+    "gn:latitude":13.54356,
+    "gn:longitude":12.952,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Tyasabasa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6777211
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"81035b4b3bf817463e13621802abf21d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051245,
+            "locality_id":1259888731,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1259888731,
+    "wof:lastmodified":1536772056,
+    "wof:name":"Tyasabasa",
+    "wof:parent_id":1092051245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.952,
+    13.54356,
+    12.952,
+    13.54356
+],
+  "geometry": {"coordinates":[12.952,13.54356],"type":"Point"}
+}

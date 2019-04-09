@@ -1,0 +1,71 @@
+{
+  "id": 1225848397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.08129,13.54647,13.08129,13.54647",
+    "geom:latitude":13.54647,
+    "geom:longitude":13.08129,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Fowaram",
+    "gn:country_code":"NE",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444936,
+    "gn:latitude":13.54647,
+    "gn:longitude":13.08129,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Fowaram",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fouaram",
+        "Fowaram"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444936
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"a8a3b173a00d5c05d5b07436ea80532c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051245,
+            "locality_id":1225848397,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1225848397,
+    "wof:lastmodified":1537674807,
+    "wof:name":"Fowaram",
+    "wof:parent_id":1092051245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.08129,
+    13.54647,
+    13.08129,
+    13.54647
+],
+  "geometry": {"coordinates":[13.08129,13.54647],"type":"Point"}
+}

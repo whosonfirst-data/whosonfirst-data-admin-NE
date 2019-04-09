@@ -1,0 +1,72 @@
+{
+  "id": 1326627715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.5256,14.8596,5.5256,14.8596",
+    "geom:latitude":14.8596,
+    "geom:longitude":5.5256,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kalfou Rafi",
+    "gn:country_code":"NE",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442818,
+    "gn:latitude":14.8596,
+    "gn:longitude":5.5256,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kalfou Rafi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kalfou",
+        "Kalfou Rafi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442818,
+        "wk:page":"Kalfou"
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"420948507bfebb5b9aac0cb9b1123d3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051609,
+            "locality_id":1326627715,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1326627715,
+    "wof:lastmodified":1537674758,
+    "wof:name":"Kalfou Rafi",
+    "wof:parent_id":1092051609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.5256,
+    14.8596,
+    5.5256,
+    14.8596
+],
+  "geometry": {"coordinates":[5.5256,14.8596],"type":"Point"}
+}

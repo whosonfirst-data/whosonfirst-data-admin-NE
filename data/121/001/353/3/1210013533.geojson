@@ -1,0 +1,67 @@
+{
+  "id": 1210013533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.5,14.26667,8.5,14.26667",
+    "geom:latitude":14.26667,
+    "geom:longitude":8.5,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Guezaoua",
+    "gn:country_code":"NE",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2576530,
+    "gn:latitude":14.26667,
+    "gn:longitude":8.5,
+    "gn:modification_date":"1997-03-07",
+    "gn:name":"Gu\u00e9zaoua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2576530
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"51bd6ad31e630fca8568e0c683c0e107",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1210013533,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1210013533,
+    "wof:lastmodified":1536396121,
+    "wof:name":"Guezaoua",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.5,
+    14.26667,
+    8.5,
+    14.26667
+],
+  "geometry": {"coordinates":[8.5,14.26667],"type":"Point"}
+}

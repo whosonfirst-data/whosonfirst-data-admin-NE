@@ -1,0 +1,71 @@
+{
+  "id": 1310211043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.03554,13.26778,7.03554,13.26778",
+    "geom:latitude":13.26778,
+    "geom:longitude":7.03554,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kodarogo",
+    "gn:country_code":"NE",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442337,
+    "gn:latitude":13.26778,
+    "gn:longitude":7.03554,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kodarogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kod\u00e9rogo",
+        "Kodarogo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442337
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"2d01fdbf112c01d23a17c5c4e86cacbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051007,
+            "locality_id":1310211043,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1310211043,
+    "wof:lastmodified":1537674747,
+    "wof:name":"Kodarogo",
+    "wof:parent_id":1092051007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.03554,
+    13.26778,
+    7.03554,
+    13.26778
+],
+  "geometry": {"coordinates":[7.03554,13.26778],"type":"Point"}
+}

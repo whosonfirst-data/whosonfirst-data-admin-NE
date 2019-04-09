@@ -1,0 +1,73 @@
+{
+  "id": 1327355729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.43333,14.1,6.43333,14.1",
+    "geom:latitude":14.1,
+    "geom:longitude":6.43333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Madaoua",
+    "gn:cc2":"NE",
+    "gn:country_code":"NE",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441529,
+    "gn:latitude":14.1,
+    "gn:longitude":6.43333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Madaoua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Madao",
+        "Madaoua-Kyara",
+        "Madaoua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441529
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"e1644c9e427463b6349ec36cb5adc24b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051329,
+            "locality_id":1327355729,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1327355729,
+    "wof:lastmodified":1537674724,
+    "wof:name":"Madaoua",
+    "wof:parent_id":1092051329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.43333,
+    14.1,
+    6.43333,
+    14.1
+],
+  "geometry": {"coordinates":[6.43333,14.1],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276436711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.56672,13.60408,1.56672,13.60408",
+    "geom:latitude":13.60408,
+    "geom:longitude":1.56672,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mbanga",
+    "gn:country_code":"NE",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2440986,
+    "gn:latitude":13.60408,
+    "gn:longitude":1.56672,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Mbanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mbannga",
+        "Mbanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2440986
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"8216069badd714bb2cad4a980b7759b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1276436711,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1276436711,
+    "wof:lastmodified":1537674712,
+    "wof:name":"Mbanga",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.56672,
+    13.60408,
+    1.56672,
+    13.60408
+],
+  "geometry": {"coordinates":[1.56672,13.60408],"type":"Point"}
+}

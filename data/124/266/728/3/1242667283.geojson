@@ -1,0 +1,71 @@
+{
+  "id": 1242667283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.03359,14.1797,1.03359,14.1797",
+    "geom:latitude":14.1797,
+    "geom:longitude":1.03359,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Namaga",
+    "gn:country_code":"NE",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2440786,
+    "gn:latitude":14.1797,
+    "gn:longitude":1.03359,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Namaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Namenga",
+        "Namaga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2440786
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"ab326c820924a4e9425d6d22c8e505bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051545,
+            "locality_id":1242667283,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1242667283,
+    "wof:lastmodified":1537674708,
+    "wof:name":"Namaga",
+    "wof:parent_id":1092051545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.03359,
+    14.1797,
+    1.03359,
+    14.1797
+],
+  "geometry": {"coordinates":[1.03359,14.1797],"type":"Point"}
+}

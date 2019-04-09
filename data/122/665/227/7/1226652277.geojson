@@ -1,0 +1,71 @@
+{
+  "id": 1226652277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.97268,13.02528,6.97268,13.02528",
+    "geom:latitude":13.02528,
+    "geom:longitude":6.97268,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Chirge",
+    "gn:country_code":"NE",
+    "gn:dem":486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446346,
+    "gn:latitude":13.02528,
+    "gn:longitude":6.97268,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chirg\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chirgu\u00e9",
+        "Chirg\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446346
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"b61c47363be91d533e4ead71a500f3ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051007,
+            "locality_id":1226652277,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1226652277,
+    "wof:lastmodified":1537674840,
+    "wof:name":"Chirge",
+    "wof:parent_id":1092051007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.97268,
+    13.02528,
+    6.97268,
+    13.02528
+],
+  "geometry": {"coordinates":[6.97268,13.02528],"type":"Point"}
+}

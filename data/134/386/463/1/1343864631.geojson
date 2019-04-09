@@ -1,0 +1,71 @@
+{
+  "id": 1343864631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.48783,13.8542,7.48783,13.8542",
+    "geom:latitude":13.8542,
+    "geom:longitude":7.48783,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Araourey",
+    "gn:country_code":"NE",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447508,
+    "gn:latitude":13.8542,
+    "gn:longitude":7.48783,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Araourey",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aroray\u00e9",
+        "Araourey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447508
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"f9f3170d8a44760079e289e393b51d29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051435,
+            "locality_id":1343864631,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1343864631,
+    "wof:lastmodified":1537674865,
+    "wof:name":"Araourey",
+    "wof:parent_id":1092051435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.48783,
+    13.8542,
+    7.48783,
+    13.8542
+],
+  "geometry": {"coordinates":[7.48783,13.8542],"type":"Point"}
+}

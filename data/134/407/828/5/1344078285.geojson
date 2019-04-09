@@ -1,0 +1,71 @@
+{
+  "id": 1344078285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.9649,14.3831,8.9649,14.3831",
+    "geom:latitude":14.3831,
+    "geom:longitude":8.9649,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Madousa",
+    "gn:country_code":"NE",
+    "gn:dem":477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441500,
+    "gn:latitude":14.3831,
+    "gn:longitude":8.9649,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Madousa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Madoussa",
+        "Madousa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441500
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"23da8f31ecf26d2fdbe2da400b25d263",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1344078285,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1344078285,
+    "wof:lastmodified":1537674724,
+    "wof:name":"Madousa",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.9649,
+    14.3831,
+    8.9649,
+    14.3831
+],
+  "geometry": {"coordinates":[8.9649,14.3831],"type":"Point"}
+}

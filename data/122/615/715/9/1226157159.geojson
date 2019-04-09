@@ -1,0 +1,67 @@
+{
+  "id": 1226157159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.86778,16.84889,6.86778,16.84889",
+    "geom:latitude":16.84889,
+    "geom:longitude":6.86778,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Timoumenine",
+    "gn:country_code":"NE",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2596706,
+    "gn:latitude":16.84889,
+    "gn:longitude":6.86778,
+    "gn:modification_date":"2003-07-31",
+    "gn:name":"Timoumen\u00eene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675273,
+        421182277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2596706
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"ff91ca331a1402d9977e53cb78cec7c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182277,
+            "locality_id":1226157159,
+            "region_id":85675273
+        }
+    ],
+    "wof:id":1226157159,
+    "wof:lastmodified":1537058615,
+    "wof:name":"Timoumenine",
+    "wof:parent_id":421182277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.86778,
+    16.84889,
+    6.86778,
+    16.84889
+],
+  "geometry": {"coordinates":[6.86778,16.84889],"type":"Point"}
+}

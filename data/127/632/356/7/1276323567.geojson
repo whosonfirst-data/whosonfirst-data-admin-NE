@@ -1,0 +1,71 @@
+{
+  "id": 1276323567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.0597,13.0714,2.0597,13.0714",
+    "geom:latitude":13.0714,
+    "geom:longitude":2.0597,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Barkewa",
+    "gn:country_code":"NE",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446991,
+    "gn:latitude":13.0714,
+    "gn:longitude":2.0597,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bark\u00e9wa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Barkia",
+        "Bark\u00e9wa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446991
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"876e7414eef968e501ea9732016d744a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051103,
+            "locality_id":1276323567,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1276323567,
+    "wof:lastmodified":1537674854,
+    "wof:name":"Barkewa",
+    "wof:parent_id":1092051103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.0597,
+    13.0714,
+    2.0597,
+    13.0714
+],
+  "geometry": {"coordinates":[2.0597,13.0714],"type":"Point"}
+}

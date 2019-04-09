@@ -1,0 +1,71 @@
+{
+  "id": 1344068391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.9321,13.0502,3.9321,13.0502",
+    "geom:latitude":13.0502,
+    "geom:longitude":3.9321,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Gari-Ngao",
+    "gn:country_code":"NE",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444593,
+    "gn:latitude":13.0502,
+    "gn:longitude":3.9321,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gari-Ngao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Garin Gao",
+        "Gari-Ngao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444593
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"18407752e4d1d1bda702781bdeee18fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051467,
+            "locality_id":1344068391,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1344068391,
+    "wof:lastmodified":1537674800,
+    "wof:name":"Gari-Ngao",
+    "wof:parent_id":1092051467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.9321,
+    13.0502,
+    3.9321,
+    13.0502
+],
+  "geometry": {"coordinates":[3.9321,13.0502],"type":"Point"}
+}

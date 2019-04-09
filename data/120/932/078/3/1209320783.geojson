@@ -1,0 +1,65 @@
+{
+  "id": 1209320783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.25458,13.8777,7.25458,13.8777",
+    "geom:latitude":13.8777,
+    "geom:longitude":7.25458,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ita Sofoua",
+    "gn:country_code":"NE",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2443025,
+    "gn:latitude":13.8777,
+    "gn:longitude":7.25458,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ita Sofoua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ita",
+        "Ita Sofoua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2443025
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"4bd7ec8293b8d64ecd4a9ddc3b2a8e46",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209320783
+        }
+    ],
+    "wof:id":1209320783,
+    "wof:lastmodified":1537674761,
+    "wof:name":"Ita Sofoua",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.25458,
+    13.8777,
+    7.25458,
+    13.8777
+],
+  "geometry": {"coordinates":[7.25458,13.8777],"type":"Point"}
+}

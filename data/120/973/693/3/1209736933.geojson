@@ -1,0 +1,71 @@
+{
+  "id": 1209736933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.65294,14.11874,8.65294,14.11874",
+    "geom:latitude":14.11874,
+    "geom:longitude":8.65294,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Garin Tanbari",
+    "gn:country_code":"NE",
+    "gn:dem":458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444547,
+    "gn:latitude":14.11874,
+    "gn:longitude":8.65294,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Garin Tanbari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Garin Tambari",
+        "Garin Tanbari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444547
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"ebfcf07bc009841c8303baae5b76d8cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1209736933,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1209736933,
+    "wof:lastmodified":1537674799,
+    "wof:name":"Garin Tanbari",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.65294,
+    14.11874,
+    8.65294,
+    14.11874
+],
+  "geometry": {"coordinates":[8.65294,14.11874],"type":"Point"}
+}

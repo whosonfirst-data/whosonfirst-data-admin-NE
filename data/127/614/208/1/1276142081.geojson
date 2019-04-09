@@ -1,0 +1,72 @@
+{
+  "id": 1276142081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.93333,13.63333,2.93333,13.63333",
+    "geom:latitude":13.63333,
+    "geom:longitude":2.93333,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Sidare",
+    "gn:cc2":"NE",
+    "gn:country_code":"NE",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439732,
+    "gn:latitude":13.63333,
+    "gn:longitude":2.93333,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Sidar\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sid\u00e9r\u00e9",
+        "Sidar\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439732
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"fc1edcc4c6a151d47673c9145beb09d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051695,
+            "locality_id":1276142081,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1276142081,
+    "wof:lastmodified":1537674690,
+    "wof:name":"Sidare",
+    "wof:parent_id":1092051695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.93333,
+    13.63333,
+    2.93333,
+    13.63333
+],
+  "geometry": {"coordinates":[2.93333,13.63333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1225951799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.1372,13.5705,3.1372,13.5705",
+    "geom:latitude":13.5705,
+    "geom:longitude":3.1372,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kokorbe",
+    "gn:country_code":"NE",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442282,
+    "gn:latitude":13.5705,
+    "gn:longitude":3.1372,
+    "gn:modification_date":"2008-10-22",
+    "gn:name":"Kokorb\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442282
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"da1a41778f0c76794d7f6c135940a03f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051273,
+            "locality_id":1225951799,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1225951799,
+    "wof:lastmodified":1536859177,
+    "wof:name":"Kokorbe",
+    "wof:parent_id":1092051273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.1372,
+    13.5705,
+    3.1372,
+    13.5705
+],
+  "geometry": {"coordinates":[3.1372,13.5705],"type":"Point"}
+}

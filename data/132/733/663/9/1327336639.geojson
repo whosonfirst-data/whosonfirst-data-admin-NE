@@ -1,0 +1,71 @@
+{
+  "id": 1327336639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.04688,13.39462,12.04688,13.39462",
+    "geom:latitude":13.39462,
+    "geom:longitude":12.04688,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Garoua",
+    "gn:country_code":"NE",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444525,
+    "gn:latitude":13.39462,
+    "gn:longitude":12.04688,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Garoua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Garawa",
+        "Garoua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444525
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"080f24a264d6e7eb8078a43fa344d0e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051363,
+            "locality_id":1327336639,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1327336639,
+    "wof:lastmodified":1537674799,
+    "wof:name":"Garoua",
+    "wof:parent_id":1092051363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.04688,
+    13.39462,
+    12.04688,
+    13.39462
+],
+  "geometry": {"coordinates":[12.04688,13.39462],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243576193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.14755,14.55429,6.14755,14.55429",
+    "geom:latitude":14.55429,
+    "geom:longitude":6.14755,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Yamana",
+    "gn:country_code":"NE",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6849519,
+    "gn:latitude":14.55429,
+    "gn:longitude":6.14755,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Yamana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6849519
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"131a202b39bce3e640b8eed28766a0fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051515,
+            "locality_id":1243576193,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1243576193,
+    "wof:lastmodified":1536616346,
+    "wof:name":"Yamana",
+    "wof:parent_id":1092051515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.14755,
+    14.55429,
+    6.14755,
+    14.55429
+],
+  "geometry": {"coordinates":[6.14755,14.55429],"type":"Point"}
+}

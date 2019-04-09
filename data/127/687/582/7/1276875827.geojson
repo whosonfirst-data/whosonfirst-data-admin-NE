@@ -1,0 +1,74 @@
+{
+  "id": 1276875827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.20242,15.97741,13.20242,15.97741",
+    "geom:latitude":15.97741,
+    "geom:longitude":13.20242,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bela BIrim",
+    "gn:country_code":"NE",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446904,
+    "gn:latitude":15.97741,
+    "gn:longitude":13.20242,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"B\u00e9la BIrim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bilab\u00e9rim",
+        "Belabirim",
+        "Belabiram",
+        "B\u00e9la B\u00e9rim",
+        "B\u00e9la BIrim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446904
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"27c9b953c59e6024a0b3c8d6826e5932",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051781,
+            "locality_id":1276875827,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1276875827,
+    "wof:lastmodified":1537674852,
+    "wof:name":"Bela BIrim",
+    "wof:parent_id":1092051781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.20242,
+    15.97741,
+    13.20242,
+    15.97741
+],
+  "geometry": {"coordinates":[13.20242,15.97741],"type":"Point"}
+}

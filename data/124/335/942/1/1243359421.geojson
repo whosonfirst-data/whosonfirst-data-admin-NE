@@ -1,0 +1,67 @@
+{
+  "id": 1243359421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.21683,14.53878,4.21683,14.53878",
+    "geom:latitude":14.53878,
+    "geom:longitude":4.21683,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Goumbi",
+    "gn:country_code":"NE",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6783457,
+    "gn:latitude":14.53878,
+    "gn:longitude":4.21683,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Goumbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6783457
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"1f2518d4a8fb31cc99bc4edebf68b63f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051695,
+            "locality_id":1243359421,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1243359421,
+    "wof:lastmodified":1536931810,
+    "wof:name":"Goumbi",
+    "wof:parent_id":1092051695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.21683,
+    14.53878,
+    4.21683,
+    14.53878
+],
+  "geometry": {"coordinates":[4.21683,14.53878],"type":"Point"}
+}

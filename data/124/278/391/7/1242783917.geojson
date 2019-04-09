@@ -1,0 +1,71 @@
+{
+  "id": 1242783917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.43658,13.30811,7.43658,13.30811",
+    "geom:latitude":13.30811,
+    "geom:longitude":7.43658,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mak'erawa",
+    "gn:country_code":"NE",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441411,
+    "gn:latitude":13.30811,
+    "gn:longitude":7.43658,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mak'\u00e9rawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maky\u00e9rawa",
+        "Mak'\u00e9rawa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441411
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"daf9ec0d2c286d2e96748854f1f41d92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051007,
+            "locality_id":1242783917,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1242783917,
+    "wof:lastmodified":1537674722,
+    "wof:name":"Mak'erawa",
+    "wof:parent_id":1092051007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.43658,
+    13.30811,
+    7.43658,
+    13.30811
+],
+  "geometry": {"coordinates":[7.43658,13.30811],"type":"Point"}
+}

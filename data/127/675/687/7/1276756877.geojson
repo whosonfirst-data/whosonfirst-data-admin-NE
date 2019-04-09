@@ -1,0 +1,67 @@
+{
+  "id": 1276756877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.05579,14.73862,6.05579,14.73862",
+    "geom:latitude":14.73862,
+    "geom:longitude":6.05579,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Birni Zanaouki",
+    "gn:country_code":"NE",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6849467,
+    "gn:latitude":14.73862,
+    "gn:longitude":6.05579,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Birni Zanaouki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6849467
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"2a41e3c3b7922f66d525b9330879a7ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051577,
+            "locality_id":1276756877,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1276756877,
+    "wof:lastmodified":1536708672,
+    "wof:name":"Birni Zanaouki",
+    "wof:parent_id":1092051577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.05579,
+    14.73862,
+    6.05579,
+    14.73862
+],
+  "geometry": {"coordinates":[6.05579,14.73862],"type":"Point"}
+}

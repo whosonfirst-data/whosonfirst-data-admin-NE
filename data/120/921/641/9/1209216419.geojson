@@ -1,0 +1,65 @@
+{
+  "id": 1209216419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.13189,13.87356,4.13189,13.87356",
+    "geom:latitude":13.87356,
+    "geom:longitude":4.13189,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Toutay",
+    "gn:country_code":"NE",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7001444,
+    "gn:latitude":13.87356,
+    "gn:longitude":4.13189,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Toutay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tautay",
+        "Toutay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7001444
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"01c8702593bad781faaf8dcab072291d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209216419
+        }
+    ],
+    "wof:id":1209216419,
+    "wof:lastmodified":1537674891,
+    "wof:name":"Toutay",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.13189,
+    13.87356,
+    4.13189,
+    13.87356
+],
+  "geometry": {"coordinates":[4.13189,13.87356],"type":"Point"}
+}

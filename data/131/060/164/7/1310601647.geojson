@@ -1,0 +1,67 @@
+{
+  "id": 1310601647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.11356,13.44831,7.11356,13.44831",
+    "geom:latitude":13.44831,
+    "geom:longitude":7.11356,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tarna",
+    "gn:country_code":"NE",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439093,
+    "gn:latitude":13.44831,
+    "gn:longitude":7.11356,
+    "gn:modification_date":"2008-02-20",
+    "gn:name":"Tarna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439093
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"b84e3f0e31c61d522801ca1d13fe4c4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051007,
+            "locality_id":1310601647,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1310601647,
+    "wof:lastmodified":1536778742,
+    "wof:name":"Tarna",
+    "wof:parent_id":1092051007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.11356,
+    13.44831,
+    7.11356,
+    13.44831
+],
+  "geometry": {"coordinates":[7.11356,13.44831],"type":"Point"}
+}

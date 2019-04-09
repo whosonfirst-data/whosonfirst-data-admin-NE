@@ -1,0 +1,67 @@
+{
+  "id": 1260272867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.87917,13.61794,1.87917,13.61794",
+    "geom:latitude":13.61794,
+    "geom:longitude":1.87917,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Namarde Goungou",
+    "gn:country_code":"NE",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2440784,
+    "gn:latitude":13.61794,
+    "gn:longitude":1.87917,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Namard\u00e9 Goungou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2440784
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"4e6370c21ff68a1e8bb8d77a0ef9d508",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1260272867,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1260272867,
+    "wof:lastmodified":1536726541,
+    "wof:name":"Namarde Goungou",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.87917,
+    13.61794,
+    1.87917,
+    13.61794
+],
+  "geometry": {"coordinates":[1.87917,13.61794],"type":"Point"}
+}

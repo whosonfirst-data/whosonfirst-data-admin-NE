@@ -1,0 +1,67 @@
+{
+  "id": 1343965695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.7947,13.0808,3.7947,13.0808",
+    "geom:latitude":13.0808,
+    "geom:longitude":3.7947,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Katami",
+    "gn:country_code":"NE",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442536,
+    "gn:latitude":13.0808,
+    "gn:longitude":3.7947,
+    "gn:modification_date":"2008-10-22",
+    "gn:name":"Katami",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442536
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"2cd545788b8c3a85a499b6ad013111dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051467,
+            "locality_id":1343965695,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1343965695,
+    "wof:lastmodified":1537011623,
+    "wof:name":"Katami",
+    "wof:parent_id":1092051467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.7947,
+    13.0808,
+    3.7947,
+    13.0808
+],
+  "geometry": {"coordinates":[3.7947,13.0808],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1344178551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.8758,14.2573,8.8758,14.2573",
+    "geom:latitude":14.2573,
+    "geom:longitude":8.8758,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"El Hazey",
+    "gn:country_code":"NE",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445270,
+    "gn:latitude":14.2573,
+    "gn:longitude":8.8758,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Haz\u00e9y",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Haze\u00ef",
+        "El Haz\u00e9y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445270
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"cc331aeaa460d0c06c49eb0e6d10ff5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1344178551,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1344178551,
+    "wof:lastmodified":1537674814,
+    "wof:name":"El Hazey",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.8758,
+    14.2573,
+    8.8758,
+    14.2573
+],
+  "geometry": {"coordinates":[8.8758,14.2573],"type":"Point"}
+}

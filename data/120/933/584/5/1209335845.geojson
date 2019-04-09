@@ -1,0 +1,61 @@
+{
+  "id": 1209335845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.47886,13.24301,8.47886,13.24301",
+    "geom:latitude":13.24301,
+    "geom:longitude":8.47886,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Gajere",
+    "gn:country_code":"NE",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6740183,
+    "gn:latitude":13.24301,
+    "gn:longitude":8.47886,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Gaj\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6740183
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"6da9ce88d4f20ef8997f3c46c85554b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209335845
+        }
+    ],
+    "wof:id":1209335845,
+    "wof:lastmodified":1536290225,
+    "wof:name":"Gajere",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.478860000000001,
+    13.24301,
+    8.478860000000001,
+    13.24301
+],
+  "geometry": {"coordinates":[8.47886,13.24301],"type":"Point"}
+}

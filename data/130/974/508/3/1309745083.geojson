@@ -1,0 +1,67 @@
+{
+  "id": 1309745083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.31235,14.03498,7.31235,14.03498",
+    "geom:latitude":14.03498,
+    "geom:longitude":7.31235,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bobonkoli",
+    "gn:country_code":"NE",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446719,
+    "gn:latitude":14.03498,
+    "gn:longitude":7.31235,
+    "gn:modification_date":"2008-08-21",
+    "gn:name":"Bobonkoli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446719
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"acf91f00583a78207c28a8b89656dc2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051435,
+            "locality_id":1309745083,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1309745083,
+    "wof:lastmodified":1537017986,
+    "wof:name":"Bobonkoli",
+    "wof:parent_id":1092051435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.31235,
+    14.03498,
+    7.31235,
+    14.03498
+],
+  "geometry": {"coordinates":[7.31235,14.03498],"type":"Point"}
+}

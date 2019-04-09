@@ -1,0 +1,67 @@
+{
+  "id": 1243387385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.5609,13.66356,6.5609,13.66356",
+    "geom:latitude":13.66356,
+    "geom:longitude":6.5609,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Garin Koutoubou",
+    "gn:country_code":"NE",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444572,
+    "gn:latitude":13.66356,
+    "gn:longitude":6.5609,
+    "gn:modification_date":"2008-03-06",
+    "gn:name":"Garin Koutoubou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444572
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"abd212dd6d949005b86447fe2d8ed1ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051229,
+            "locality_id":1243387385,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1243387385,
+    "wof:lastmodified":1536890392,
+    "wof:name":"Garin Koutoubou",
+    "wof:parent_id":1092051229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.5609,
+    13.66356,
+    6.5609,
+    13.66356
+],
+  "geometry": {"coordinates":[6.5609,13.66356],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310486145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.9348,13.7574,2.9348,13.7574",
+    "geom:latitude":13.7574,
+    "geom:longitude":2.9348,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ti-m-Berkaouane",
+    "gn:country_code":"NE",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6858585,
+    "gn:latitude":13.7574,
+    "gn:longitude":2.9348,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Ti-m-Berkaouane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6858585
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"588ef3a70bfc071c18bdb4d21fafcc4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051695,
+            "locality_id":1310486145,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1310486145,
+    "wof:lastmodified":1536945302,
+    "wof:name":"Ti-m-Berkaouane",
+    "wof:parent_id":1092051695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.9348,
+    13.7574,
+    2.9348,
+    13.7574
+],
+  "geometry": {"coordinates":[2.9348,13.7574],"type":"Point"}
+}

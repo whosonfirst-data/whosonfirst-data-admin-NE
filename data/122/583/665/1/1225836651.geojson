@@ -1,0 +1,74 @@
+{
+  "id": 1225836651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.67637,13.03725,8.67637,13.03725",
+    "geom:latitude":13.03725,
+    "geom:longitude":8.67637,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Yekoua",
+    "gn:country_code":"NE",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437993,
+    "gn:latitude":13.03725,
+    "gn:longitude":8.67637,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Y\u00e9koua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yekaoua",
+        "Y\u00e9kwa",
+        "Yekua",
+        "Y\u00e9koua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437993,
+        "wk:page":"Yekoua"
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"efd521554e7998c4e4b159134a38c92f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051133,
+            "locality_id":1225836651,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1225836651,
+    "wof:lastmodified":1537674653,
+    "wof:name":"Yekoua",
+    "wof:parent_id":1092051133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.67637,
+    13.03725,
+    8.67637,
+    13.03725
+],
+  "geometry": {"coordinates":[8.67637,13.03725],"type":"Point"}
+}

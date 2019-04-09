@@ -1,0 +1,67 @@
+{
+  "id": 1276341187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.33347,13.93988,7.33347,13.93988",
+    "geom:latitude":13.93988,
+    "geom:longitude":7.33347,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Alassane K'ouama",
+    "gn:country_code":"NE",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6705508,
+    "gn:latitude":13.93988,
+    "gn:longitude":7.33347,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Alassane K'ou\u00e2m\u00e2",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6705508
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"4ba2f7b2426c1131fc179ccc85087cfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051435,
+            "locality_id":1276341187,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1276341187,
+    "wof:lastmodified":1536768363,
+    "wof:name":"Alassane K'ouama",
+    "wof:parent_id":1092051435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.33347,
+    13.93988,
+    7.33347,
+    13.93988
+],
+  "geometry": {"coordinates":[7.33347,13.93988],"type":"Point"}
+}

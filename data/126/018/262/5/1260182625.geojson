@@ -1,0 +1,71 @@
+{
+  "id": 1260182625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.96018,13.55068,7.96018,13.55068",
+    "geom:latitude":13.55068,
+    "geom:longitude":7.96018,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sararaou Garba",
+    "gn:country_code":"NE",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6722352,
+    "gn:latitude":13.55068,
+    "gn:longitude":7.96018,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Sararaou Garba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Allah S\u00e9rki",
+        "Sararaou Garba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6722352
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"7438061bfb375dcbe7d02c4d40b422ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051389,
+            "locality_id":1260182625,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1260182625,
+    "wof:lastmodified":1537674884,
+    "wof:name":"Sararaou Garba",
+    "wof:parent_id":1092051389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.96018,
+    13.55068,
+    7.96018,
+    13.55068
+],
+  "geometry": {"coordinates":[7.96018,13.55068],"type":"Point"}
+}

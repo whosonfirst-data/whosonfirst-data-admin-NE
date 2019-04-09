@@ -1,0 +1,67 @@
+{
+  "id": 1276127347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.46877,13.13339,12.46877,13.13339",
+    "geom:latitude":13.13339,
+    "geom:longitude":12.46877,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Gororop",
+    "gn:country_code":"NE",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6778112,
+    "gn:latitude":13.13339,
+    "gn:longitude":12.46877,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Gororop",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6778112
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"ff722726b57dbe8607d0786188a9dbfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051245,
+            "locality_id":1276127347,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1276127347,
+    "wof:lastmodified":1537052316,
+    "wof:name":"Gororop",
+    "wof:parent_id":1092051245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.46877,
+    13.13339,
+    12.46877,
+    13.13339
+],
+  "geometry": {"coordinates":[12.46877,13.13339],"type":"Point"}
+}

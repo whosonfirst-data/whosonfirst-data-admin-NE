@@ -1,0 +1,71 @@
+{
+  "id": 1259668109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.89019,14.39095,0.89019,14.39095",
+    "geom:latitude":14.39095,
+    "geom:longitude":0.89019,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kondi",
+    "gn:country_code":"NE",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442206,
+    "gn:latitude":14.39095,
+    "gn:longitude":0.89019,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kondi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kondou",
+        "Kondi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442206
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"a38ac49fffaa1e9d1c9074ec2e1d8b4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051545,
+            "locality_id":1259668109,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1259668109,
+    "wof:lastmodified":1537674743,
+    "wof:name":"Kondi",
+    "wof:parent_id":1092051545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.89019,
+    14.39095,
+    0.89019,
+    14.39095
+],
+  "geometry": {"coordinates":[0.89019,14.39095],"type":"Point"}
+}

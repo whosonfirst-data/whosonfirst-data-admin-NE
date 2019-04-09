@@ -1,0 +1,67 @@
+{
+  "id": 1260275849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.0727,14.5886,5.0727,14.5886",
+    "geom:latitude":14.5886,
+    "geom:longitude":5.0727,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Fajema",
+    "gn:country_code":"NE",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6679163,
+    "gn:latitude":14.5886,
+    "gn:longitude":5.0727,
+    "gn:modification_date":"2008-02-09",
+    "gn:name":"Faj\u00e9ma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6679163
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"74a4cdd18128df889f4bc5b81dbd9832",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051609,
+            "locality_id":1260275849,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1260275849,
+    "wof:lastmodified":1536722547,
+    "wof:name":"Fajema",
+    "wof:parent_id":1092051609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.0727,
+    14.5886,
+    5.0727,
+    14.5886
+],
+  "geometry": {"coordinates":[5.0727,14.5886],"type":"Point"}
+}

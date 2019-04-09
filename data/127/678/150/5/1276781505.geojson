@@ -1,0 +1,73 @@
+{
+  "id": 1276781505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.42,19.0625,8.42,19.0625",
+    "geom:latitude":19.0625,
+    "geom:longitude":8.42,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Iferouane",
+    "gn:cc2":"NE",
+    "gn:country_code":"NE",
+    "gn:dem":659,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2443346,
+    "gn:latitude":19.0625,
+    "gn:longitude":8.42,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Iferou\u00e2ne",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Iferouan",
+        "Iferou\u00e2ne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675273,
+        1092051845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2443346,
+        "wk:page":"Iferouane"
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"57aebf427fb0bce7114008ec7f06dfcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051845,
+            "locality_id":1276781505,
+            "region_id":85675273
+        }
+    ],
+    "wof:id":1276781505,
+    "wof:lastmodified":1537674764,
+    "wof:name":"Iferouane",
+    "wof:parent_id":1092051845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.42,
+    19.0625,
+    8.42,
+    19.0625
+],
+  "geometry": {"coordinates":[8.42,19.0625],"type":"Point"}
+}

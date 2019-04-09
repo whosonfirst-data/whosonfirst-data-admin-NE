@@ -1,0 +1,68 @@
+{
+  "id": 1276234025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.66926,13.57953,7.66926,13.57953",
+    "geom:latitude":13.57953,
+    "geom:longitude":7.66926,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"May Samia",
+    "gn:country_code":"NE",
+    "gn:dem":442,
+    "gn:elevation":"448.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6723062,
+    "gn:latitude":13.57953,
+    "gn:longitude":7.66926,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"May Samia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6723062
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"42961e1f0e868db50504d2774890b891",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051197,
+            "locality_id":1276234025,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1276234025,
+    "wof:lastmodified":1536912078,
+    "wof:name":"May Samia",
+    "wof:parent_id":1092051197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.66926,
+    13.57953,
+    7.66926,
+    13.57953
+],
+  "geometry": {"coordinates":[7.66926,13.57953],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276975907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.41004,12.89354,2.41004,12.89354",
+    "geom:latitude":12.89354,
+    "geom:longitude":2.41004,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Sounga Beri",
+    "gn:country_code":"NE",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439558,
+    "gn:latitude":12.89354,
+    "gn:longitude":2.41004,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Sounga B\u00e9ri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439558
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"9686d3ce737133679117a4276310f0c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1276975907,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1276975907,
+    "wof:lastmodified":1536912950,
+    "wof:name":"Sounga Beri",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.41004,
+    12.89354,
+    2.41004,
+    12.89354
+],
+  "geometry": {"coordinates":[2.41004,12.89354],"type":"Point"}
+}

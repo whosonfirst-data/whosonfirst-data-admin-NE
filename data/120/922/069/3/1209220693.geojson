@@ -1,0 +1,65 @@
+{
+  "id": 1209220693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.7009,13.76376,7.7009,13.76376",
+    "geom:latitude":13.76376,
+    "geom:longitude":7.7009,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dan Maimouna",
+    "gn:country_code":"NE",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445975,
+    "gn:latitude":13.76376,
+    "gn:longitude":7.7009,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Dan Ma\u00efmouna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dan Mayouna",
+        "Dan Ma\u00efmouna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445975
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"78d22a5726f03cde4ea2c116d33a4085",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209220693
+        }
+    ],
+    "wof:id":1209220693,
+    "wof:lastmodified":1537674832,
+    "wof:name":"Dan Maimouna",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.7009,
+    13.76376,
+    7.7009,
+    13.76376
+],
+  "geometry": {"coordinates":[7.7009,13.76376],"type":"Point"}
+}

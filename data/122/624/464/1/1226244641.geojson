@@ -1,0 +1,67 @@
+{
+  "id": 1226244641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.91854,13.06292,3.91854,13.06292",
+    "geom:latitude":13.06292,
+    "geom:longitude":3.91854,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Gueremchi",
+    "gn:country_code":"NE",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444162,
+    "gn:latitude":13.06292,
+    "gn:longitude":3.91854,
+    "gn:modification_date":"2008-10-22",
+    "gn:name":"Gu\u00e9remchi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444162
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"d7360fc7e27bddcba7bfa95f01ede431",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051467,
+            "locality_id":1226244641,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1226244641,
+    "wof:lastmodified":1536935961,
+    "wof:name":"Gueremchi",
+    "wof:parent_id":1092051467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.91854,
+    13.06292,
+    3.91854,
+    13.06292
+],
+  "geometry": {"coordinates":[3.91854,13.06292],"type":"Point"}
+}

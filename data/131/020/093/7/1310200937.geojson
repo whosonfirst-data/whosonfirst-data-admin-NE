@@ -1,0 +1,71 @@
+{
+  "id": 1310200937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.61487,13.82731,1.61487,13.82731",
+    "geom:latitude":13.82731,
+    "geom:longitude":1.61487,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Sill Boli",
+    "gn:country_code":"NE",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439782,
+    "gn:latitude":13.82731,
+    "gn:longitude":1.61487,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Sill Boli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00e9liboli",
+        "Sill Boli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        890429081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439782
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"2ac973f83c1dc5985158e3c9dd70ae54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":890429081,
+            "locality_id":1310200937,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1310200937,
+    "wof:lastmodified":1537674691,
+    "wof:name":"Sill Boli",
+    "wof:parent_id":890429081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.61487,
+    13.82731,
+    1.61487,
+    13.82731
+],
+  "geometry": {"coordinates":[1.61487,13.82731],"type":"Point"}
+}

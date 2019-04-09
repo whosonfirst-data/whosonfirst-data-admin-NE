@@ -1,0 +1,72 @@
+{
+  "id": 1293300313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.31556,11.98848,3.31556,11.98848",
+    "geom:latitude":11.98848,
+    "geom:longitude":3.31556,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tenda",
+    "gn:country_code":"NE",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438870,
+    "gn:latitude":11.98848,
+    "gn:longitude":3.31556,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tenda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tanda",
+        "Tenda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092050969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438870,
+        "wk:page":"Tanda%2C_Niger"
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"347b05b888c4010ec57cd435f56273eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092050969,
+            "locality_id":1293300313,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1293300313,
+    "wof:lastmodified":1537674673,
+    "wof:name":"Tenda",
+    "wof:parent_id":1092050969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.31556,
+    11.98848,
+    3.31556,
+    11.98848
+],
+  "geometry": {"coordinates":[3.31556,11.98848],"type":"Point"}
+}

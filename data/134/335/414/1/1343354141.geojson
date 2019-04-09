@@ -1,0 +1,71 @@
+{
+  "id": 1343354141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.42895,13.91321,5.42895,13.91321",
+    "geom:latitude":13.91321,
+    "geom:longitude":5.42895,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tounga-Yakouba",
+    "gn:country_code":"NE",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438255,
+    "gn:latitude":13.91321,
+    "gn:longitude":5.42895,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tounga-Yakouba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gwandagbaro",
+        "Tounga-Yakouba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438255
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"a74fed1ac9a57565da04a61363dae3d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051301,
+            "locality_id":1343354141,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1343354141,
+    "wof:lastmodified":1537674660,
+    "wof:name":"Tounga-Yakouba",
+    "wof:parent_id":1092051301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.42895,
+    13.91321,
+    5.42895,
+    13.91321
+],
+  "geometry": {"coordinates":[5.42895,13.91321],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1277069279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.31598,13.80375,6.31598,13.80375",
+    "geom:latitude":13.80375,
+    "geom:longitude":6.31598,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sahabi",
+    "gn:country_code":"NE",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439999,
+    "gn:latitude":13.80375,
+    "gn:longitude":6.31598,
+    "gn:modification_date":"2008-02-07",
+    "gn:name":"Sahabi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439999
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"8efbc40d3d59ebdf0225fd379b2b10d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051329,
+            "locality_id":1277069279,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1277069279,
+    "wof:lastmodified":1536787501,
+    "wof:name":"Sahabi",
+    "wof:parent_id":1092051329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.31598,
+    13.80375,
+    6.31598,
+    13.80375
+],
+  "geometry": {"coordinates":[6.31598,13.80375],"type":"Point"}
+}

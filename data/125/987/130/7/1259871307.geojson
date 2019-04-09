@@ -1,0 +1,67 @@
+{
+  "id": 1259871307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.5614,14.0714,9.5614,14.0714",
+    "geom:latitude":14.0714,
+    "geom:longitude":9.5614,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kazeymari",
+    "gn:country_code":"NE",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6803705,
+    "gn:latitude":14.0714,
+    "gn:longitude":9.5614,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Kaz\u00e8ymari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6803705
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"81c454293d2e5f313911fab951825f17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051411,
+            "locality_id":1259871307,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1259871307,
+    "wof:lastmodified":1536796965,
+    "wof:name":"Kazeymari",
+    "wof:parent_id":1092051411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.5614,
+    14.0714,
+    9.5614,
+    14.0714
+],
+  "geometry": {"coordinates":[9.5614,14.0714],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293201637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.04048,13.76518,7.04048,13.76518",
+    "geom:latitude":13.76518,
+    "geom:longitude":7.04048,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tambarawa",
+    "gn:country_code":"NE",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439222,
+    "gn:latitude":13.76518,
+    "gn:longitude":7.04048,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tambarawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tambari",
+        "Tambarawa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439222
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"e43c4932c7fafca23a042e8e525fe314",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051229,
+            "locality_id":1293201637,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1293201637,
+    "wof:lastmodified":1537674679,
+    "wof:name":"Tambarawa",
+    "wof:parent_id":1092051229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.04048,
+    13.76518,
+    7.04048,
+    13.76518
+],
+  "geometry": {"coordinates":[7.04048,13.76518],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293213553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.05678,13.61475,13.05678,13.61475",
+    "geom:latitude":13.61475,
+    "geom:longitude":13.05678,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bague Karari",
+    "gn:country_code":"NE",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447283,
+    "gn:latitude":13.61475,
+    "gn:longitude":13.05678,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bagu\u00e9 Karari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bag\u00e9",
+        "Bagu\u00e9 Karari",
+        "Bagu\u00e9",
+        "Boy\u00e9 Tigari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447283
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"3f17485ec266e77867b2b49c8807b896",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051245,
+            "locality_id":1293213553,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1293213553,
+    "wof:lastmodified":1537674861,
+    "wof:name":"Bague Karari",
+    "wof:parent_id":1092051245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.05678,
+    13.61475,
+    13.05678,
+    13.61475
+],
+  "geometry": {"coordinates":[13.05678,13.61475],"type":"Point"}
+}

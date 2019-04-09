@@ -1,0 +1,71 @@
+{
+  "id": 1260184291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.2776,13.5904,3.2776,13.5904",
+    "geom:latitude":13.5904,
+    "geom:longitude":3.2776,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Badaradeye",
+    "gn:country_code":"NE",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447319,
+    "gn:latitude":13.5904,
+    "gn:longitude":3.2776,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Badarad\u00e8ye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Badara Dey",
+        "Badarad\u00e8ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447319
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"7aec84b29ce67d9173d5d87ec2bb9012",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051273,
+            "locality_id":1260184291,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1260184291,
+    "wof:lastmodified":1537674862,
+    "wof:name":"Badaradeye",
+    "wof:parent_id":1092051273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.2776,
+    13.5904,
+    3.2776,
+    13.5904
+],
+  "geometry": {"coordinates":[3.2776,13.5904],"type":"Point"}
+}

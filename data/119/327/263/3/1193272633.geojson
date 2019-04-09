@@ -1,0 +1,67 @@
+{
+  "id": 1193272633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.89917,13.09944,9.89917,13.09944",
+    "geom:latitude":13.09944,
+    "geom:longitude":9.89917,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Male Male",
+    "gn:country_code":"NE",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441371,
+    "gn:latitude":13.09944,
+    "gn:longitude":9.89917,
+    "gn:modification_date":"2003-08-01",
+    "gn:name":"Mal\u00e9 Mal\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441371
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"09267fae409283238cc78aabf0781cca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051753,
+            "locality_id":1193272633,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1193272633,
+    "wof:lastmodified":1536368886,
+    "wof:name":"Male Male",
+    "wof:parent_id":1092051753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.89917,
+    13.09944,
+    9.89917,
+    13.09944
+],
+  "geometry": {"coordinates":[9.89917,13.09944],"type":"Point"}
+}

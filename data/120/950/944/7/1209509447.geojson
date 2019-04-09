@@ -1,0 +1,61 @@
+{
+  "id": 1209509447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.4852,14.4727,10.4852,14.4727",
+    "geom:latitude":14.4727,
+    "geom:longitude":10.4852,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kolala Somkole",
+    "gn:country_code":"NE",
+    "gn:dem":486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6847953,
+    "gn:latitude":14.4727,
+    "gn:longitude":10.4852,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Kolala Somkol\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6847953
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"62f12de79e6e9c7719bf56fa56541727",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209509447
+        }
+    ],
+    "wof:id":1209509447,
+    "wof:lastmodified":1536284929,
+    "wof:name":"Kolala Somkole",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4852,
+    14.4727,
+    10.4852,
+    14.4727
+],
+  "geometry": {"coordinates":[10.4852,14.4727],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1276887885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.85,18.75,8.85,18.75",
+    "geom:latitude":18.75,
+    "geom:longitude":8.85,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tarhmert",
+    "gn:cc2":"NE",
+    "gn:country_code":"NE",
+    "gn:dem":959,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439104,
+    "gn:latitude":18.75,
+    "gn:longitude":8.85,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tarhmert",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tarmeurt",
+        "Taghmeur",
+        "Taghmeurt",
+        "Tarhmert"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675273,
+        1092051845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439104,
+        "wk:page":"Tarhmert"
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"5c223155266b8e6b4310d160e45c903c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051845,
+            "locality_id":1276887885,
+            "region_id":85675273
+        }
+    ],
+    "wof:id":1276887885,
+    "wof:lastmodified":1537674677,
+    "wof:name":"Tarhmert",
+    "wof:parent_id":1092051845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.85,
+    18.75,
+    8.85,
+    18.75
+],
+  "geometry": {"coordinates":[8.85,18.75],"type":"Point"}
+}

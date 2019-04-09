@@ -1,0 +1,61 @@
+{
+  "id": 1209328845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.9406,17.5827,8.9406,17.5827",
+    "geom:latitude":17.5827,
+    "geom:longitude":8.9406,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Toudou-n-Karnika",
+    "gn:country_code":"NE",
+    "gn:dem":848,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6578432,
+    "gn:latitude":17.5827,
+    "gn:longitude":8.9406,
+    "gn:modification_date":"2008-09-24",
+    "gn:name":"Toudou-n-Karnika",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6578432
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"245c0af55cad4f533d4e8a1128b1bba4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209328845
+        }
+    ],
+    "wof:id":1209328845,
+    "wof:lastmodified":1536290439,
+    "wof:name":"Toudou-n-Karnika",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.9406,
+    17.5827,
+    8.9406,
+    17.5827
+],
+  "geometry": {"coordinates":[8.9406,17.5827],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243060435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.70954,13.81434,5.70954,13.81434",
+    "geom:latitude":13.81434,
+    "geom:longitude":5.70954,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Biguel Kankoura",
+    "gn:country_code":"NE",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446816,
+    "gn:latitude":13.81434,
+    "gn:longitude":5.70954,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Biguel Kankoura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bigel Kankoura",
+        "Biguel Kankoura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446816
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"d155ff0a2dd4f8423ba3b313ac5baae5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051301,
+            "locality_id":1243060435,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1243060435,
+    "wof:lastmodified":1537674850,
+    "wof:name":"Biguel Kankoura",
+    "wof:parent_id":1092051301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.70954,
+    13.81434,
+    5.70954,
+    13.81434
+],
+  "geometry": {"coordinates":[5.70954,13.81434],"type":"Point"}
+}

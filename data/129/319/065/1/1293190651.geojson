@@ -1,0 +1,70 @@
+{
+  "id": 1293190651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.40578,14.22885,1.40578,14.22885",
+    "geom:latitude":14.22885,
+    "geom:longitude":1.40578,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tiandadji",
+    "gn:country_code":"NE",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438691,
+    "gn:latitude":14.22885,
+    "gn:longitude":1.40578,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Tiandadji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tilagadji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        890429081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438691
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"ec3fc1baab6e7ab8ad9c0f8c3a8425e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":890429081,
+            "locality_id":1293190651,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1293190651,
+    "wof:lastmodified":1537674671,
+    "wof:name":"Tiandadji",
+    "wof:parent_id":890429081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.40578,
+    14.22885,
+    1.40578,
+    14.22885
+],
+  "geometry": {"coordinates":[1.40578,14.22885],"type":"Point"}
+}

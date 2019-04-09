@@ -1,0 +1,67 @@
+{
+  "id": 1327443181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.01,14.22,4.01,14.22",
+    "geom:latitude":14.22,
+    "geom:longitude":4.01,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Koundoutou III",
+    "gn:country_code":"NE",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11204897,
+    "gn:latitude":14.22,
+    "gn:longitude":4.01,
+    "gn:modification_date":"2016-07-25",
+    "gn:name":"Koundoutou III",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11204897
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"99689025c1ec6c64d916d5c436196139",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051467,
+            "locality_id":1327443181,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1327443181,
+    "wof:lastmodified":1536665186,
+    "wof:name":"Koundoutou III",
+    "wof:parent_id":1092051467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.01,
+    14.22,
+    4.01,
+    14.22
+],
+  "geometry": {"coordinates":[4.01,14.22],"type":"Point"}
+}

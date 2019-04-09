@@ -1,0 +1,67 @@
+{
+  "id": 1276357647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.5571,14.8016,8.5571,14.8016",
+    "geom:latitude":14.8016,
+    "geom:longitude":8.5571,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tchakori",
+    "gn:country_code":"NE",
+    "gn:dem":473,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439020,
+    "gn:latitude":14.8016,
+    "gn:longitude":8.5571,
+    "gn:modification_date":"2008-08-26",
+    "gn:name":"Tchakori",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439020
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"bd44815cc14519f535500784c38966af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1276357647,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1276357647,
+    "wof:lastmodified":1536745728,
+    "wof:name":"Tchakori",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.5571,
+    14.8016,
+    8.5571,
+    14.8016
+],
+  "geometry": {"coordinates":[8.5571,14.8016],"type":"Point"}
+}

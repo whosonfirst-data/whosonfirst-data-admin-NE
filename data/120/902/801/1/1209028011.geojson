@@ -1,0 +1,61 @@
+{
+  "id": 1209028011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.0593,14.343,9.0593,14.343",
+    "geom:latitude":14.343,
+    "geom:longitude":9.0593,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dakora",
+    "gn:country_code":"NE",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6803918,
+    "gn:latitude":14.343,
+    "gn:longitude":9.0593,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Dakora",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6803918
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"2a0e239fd35d085c68feca204941efc2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209028011
+        }
+    ],
+    "wof:id":1209028011,
+    "wof:lastmodified":1536299935,
+    "wof:name":"Dakora",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.0593,
+    14.343,
+    9.0593,
+    14.343
+],
+  "geometry": {"coordinates":[9.0593,14.343],"type":"Point"}
+}

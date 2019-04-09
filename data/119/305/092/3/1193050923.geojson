@@ -1,0 +1,67 @@
+{
+  "id": 1193050923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.24537,13.51998,7.24537,13.51998",
+    "geom:latitude":13.51998,
+    "geom:longitude":7.24537,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dan K'achi",
+    "gn:country_code":"NE",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446051,
+    "gn:latitude":13.51998,
+    "gn:longitude":7.24537,
+    "gn:modification_date":"2008-02-11",
+    "gn:name":"Dan K'ach\u00ee",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446051
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"57e987bde82c2503def8157432ba4ae8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051007,
+            "locality_id":1193050923,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1193050923,
+    "wof:lastmodified":1536366176,
+    "wof:name":"Dan K'achi",
+    "wof:parent_id":1092051007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.24537,
+    13.51998,
+    7.24537,
+    13.51998
+],
+  "geometry": {"coordinates":[7.24537,13.51998],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259585207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.4731,13.3221,3.4731,13.3221",
+    "geom:latitude":13.3221,
+    "geom:longitude":3.4731,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bosseye",
+    "gn:country_code":"NE",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446617,
+    "gn:latitude":13.3221,
+    "gn:longitude":3.4731,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Boss\u00e8ye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bossey",
+        "Boss\u00e8ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446617
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"59dea0685547c0a3aa0268620095891f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051041,
+            "locality_id":1259585207,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1259585207,
+    "wof:lastmodified":1537674846,
+    "wof:name":"Bosseye",
+    "wof:parent_id":1092051041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.4731,
+    13.3221,
+    3.4731,
+    13.3221
+],
+  "geometry": {"coordinates":[3.4731,13.3221],"type":"Point"}
+}

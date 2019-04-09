@@ -1,0 +1,67 @@
+{
+  "id": 1293002691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.16055,13.5294,3.16055,13.5294",
+    "geom:latitude":13.5294,
+    "geom:longitude":3.16055,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Waze",
+    "gn:country_code":"NE",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438091,
+    "gn:latitude":13.5294,
+    "gn:longitude":3.16055,
+    "gn:modification_date":"2008-10-22",
+    "gn:name":"Waz\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438091
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"634bc1e0fdcf43424fc2c7caeb80cff1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051273,
+            "locality_id":1293002691,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1293002691,
+    "wof:lastmodified":1536988090,
+    "wof:name":"Waze",
+    "wof:parent_id":1092051273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.16055,
+    13.5294,
+    3.16055,
+    13.5294
+],
+  "geometry": {"coordinates":[3.16055,13.5294],"type":"Point"}
+}

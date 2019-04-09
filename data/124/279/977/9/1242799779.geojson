@@ -1,0 +1,67 @@
+{
+  "id": 1242799779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.14027,14.39248,6.14027,14.39248",
+    "geom:latitude":14.39248,
+    "geom:longitude":6.14027,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tahizirgi",
+    "gn:country_code":"NE",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6849723,
+    "gn:latitude":14.39248,
+    "gn:longitude":6.14027,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Tahizirgi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6849723
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"7c51c1e43fe337a8ee6b0356e8a2c9e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051515,
+            "locality_id":1242799779,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1242799779,
+    "wof:lastmodified":1536743412,
+    "wof:name":"Tahizirgi",
+    "wof:parent_id":1092051515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.14027,
+    14.39248,
+    6.14027,
+    14.39248
+],
+  "geometry": {"coordinates":[6.14027,14.39248],"type":"Point"}
+}

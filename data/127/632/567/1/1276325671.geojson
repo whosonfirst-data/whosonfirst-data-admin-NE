@@ -1,0 +1,67 @@
+{
+  "id": 1276325671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.1236,14.2637,9.1236,14.2637",
+    "geom:latitude":14.2637,
+    "geom:longitude":9.1236,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Garin El Hadji Mamani",
+    "gn:country_code":"NE",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6803855,
+    "gn:latitude":14.2637,
+    "gn:longitude":9.1236,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Garin El Hadji Mamani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6803855
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"21c8d854c4f9694992acbbbc99213f29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051411,
+            "locality_id":1276325671,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1276325671,
+    "wof:lastmodified":1536789379,
+    "wof:name":"Garin El Hadji Mamani",
+    "wof:parent_id":1092051411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.1236,
+    14.2637,
+    9.1236,
+    14.2637
+],
+  "geometry": {"coordinates":[9.1236,14.2637],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226576081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.77226,13.54571,7.77226,13.54571",
+    "geom:latitude":13.54571,
+    "geom:longitude":7.77226,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dan Gao",
+    "gn:country_code":"NE",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446098,
+    "gn:latitude":13.54571,
+    "gn:longitude":7.77226,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Dan Gao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446098
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"469dc91e7319036fbcf21996aad39781",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051197,
+            "locality_id":1226576081,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1226576081,
+    "wof:lastmodified":1536955793,
+    "wof:name":"Dan Gao",
+    "wof:parent_id":1092051197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.77226,
+    13.54571,
+    7.77226,
+    13.54571
+],
+  "geometry": {"coordinates":[7.77226,13.54571],"type":"Point"}
+}

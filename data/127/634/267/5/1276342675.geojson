@@ -1,0 +1,67 @@
+{
+  "id": 1276342675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.9734,13.3263,3.9734,13.3263",
+    "geom:latitude":13.3263,
+    "geom:longitude":3.9734,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Angoa-Dangaladima-Toure",
+    "gn:country_code":"NE",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6862289,
+    "gn:latitude":13.3263,
+    "gn:longitude":3.9734,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Angoa-Dangaladima-Tour\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6862289
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"56f115a78e1cc2df0822582b78ae8257",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051467,
+            "locality_id":1276342675,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1276342675,
+    "wof:lastmodified":1536766273,
+    "wof:name":"Angoa-Dangaladima-Toure",
+    "wof:parent_id":1092051467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.9734,
+    13.3263,
+    3.9734,
+    13.3263
+],
+  "geometry": {"coordinates":[3.9734,13.3263],"type":"Point"}
+}

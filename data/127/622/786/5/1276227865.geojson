@@ -1,0 +1,71 @@
+{
+  "id": 1276227865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.7436,13.63276,6.7436,13.63276",
+    "geom:latitude":13.63276,
+    "geom:longitude":6.7436,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Zage",
+    "gn:country_code":"NE",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437910,
+    "gn:latitude":13.63276,
+    "gn:longitude":6.7436,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zag\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zagu\u00e9",
+        "Zag\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437910
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"7a43868ee020f58d617662afe9f8318c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051229,
+            "locality_id":1276227865,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1276227865,
+    "wof:lastmodified":1537674651,
+    "wof:name":"Zage",
+    "wof:parent_id":1092051229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.7436,
+    13.63276,
+    6.7436,
+    13.63276
+],
+  "geometry": {"coordinates":[6.7436,13.63276],"type":"Point"}
+}

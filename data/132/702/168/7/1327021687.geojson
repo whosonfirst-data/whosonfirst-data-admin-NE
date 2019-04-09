@@ -1,0 +1,67 @@
+{
+  "id": 1327021687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.4943,14.70924,8.4943,14.70924",
+    "geom:latitude":14.70924,
+    "geom:longitude":8.4943,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tagalas",
+    "gn:country_code":"NE",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439430,
+    "gn:latitude":14.70924,
+    "gn:longitude":8.4943,
+    "gn:modification_date":"2008-08-26",
+    "gn:name":"Tagalas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439430
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"36f786bd8726ae8e210d68a3e4f3110f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1327021687,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1327021687,
+    "wof:lastmodified":1536776551,
+    "wof:name":"Tagalas",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4943,
+    14.70924,
+    8.4943,
+    14.70924
+],
+  "geometry": {"coordinates":[8.4943,14.70924],"type":"Point"}
+}

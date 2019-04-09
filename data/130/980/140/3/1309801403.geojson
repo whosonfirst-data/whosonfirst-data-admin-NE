@@ -1,0 +1,67 @@
+{
+  "id": 1309801403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.4136,14.0434,5.4136,14.0434",
+    "geom:latitude":14.0434,
+    "geom:longitude":5.4136,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tyedya",
+    "gn:country_code":"NE",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6679470,
+    "gn:latitude":14.0434,
+    "gn:longitude":5.4136,
+    "gn:modification_date":"2008-02-09",
+    "gn:name":"Ty\u00e9dya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6679470
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"e2211d5ca8fb7c64a6d71e174a1594c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051301,
+            "locality_id":1309801403,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1309801403,
+    "wof:lastmodified":1536938184,
+    "wof:name":"Tyedya",
+    "wof:parent_id":1092051301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.4136,
+    14.0434,
+    5.4136,
+    14.0434
+],
+  "geometry": {"coordinates":[5.4136,14.0434],"type":"Point"}
+}

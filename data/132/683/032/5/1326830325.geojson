@@ -1,0 +1,67 @@
+{
+  "id": 1326830325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.9734,14.33113,6.9734,14.33113",
+    "geom:latitude":14.33113,
+    "geom:longitude":6.9734,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Zougao",
+    "gn:country_code":"NE",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6849900,
+    "gn:latitude":14.33113,
+    "gn:longitude":6.9734,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Zougao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6849900
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"8ab9490a34f4f1d713807d81ce0f2832",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1326830325,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1326830325,
+    "wof:lastmodified":1537049436,
+    "wof:name":"Zougao",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.9734,
+    14.33113,
+    6.9734,
+    14.33113
+],
+  "geometry": {"coordinates":[6.9734,14.33113],"type":"Point"}
+}

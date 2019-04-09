@@ -1,0 +1,61 @@
+{
+  "id": 1209335809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.89931,12.90563,8.89931,12.90563",
+    "geom:latitude":12.90563,
+    "geom:longitude":8.89931,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dan Drouey",
+    "gn:country_code":"NE",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6972323,
+    "gn:latitude":12.90563,
+    "gn:longitude":8.89931,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Dan Drouey",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6972323
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"6d787b8dbad5697af4db8ac7a9e835ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209335809
+        }
+    ],
+    "wof:id":1209335809,
+    "wof:lastmodified":1536290226,
+    "wof:name":"Dan Drouey",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.89931,
+    12.90563,
+    8.89931,
+    12.90563
+],
+  "geometry": {"coordinates":[8.89931,12.90563],"type":"Point"}
+}

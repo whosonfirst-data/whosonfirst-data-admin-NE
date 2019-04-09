@@ -1,0 +1,71 @@
+{
+  "id": 1293907613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.80824,14.61685,6.80824,14.61685",
+    "geom:latitude":14.61685,
+    "geom:longitude":6.80824,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mailafia",
+    "gn:country_code":"NE",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441077,
+    "gn:latitude":14.61685,
+    "gn:longitude":6.80824,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mailafia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "May Lafia",
+        "Mailafia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441077
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"9d18119e33670c41c294c8249d3b237b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1293907613,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1293907613,
+    "wof:lastmodified":1537674714,
+    "wof:name":"Mailafia",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.80824,
+    14.61685,
+    6.80824,
+    14.61685
+],
+  "geometry": {"coordinates":[6.80824,14.61685],"type":"Point"}
+}

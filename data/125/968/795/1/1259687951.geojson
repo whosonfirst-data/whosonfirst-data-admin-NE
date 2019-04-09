@@ -1,0 +1,67 @@
+{
+  "id": 1259687951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.7831,17.6767,8.7831,17.6767",
+    "geom:latitude":17.6767,
+    "geom:longitude":8.7831,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ighalabelabene",
+    "gn:country_code":"NE",
+    "gn:dem":1477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6578658,
+    "gn:latitude":17.6767,
+    "gn:longitude":8.7831,
+    "gn:modification_date":"2008-09-24",
+    "gn:name":"Ighalab\u00e9labene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675273,
+        421182277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6578658
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"44832909695efe66d671c1d4993ff1e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182277,
+            "locality_id":1259687951,
+            "region_id":85675273
+        }
+    ],
+    "wof:id":1259687951,
+    "wof:lastmodified":1537057986,
+    "wof:name":"Ighalabelabene",
+    "wof:parent_id":421182277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.7831,
+    17.6767,
+    8.7831,
+    17.6767
+],
+  "geometry": {"coordinates":[8.7831,17.6767],"type":"Point"}
+}

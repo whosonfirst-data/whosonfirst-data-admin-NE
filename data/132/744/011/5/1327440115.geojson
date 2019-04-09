@@ -1,0 +1,67 @@
+{
+  "id": 1327440115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.07513,13.15328,12.07513,13.15328",
+    "geom:latitude":13.15328,
+    "geom:longitude":12.07513,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ngibrya",
+    "gn:country_code":"NE",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6778006,
+    "gn:latitude":13.15328,
+    "gn:longitude":12.07513,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Ngibrya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6778006
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"0763afd18d2f3f1eab18fae8ff991b97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051363,
+            "locality_id":1327440115,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1327440115,
+    "wof:lastmodified":1536669571,
+    "wof:name":"Ngibrya",
+    "wof:parent_id":1092051363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.07513,
+    13.15328,
+    12.07513,
+    13.15328
+],
+  "geometry": {"coordinates":[12.07513,13.15328],"type":"Point"}
+}

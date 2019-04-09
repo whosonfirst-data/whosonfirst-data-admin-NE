@@ -1,0 +1,71 @@
+{
+  "id": 1293592339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.25159,13.62649,13.25159,13.62649",
+    "geom:latitude":13.62649,
+    "geom:longitude":13.25159,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Awadam",
+    "gn:country_code":"NE",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448251,
+    "gn:latitude":13.62649,
+    "gn:longitude":13.25159,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Awadam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abadam",
+        "Awadam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448251
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"1d81cd78c4ffc3cbeaca9583b9216fd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051245,
+            "locality_id":1293592339,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1293592339,
+    "wof:lastmodified":1537674875,
+    "wof:name":"Awadam",
+    "wof:parent_id":1092051245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.25159,
+    13.62649,
+    13.25159,
+    13.62649
+],
+  "geometry": {"coordinates":[13.25159,13.62649],"type":"Point"}
+}

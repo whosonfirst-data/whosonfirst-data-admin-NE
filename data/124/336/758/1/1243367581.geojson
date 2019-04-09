@@ -1,0 +1,67 @@
+{
+  "id": 1243367581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.46667,20.76667,12.46667,20.76667",
+    "geom:latitude":20.76667,
+    "geom:longitude":12.46667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sara",
+    "gn:country_code":"NE",
+    "gn:dem":455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439854,
+    "gn:latitude":20.76667,
+    "gn:longitude":12.46667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Sara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675273,
+        1092051881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439854
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"78301b3a72e5f02ae0b416f810482552",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051881,
+            "locality_id":1243367581,
+            "region_id":85675273
+        }
+    ],
+    "wof:id":1243367581,
+    "wof:lastmodified":1536919913,
+    "wof:name":"Sara",
+    "wof:parent_id":1092051881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.46667,
+    20.76667,
+    12.46667,
+    20.76667
+],
+  "geometry": {"coordinates":[12.46667,20.76667],"type":"Point"}
+}

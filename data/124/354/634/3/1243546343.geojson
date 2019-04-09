@@ -1,0 +1,67 @@
+{
+  "id": 1243546343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.65296,13.3856,8.65296,13.3856",
+    "geom:latitude":13.3856,
+    "geom:longitude":8.65296,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Angoual Malam Jatao",
+    "gn:country_code":"NE",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6745649,
+    "gn:latitude":13.3856,
+    "gn:longitude":8.65296,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Angoual M\u00e2lam Jatao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6745649
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"8ef3ea875579d33ac6ab03215e06df40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051165,
+            "locality_id":1243546343,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1243546343,
+    "wof:lastmodified":1536661639,
+    "wof:name":"Angoual Malam Jatao",
+    "wof:parent_id":1092051165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.65296,
+    13.3856,
+    8.65296,
+    13.3856
+],
+  "geometry": {"coordinates":[8.65296,13.3856],"type":"Point"}
+}

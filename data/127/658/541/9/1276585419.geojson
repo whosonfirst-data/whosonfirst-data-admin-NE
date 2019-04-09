@@ -1,0 +1,67 @@
+{
+  "id": 1276585419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.58902,14.15609,7.58902,14.15609",
+    "geom:latitude":14.15609,
+    "geom:longitude":7.58902,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Rigia Rakoumi",
+    "gn:country_code":"NE",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11204218,
+    "gn:latitude":14.15609,
+    "gn:longitude":7.58902,
+    "gn:modification_date":"2016-07-14",
+    "gn:name":"Rigia Rakoumi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11204218
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"d9c2ee450eeab41e44cce40d3abbdb57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051435,
+            "locality_id":1276585419,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1276585419,
+    "wof:lastmodified":1536939273,
+    "wof:name":"Rigia Rakoumi",
+    "wof:parent_id":1092051435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.58902,
+    14.15609,
+    7.58902,
+    14.15609
+],
+  "geometry": {"coordinates":[7.58902,14.15609],"type":"Point"}
+}

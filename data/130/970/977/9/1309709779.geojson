@@ -1,0 +1,73 @@
+{
+  "id": 1309709779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.90127,13.93051,5.90127,13.93051",
+    "geom:latitude":13.93051,
+    "geom:longitude":5.90127,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sabon-Guidan",
+    "gn:country_code":"NE",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2440044,
+    "gn:latitude":13.93051,
+    "gn:longitude":5.90127,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sabon-Guidan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sabon-Gidan",
+        "Sabori-Guida",
+        "Sabon Guida",
+        "Sabon-Guidan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2440044
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"42216d12c20fc9d5ef9b5ce288dda7d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051329,
+            "locality_id":1309709779,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1309709779,
+    "wof:lastmodified":1537674697,
+    "wof:name":"Sabon-Guidan",
+    "wof:parent_id":1092051329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.90127,
+    13.93051,
+    5.90127,
+    13.93051
+],
+  "geometry": {"coordinates":[5.90127,13.93051],"type":"Point"}
+}

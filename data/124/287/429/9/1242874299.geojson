@@ -1,0 +1,67 @@
+{
+  "id": 1242874299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.44476,14.22896,7.44476,14.22896",
+    "geom:latitude":14.22896,
+    "geom:longitude":7.44476,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Maykielewa",
+    "gn:country_code":"NE",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441090,
+    "gn:latitude":14.22896,
+    "gn:longitude":7.44476,
+    "gn:modification_date":"2008-08-21",
+    "gn:name":"Mayki\u00e9l\u00e9wa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441090
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"ce8740b21599bc2848467300940d14ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051435,
+            "locality_id":1242874299,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1242874299,
+    "wof:lastmodified":1536635058,
+    "wof:name":"Maykielewa",
+    "wof:parent_id":1092051435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.44476,
+    14.22896,
+    7.44476,
+    14.22896
+],
+  "geometry": {"coordinates":[7.44476,14.22896],"type":"Point"}
+}

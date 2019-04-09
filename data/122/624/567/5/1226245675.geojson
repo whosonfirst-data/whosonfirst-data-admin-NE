@@ -1,0 +1,67 @@
+{
+  "id": 1226245675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.1963,13.566,11.1963,13.566",
+    "geom:latitude":13.566,
+    "geom:longitude":11.1963,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bougoulouram",
+    "gn:country_code":"NE",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6819572,
+    "gn:latitude":13.566,
+    "gn:longitude":11.1963,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Bougoulouram",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6819572
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"29e57b81ff522c92ee3a71b94d1078ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051363,
+            "locality_id":1226245675,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1226245675,
+    "wof:lastmodified":1536934452,
+    "wof:name":"Bougoulouram",
+    "wof:parent_id":1092051363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.1963,
+    13.566,
+    11.1963,
+    13.566
+],
+  "geometry": {"coordinates":[11.1963,13.566],"type":"Point"}
+}

@@ -1,0 +1,109 @@
+{
+  "id": 421174325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.77863,13.50601,7.77863,13.50601",
+    "geom:latitude":13.50601,
+    "geom:longitude":7.77863,
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Agui\u00e9"
+    ],
+    "name:fin_x_preferred":[
+        "Agui\u00e9"
+    ],
+    "name:fra_x_preferred":[
+        "Agui\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Aguie"
+    ],
+    "name:msa_x_preferred":[
+        "Aguie"
+    ],
+    "name:pol_x_preferred":[
+        "Agui\u00e9"
+    ],
+    "name:ron_x_preferred":[
+        "Aguie"
+    ],
+    "name:unk_x_variant":[
+        "Agy\u00e9"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06af\u0648\u06cc"
+    ],
+    "qs:gn_country":"NE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2448024,
+    "qs:gn_pop":13152,
+    "qs:name":"Aguie",
+    "qs:name_adm0":"Niger",
+    "qs:name_adm1":"Maradi",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":780414,
+    "qs:woe_adm0":23424906,
+    "qs:woe_id":1377602,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":452,
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448024,
+        "gp:id":1377602,
+        "qs:id":780414,
+        "wd:id":"Q398480",
+        "wk:page":"Aguie"
+    },
+    "wof:country":"NE",
+    "wof:created":1459009027,
+    "wof:geomhash":"27e62002f13edbc4aefe285783e12bc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051197,
+            "locality_id":421174325,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":421174325,
+    "wof:lastmodified":1527716228,
+    "wof:name":"Aguie",
+    "wof:parent_id":1092051197,
+    "wof:placetype":"locality",
+    "wof:population":13152,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.77863,
+    13.50601,
+    7.77863,
+    13.50601
+],
+  "geometry": {"coordinates":[7.77863,13.50601],"type":"Point"}
+}

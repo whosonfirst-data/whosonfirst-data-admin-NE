@@ -1,0 +1,67 @@
+{
+  "id": 1310397245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.6375,14.07441,8.6375,14.07441",
+    "geom:latitude":14.07441,
+    "geom:longitude":8.6375,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Maykoumbarwa",
+    "gn:country_code":"NE",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441082,
+    "gn:latitude":14.07441,
+    "gn:longitude":8.6375,
+    "gn:modification_date":"2008-08-26",
+    "gn:name":"Maykoumbarwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441082
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"2300f2ffd37fee17643c4c59076c42a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051411,
+            "locality_id":1310397245,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1310397245,
+    "wof:lastmodified":1537070149,
+    "wof:name":"Maykoumbarwa",
+    "wof:parent_id":1092051411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.6375,
+    14.07441,
+    8.6375,
+    14.07441
+],
+  "geometry": {"coordinates":[8.6375,14.07441],"type":"Point"}
+}

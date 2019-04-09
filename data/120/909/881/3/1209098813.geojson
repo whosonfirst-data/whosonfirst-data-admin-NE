@@ -1,0 +1,61 @@
+{
+  "id": 1209098813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.17333,13.80282,6.17333,13.80282",
+    "geom:latitude":13.80282,
+    "geom:longitude":6.17333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Oubandawaki",
+    "gn:country_code":"NE",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2440338,
+    "gn:latitude":13.80282,
+    "gn:longitude":6.17333,
+    "gn:modification_date":"2008-02-07",
+    "gn:name":"Oubandawaki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2440338
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"29aa12ee14a69a14475327b3d031efda",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209098813
+        }
+    ],
+    "wof:id":1209098813,
+    "wof:lastmodified":1536297800,
+    "wof:name":"Oubandawaki",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.17333,
+    13.80282,
+    6.17333,
+    13.80282
+],
+  "geometry": {"coordinates":[6.17333,13.80282],"type":"Point"}
+}

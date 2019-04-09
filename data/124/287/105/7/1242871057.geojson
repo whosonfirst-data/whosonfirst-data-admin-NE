@@ -1,0 +1,67 @@
+{
+  "id": 1242871057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.5046,14.3865,10.5046,14.3865",
+    "geom:latitude":14.3865,
+    "geom:longitude":10.5046,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dol Tchourie",
+    "gn:country_code":"NE",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6847957,
+    "gn:latitude":14.3865,
+    "gn:longitude":10.5046,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Dol Tchouri\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6847957
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"fd90a7fcc64e46d32d0130f547645991",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051753,
+            "locality_id":1242871057,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1242871057,
+    "wof:lastmodified":1536640107,
+    "wof:name":"Dol Tchourie",
+    "wof:parent_id":1092051753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.5046,
+    14.3865,
+    10.5046,
+    14.3865
+],
+  "geometry": {"coordinates":[10.5046,14.3865],"type":"Point"}
+}

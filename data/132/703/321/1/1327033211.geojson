@@ -1,0 +1,71 @@
+{
+  "id": 1327033211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.20107,13.84052,13.20107,13.84052",
+    "geom:latitude":13.84052,
+    "geom:longitude":13.20107,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tchoukoudjani",
+    "gn:country_code":"NE",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438950,
+    "gn:latitude":13.84052,
+    "gn:longitude":13.20107,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Tchoukoudjani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tchoukoutjany",
+        "Zaroua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438950
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"d5ef35500c031a8d1187cdd0c86ef5c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051245,
+            "locality_id":1327033211,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1327033211,
+    "wof:lastmodified":1537674675,
+    "wof:name":"Tchoukoudjani",
+    "wof:parent_id":1092051245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.20107,
+    13.84052,
+    13.20107,
+    13.84052
+],
+  "geometry": {"coordinates":[13.20107,13.84052],"type":"Point"}
+}

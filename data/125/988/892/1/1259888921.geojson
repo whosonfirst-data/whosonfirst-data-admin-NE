@@ -1,0 +1,67 @@
+{
+  "id": 1259888921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.1291,13.6176,11.1291,13.6176",
+    "geom:latitude":13.6176,
+    "geom:longitude":11.1291,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Koa Dalari",
+    "gn:country_code":"NE",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6819624,
+    "gn:latitude":13.6176,
+    "gn:longitude":11.1291,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Koa Dalari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6819624
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"b9f932e65bc2f7d2cdd21523ae0c103f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051363,
+            "locality_id":1259888921,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1259888921,
+    "wof:lastmodified":1536771766,
+    "wof:name":"Koa Dalari",
+    "wof:parent_id":1092051363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.1291,
+    13.6176,
+    11.1291,
+    13.6176
+],
+  "geometry": {"coordinates":[11.1291,13.6176],"type":"Point"}
+}

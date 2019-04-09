@@ -1,0 +1,71 @@
+{
+  "id": 1293873357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.5003,14.9564,1.5003,14.9564",
+    "geom:latitude":14.9564,
+    "geom:longitude":1.5003,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ti-n-Gara",
+    "gn:country_code":"NE",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438624,
+    "gn:latitude":14.9564,
+    "gn:longitude":1.5003,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Ti-n-Gara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tin Gara",
+        "Ti-n-Gara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438624
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"49db029707e1467dc57998b6c426751c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051633,
+            "locality_id":1293873357,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1293873357,
+    "wof:lastmodified":1537674669,
+    "wof:name":"Ti-n-Gara",
+    "wof:parent_id":1092051633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.5003,
+    14.9564,
+    1.5003,
+    14.9564
+],
+  "geometry": {"coordinates":[1.5003,14.9564],"type":"Point"}
+}

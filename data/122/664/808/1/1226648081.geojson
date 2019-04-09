@@ -1,0 +1,67 @@
+{
+  "id": 1226648081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.64139,12.43173,3.64139,12.43173",
+    "geom:latitude":12.43173,
+    "geom:longitude":3.64139,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Doli",
+    "gn:country_code":"NE",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445512,
+    "gn:latitude":12.43173,
+    "gn:longitude":3.64139,
+    "gn:modification_date":"2009-02-17",
+    "gn:name":"Doli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092050969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445512
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"065b302092d1e6321695db0d4e4e82e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092050969,
+            "locality_id":1226648081,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1226648081,
+    "wof:lastmodified":1536854875,
+    "wof:name":"Doli",
+    "wof:parent_id":1092050969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.64139,
+    12.43173,
+    3.64139,
+    12.43173
+],
+  "geometry": {"coordinates":[3.64139,12.43173],"type":"Point"}
+}

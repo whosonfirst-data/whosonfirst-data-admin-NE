@@ -1,0 +1,67 @@
+{
+  "id": 1243253383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.92731,13.60181,1.92731,13.60181",
+    "geom:latitude":13.60181,
+    "geom:longitude":1.92731,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Boubon",
+    "gn:country_code":"NE",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446600,
+    "gn:latitude":13.60181,
+    "gn:longitude":1.92731,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Boubon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446600
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"383329bda3db40b8ee69babe4b065bda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1243253383,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1243253383,
+    "wof:lastmodified":1537080696,
+    "wof:name":"Boubon",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.92731,
+    13.60181,
+    1.92731,
+    13.60181
+],
+  "geometry": {"coordinates":[1.92731,13.60181],"type":"Point"}
+}

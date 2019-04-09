@@ -1,0 +1,61 @@
+{
+  "id": 1209524333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.74803,13.44102,12.74803,13.44102",
+    "geom:latitude":13.44102,
+    "geom:longitude":12.74803,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Masadina",
+    "gn:country_code":"NE",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6777639,
+    "gn:latitude":13.44102,
+    "gn:longitude":12.74803,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Masadina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6777639
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"e37f3a2201b876308ada6c0a447003bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209524333
+        }
+    ],
+    "wof:id":1209524333,
+    "wof:lastmodified":1536284479,
+    "wof:name":"Masadina",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.74803,
+    13.441020000000002,
+    12.74803,
+    13.441020000000002
+],
+  "geometry": {"coordinates":[12.74803,13.44102],"type":"Point"}
+}

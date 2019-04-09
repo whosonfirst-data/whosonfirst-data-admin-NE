@@ -1,0 +1,71 @@
+{
+  "id": 1309913465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.03077,12.28051,3.03077,12.28051",
+    "geom:latitude":12.28051,
+    "geom:longitude":3.03077,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Alfa Kwara",
+    "gn:country_code":"NE",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447917,
+    "gn:latitude":12.28051,
+    "gn:longitude":3.03077,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Alfa Kwara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alfa-Koara",
+        "Alfa Kwara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447917
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"8b7ab7b53a13d2ee0a76ca3ce24aebeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051041,
+            "locality_id":1309913465,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1309913465,
+    "wof:lastmodified":1537674871,
+    "wof:name":"Alfa Kwara",
+    "wof:parent_id":1092051041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.03077,
+    12.28051,
+    3.03077,
+    12.28051
+],
+  "geometry": {"coordinates":[3.03077,12.28051],"type":"Point"}
+}

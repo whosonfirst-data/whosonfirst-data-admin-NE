@@ -1,0 +1,67 @@
+{
+  "id": 1309704841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.8123,14.2662,5.8123,14.2662",
+    "geom:latitude":14.2662,
+    "geom:longitude":5.8123,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mararafi",
+    "gn:country_code":"NE",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6679352,
+    "gn:latitude":14.2662,
+    "gn:longitude":5.8123,
+    "gn:modification_date":"2008-02-09",
+    "gn:name":"Mararafi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6679352
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"00bf8d0ce87a68f91932d10c5b16067a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051515,
+            "locality_id":1309704841,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1309704841,
+    "wof:lastmodified":1537073645,
+    "wof:name":"Mararafi",
+    "wof:parent_id":1092051515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.8123,
+    14.2662,
+    5.8123,
+    14.2662
+],
+  "geometry": {"coordinates":[5.8123,14.2662],"type":"Point"}
+}

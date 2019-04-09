@@ -1,0 +1,67 @@
+{
+  "id": 1242572023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.7623,14.1883,9.7623,14.1883",
+    "geom:latitude":14.1883,
+    "geom:longitude":9.7623,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Galeram",
+    "gn:country_code":"NE",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6803815,
+    "gn:latitude":14.1883,
+    "gn:longitude":9.7623,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Gal\u00e9ram",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6803815
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"99b9a9558a9a5e97d94b5a66f41ff754",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051411,
+            "locality_id":1242572023,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1242572023,
+    "wof:lastmodified":1537068725,
+    "wof:name":"Galeram",
+    "wof:parent_id":1092051411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.7623,
+    14.1883,
+    9.7623,
+    14.1883
+],
+  "geometry": {"coordinates":[9.7623,14.1883],"type":"Point"}
+}

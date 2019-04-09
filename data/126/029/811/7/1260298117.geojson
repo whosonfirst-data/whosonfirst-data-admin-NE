@@ -1,0 +1,67 @@
+{
+  "id": 1260298117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.2422,13.8306,11.2422,13.8306",
+    "geom:latitude":13.8306,
+    "geom:longitude":11.2422,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Isari",
+    "gn:country_code":"NE",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6819824,
+    "gn:latitude":13.8306,
+    "gn:longitude":11.2422,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Isari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6819824
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"6f28ebc073448fcd1c7ccd941d26b05f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051363,
+            "locality_id":1260298117,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1260298117,
+    "wof:lastmodified":1536692423,
+    "wof:name":"Isari",
+    "wof:parent_id":1092051363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.2422,
+    13.8306,
+    11.2422,
+    13.8306
+],
+  "geometry": {"coordinates":[11.2422,13.8306],"type":"Point"}
+}

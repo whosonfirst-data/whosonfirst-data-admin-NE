@@ -1,0 +1,67 @@
+{
+  "id": 1360291525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.49923,13.7435,6.49923,13.7435",
+    "geom:latitude":13.7435,
+    "geom:longitude":6.49923,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sahin Daka",
+    "gn:country_code":"NE",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439992,
+    "gn:latitude":13.7435,
+    "gn:longitude":6.49923,
+    "gn:modification_date":"2008-02-07",
+    "gn:name":"Sahin Daka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439992
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"95e2e858e87db8b387e4e53d3b7d538d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051229,
+            "locality_id":1360291525,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1360291525,
+    "wof:lastmodified":1536647381,
+    "wof:name":"Sahin Daka",
+    "wof:parent_id":1092051229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.49923,
+    13.7435,
+    6.49923,
+    13.7435
+],
+  "geometry": {"coordinates":[6.49923,13.7435],"type":"Point"}
+}

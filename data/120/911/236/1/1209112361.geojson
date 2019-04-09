@@ -1,0 +1,61 @@
+{
+  "id": 1209112361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.83152,13.67132,6.83152,13.67132",
+    "geom:latitude":13.67132,
+    "geom:longitude":6.83152,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ara",
+    "gn:country_code":"NE",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447594,
+    "gn:latitude":13.67132,
+    "gn:longitude":6.83152,
+    "gn:modification_date":"2008-03-06",
+    "gn:name":"Ara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447594
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"89104c282e4a4131c38ca659c6cd62ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209112361
+        }
+    ],
+    "wof:id":1209112361,
+    "wof:lastmodified":1536297365,
+    "wof:name":"Ara",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.8315199999999985,
+    13.67132,
+    6.8315199999999985,
+    13.67132
+],
+  "geometry": {"coordinates":[6.83152,13.67132],"type":"Point"}
+}

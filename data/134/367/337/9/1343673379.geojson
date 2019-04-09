@@ -1,0 +1,71 @@
+{
+  "id": 1343673379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.4594,13.6176,3.4594,13.6176",
+    "geom:latitude":13.6176,
+    "geom:longitude":3.4594,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sagnina-Koara",
+    "gn:country_code":"NE",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439875,
+    "gn:latitude":13.6176,
+    "gn:longitude":3.4594,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sagnina-Koara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sanyina Kwara",
+        "Sagnina-Koara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439875
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"2ed36dddd7a91127562a5201c48d9ebd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051273,
+            "locality_id":1343673379,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1343673379,
+    "wof:lastmodified":1537674693,
+    "wof:name":"Sagnina-Koara",
+    "wof:parent_id":1092051273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.4594,
+    13.6176,
+    3.4594,
+    13.6176
+],
+  "geometry": {"coordinates":[3.4594,13.6176],"type":"Point"}
+}

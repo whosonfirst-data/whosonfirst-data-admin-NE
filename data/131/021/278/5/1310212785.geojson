@@ -1,0 +1,67 @@
+{
+  "id": 1310212785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.8363,14.2116,3.8363,14.2116",
+    "geom:latitude":14.2116,
+    "geom:longitude":3.8363,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Toumboule",
+    "gn:country_code":"NE",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6698928,
+    "gn:latitude":14.2116,
+    "gn:longitude":3.8363,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Toumboul\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6698928
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"96cd87b878444afc92ee97ea0e4ffaa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051467,
+            "locality_id":1310212785,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1310212785,
+    "wof:lastmodified":1536840651,
+    "wof:name":"Toumboule",
+    "wof:parent_id":1092051467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.8363,
+    14.2116,
+    3.8363,
+    14.2116
+],
+  "geometry": {"coordinates":[3.8363,14.2116],"type":"Point"}
+}

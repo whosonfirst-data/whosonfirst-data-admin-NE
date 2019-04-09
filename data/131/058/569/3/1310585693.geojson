@@ -1,0 +1,71 @@
+{
+  "id": 1310585693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.1907,13.2178,2.1907,13.2178",
+    "geom:latitude":13.2178,
+    "geom:longitude":2.1907,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Fari Beri",
+    "gn:country_code":"NE",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445078,
+    "gn:latitude":13.2178,
+    "gn:longitude":2.1907,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Fari B\u00e9ri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fari B\u00e9ri Damari",
+        "Fari B\u00e9ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445078
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"49ddc840d5e33ad6183176d348907dbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051103,
+            "locality_id":1310585693,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1310585693,
+    "wof:lastmodified":1537674810,
+    "wof:name":"Fari Beri",
+    "wof:parent_id":1092051103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1907,
+    13.2178,
+    2.1907,
+    13.2178
+],
+  "geometry": {"coordinates":[2.1907,13.2178],"type":"Point"}
+}

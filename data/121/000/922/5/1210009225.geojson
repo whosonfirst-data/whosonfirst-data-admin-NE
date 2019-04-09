@@ -1,0 +1,67 @@
+{
+  "id": 1210009225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.8847,15.1033,4.8847,15.1033",
+    "geom:latitude":15.1033,
+    "geom:longitude":4.8847,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Adanbar",
+    "gn:country_code":"NE",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6688887,
+    "gn:latitude":15.1033,
+    "gn:longitude":4.8847,
+    "gn:modification_date":"2008-02-09",
+    "gn:name":"Adanbar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6688887
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"832732372a33a923f742bc8eae3960de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051609,
+            "locality_id":1210009225,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1210009225,
+    "wof:lastmodified":1536370302,
+    "wof:name":"Adanbar",
+    "wof:parent_id":1092051609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.8847,
+    15.1033,
+    4.8847,
+    15.1033
+],
+  "geometry": {"coordinates":[4.8847,15.1033],"type":"Point"}
+}

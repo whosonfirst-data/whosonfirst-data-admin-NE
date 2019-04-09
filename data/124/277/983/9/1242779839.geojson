@@ -1,0 +1,67 @@
+{
+  "id": 1242779839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.9319,13.3275,2.9319,13.3275",
+    "geom:latitude":13.3275,
+    "geom:longitude":2.9319,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bangoubi",
+    "gn:country_code":"NE",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447153,
+    "gn:latitude":13.3275,
+    "gn:longitude":2.9319,
+    "gn:modification_date":"2008-10-15",
+    "gn:name":"Bangoubi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447153
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"d01278b8bbea3cdf548ac7ad586d5756",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051075,
+            "locality_id":1242779839,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1242779839,
+    "wof:lastmodified":1536772987,
+    "wof:name":"Bangoubi",
+    "wof:parent_id":1092051075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.9319,
+    13.3275,
+    2.9319,
+    13.3275
+],
+  "geometry": {"coordinates":[2.9319,13.3275],"type":"Point"}
+}

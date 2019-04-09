@@ -1,0 +1,74 @@
+{
+  "id": 1210001033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.6392,14.8072,3.6392,14.8072",
+    "geom:latitude":14.8072,
+    "geom:longitude":3.6392,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Wella Sofon Gari",
+    "gn:country_code":"NE",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2440321,
+    "gn:latitude":14.8072,
+    "gn:longitude":3.6392,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"W\u00e8lla Sofon Gari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouella",
+        "Weyla",
+        "Ou\u00e8lla Sofon Gari",
+        "Ou\u00e9la",
+        "W\u00e8lla Sofon Gari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2440321
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"49e741018cdb944530b25c42773f3f54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051695,
+            "locality_id":1210001033,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1210001033,
+    "wof:lastmodified":1537674703,
+    "wof:name":"Wella Sofon Gari",
+    "wof:parent_id":1092051695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.6392,
+    14.8072,
+    3.6392,
+    14.8072
+],
+  "geometry": {"coordinates":[3.6392,14.8072],"type":"Point"}
+}

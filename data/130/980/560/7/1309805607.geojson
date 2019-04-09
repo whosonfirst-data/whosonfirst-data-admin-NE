@@ -1,0 +1,71 @@
+{
+  "id": 1309805607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.09547,12.98403,4.09547,12.98403",
+    "geom:latitude":12.98403,
+    "geom:longitude":4.09547,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Birni Nfala",
+    "gn:country_code":"NE",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446755,
+    "gn:latitude":12.98403,
+    "gn:longitude":4.09547,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Birni Nfala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Birnin Falla",
+        "Birni Nfala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675447,
+        1108563027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446755
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"778df897e8ec90fc5f82cc1e65576851",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563027,
+            "locality_id":1309805607,
+            "region_id":85675447
+        }
+    ],
+    "wof:id":1309805607,
+    "wof:lastmodified":1537674849,
+    "wof:name":"Birni Nfala",
+    "wof:parent_id":1108563027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.09547,
+    12.98403,
+    4.09547,
+    12.98403
+],
+  "geometry": {"coordinates":[4.09547,12.98403],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293481673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.52933,13.49673,8.52933,13.49673",
+    "geom:latitude":13.49673,
+    "geom:longitude":8.52933,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Angoual Doutchi",
+    "gn:country_code":"NE",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6736806,
+    "gn:latitude":13.49673,
+    "gn:longitude":8.52933,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Angoual Doutchi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u00e2lam Jatan",
+        "Angoual Doutchi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6736806
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"76d0e86fc9a74e1885e346c3194f9c9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051165,
+            "locality_id":1293481673,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1293481673,
+    "wof:lastmodified":1537674885,
+    "wof:name":"Angoual Doutchi",
+    "wof:parent_id":1092051165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.52933,
+    13.49673,
+    8.52933,
+    13.49673
+],
+  "geometry": {"coordinates":[8.52933,13.49673],"type":"Point"}
+}

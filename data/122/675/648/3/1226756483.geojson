@@ -1,0 +1,71 @@
+{
+  "id": 1226756483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.6703,13.3152,11.6703,13.3152",
+    "geom:latitude":13.3152,
+    "geom:longitude":11.6703,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bougdouma",
+    "gn:country_code":"NE",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6819400,
+    "gn:latitude":13.3152,
+    "gn:longitude":11.6703,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Bougdouma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Burduma",
+        "Bougdouma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6819400
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"01d05c8294a28eac6b825544d284bf62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051363,
+            "locality_id":1226756483,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1226756483,
+    "wof:lastmodified":1537674887,
+    "wof:name":"Bougdouma",
+    "wof:parent_id":1092051363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.6703,
+    13.3152,
+    11.6703,
+    13.3152
+],
+  "geometry": {"coordinates":[11.6703,13.3152],"type":"Point"}
+}

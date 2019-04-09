@@ -1,0 +1,67 @@
+{
+  "id": 1276330141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.33333,13.36667,2.33333,13.36667",
+    "geom:latitude":13.36667,
+    "geom:longitude":2.33333,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Bitaga Zarga",
+    "gn:country_code":"NE",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446739,
+    "gn:latitude":13.36667,
+    "gn:longitude":2.33333,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Bitaga Zarga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446739
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"53650a6201bcc6ae3256a77d262ee66f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1276330141,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1276330141,
+    "wof:lastmodified":1536783333,
+    "wof:name":"Bitaga Zarga",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.33333,
+    13.36667,
+    2.33333,
+    13.36667
+],
+  "geometry": {"coordinates":[2.33333,13.36667],"type":"Point"}
+}

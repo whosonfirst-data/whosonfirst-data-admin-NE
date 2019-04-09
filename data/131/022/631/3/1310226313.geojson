@@ -1,0 +1,71 @@
+{
+  "id": 1310226313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.33847,13.73505,8.33847,13.73505",
+    "geom:latitude":13.73505,
+    "geom:longitude":8.33847,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dan Makamnia",
+    "gn:country_code":"NE",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6732826,
+    "gn:latitude":13.73505,
+    "gn:longitude":8.33847,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Dan Makamnia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gamji",
+        "Dan Makamnia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6732826
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"eee453ca2188bf83495fb4f5ae73940f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051411,
+            "locality_id":1310226313,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1310226313,
+    "wof:lastmodified":1537674884,
+    "wof:name":"Dan Makamnia",
+    "wof:parent_id":1092051411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.33847,
+    13.73505,
+    8.33847,
+    13.73505
+],
+  "geometry": {"coordinates":[8.33847,13.73505],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226166737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.26843,13.19514,7.26843,13.19514",
+    "geom:latitude":13.19514,
+    "geom:longitude":7.26843,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ba-kouassa",
+    "gn:country_code":"NE",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6721658,
+    "gn:latitude":13.19514,
+    "gn:longitude":7.26843,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"B\u00e2-kou\u00e2ss\u00e2",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6721658
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"a3bdc78c482029f579d4e11b5c3aa686",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051007,
+            "locality_id":1226166737,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1226166737,
+    "wof:lastmodified":1537045553,
+    "wof:name":"Ba-kouassa",
+    "wof:parent_id":1092051007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.26843,
+    13.19514,
+    7.26843,
+    13.19514
+],
+  "geometry": {"coordinates":[7.26843,13.19514],"type":"Point"}
+}

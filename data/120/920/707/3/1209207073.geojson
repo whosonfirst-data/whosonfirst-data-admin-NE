@@ -1,0 +1,61 @@
+{
+  "id": 1209207073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.09533,13.71527,6.09533,13.71527",
+    "geom:latitude":13.71527,
+    "geom:longitude":6.09533,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Marake",
+    "gn:country_code":"NE",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441280,
+    "gn:latitude":13.71527,
+    "gn:longitude":6.09533,
+    "gn:modification_date":"2008-02-07",
+    "gn:name":"Marak\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441280
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"e08db958d621ef17768711d627161237",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209207073
+        }
+    ],
+    "wof:id":1209207073,
+    "wof:lastmodified":1536294419,
+    "wof:name":"Marake",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.0953300000000015,
+    13.71527,
+    6.0953300000000015,
+    13.71527
+],
+  "geometry": {"coordinates":[6.09533,13.71527],"type":"Point"}
+}

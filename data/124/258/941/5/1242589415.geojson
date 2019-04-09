@@ -1,0 +1,70 @@
+{
+  "id": 1242589415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.94992,12.82454,2.94992,12.82454",
+    "geom:latitude":12.82454,
+    "geom:longitude":2.94992,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Guirbani Kouara",
+    "gn:country_code":"NE",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442355,
+    "gn:latitude":12.82454,
+    "gn:longitude":2.94992,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Guirbani Kouara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kobiol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442355
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"ec3f616407e25a9d75b708afa2c4160c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051075,
+            "locality_id":1242589415,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1242589415,
+    "wof:lastmodified":1537674747,
+    "wof:name":"Guirbani Kouara",
+    "wof:parent_id":1092051075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.94992,
+    12.82454,
+    2.94992,
+    12.82454
+],
+  "geometry": {"coordinates":[2.94992,12.82454],"type":"Point"}
+}

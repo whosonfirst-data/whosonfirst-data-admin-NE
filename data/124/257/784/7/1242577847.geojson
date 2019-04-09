@@ -1,0 +1,67 @@
+{
+  "id": 1242577847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.22888,14.00339,7.22888,14.00339",
+    "geom:latitude":14.00339,
+    "geom:longitude":7.22888,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Maine",
+    "gn:country_code":"NE",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441450,
+    "gn:latitude":14.00339,
+    "gn:longitude":7.22888,
+    "gn:modification_date":"2008-08-21",
+    "gn:name":"Main\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441450
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"a37b70cb877bc787bcda04555f7b9c66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1242577847,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1242577847,
+    "wof:lastmodified":1537060602,
+    "wof:name":"Maine",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.22888,
+    14.00339,
+    7.22888,
+    14.00339
+],
+  "geometry": {"coordinates":[7.22888,14.00339],"type":"Point"}
+}

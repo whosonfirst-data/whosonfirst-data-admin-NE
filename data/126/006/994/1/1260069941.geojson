@@ -1,0 +1,67 @@
+{
+  "id": 1260069941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.83368,14.25427,2.83368,14.25427",
+    "geom:latitude":14.25427,
+    "geom:longitude":2.83368,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Boukou Beri",
+    "gn:country_code":"NE",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6827255,
+    "gn:latitude":14.25427,
+    "gn:longitude":2.83368,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Boukou B\u00e9ri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6827255
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"560cc57e9953d44a76befc59bba8b440",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051695,
+            "locality_id":1260069941,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1260069941,
+    "wof:lastmodified":1537006829,
+    "wof:name":"Boukou Beri",
+    "wof:parent_id":1092051695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.83368,
+    14.25427,
+    2.83368,
+    14.25427
+],
+  "geometry": {"coordinates":[2.83368,14.25427],"type":"Point"}
+}

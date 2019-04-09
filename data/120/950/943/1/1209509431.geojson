@@ -1,0 +1,61 @@
+{
+  "id": 1209509431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.0229,13.9349,9.0229,13.9349",
+    "geom:latitude":13.9349,
+    "geom:longitude":9.0229,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Garin Didigna",
+    "gn:country_code":"NE",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6806730,
+    "gn:latitude":13.9349,
+    "gn:longitude":9.0229,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Garin Didigna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6806730
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"b5e5caaa6c988eeb23baa8d1e3a19557",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209509431
+        }
+    ],
+    "wof:id":1209509431,
+    "wof:lastmodified":1536284929,
+    "wof:name":"Garin Didigna",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.0229,
+    13.9349,
+    9.0229,
+    13.9349
+],
+  "geometry": {"coordinates":[9.0229,13.9349],"type":"Point"}
+}

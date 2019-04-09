@@ -1,0 +1,67 @@
+{
+  "id": 1243563581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.36575,13.21128,12.36575,13.21128",
+    "geom:latitude":13.21128,
+    "geom:longitude":12.36575,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Malam Bazamiri",
+    "gn:country_code":"NE",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6778053,
+    "gn:latitude":13.21128,
+    "gn:longitude":12.36575,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Malam Bazamiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6778053
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"2f2a3d186e3b5b8a7b96398c5ac2978a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051245,
+            "locality_id":1243563581,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1243563581,
+    "wof:lastmodified":1536635394,
+    "wof:name":"Malam Bazamiri",
+    "wof:parent_id":1092051245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.36575,
+    13.21128,
+    12.36575,
+    13.21128
+],
+  "geometry": {"coordinates":[12.36575,13.21128],"type":"Point"}
+}

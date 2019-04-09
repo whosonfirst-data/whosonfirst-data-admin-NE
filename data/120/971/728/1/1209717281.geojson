@@ -1,0 +1,72 @@
+{
+  "id": 1209717281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.93333,12.83333,2.93333,12.83333",
+    "geom:latitude":12.83333,
+    "geom:longitude":2.93333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Yenijende",
+    "gn:cc2":"NE",
+    "gn:country_code":"NE",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437978,
+    "gn:latitude":12.83333,
+    "gn:longitude":2.93333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yenijend\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yenigend\u00e9",
+        "Yenijend\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437978
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"30387a6d1cd67b9d022a370c8ba1d678",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051075,
+            "locality_id":1209717281,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1209717281,
+    "wof:lastmodified":1537674652,
+    "wof:name":"Yenijende",
+    "wof:parent_id":1092051075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.93333,
+    12.83333,
+    2.93333,
+    12.83333
+],
+  "geometry": {"coordinates":[2.93333,12.83333],"type":"Point"}
+}

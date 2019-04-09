@@ -1,0 +1,71 @@
+{
+  "id": 1310389797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.7102,13.4415,2.7102,13.4415",
+    "geom:latitude":13.4415,
+    "geom:longitude":2.7102,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Guileyni",
+    "gn:country_code":"NE",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2443503,
+    "gn:latitude":13.4415,
+    "gn:longitude":2.7102,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Guileyni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guidal-Eyni",
+        "Guileyni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2443503
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"1ec57ce3ad27a9ddc4097a836d716b3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1310389797,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1310389797,
+    "wof:lastmodified":1537674768,
+    "wof:name":"Guileyni",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.7102,
+    13.4415,
+    2.7102,
+    13.4415
+],
+  "geometry": {"coordinates":[2.7102,13.4415],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259583925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.13238,14.02731,7.13238,14.02731",
+    "geom:latitude":14.02731,
+    "geom:longitude":7.13238,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Guidan Kaora",
+    "gn:country_code":"NE",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2443780,
+    "gn:latitude":14.02731,
+    "gn:longitude":7.13238,
+    "gn:modification_date":"2008-08-21",
+    "gn:name":"Guidan Kaora",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2443780
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"866cec49d7fb4374c74fcc5c1214414e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1259583925,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1259583925,
+    "wof:lastmodified":1536714515,
+    "wof:name":"Guidan Kaora",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.13238,
+    14.02731,
+    7.13238,
+    14.02731
+],
+  "geometry": {"coordinates":[7.13238,14.02731],"type":"Point"}
+}

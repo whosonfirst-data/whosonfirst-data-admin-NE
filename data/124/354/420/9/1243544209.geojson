@@ -1,0 +1,71 @@
+{
+  "id": 1243544209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.6018,13.7204,2.6018,13.7204",
+    "geom:latitude":13.7204,
+    "geom:longitude":2.6018,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kolo Diogono",
+    "gn:country_code":"NE",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442245,
+    "gn:latitude":13.7204,
+    "gn:longitude":2.6018,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kolo Diogono",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kolo Diogona",
+        "Kolo Diogono"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442245
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"d2b00fb228b1ffd191067b06b8ccafe8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1243544209,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1243544209,
+    "wof:lastmodified":1537674744,
+    "wof:name":"Kolo Diogono",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6018,
+    13.7204,
+    2.6018,
+    13.7204
+],
+  "geometry": {"coordinates":[2.6018,13.7204],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343258525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.1265,13.3247,2.1265,13.3247",
+    "geom:latitude":13.3247,
+    "geom:longitude":2.1265,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Dionane",
+    "gn:country_code":"NE",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2568981,
+    "gn:latitude":13.3247,
+    "gn:longitude":2.1265,
+    "gn:modification_date":"2008-10-15",
+    "gn:name":"Dionan\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2568981
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"bd0235614c5a20e6e69f2f0ccc0c28eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051103,
+            "locality_id":1343258525,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1343258525,
+    "wof:lastmodified":1537036137,
+    "wof:name":"Dionane",
+    "wof:parent_id":1092051103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1265,
+    13.3247,
+    2.1265,
+    13.3247
+],
+  "geometry": {"coordinates":[2.1265,13.3247],"type":"Point"}
+}

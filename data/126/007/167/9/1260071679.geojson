@@ -1,0 +1,71 @@
+{
+  "id": 1260071679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.0652,14.6127,8.0652,14.6127",
+    "geom:latitude":14.6127,
+    "geom:longitude":8.0652,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Guidan Malam",
+    "gn:country_code":"NE",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2443706,
+    "gn:latitude":14.6127,
+    "gn:longitude":8.0652,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Guidan Malam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gidan Malam",
+        "Guidan Malam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2443706
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"5a164994f7d1c16b1cd73f96e7f4b32f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1260071679,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1260071679,
+    "wof:lastmodified":1537674775,
+    "wof:name":"Guidan Malam",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.0652,
+    14.6127,
+    8.0652,
+    14.6127
+],
+  "geometry": {"coordinates":[8.0652,14.6127],"type":"Point"}
+}

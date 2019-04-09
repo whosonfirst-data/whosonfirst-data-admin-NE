@@ -1,0 +1,71 @@
+{
+  "id": 1293508675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.67066,14.39574,2.67066,14.39574",
+    "geom:latitude":14.39574,
+    "geom:longitude":2.67066,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tilou Kaina",
+    "gn:country_code":"NE",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438666,
+    "gn:latitude":14.39574,
+    "gn:longitude":2.67066,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Tilou Kaina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tilou Keyna",
+        "Tilou Kaina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438666
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"69bad2d9b63946431ad07f0a09b6f213",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051633,
+            "locality_id":1293508675,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1293508675,
+    "wof:lastmodified":1537674670,
+    "wof:name":"Tilou Kaina",
+    "wof:parent_id":1092051633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.67066,
+    14.39574,
+    2.67066,
+    14.39574
+],
+  "geometry": {"coordinates":[2.67066,14.39574],"type":"Point"}
+}

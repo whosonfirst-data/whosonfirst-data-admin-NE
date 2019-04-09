@@ -1,0 +1,67 @@
+{
+  "id": 1326727797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.93333,14.3,4.93333,14.3",
+    "geom:latitude":14.3,
+    "geom:longitude":4.93333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mazzia",
+    "gn:country_code":"NE",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2440991,
+    "gn:latitude":14.3,
+    "gn:longitude":4.93333,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Mazzia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2440991
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"9e81db4b3bfcfa9ab658b41d5f3e372b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051485,
+            "locality_id":1326727797,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1326727797,
+    "wof:lastmodified":1536702472,
+    "wof:name":"Mazzia",
+    "wof:parent_id":1092051485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.93333,
+    14.3,
+    4.93333,
+    14.3
+],
+  "geometry": {"coordinates":[4.93333,14.3],"type":"Point"}
+}

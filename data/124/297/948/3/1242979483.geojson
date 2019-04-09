@@ -1,0 +1,67 @@
+{
+  "id": 1242979483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.57441,13.34567,12.57441,13.34567",
+    "geom:latitude":13.34567,
+    "geom:longitude":12.57441,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Meleyri",
+    "gn:country_code":"NE",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6777927,
+    "gn:latitude":13.34567,
+    "gn:longitude":12.57441,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"M\u00e9leyri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6777927
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"48c69113a6bc90b6a038866301c8b53e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051245,
+            "locality_id":1242979483,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1242979483,
+    "wof:lastmodified":1536981025,
+    "wof:name":"Meleyri",
+    "wof:parent_id":1092051245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.57441,
+    13.34567,
+    12.57441,
+    13.34567
+],
+  "geometry": {"coordinates":[12.57441,13.34567],"type":"Point"}
+}

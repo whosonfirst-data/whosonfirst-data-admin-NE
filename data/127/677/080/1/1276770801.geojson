@@ -1,0 +1,67 @@
+{
+  "id": 1276770801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.04107,12.90101,4.04107,12.90101",
+    "geom:latitude":12.90101,
+    "geom:longitude":4.04107,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tungan Magajia",
+    "gn:country_code":"NE",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7040152,
+    "gn:latitude":12.90101,
+    "gn:longitude":4.04107,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Tungan Magajia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675447,
+        1108563027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7040152
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"535da42feb4c0e8b06be180b12df90d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563027,
+            "locality_id":1276770801,
+            "region_id":85675447
+        }
+    ],
+    "wof:id":1276770801,
+    "wof:lastmodified":1536689767,
+    "wof:name":"Tungan Magajia",
+    "wof:parent_id":1108563027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.04107,
+    12.90101,
+    4.04107,
+    12.90101
+],
+  "geometry": {"coordinates":[4.04107,12.90101],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259477735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.31804,14.28813,1.31804,14.28813",
+    "geom:latitude":14.28813,
+    "geom:longitude":1.31804,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Darbani",
+    "gn:country_code":"NE",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445862,
+    "gn:latitude":14.28813,
+    "gn:longitude":1.31804,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Darbani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        890429081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445862
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"d66c4b04326bc8248d285c4dd992889c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":890429081,
+            "locality_id":1259477735,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1259477735,
+    "wof:lastmodified":1536865792,
+    "wof:name":"Darbani",
+    "wof:parent_id":890429081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.31804,
+    14.28813,
+    1.31804,
+    14.28813
+],
+  "geometry": {"coordinates":[1.31804,14.28813],"type":"Point"}
+}

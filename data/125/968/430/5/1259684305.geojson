@@ -1,0 +1,67 @@
+{
+  "id": 1259684305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.06805,13.23167,7.06805,13.23167",
+    "geom:latitude":13.23167,
+    "geom:longitude":7.06805,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Gabi Ta-jae",
+    "gn:country_code":"NE",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444890,
+    "gn:latitude":13.23167,
+    "gn:longitude":7.06805,
+    "gn:modification_date":"2008-02-19",
+    "gn:name":"Gabi T\u00e2-ja\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444890
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"fde7d8c4eafebfdacc54b0fb878bc8da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051007,
+            "locality_id":1259684305,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1259684305,
+    "wof:lastmodified":1537063035,
+    "wof:name":"Gabi Ta-jae",
+    "wof:parent_id":1092051007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.06805,
+    13.23167,
+    7.06805,
+    13.23167
+],
+  "geometry": {"coordinates":[7.06805,13.23167],"type":"Point"}
+}

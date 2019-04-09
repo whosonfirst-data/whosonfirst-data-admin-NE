@@ -1,0 +1,72 @@
+{
+  "id": 1310522907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.79651,13.77202,8.79651,13.77202",
+    "geom:latitude":13.77202,
+    "geom:longitude":8.79651,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tirmini",
+    "gn:country_code":"NE",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438843,
+    "gn:latitude":13.77202,
+    "gn:longitude":8.79651,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tirmini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Termini",
+        "Tirmini"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438843,
+        "wk:page":"Tirmini"
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"34895b55cff7cc7ecc61f3b962d22409",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051411,
+            "locality_id":1310522907,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1310522907,
+    "wof:lastmodified":1537674673,
+    "wof:name":"Tirmini",
+    "wof:parent_id":1092051411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.79651,
+    13.77202,
+    8.79651,
+    13.77202
+],
+  "geometry": {"coordinates":[8.79651,13.77202],"type":"Point"}
+}

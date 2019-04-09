@@ -1,0 +1,74 @@
+{
+  "id": 1226339715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.7832,15.6207,4.7832,15.6207",
+    "geom:latitude":15.6207,
+    "geom:longitude":4.7832,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Telemses",
+    "gn:country_code":"NE",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438883,
+    "gn:latitude":15.6207,
+    "gn:longitude":4.7832,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"T\u00e9lems\u00e8s",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tlems\u00e9s",
+        "Tlemc\u00e8s",
+        "Tlemecs",
+        "Tilems\u00e8s",
+        "T\u00e9lems\u00e8s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438883
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"139f727b481cf147758df0e8dc2b1180",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051813,
+            "locality_id":1226339715,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1226339715,
+    "wof:lastmodified":1537674674,
+    "wof:name":"Telemses",
+    "wof:parent_id":1092051813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.7832,
+    15.6207,
+    4.7832,
+    15.6207
+],
+  "geometry": {"coordinates":[4.7832,15.6207],"type":"Point"}
+}

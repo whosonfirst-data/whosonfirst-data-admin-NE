@@ -1,0 +1,67 @@
+{
+  "id": 1310493273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.6226,14.6458,8.6226,14.6458",
+    "geom:latitude":14.6458,
+    "geom:longitude":8.6226,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Koupkoup",
+    "gn:country_code":"NE",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441908,
+    "gn:latitude":14.6458,
+    "gn:longitude":8.6226,
+    "gn:modification_date":"2008-08-26",
+    "gn:name":"Koupkoup",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441908
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"67b3ce6863582e4ef58308d009c6d458",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1310493273,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1310493273,
+    "wof:lastmodified":1536935340,
+    "wof:name":"Koupkoup",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.6226,
+    14.6458,
+    8.6226,
+    14.6458
+],
+  "geometry": {"coordinates":[8.6226,14.6458],"type":"Point"}
+}

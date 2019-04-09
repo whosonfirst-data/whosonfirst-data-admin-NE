@@ -1,0 +1,71 @@
+{
+  "id": 1310299827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.2538,14.1581,3.2538,14.1581",
+    "geom:latitude":14.1581,
+    "geom:longitude":3.2538,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Louma",
+    "gn:country_code":"NE",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441557,
+    "gn:latitude":14.1581,
+    "gn:longitude":3.2538,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Louma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Luma",
+        "Louma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441557
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"5817929d6c36b323268044f9551b6dca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051695,
+            "locality_id":1310299827,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1310299827,
+    "wof:lastmodified":1537674724,
+    "wof:name":"Louma",
+    "wof:parent_id":1092051695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.2538,
+    14.1581,
+    3.2538,
+    14.1581
+],
+  "geometry": {"coordinates":[3.2538,14.1581],"type":"Point"}
+}

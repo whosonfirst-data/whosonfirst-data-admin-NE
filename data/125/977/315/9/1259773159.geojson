@@ -1,0 +1,67 @@
+{
+  "id": 1259773159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.04083,13.9007,1.04083,13.9007",
+    "geom:latitude":13.9007,
+    "geom:longitude":1.04083,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Boura",
+    "gn:country_code":"NE",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446505,
+    "gn:latitude":13.9007,
+    "gn:longitude":1.04083,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Boura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446505
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"de58098cfc79b980357c1ce381b625d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051545,
+            "locality_id":1259773159,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1259773159,
+    "wof:lastmodified":1536938784,
+    "wof:name":"Boura",
+    "wof:parent_id":1092051545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.04083,
+    13.9007,
+    1.04083,
+    13.9007
+],
+  "geometry": {"coordinates":[1.04083,13.9007],"type":"Point"}
+}

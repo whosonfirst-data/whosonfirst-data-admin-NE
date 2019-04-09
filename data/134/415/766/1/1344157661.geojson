@@ -1,0 +1,71 @@
+{
+  "id": 1344157661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.087,13.28161,7.087,13.28161",
+    "geom:latitude":13.28161,
+    "geom:longitude":7.087,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dan Gaya",
+    "gn:country_code":"NE",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6718201,
+    "gn:latitude":13.28161,
+    "gn:longitude":7.087,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Dan Gaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tokarawa Tagabas",
+        "Dan Gaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6718201
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"1c6f6ddc229d7d2c7de4ad14a3ca23cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051007,
+            "locality_id":1344157661,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1344157661,
+    "wof:lastmodified":1537674883,
+    "wof:name":"Dan Gaya",
+    "wof:parent_id":1092051007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.087,
+    13.28161,
+    7.087,
+    13.28161
+],
+  "geometry": {"coordinates":[7.087,13.28161],"type":"Point"}
+}

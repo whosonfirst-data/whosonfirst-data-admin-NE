@@ -1,0 +1,67 @@
+{
+  "id": 1293595189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.16904,14.22133,7.16904,14.22133",
+    "geom:latitude":14.22133,
+    "geom:longitude":7.16904,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dan Kande",
+    "gn:country_code":"NE",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446034,
+    "gn:latitude":14.22133,
+    "gn:longitude":7.16904,
+    "gn:modification_date":"2008-08-21",
+    "gn:name":"Dan Kand\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446034
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"2946e624f9279a040b8a43d4788e3564",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1293595189,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1293595189,
+    "wof:lastmodified":1536630166,
+    "wof:name":"Dan Kande",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.16904,
+    14.22133,
+    7.16904,
+    14.22133
+],
+  "geometry": {"coordinates":[7.16904,14.22133],"type":"Point"}
+}

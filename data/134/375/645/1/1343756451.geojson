@@ -1,0 +1,74 @@
+{
+  "id": 1343756451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.7,13.3,9.7,13.3",
+    "geom:latitude":13.3,
+    "geom:longitude":9.7,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Diguimoua",
+    "gn:cc2":"NE",
+    "gn:country_code":"NE",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445694,
+    "gn:latitude":13.3,
+    "gn:longitude":9.7,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Diguimoua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Diguinaoua",
+        "Diguinoua",
+        "Digimua",
+        "Diguimoua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445694
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"d73a1e81eb26302a55bc05fecb63d4ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051133,
+            "locality_id":1343756451,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1343756451,
+    "wof:lastmodified":1537674824,
+    "wof:name":"Diguimoua",
+    "wof:parent_id":1092051133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.7,
+    13.3,
+    9.7,
+    13.3
+],
+  "geometry": {"coordinates":[9.7,13.3],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310003417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.3174,14.00703,6.3174,14.00703",
+    "geom:latitude":14.00703,
+    "geom:longitude":6.3174,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Gawakouke",
+    "gn:country_code":"NE",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6849989,
+    "gn:latitude":14.00703,
+    "gn:longitude":6.3174,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Gawakouk\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6849989
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"1f157f220c8635af7d9a8e27a6587eba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051329,
+            "locality_id":1310003417,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1310003417,
+    "wof:lastmodified":1536645854,
+    "wof:name":"Gawakouke",
+    "wof:parent_id":1092051329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.3174,
+    14.00703,
+    6.3174,
+    14.00703
+],
+  "geometry": {"coordinates":[6.3174,14.00703],"type":"Point"}
+}

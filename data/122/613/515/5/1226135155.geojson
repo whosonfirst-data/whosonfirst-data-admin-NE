@@ -1,0 +1,71 @@
+{
+  "id": 1226135155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.25092,14.76313,6.25092,14.76313",
+    "geom:latitude":14.76313,
+    "geom:longitude":6.25092,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tesak",
+    "gn:country_code":"NE",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438824,
+    "gn:latitude":14.76313,
+    "gn:longitude":6.25092,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"T\u00e9sak",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tessak",
+        "T\u00e9sak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438824
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"152d7d91748a7cc9bbeca948da745084",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051577,
+            "locality_id":1226135155,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1226135155,
+    "wof:lastmodified":1537674673,
+    "wof:name":"Tesak",
+    "wof:parent_id":1092051577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.25092,
+    14.76313,
+    6.25092,
+    14.76313
+],
+  "geometry": {"coordinates":[6.25092,14.76313],"type":"Point"}
+}

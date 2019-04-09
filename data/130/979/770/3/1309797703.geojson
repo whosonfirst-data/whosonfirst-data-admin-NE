@@ -1,0 +1,67 @@
+{
+  "id": 1309797703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.69889,13.36298,8.69889,13.36298",
+    "geom:latitude":13.36298,
+    "geom:longitude":8.69889,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zangounnan Guertaou",
+    "gn:country_code":"NE",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6745786,
+    "gn:latitude":13.36298,
+    "gn:longitude":8.69889,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Zangounnan Guertaou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6745786
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"762d9667629450a0c3d266144f91b632",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051165,
+            "locality_id":1309797703,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1309797703,
+    "wof:lastmodified":1536943310,
+    "wof:name":"Zangounnan Guertaou",
+    "wof:parent_id":1092051165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.69889,
+    13.36298,
+    8.69889,
+    13.36298
+],
+  "geometry": {"coordinates":[8.69889,13.36298],"type":"Point"}
+}

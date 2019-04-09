@@ -1,0 +1,71 @@
+{
+  "id": 1327426557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.9381,14.6869,5.9381,14.6869",
+    "geom:latitude":14.6869,
+    "geom:longitude":5.9381,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sakaraoua",
+    "gn:country_code":"NE",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6679687,
+    "gn:latitude":14.6869,
+    "gn:longitude":5.9381,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sakaraoua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sakarawa",
+        "Sakaraoua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6679687
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"2df560a3b0e671abeb186919547d33e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051577,
+            "locality_id":1327426557,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1327426557,
+    "wof:lastmodified":1537674881,
+    "wof:name":"Sakaraoua",
+    "wof:parent_id":1092051577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.9381,
+    14.6869,
+    5.9381,
+    14.6869
+],
+  "geometry": {"coordinates":[5.9381,14.6869],"type":"Point"}
+}

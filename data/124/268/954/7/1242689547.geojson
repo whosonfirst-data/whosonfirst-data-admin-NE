@@ -1,0 +1,71 @@
+{
+  "id": 1242689547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.39016,12.16734,3.39016,12.16734",
+    "geom:latitude":12.16734,
+    "geom:longitude":3.39016,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Gari Amani",
+    "gn:country_code":"NE",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444682,
+    "gn:latitude":12.16734,
+    "gn:longitude":3.39016,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gari Amani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Garin Amani",
+        "Gari Amani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092050969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444682
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"7b54c81826a8d61329f6f2b963efbf47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092050969,
+            "locality_id":1242689547,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1242689547,
+    "wof:lastmodified":1537674801,
+    "wof:name":"Gari Amani",
+    "wof:parent_id":1092050969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.39016,
+    12.16734,
+    3.39016,
+    12.16734
+],
+  "geometry": {"coordinates":[3.39016,12.16734],"type":"Point"}
+}

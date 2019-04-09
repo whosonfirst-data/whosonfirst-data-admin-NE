@@ -1,0 +1,71 @@
+{
+  "id": 1293391925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.53989,12.93157,3.53989,12.93157",
+    "geom:latitude":12.93157,
+    "geom:longitude":3.53989,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bolbol Manga Kwara",
+    "gn:country_code":"NE",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446674,
+    "gn:latitude":12.93157,
+    "gn:longitude":3.53989,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bolbol Manga Kwara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bolbol-Manga-Koara",
+        "Bolbol Manga Kwara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446674
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"b66f1a56c0fc698f729cdb10480ab224",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051041,
+            "locality_id":1293391925,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1293391925,
+    "wof:lastmodified":1537674847,
+    "wof:name":"Bolbol Manga Kwara",
+    "wof:parent_id":1092051041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.53989,
+    12.93157,
+    3.53989,
+    12.93157
+],
+  "geometry": {"coordinates":[3.53989,12.93157],"type":"Point"}
+}

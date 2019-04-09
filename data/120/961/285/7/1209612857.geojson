@@ -1,0 +1,61 @@
+{
+  "id": 1209612857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.1133,15.2622,5.1133,15.2622",
+    "geom:latitude":15.2622,
+    "geom:longitude":5.1133,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Amaloul",
+    "gn:country_code":"NE",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6699498,
+    "gn:latitude":15.2622,
+    "gn:longitude":5.1133,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Amaloul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6699498
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"177828fd710ebbc6d9202ac944feaa17",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209612857
+        }
+    ],
+    "wof:id":1209612857,
+    "wof:lastmodified":1536281790,
+    "wof:name":"Amaloul",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.1133,
+    15.2622,
+    5.1133,
+    15.2622
+],
+  "geometry": {"coordinates":[5.1133,15.2622],"type":"Point"}
+}

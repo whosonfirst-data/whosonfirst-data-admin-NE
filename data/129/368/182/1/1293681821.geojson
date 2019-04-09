@@ -1,0 +1,67 @@
+{
+  "id": 1293681821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.519,14.9604,5.519,14.9604",
+    "geom:latitude":14.9604,
+    "geom:longitude":5.519,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bindi Doumatoua",
+    "gn:country_code":"NE",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6679012,
+    "gn:latitude":14.9604,
+    "gn:longitude":5.519,
+    "gn:modification_date":"2008-02-09",
+    "gn:name":"Bindi Doumatoua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6679012
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"1dce344822cf68fd2e66c66907b5555c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051609,
+            "locality_id":1293681821,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1293681821,
+    "wof:lastmodified":1537003453,
+    "wof:name":"Bindi Doumatoua",
+    "wof:parent_id":1092051609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.519,
+    14.9604,
+    5.519,
+    14.9604
+],
+  "geometry": {"coordinates":[5.519,14.9604],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360277007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.79267,13.70169,8.79267,13.70169",
+    "geom:latitude":13.70169,
+    "geom:longitude":8.79267,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mayko",
+    "gn:country_code":"NE",
+    "gn:dem":457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6735300,
+    "gn:latitude":13.70169,
+    "gn:longitude":8.79267,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Mayko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6735300
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"fbce661991269588eb57fe7ade747822",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051411,
+            "locality_id":1360277007,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1360277007,
+    "wof:lastmodified":1536668822,
+    "wof:name":"Mayko",
+    "wof:parent_id":1092051411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.79267,
+    13.70169,
+    8.79267,
+    13.70169
+],
+  "geometry": {"coordinates":[8.79267,13.70169],"type":"Point"}
+}

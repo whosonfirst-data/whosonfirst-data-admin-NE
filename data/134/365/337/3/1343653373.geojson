@@ -1,0 +1,72 @@
+{
+  "id": 1343653373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.4038,13.49715,8.4038,13.49715",
+    "geom:latitude":13.49715,
+    "geom:longitude":8.4038,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Amsoudou",
+    "gn:country_code":"NE",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447634,
+    "gn:latitude":13.49715,
+    "gn:longitude":8.4038,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Amsoudou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ansoudou",
+        "Awaki",
+        "Amsoudou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447634
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"c5cf539067fb88e3e43151857f28781c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051165,
+            "locality_id":1343653373,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1343653373,
+    "wof:lastmodified":1537674867,
+    "wof:name":"Amsoudou",
+    "wof:parent_id":1092051165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4038,
+    13.49715,
+    8.4038,
+    13.49715
+],
+  "geometry": {"coordinates":[8.4038,13.49715],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209908063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.002,14.5178,8.002,14.5178",
+    "geom:latitude":14.5178,
+    "geom:longitude":8.002,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zangon Mousa",
+    "gn:country_code":"NE",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437862,
+    "gn:latitude":14.5178,
+    "gn:longitude":8.002,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zangon Mousa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zangon Moussa",
+        "Zangon Mousa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437862
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"306198943144eedfb2b1a6a78a897c54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1209908063,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1209908063,
+    "wof:lastmodified":1537674650,
+    "wof:name":"Zangon Mousa",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.002,
+    14.5178,
+    8.002,
+    14.5178
+],
+  "geometry": {"coordinates":[8.002,14.5178],"type":"Point"}
+}

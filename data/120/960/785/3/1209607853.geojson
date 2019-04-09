@@ -1,0 +1,61 @@
+{
+  "id": 1209607853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.48831,14.15297,6.48831,14.15297",
+    "geom:latitude":14.15297,
+    "geom:longitude":6.48831,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Zangon Kelata",
+    "gn:country_code":"NE",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6849978,
+    "gn:latitude":14.15297,
+    "gn:longitude":6.48831,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Zangon K\u00e9lata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6849978
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"db72fd84323e04c97dd4a7efcde9c500",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209607853
+        }
+    ],
+    "wof:id":1209607853,
+    "wof:lastmodified":1536281948,
+    "wof:name":"Zangon Kelata",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.48831,
+    14.152970000000002,
+    6.48831,
+    14.152970000000002
+],
+  "geometry": {"coordinates":[6.48831,14.15297],"type":"Point"}
+}

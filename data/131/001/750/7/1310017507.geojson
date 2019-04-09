@@ -1,0 +1,71 @@
+{
+  "id": 1310017507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.92835,12.9071,3.92835,12.9071",
+    "geom:latitude":12.9071,
+    "geom:longitude":3.92835,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Guidam Touko",
+    "gn:country_code":"NE",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2443560,
+    "gn:latitude":12.9071,
+    "gn:longitude":3.92835,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Guidam Touko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guidan Touko",
+        "Guidam Touko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2443560
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"34cc2b54fe9689737cfbcd8cd9131b68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051467,
+            "locality_id":1310017507,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1310017507,
+    "wof:lastmodified":1537674771,
+    "wof:name":"Guidam Touko",
+    "wof:parent_id":1092051467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.92835,
+    12.9071,
+    3.92835,
+    12.9071
+],
+  "geometry": {"coordinates":[3.92835,12.9071],"type":"Point"}
+}

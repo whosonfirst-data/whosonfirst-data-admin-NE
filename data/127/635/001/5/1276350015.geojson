@@ -1,0 +1,67 @@
+{
+  "id": 1276350015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.7582,17.6449,8.7582,17.6449",
+    "geom:latitude":17.6449,
+    "geom:longitude":8.7582,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tekokei",
+    "gn:country_code":"NE",
+    "gn:dem":1430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6578645,
+    "gn:latitude":17.6449,
+    "gn:longitude":8.7582,
+    "gn:modification_date":"2008-09-24",
+    "gn:name":"T\u00e9koke\u00ef",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675273,
+        421182277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6578645
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"da5800e0afb87993a1db8f68e452a2e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182277,
+            "locality_id":1276350015,
+            "region_id":85675273
+        }
+    ],
+    "wof:id":1276350015,
+    "wof:lastmodified":1536756106,
+    "wof:name":"Tekokei",
+    "wof:parent_id":421182277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.7582,
+    17.6449,
+    8.7582,
+    17.6449
+],
+  "geometry": {"coordinates":[8.7582,17.6449],"type":"Point"}
+}

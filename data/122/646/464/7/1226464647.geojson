@@ -1,0 +1,71 @@
+{
+  "id": 1226464647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.03135,13.87465,5.03135,13.87465",
+    "geom:latitude":13.87465,
+    "geom:longitude":5.03135,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sakouda",
+    "gn:country_code":"NE",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439966,
+    "gn:latitude":13.87465,
+    "gn:longitude":5.03135,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sakouda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sakoudo",
+        "Sakouda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439966
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"c23b1e7f375bc27e8587bcf83e06dfe0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051301,
+            "locality_id":1226464647,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1226464647,
+    "wof:lastmodified":1537674695,
+    "wof:name":"Sakouda",
+    "wof:parent_id":1092051301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.03135,
+    13.87465,
+    5.03135,
+    13.87465
+],
+  "geometry": {"coordinates":[5.03135,13.87465],"type":"Point"}
+}

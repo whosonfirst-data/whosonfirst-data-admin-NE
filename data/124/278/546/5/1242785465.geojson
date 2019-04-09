@@ -1,0 +1,71 @@
+{
+  "id": 1242785465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.39421,12.86989,3.39421,12.86989",
+    "geom:latitude":12.86989,
+    "geom:longitude":3.39421,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Marafa Kwara",
+    "gn:country_code":"NE",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441288,
+    "gn:latitude":12.86989,
+    "gn:longitude":3.39421,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Marafa Kwara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marafa-Koara",
+        "Marafa Kwara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441288
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"a6a3e5055dc1451543162e6f5c201d2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051041,
+            "locality_id":1242785465,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1242785465,
+    "wof:lastmodified":1537674720,
+    "wof:name":"Marafa Kwara",
+    "wof:parent_id":1092051041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.39421,
+    12.86989,
+    3.39421,
+    12.86989
+],
+  "geometry": {"coordinates":[3.39421,12.86989],"type":"Point"}
+}

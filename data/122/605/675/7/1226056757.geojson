@@ -1,0 +1,70 @@
+{
+  "id": 1226056757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.9212,19.12513,12.9212,19.12513",
+    "geom:latitude":19.12513,
+    "geom:longitude":12.9212,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Achenouma",
+    "gn:country_code":"NE",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448179,
+    "gn:latitude":19.12513,
+    "gn:longitude":12.9212,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ach\u00e9nouma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ach\u00e9nouma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675273,
+        1092051881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448179
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"e078ee2d00310a730ba3c15c2dc3c6d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051881,
+            "locality_id":1226056757,
+            "region_id":85675273
+        }
+    ],
+    "wof:id":1226056757,
+    "wof:lastmodified":1537674874,
+    "wof:name":"Achenouma",
+    "wof:parent_id":1092051881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.9212,
+    19.12513,
+    12.9212,
+    19.12513
+],
+  "geometry": {"coordinates":[12.9212,19.12513],"type":"Point"}
+}

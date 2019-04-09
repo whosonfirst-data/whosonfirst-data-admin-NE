@@ -1,0 +1,67 @@
+{
+  "id": 1226355569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.75394,13.61901,10.75394,13.61901",
+    "geom:latitude":13.61901,
+    "geom:longitude":10.75394,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Garin Gao",
+    "gn:country_code":"NE",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6750384,
+    "gn:latitude":13.61901,
+    "gn:longitude":10.75394,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Garin Gao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6750384
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"521d2cf3992d63507c24f838efb8217b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051363,
+            "locality_id":1226355569,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1226355569,
+    "wof:lastmodified":1536775870,
+    "wof:name":"Garin Gao",
+    "wof:parent_id":1092051363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.75394,
+    13.61901,
+    10.75394,
+    13.61901
+],
+  "geometry": {"coordinates":[10.75394,13.61901],"type":"Point"}
+}

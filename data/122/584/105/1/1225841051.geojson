@@ -1,0 +1,67 @@
+{
+  "id": 1225841051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.66911,13.75475,1.66911,13.75475",
+    "geom:latitude":13.75475,
+    "geom:longitude":1.66911,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bellare",
+    "gn:country_code":"NE",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447208,
+    "gn:latitude":13.75475,
+    "gn:longitude":1.66911,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Bellar\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447208
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"3a86ae32fcaf97697cb9c3b30adfb1ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1225841051,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1225841051,
+    "wof:lastmodified":1537019625,
+    "wof:name":"Bellare",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.66911,
+    13.75475,
+    1.66911,
+    13.75475
+],
+  "geometry": {"coordinates":[1.66911,13.75475],"type":"Point"}
+}

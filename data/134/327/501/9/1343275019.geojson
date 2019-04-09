@@ -1,0 +1,67 @@
+{
+  "id": 1343275019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.32255,13.39707,12.32255,13.39707",
+    "geom:latitude":13.39707,
+    "geom:longitude":12.32255,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Komi",
+    "gn:country_code":"NE",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6777519,
+    "gn:latitude":13.39707,
+    "gn:longitude":12.32255,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Komi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6777519
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"18bd488790530d249f2fee3237b1f626",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051245,
+            "locality_id":1343275019,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1343275019,
+    "wof:lastmodified":1537013118,
+    "wof:name":"Komi",
+    "wof:parent_id":1092051245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.32255,
+    13.39707,
+    12.32255,
+    13.39707
+],
+  "geometry": {"coordinates":[12.32255,13.39707],"type":"Point"}
+}

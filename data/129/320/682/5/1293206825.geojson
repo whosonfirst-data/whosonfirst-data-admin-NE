@@ -1,0 +1,67 @@
+{
+  "id": 1293206825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.32418,13.21451,7.32418,13.21451",
+    "geom:latitude":13.21451,
+    "geom:longitude":7.32418,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Gahina",
+    "gn:country_code":"NE",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6721657,
+    "gn:latitude":13.21451,
+    "gn:longitude":7.32418,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Gahina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6721657
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"cf4b092b58e20c149d2b98530cde038c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051007,
+            "locality_id":1293206825,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1293206825,
+    "wof:lastmodified":1536694846,
+    "wof:name":"Gahina",
+    "wof:parent_id":1092051007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.32418,
+    13.21451,
+    7.32418,
+    13.21451
+],
+  "geometry": {"coordinates":[7.32418,13.21451],"type":"Point"}
+}

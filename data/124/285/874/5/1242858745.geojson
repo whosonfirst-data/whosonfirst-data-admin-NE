@@ -1,0 +1,72 @@
+{
+  "id": 1242858745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.98309,14.52919,1.98309,14.52919",
+    "geom:latitude":14.52919,
+    "geom:longitude":1.98309,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tekou Foundi",
+    "gn:country_code":"NE",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438898,
+    "gn:latitude":14.52919,
+    "gn:longitude":1.98309,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"T\u00e9kou Foundi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Toukoufouri",
+        "Toukoufouni",
+        "T\u00e9kou Foundi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438898
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"2d64f9cea6ebc50e5e714e3b810f7faa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051633,
+            "locality_id":1242858745,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1242858745,
+    "wof:lastmodified":1537674674,
+    "wof:name":"Tekou Foundi",
+    "wof:parent_id":1092051633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.98309,
+    14.52919,
+    1.98309,
+    14.52919
+],
+  "geometry": {"coordinates":[1.98309,14.52919],"type":"Point"}
+}

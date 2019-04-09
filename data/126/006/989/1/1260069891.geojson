@@ -1,0 +1,71 @@
+{
+  "id": 1260069891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.3462,13.294,2.3462,13.294",
+    "geom:latitude":13.294,
+    "geom:longitude":2.3462,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Seberi Zarma",
+    "gn:country_code":"NE",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439802,
+    "gn:latitude":13.294,
+    "gn:longitude":2.3462,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"S\u00e9b\u00e9ri Zarma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00e9b\u00e9ri",
+        "S\u00e9b\u00e9ri Zarma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439802
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"e2551cbf82815e5f5a26072a02dfe87b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1260069891,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1260069891,
+    "wof:lastmodified":1537674691,
+    "wof:name":"Seberi Zarma",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.3462,
+    13.294,
+    2.3462,
+    13.294
+],
+  "geometry": {"coordinates":[2.3462,13.294],"type":"Point"}
+}

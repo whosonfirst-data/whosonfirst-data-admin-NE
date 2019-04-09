@@ -1,0 +1,67 @@
+{
+  "id": 1259969501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.96086,13.58394,1.96086,13.58394",
+    "geom:latitude":13.58394,
+    "geom:longitude":1.96086,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Saga Fondo",
+    "gn:country_code":"NE",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6844890,
+    "gn:latitude":13.58394,
+    "gn:longitude":1.96086,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"Saga Fondo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6844890
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"07033bcf5e83e344bdced27463b46441",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1259969501,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1259969501,
+    "wof:lastmodified":1536655326,
+    "wof:name":"Saga Fondo",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.96086,
+    13.58394,
+    1.96086,
+    13.58394
+],
+  "geometry": {"coordinates":[1.96086,13.58394],"type":"Point"}
+}

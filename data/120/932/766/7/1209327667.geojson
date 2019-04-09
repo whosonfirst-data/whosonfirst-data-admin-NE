@@ -1,0 +1,61 @@
+{
+  "id": 1209327667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.8313,13.5826,11.8313,13.5826",
+    "geom:latitude":13.5826,
+    "geom:longitude":11.8313,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bouseyram",
+    "gn:country_code":"NE",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6819589,
+    "gn:latitude":13.5826,
+    "gn:longitude":11.8313,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Bous\u00e8yram",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6819589
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"eff33c934aa4707bf23525b3df6619f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209327667
+        }
+    ],
+    "wof:id":1209327667,
+    "wof:lastmodified":1536290479,
+    "wof:name":"Bouseyram",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.8313,
+    13.5826,
+    11.8313,
+    13.5826
+],
+  "geometry": {"coordinates":[11.8313,13.5826],"type":"Point"}
+}

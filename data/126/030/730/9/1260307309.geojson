@@ -1,0 +1,67 @@
+{
+  "id": 1260307309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.64117,14.57853,8.64117,14.57853",
+    "geom:latitude":14.57853,
+    "geom:longitude":8.64117,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kade Kato",
+    "gn:country_code":"NE",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442895,
+    "gn:latitude":14.57853,
+    "gn:longitude":8.64117,
+    "gn:modification_date":"2008-08-26",
+    "gn:name":"Kad\u00e9 Kato",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442895
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"32d798b9a6460f4f62d959d61fd08a84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1260307309,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1260307309,
+    "wof:lastmodified":1536680007,
+    "wof:name":"Kade Kato",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.64117,
+    14.57853,
+    8.64117,
+    14.57853
+],
+  "geometry": {"coordinates":[8.64117,14.57853],"type":"Point"}
+}

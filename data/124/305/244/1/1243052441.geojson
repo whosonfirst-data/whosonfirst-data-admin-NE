@@ -1,0 +1,71 @@
+{
+  "id": 1243052441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.6034,13.5301,2.6034,13.5301",
+    "geom:latitude":13.5301,
+    "geom:longitude":2.6034,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Banka Dey",
+    "gn:country_code":"NE",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447082,
+    "gn:latitude":13.5301,
+    "gn:longitude":2.6034,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Banka Dey",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bankadeye",
+        "Banka Dey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447082
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"f612d66f34d410e4bd268f6ef7c52eb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1243052441,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1243052441,
+    "wof:lastmodified":1537674855,
+    "wof:name":"Banka Dey",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6034,
+    13.5301,
+    2.6034,
+    13.5301
+],
+  "geometry": {"coordinates":[2.6034,13.5301],"type":"Point"}
+}

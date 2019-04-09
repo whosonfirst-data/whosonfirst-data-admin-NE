@@ -1,0 +1,71 @@
+{
+  "id": 1276425487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.22137,13.79076,1.22137,13.79076",
+    "geom:latitude":13.79076,
+    "geom:longitude":1.22137,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Niankondo",
+    "gn:country_code":"NE",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2440427,
+    "gn:latitude":13.79076,
+    "gn:longitude":1.22137,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Niankondo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nyankondo",
+        "Niankondo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2440427
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"d93c5527b5e727760423322cf7b12aad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051545,
+            "locality_id":1276425487,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1276425487,
+    "wof:lastmodified":1537674705,
+    "wof:name":"Niankondo",
+    "wof:parent_id":1092051545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.22137,
+    13.79076,
+    1.22137,
+    13.79076
+],
+  "geometry": {"coordinates":[1.22137,13.79076],"type":"Point"}
+}

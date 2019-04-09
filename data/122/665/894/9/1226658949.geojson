@@ -1,0 +1,67 @@
+{
+  "id": 1226658949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.07865,13.4731,11.07865,13.4731",
+    "geom:latitude":13.4731,
+    "geom:longitude":11.07865,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Dougoura",
+    "gn:country_code":"NE",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6776793,
+    "gn:latitude":13.4731,
+    "gn:longitude":11.07865,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Dougoura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6776793
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"c4652354e2df024164951b213b98d45f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051363,
+            "locality_id":1226658949,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1226658949,
+    "wof:lastmodified":1536839333,
+    "wof:name":"Dougoura",
+    "wof:parent_id":1092051363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.07865,
+    13.4731,
+    11.07865,
+    13.4731
+],
+  "geometry": {"coordinates":[11.07865,13.4731],"type":"Point"}
+}

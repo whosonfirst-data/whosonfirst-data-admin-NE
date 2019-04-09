@@ -1,0 +1,71 @@
+{
+  "id": 1292927129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.69687,15.11744,10.69687,15.11744",
+    "geom:latitude":15.11744,
+    "geom:longitude":10.69687,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tasker",
+    "gn:country_code":"NE",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439085,
+    "gn:latitude":15.11744,
+    "gn:longitude":10.69687,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tasker",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taskeur",
+        "Tasker"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439085
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"c4e49e3128c02fcf4658b7b873b725b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051753,
+            "locality_id":1292927129,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1292927129,
+    "wof:lastmodified":1537674677,
+    "wof:name":"Tasker",
+    "wof:parent_id":1092051753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.69687,
+    15.11744,
+    10.69687,
+    15.11744
+],
+  "geometry": {"coordinates":[10.69687,15.11744],"type":"Point"}
+}

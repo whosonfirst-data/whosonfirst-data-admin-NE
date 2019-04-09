@@ -1,0 +1,72 @@
+{
+  "id": 1259795363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.77578,12.72188,2.77578,12.72188",
+    "geom:latitude":12.72188,
+    "geom:longitude":2.77578,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Dey Tegui Moussa",
+    "gn:country_code":"NE",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445757,
+    "gn:latitude":12.72188,
+    "gn:longitude":2.77578,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Dey T\u00e9gui Moussa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "De\u00eftagui",
+        "D\u00e8yt\u00e9dji Moussa",
+        "Dey T\u00e9gui Moussa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445757
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"0b9b29ec9a108b1943ddeabb3588a9fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051075,
+            "locality_id":1259795363,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1259795363,
+    "wof:lastmodified":1537674826,
+    "wof:name":"Dey Tegui Moussa",
+    "wof:parent_id":1092051075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.77578,
+    12.72188,
+    2.77578,
+    12.72188
+],
+  "geometry": {"coordinates":[2.77578,12.72188],"type":"Point"}
+}

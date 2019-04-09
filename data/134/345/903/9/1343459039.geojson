@@ -1,0 +1,73 @@
+{
+  "id": 1343459039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.7662,14.42613,6.7662,14.42613",
+    "geom:latitude":14.42613,
+    "geom:longitude":6.7662,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Birnin Lale",
+    "gn:country_code":"NE",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2596621,
+    "gn:latitude":14.42613,
+    "gn:longitude":6.7662,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Birnin Lal\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Birni Lall\u00e9",
+        "Birnin Lall\u00e9",
+        "Birnin Lal\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2596621,
+        "wk:page":"Birni_Lalle"
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"7cc0eab8fdc1b5f3b64d4206e5159641",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1343459039,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1343459039,
+    "wof:lastmodified":1537674876,
+    "wof:name":"Birnin Lale",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.7662,
+    14.42613,
+    6.7662,
+    14.42613
+],
+  "geometry": {"coordinates":[6.7662,14.42613],"type":"Point"}
+}

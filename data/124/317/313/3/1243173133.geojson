@@ -1,0 +1,67 @@
+{
+  "id": 1243173133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.03529,13.77844,8.03529,13.77844",
+    "geom:latitude":13.77844,
+    "geom:longitude":8.03529,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Faram",
+    "gn:country_code":"NE",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6723610,
+    "gn:latitude":13.77844,
+    "gn:longitude":8.03529,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Faram",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6723610
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"cc7c3638e4a919915306952d47598d26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051389,
+            "locality_id":1243173133,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1243173133,
+    "wof:lastmodified":1536702895,
+    "wof:name":"Faram",
+    "wof:parent_id":1092051389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.03529,
+    13.77844,
+    8.03529,
+    13.77844
+],
+  "geometry": {"coordinates":[8.03529,13.77844],"type":"Point"}
+}

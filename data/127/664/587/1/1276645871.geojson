@@ -1,0 +1,71 @@
+{
+  "id": 1276645871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.2006,15.1955,2.2006,15.1955",
+    "geom:latitude":15.1955,
+    "geom:longitude":2.2006,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Gouno Koara",
+    "gn:country_code":"NE",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444237,
+    "gn:latitude":15.1955,
+    "gn:longitude":2.2006,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gouno Koara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gouno Kwara",
+        "Gouno Koara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444237
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"2e56508e2e1f28b79b55f975c6fb8ca0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051633,
+            "locality_id":1276645871,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1276645871,
+    "wof:lastmodified":1537674792,
+    "wof:name":"Gouno Koara",
+    "wof:parent_id":1092051633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.2006,
+    15.1955,
+    2.2006,
+    15.1955
+],
+  "geometry": {"coordinates":[2.2006,15.1955],"type":"Point"}
+}

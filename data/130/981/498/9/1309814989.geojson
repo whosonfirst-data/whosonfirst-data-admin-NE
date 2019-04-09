@@ -1,0 +1,67 @@
+{
+  "id": 1309814989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.35716,14.01522,4.35716,14.01522",
+    "geom:latitude":14.01522,
+    "geom:longitude":4.35716,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kayoua",
+    "gn:country_code":"NE",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6783652,
+    "gn:latitude":14.01522,
+    "gn:longitude":4.35716,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Kayoua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6783652
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"13adf4231009ea265fd96bbd49a31540",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051467,
+            "locality_id":1309814989,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1309814989,
+    "wof:lastmodified":1536918352,
+    "wof:name":"Kayoua",
+    "wof:parent_id":1092051467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.35716,
+    14.01522,
+    4.35716,
+    14.01522
+],
+  "geometry": {"coordinates":[4.35716,14.01522],"type":"Point"}
+}

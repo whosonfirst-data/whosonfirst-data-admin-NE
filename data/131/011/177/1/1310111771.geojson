@@ -1,0 +1,67 @@
+{
+  "id": 1310111771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.6157,13.36916,7.6157,13.36916",
+    "geom:latitude":13.36916,
+    "geom:longitude":7.6157,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mademba",
+    "gn:country_code":"NE",
+    "gn:dem":455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441520,
+    "gn:latitude":13.36916,
+    "gn:longitude":7.6157,
+    "gn:modification_date":"2008-02-27",
+    "gn:name":"Mademba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441520
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"63a3d17bdfcbb49b666c28f661dea030",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051197,
+            "locality_id":1310111771,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1310111771,
+    "wof:lastmodified":1536986588,
+    "wof:name":"Mademba",
+    "wof:parent_id":1092051197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.6157,
+    13.36916,
+    7.6157,
+    13.36916
+],
+  "geometry": {"coordinates":[7.6157,13.36916],"type":"Point"}
+}

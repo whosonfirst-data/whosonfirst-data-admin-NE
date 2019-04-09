@@ -1,0 +1,67 @@
+{
+  "id": 1310585617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.64895,13.54477,1.64895,13.54477",
+    "geom:latitude":13.54477,
+    "geom:longitude":1.64895,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kossara Hondo",
+    "gn:country_code":"NE",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6844889,
+    "gn:latitude":13.54477,
+    "gn:longitude":1.64895,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"Kossara Hondo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6844889
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"13001b976a971a670c6ca23163a6aaf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1310585617,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1310585617,
+    "wof:lastmodified":1536801439,
+    "wof:name":"Kossara Hondo",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.64895,
+    13.54477,
+    1.64895,
+    13.54477
+],
+  "geometry": {"coordinates":[1.64895,13.54477],"type":"Point"}
+}

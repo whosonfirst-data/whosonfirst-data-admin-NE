@@ -1,0 +1,71 @@
+{
+  "id": 1310294575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.9691,15.2188,1.9691,15.2188",
+    "geom:latitude":15.2188,
+    "geom:longitude":1.9691,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Dinagha",
+    "gn:country_code":"NE",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445676,
+    "gn:latitude":15.2188,
+    "gn:longitude":1.9691,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dinagha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dinarha",
+        "Dinagha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445676
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"c3758276a741fbf6f167afb6d98f0000",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051633,
+            "locality_id":1310294575,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1310294575,
+    "wof:lastmodified":1537674823,
+    "wof:name":"Dinagha",
+    "wof:parent_id":1092051633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.9691,
+    15.2188,
+    1.9691,
+    15.2188
+],
+  "geometry": {"coordinates":[1.9691,15.2188],"type":"Point"}
+}

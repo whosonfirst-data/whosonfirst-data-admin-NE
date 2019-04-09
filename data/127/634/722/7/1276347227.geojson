@@ -1,0 +1,67 @@
+{
+  "id": 1276347227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.57756,11.74837,3.57756,11.74837",
+    "geom:latitude":11.74837,
+    "geom:longitude":3.57756,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tounga Zakari",
+    "gn:country_code":"NE",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438254,
+    "gn:latitude":11.74837,
+    "gn:longitude":3.57756,
+    "gn:modification_date":"2008-12-19",
+    "gn:name":"Tounga Zakari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092050969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438254
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"32f0652ec99c16af4b00dda3553ff2c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092050969,
+            "locality_id":1276347227,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1276347227,
+    "wof:lastmodified":1536760016,
+    "wof:name":"Tounga Zakari",
+    "wof:parent_id":1092050969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.57756,
+    11.74837,
+    3.57756,
+    11.74837
+],
+  "geometry": {"coordinates":[3.57756,11.74837],"type":"Point"}
+}

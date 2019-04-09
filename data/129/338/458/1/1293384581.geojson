@@ -1,0 +1,71 @@
+{
+  "id": 1293384581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.50567,13.89349,1.50567,13.89349",
+    "geom:latitude":13.89349,
+    "geom:longitude":1.50567,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kaissani",
+    "gn:country_code":"NE",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442567,
+    "gn:latitude":13.89349,
+    "gn:longitude":1.50567,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Ka\u00efssani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kassani",
+        "Ka\u00efssani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442567
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"e08ac466ccae50af60dabf97e236a1a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051545,
+            "locality_id":1293384581,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1293384581,
+    "wof:lastmodified":1537674752,
+    "wof:name":"Kaissani",
+    "wof:parent_id":1092051545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.50567,
+    13.89349,
+    1.50567,
+    13.89349
+],
+  "geometry": {"coordinates":[1.50567,13.89349],"type":"Point"}
+}

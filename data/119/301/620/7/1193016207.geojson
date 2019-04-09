@@ -1,0 +1,71 @@
+{
+  "id": 1193016207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.94943,13.76461,6.94943,13.76461",
+    "geom:latitude":13.76461,
+    "geom:longitude":6.94943,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ala Serkin",
+    "gn:country_code":"NE",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447937,
+    "gn:latitude":13.76461,
+    "gn:longitude":6.94943,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ala Serkin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ala S\u00e8rki",
+        "Ala Serkin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447937
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"90d0b99957bfdbec2e33400e8d65a992",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051229,
+            "locality_id":1193016207,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1193016207,
+    "wof:lastmodified":1537674871,
+    "wof:name":"Ala Serkin",
+    "wof:parent_id":1092051229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.94943,
+    13.76461,
+    6.94943,
+    13.76461
+],
+  "geometry": {"coordinates":[6.94943,13.76461],"type":"Point"}
+}

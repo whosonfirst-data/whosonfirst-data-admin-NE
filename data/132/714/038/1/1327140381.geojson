@@ -1,0 +1,67 @@
+{
+  "id": 1327140381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.14869,13.53692,8.14869,13.53692",
+    "geom:latitude":13.53692,
+    "geom:longitude":8.14869,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Angoual Gao",
+    "gn:country_code":"NE",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6725660,
+    "gn:latitude":13.53692,
+    "gn:longitude":8.14869,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Angoual Gao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6725660
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"db681fb736094bd4c67e52cd154fe7ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051389,
+            "locality_id":1327140381,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1327140381,
+    "wof:lastmodified":1536601375,
+    "wof:name":"Angoual Gao",
+    "wof:parent_id":1092051389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.14869,
+    13.53692,
+    8.14869,
+    13.53692
+],
+  "geometry": {"coordinates":[8.14869,13.53692],"type":"Point"}
+}

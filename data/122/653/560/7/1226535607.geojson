@@ -1,0 +1,67 @@
+{
+  "id": 1226535607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.40265,14.10443,6.40265,14.10443",
+    "geom:latitude":14.10443,
+    "geom:longitude":6.40265,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Guidan Arouna",
+    "gn:country_code":"NE",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6849999,
+    "gn:latitude":14.10443,
+    "gn:longitude":6.40265,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Guidan Arouna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6849999
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"9d3afc97e353c0b4f01808060bcb70e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051329,
+            "locality_id":1226535607,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1226535607,
+    "wof:lastmodified":1537011978,
+    "wof:name":"Guidan Arouna",
+    "wof:parent_id":1092051329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.40265,
+    14.10443,
+    6.40265,
+    14.10443
+],
+  "geometry": {"coordinates":[6.40265,14.10443],"type":"Point"}
+}

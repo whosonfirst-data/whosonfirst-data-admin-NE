@@ -1,0 +1,71 @@
+{
+  "id": 1343583485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.01536,14.1512,6.01536,14.1512",
+    "geom:latitude":14.1512,
+    "geom:longitude":6.01536,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Boudounkwi",
+    "gn:country_code":"NE",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446584,
+    "gn:latitude":14.1512,
+    "gn:longitude":6.01536,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Boudounkwi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boudoun Koui",
+        "Boudounkwi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446584
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"34f87cb2146a36ac0227bfcc34af08d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051329,
+            "locality_id":1343583485,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1343583485,
+    "wof:lastmodified":1537674845,
+    "wof:name":"Boudounkwi",
+    "wof:parent_id":1092051329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.01536,
+    14.1512,
+    6.01536,
+    14.1512
+],
+  "geometry": {"coordinates":[6.01536,14.1512],"type":"Point"}
+}

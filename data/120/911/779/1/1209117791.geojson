@@ -1,0 +1,61 @@
+{
+  "id": 1209117791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.90524,12.94682,3.90524,12.94682",
+    "geom:latitude":12.94682,
+    "geom:longitude":3.90524,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Angoa Noberni",
+    "gn:country_code":"NE",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447678,
+    "gn:latitude":12.94682,
+    "gn:longitude":3.90524,
+    "gn:modification_date":"2009-03-17",
+    "gn:name":"Angoa Noberni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447678
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"2480245eb404d2f06e5752848d692e7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209117791
+        }
+    ],
+    "wof:id":1209117791,
+    "wof:lastmodified":1536297201,
+    "wof:name":"Angoa Noberni",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.90524,
+    12.94682,
+    3.90524,
+    12.94682
+],
+  "geometry": {"coordinates":[3.90524,12.94682],"type":"Point"}
+}

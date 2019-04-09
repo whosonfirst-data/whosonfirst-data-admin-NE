@@ -1,0 +1,67 @@
+{
+  "id": 1310389793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.97648,13.56622,1.97648,13.56622",
+    "geom:latitude":13.56622,
+    "geom:longitude":1.97648,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Komba",
+    "gn:country_code":"NE",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442229,
+    "gn:latitude":13.56622,
+    "gn:longitude":1.97648,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Komba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442229
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"73d011f168dbe7368fa36140931d6c20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1310389793,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1310389793,
+    "wof:lastmodified":1537080762,
+    "wof:name":"Komba",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.97648,
+    13.56622,
+    1.97648,
+    13.56622
+],
+  "geometry": {"coordinates":[1.97648,13.56622],"type":"Point"}
+}

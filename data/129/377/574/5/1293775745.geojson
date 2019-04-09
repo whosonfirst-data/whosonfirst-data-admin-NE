@@ -1,0 +1,67 @@
+{
+  "id": 1293775745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.59721,13.51485,8.59721,13.51485",
+    "geom:latitude":13.51485,
+    "geom:longitude":8.59721,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zangounan Marekou",
+    "gn:country_code":"NE",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6746419,
+    "gn:latitude":13.51485,
+    "gn:longitude":8.59721,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Zangounan Mar\u00e9kou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6746419
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"a3bc29cf908f93d874112a0e6ac09321",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051165,
+            "locality_id":1293775745,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1293775745,
+    "wof:lastmodified":1536867377,
+    "wof:name":"Zangounan Marekou",
+    "wof:parent_id":1092051165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.59721,
+    13.51485,
+    8.59721,
+    13.51485
+],
+  "geometry": {"coordinates":[8.59721,13.51485],"type":"Point"}
+}

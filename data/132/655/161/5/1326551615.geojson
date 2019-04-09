@@ -1,0 +1,67 @@
+{
+  "id": 1326551615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.31259,13.16213,8.31259,13.16213",
+    "geom:latitude":13.16213,
+    "geom:longitude":8.31259,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tata Fawa",
+    "gn:country_code":"NE",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6731521,
+    "gn:latitude":13.16213,
+    "gn:longitude":8.31259,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Tata Fawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6731521
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"94c9cef9599c6cd793af6fe168472375",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051165,
+            "locality_id":1326551615,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1326551615,
+    "wof:lastmodified":1536956168,
+    "wof:name":"Tata Fawa",
+    "wof:parent_id":1092051165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.31259,
+    13.16213,
+    8.31259,
+    13.16213
+],
+  "geometry": {"coordinates":[8.31259,13.16213],"type":"Point"}
+}

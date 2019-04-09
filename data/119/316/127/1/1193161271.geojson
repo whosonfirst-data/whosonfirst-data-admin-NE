@@ -1,0 +1,67 @@
+{
+  "id": 1193161271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.97121,14.69123,6.97121,14.69123",
+    "geom:latitude":14.69123,
+    "geom:longitude":6.97121,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Roumbou",
+    "gn:country_code":"NE",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2440095,
+    "gn:latitude":14.69123,
+    "gn:longitude":6.97121,
+    "gn:modification_date":"2008-09-23",
+    "gn:name":"Roumbou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2440095
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"4c98dd392d868c34756b221ff8c88b47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1193161271,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1193161271,
+    "wof:lastmodified":1536367490,
+    "wof:name":"Roumbou",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.97121,
+    14.69123,
+    6.97121,
+    14.69123
+],
+  "geometry": {"coordinates":[6.97121,14.69123],"type":"Point"}
+}

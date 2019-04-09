@@ -1,0 +1,67 @@
+{
+  "id": 1310522757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.94368,14.64498,7.94368,14.64498",
+    "geom:latitude":14.64498,
+    "geom:longitude":7.94368,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tamaje",
+    "gn:country_code":"NE",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439256,
+    "gn:latitude":14.64498,
+    "gn:longitude":7.94368,
+    "gn:modification_date":"2008-08-21",
+    "gn:name":"Tamaj\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439256
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"2b4d0563d4c75f6a348f90c896ad15aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1310522757,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1310522757,
+    "wof:lastmodified":1536891712,
+    "wof:name":"Tamaje",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.94368,
+    14.64498,
+    7.94368,
+    14.64498
+],
+  "geometry": {"coordinates":[7.94368,14.64498],"type":"Point"}
+}

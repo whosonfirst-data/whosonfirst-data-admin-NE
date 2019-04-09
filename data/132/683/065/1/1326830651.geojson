@@ -1,0 +1,71 @@
+{
+  "id": 1326830651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.68495,13.80162,7.68495,13.80162",
+    "geom:latitude":13.80162,
+    "geom:longitude":7.68495,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tsinin Kibaou",
+    "gn:country_code":"NE",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6709146,
+    "gn:latitude":13.80162,
+    "gn:longitude":7.68495,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Ts\u00eenin Kibaou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kinin Kibia",
+        "Ts\u00eenin Kibaou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6709146
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"a518c2fa1c62e56390959c40eac26d19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051435,
+            "locality_id":1326830651,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1326830651,
+    "wof:lastmodified":1537674882,
+    "wof:name":"Tsinin Kibaou",
+    "wof:parent_id":1092051435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.68495,
+    13.80162,
+    7.68495,
+    13.80162
+],
+  "geometry": {"coordinates":[7.68495,13.80162],"type":"Point"}
+}

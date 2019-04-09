@@ -1,0 +1,70 @@
+{
+  "id": 1344153211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.92657,12.71412,1.92657,12.71412",
+    "geom:latitude":12.71412,
+    "geom:longitude":1.92657,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Windoumama",
+    "gn:country_code":"NE",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438152,
+    "gn:latitude":12.71412,
+    "gn:longitude":1.92657,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Windoumama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "V\u00e8ndou Mama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438152
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"b6b7b93c5529ae2c9722cd4793d6f8dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051103,
+            "locality_id":1344153211,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1344153211,
+    "wof:lastmodified":1537674657,
+    "wof:name":"Windoumama",
+    "wof:parent_id":1092051103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.92657,
+    12.71412,
+    1.92657,
+    12.71412
+],
+  "geometry": {"coordinates":[1.92657,12.71412],"type":"Point"}
+}

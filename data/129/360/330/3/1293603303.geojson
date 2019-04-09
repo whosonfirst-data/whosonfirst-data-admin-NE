@@ -1,0 +1,68 @@
+{
+  "id": 1293603303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.8,19.36667,5.8,19.36667",
+    "geom:latitude":19.36667,
+    "geom:longitude":5.8,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Assamakka",
+    "gn:country_code":"NE",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2596709,
+    "gn:latitude":19.36667,
+    "gn:longitude":5.8,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Assamakka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675273,
+        421182277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2596709,
+        "wk:page":"Assamakka"
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"bbe379bf2832cc11e25e3332ea591494",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182277,
+            "locality_id":1293603303,
+            "region_id":85675273
+        }
+    ],
+    "wof:id":1293603303,
+    "wof:lastmodified":1537569970,
+    "wof:name":"Assamakka",
+    "wof:parent_id":421182277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.8,
+    19.36667000000001,
+    5.8,
+    19.36667000000001
+],
+  "geometry": {"coordinates":[5.8,19.36667000000001],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343747363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.8,13.11667,1.8,13.11667",
+    "geom:latitude":13.11667,
+    "geom:longitude":1.8,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Lamorde Torodi",
+    "gn:cc2":"NE",
+    "gn:country_code":"NE",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441710,
+    "gn:latitude":13.11667,
+    "gn:longitude":1.8,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Lamord\u00e9 Torodi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lamorg\u00e9",
+        "Lamord\u00e9 Torodi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441710
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"e392b463541fecea7c397049988b036a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051103,
+            "locality_id":1343747363,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1343747363,
+    "wof:lastmodified":1537674729,
+    "wof:name":"Lamorde Torodi",
+    "wof:parent_id":1092051103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.8,
+    13.11667,
+    1.8,
+    13.11667
+],
+  "geometry": {"coordinates":[1.8,13.11667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293196461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.36637,14.30837,2.36637,14.30837",
+    "geom:latitude":14.30837,
+    "geom:longitude":2.36637,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Lahaba",
+    "gn:country_code":"NE",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441726,
+    "gn:latitude":14.30837,
+    "gn:longitude":2.36637,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Lahaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441726
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"6ea8dd6c274aaf1b123209e64b61edb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051633,
+            "locality_id":1293196461,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1293196461,
+    "wof:lastmodified":1536709969,
+    "wof:name":"Lahaba",
+    "wof:parent_id":1092051633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.36637,
+    14.30837,
+    2.36637,
+    14.30837
+],
+  "geometry": {"coordinates":[2.36637,14.30837],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260104361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.55638,14.4871,7.55638,14.4871",
+    "geom:latitude":14.4871,
+    "geom:longitude":7.55638,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Daourawa",
+    "gn:country_code":"NE",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445873,
+    "gn:latitude":14.4871,
+    "gn:longitude":7.55638,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Daourawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445873
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"79eb899811e7f04c82b52dedce6eb3cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1260104361,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1260104361,
+    "wof:lastmodified":1536958001,
+    "wof:name":"Daourawa",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.55638,
+    14.4871,
+    7.55638,
+    14.4871
+],
+  "geometry": {"coordinates":[7.55638,14.4871],"type":"Point"}
+}

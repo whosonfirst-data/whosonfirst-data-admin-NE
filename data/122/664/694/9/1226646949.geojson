@@ -1,0 +1,73 @@
+{
+  "id": 1226646949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.62393,14.7024,6.62393,14.7024",
+    "geom:latitude":14.7024,
+    "geom:longitude":6.62393,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"I-n-Twila",
+    "gn:country_code":"NE",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2443071,
+    "gn:latitude":14.7024,
+    "gn:longitude":6.62393,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"I-n-Tw\u00efla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "I-n-Thuilla Karzazou",
+        "In Tw\u00efla",
+        "I-n-Tou\u00eela",
+        "I-n-Tw\u00efla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2443071
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"25d1343004b2c50b0a690048854f97af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1226646949,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1226646949,
+    "wof:lastmodified":1537674762,
+    "wof:name":"I-n-Twila",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.62393,
+    14.7024,
+    6.62393,
+    14.7024
+],
+  "geometry": {"coordinates":[6.62393,14.7024],"type":"Point"}
+}

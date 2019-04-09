@@ -1,0 +1,71 @@
+{
+  "id": 1276555205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.184,13.0928,3.184,13.0928",
+    "geom:latitude":13.0928,
+    "geom:longitude":3.184,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Farandeye",
+    "gn:country_code":"NE",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445097,
+    "gn:latitude":13.0928,
+    "gn:longitude":3.184,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Farandeye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Farandey",
+        "Farandeye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445097
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"68205d9363145d4ed5b1af9166590209",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051041,
+            "locality_id":1276555205,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1276555205,
+    "wof:lastmodified":1537674811,
+    "wof:name":"Farandeye",
+    "wof:parent_id":1092051041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.184,
+    13.0928,
+    3.184,
+    13.0928
+],
+  "geometry": {"coordinates":[3.184,13.0928],"type":"Point"}
+}

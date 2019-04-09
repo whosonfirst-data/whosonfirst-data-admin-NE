@@ -1,0 +1,67 @@
+{
+  "id": 1276980551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.69694,14.58135,6.69694,14.58135",
+    "geom:latitude":14.58135,
+    "geom:longitude":6.69694,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Guidan Maygaki",
+    "gn:country_code":"NE",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6849590,
+    "gn:latitude":14.58135,
+    "gn:longitude":6.69694,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Guidan Maygaki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6849590
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"353a09bf86adec6663f23a6cbf561cfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1276980551,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1276980551,
+    "wof:lastmodified":1536906539,
+    "wof:name":"Guidan Maygaki",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.69694,
+    14.58135,
+    6.69694,
+    14.58135
+],
+  "geometry": {"coordinates":[6.69694,14.58135],"type":"Point"}
+}

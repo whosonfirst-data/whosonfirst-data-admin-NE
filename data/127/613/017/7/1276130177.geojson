@@ -1,0 +1,71 @@
+{
+  "id": 1276130177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.0714,13.57806,4.0714,13.57806",
+    "geom:latitude":13.57806,
+    "geom:longitude":4.0714,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kouka Bokoy",
+    "gn:country_code":"NE",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441995,
+    "gn:latitude":13.57806,
+    "gn:longitude":4.0714,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Kouka Bokoy",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Magazama",
+        "Kouka Bokoy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441995
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"0d8d1e9ce557d666fea1584c9ed4e505",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051467,
+            "locality_id":1276130177,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1276130177,
+    "wof:lastmodified":1537674737,
+    "wof:name":"Kouka Bokoy",
+    "wof:parent_id":1092051467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.0714,
+    13.57806,
+    4.0714,
+    13.57806
+],
+  "geometry": {"coordinates":[4.0714,13.57806],"type":"Point"}
+}

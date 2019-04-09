@@ -1,0 +1,67 @@
+{
+  "id": 1293781597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.5819,14.4205,5.5819,14.4205",
+    "geom:latitude":14.4205,
+    "geom:longitude":5.5819,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Zangon Tahe",
+    "gn:country_code":"NE",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6679303,
+    "gn:latitude":14.4205,
+    "gn:longitude":5.5819,
+    "gn:modification_date":"2008-02-09",
+    "gn:name":"Zangon Tah\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6679303
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"cea4c86c005540465a0c7842facfad84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051485,
+            "locality_id":1293781597,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1293781597,
+    "wof:lastmodified":1536858857,
+    "wof:name":"Zangon Tahe",
+    "wof:parent_id":1092051485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.5819,
+    14.4205,
+    5.5819,
+    14.4205
+],
+  "geometry": {"coordinates":[5.5819,14.4205],"type":"Point"}
+}

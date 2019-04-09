@@ -1,0 +1,71 @@
+{
+  "id": 1243563315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.06347,13.55179,13.06347,13.55179",
+    "geom:latitude":13.55179,
+    "geom:longitude":13.06347,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Digaya",
+    "gn:country_code":"NE",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446294,
+    "gn:latitude":13.55179,
+    "gn:longitude":13.06347,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Digaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dagaya",
+        "Digaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446294
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"5665e3474ae3c4e73e94b4ee3091d7a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051245,
+            "locality_id":1243563315,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1243563315,
+    "wof:lastmodified":1537674838,
+    "wof:name":"Digaya",
+    "wof:parent_id":1092051245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.06347,
+    13.55179,
+    13.06347,
+    13.55179
+],
+  "geometry": {"coordinates":[13.06347,13.55179],"type":"Point"}
+}

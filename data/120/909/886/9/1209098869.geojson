@@ -1,0 +1,61 @@
+{
+  "id": 1209098869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.36785,14.138,6.36785,14.138",
+    "geom:latitude":14.138,
+    "geom:longitude":6.36785,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Dagezouma",
+    "gn:country_code":"NE",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6850012,
+    "gn:latitude":14.138,
+    "gn:longitude":6.36785,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Dagezouma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6850012
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"36a7367f0652d543737afb92b1ea1554",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209098869
+        }
+    ],
+    "wof:id":1209098869,
+    "wof:lastmodified":1536297799,
+    "wof:name":"Dagezouma",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.36785,
+    14.138,
+    6.36785,
+    14.138
+],
+  "geometry": {"coordinates":[6.36785,14.138],"type":"Point"}
+}

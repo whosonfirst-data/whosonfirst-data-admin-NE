@@ -1,0 +1,71 @@
+{
+  "id": 1360277267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.98825,13.36133,9.98825,13.36133",
+    "geom:latitude":13.36133,
+    "geom:longitude":9.98825,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Gamdou",
+    "gn:country_code":"NE",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444805,
+    "gn:latitude":13.36133,
+    "gn:longitude":9.98825,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gamdou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gamdu",
+        "Gamdou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444805
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"f0003ff814162876f4f8a9676c594fa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051753,
+            "locality_id":1360277267,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1360277267,
+    "wof:lastmodified":1537674804,
+    "wof:name":"Gamdou",
+    "wof:parent_id":1092051753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.98825,
+    13.36133,
+    9.98825,
+    13.36133
+],
+  "geometry": {"coordinates":[9.98825,13.36133],"type":"Point"}
+}

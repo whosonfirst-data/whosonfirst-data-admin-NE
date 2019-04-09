@@ -1,0 +1,67 @@
+{
+  "id": 1210022395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.10647,13.75232,7.10647,13.75232",
+    "geom:latitude":13.75232,
+    "geom:longitude":7.10647,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Malaba",
+    "gn:country_code":"NE",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441407,
+    "gn:latitude":13.75232,
+    "gn:longitude":7.10647,
+    "gn:modification_date":"2008-02-13",
+    "gn:name":"Malaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441407
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"8a1796d467ff54765848d70b07f3355c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051229,
+            "locality_id":1210022395,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1210022395,
+    "wof:lastmodified":1536392262,
+    "wof:name":"Malaba",
+    "wof:parent_id":1092051229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.10647,
+    13.75232,
+    7.10647,
+    13.75232
+],
+  "geometry": {"coordinates":[7.10647,13.75232],"type":"Point"}
+}

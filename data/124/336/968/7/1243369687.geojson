@@ -1,0 +1,67 @@
+{
+  "id": 1243369687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.80851,13.55055,7.80851,13.55055",
+    "geom:latitude":13.55055,
+    "geom:longitude":7.80851,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Gamji",
+    "gn:country_code":"NE",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444802,
+    "gn:latitude":13.55055,
+    "gn:longitude":7.80851,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Gamji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444802
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"7bc0ed393086dff990fb7c47516146b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051197,
+            "locality_id":1243369687,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1243369687,
+    "wof:lastmodified":1536916746,
+    "wof:name":"Gamji",
+    "wof:parent_id":1092051197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.80851,
+    13.55055,
+    7.80851,
+    13.55055
+],
+  "geometry": {"coordinates":[7.80851,13.55055],"type":"Point"}
+}

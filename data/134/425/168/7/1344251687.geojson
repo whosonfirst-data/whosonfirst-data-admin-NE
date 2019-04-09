@@ -1,0 +1,72 @@
+{
+  "id": 1344251687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.85229,14.69418,1.85229,14.69418",
+    "geom:latitude":14.69418,
+    "geom:longitude":1.85229,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tondikoire",
+    "gn:country_code":"NE",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438440,
+    "gn:latitude":14.69418,
+    "gn:longitude":1.85229,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Tondikoir\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tondikoir\u00e9",
+        "Tondi Koyr\u00e9",
+        "Tonndikoir\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438440
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"43a3813368440ca4ec2198e5218a3174",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051633,
+            "locality_id":1344251687,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1344251687,
+    "wof:lastmodified":1537674666,
+    "wof:name":"Tondikoire",
+    "wof:parent_id":1092051633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.85229,
+    14.69418,
+    1.85229,
+    14.69418
+],
+  "geometry": {"coordinates":[1.85229,14.69418],"type":"Point"}
+}

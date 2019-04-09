@@ -1,0 +1,67 @@
+{
+  "id": 1226768659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.70996,13.26878,1.70996,13.26878",
+    "geom:latitude":13.26878,
+    "geom:longitude":1.70996,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Gongarou",
+    "gn:country_code":"NE",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6844873,
+    "gn:latitude":13.26878,
+    "gn:longitude":1.70996,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Gongarou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6844873
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"490dc24a9bc624b1940cf5414f852540",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051103,
+            "locality_id":1226768659,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1226768659,
+    "wof:lastmodified":1536682533,
+    "wof:name":"Gongarou",
+    "wof:parent_id":1092051103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.70996,
+    13.26878,
+    1.70996,
+    13.26878
+],
+  "geometry": {"coordinates":[1.70996,13.26878],"type":"Point"}
+}

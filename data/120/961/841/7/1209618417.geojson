@@ -1,0 +1,61 @@
+{
+  "id": 1209618417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.56011,13.72988,11.56011,13.72988",
+    "geom:latitude":13.72988,
+    "geom:longitude":11.56011,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Damagaram",
+    "gn:country_code":"NE",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6786287,
+    "gn:latitude":13.72988,
+    "gn:longitude":11.56011,
+    "gn:modification_date":"2013-02-09",
+    "gn:name":"Damagaram",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6786287
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"79278ab61c89c899236966f630609b91",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209618417
+        }
+    ],
+    "wof:id":1209618417,
+    "wof:lastmodified":1536281606,
+    "wof:name":"Damagaram",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.56011,
+    13.72988,
+    11.56011,
+    13.72988
+],
+  "geometry": {"coordinates":[11.56011,13.72988],"type":"Point"}
+}

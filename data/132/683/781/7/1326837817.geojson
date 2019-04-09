@@ -1,0 +1,71 @@
+{
+  "id": 1326837817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.4578,13.3028,3.4578,13.3028",
+    "geom:latitude":13.3028,
+    "geom:longitude":3.4578,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Zanga-Koara",
+    "gn:country_code":"NE",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437893,
+    "gn:latitude":13.3028,
+    "gn:longitude":3.4578,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zanga-Koara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zanga Kwara",
+        "Zanga-Koara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437893
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"41ba88b8820b5847a2448db93b2c1483",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051041,
+            "locality_id":1326837817,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1326837817,
+    "wof:lastmodified":1537674650,
+    "wof:name":"Zanga-Koara",
+    "wof:parent_id":1092051041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.4578,
+    13.3028,
+    3.4578,
+    13.3028
+],
+  "geometry": {"coordinates":[3.4578,13.3028],"type":"Point"}
+}

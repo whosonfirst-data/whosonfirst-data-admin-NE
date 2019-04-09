@@ -1,0 +1,61 @@
+{
+  "id": 1209028001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.3727,13.4068,9.3727,13.4068",
+    "geom:latitude":13.4068,
+    "geom:longitude":9.3727,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Marekou",
+    "gn:country_code":"NE",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6806963,
+    "gn:latitude":13.4068,
+    "gn:longitude":9.3727,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Mar\u00e9kou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6806963
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"28b74014aa878c199a70dcc551507aa3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209028001
+        }
+    ],
+    "wof:id":1209028001,
+    "wof:lastmodified":1536299935,
+    "wof:name":"Marekou",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.3727,
+    13.4068,
+    9.3727,
+    13.4068
+],
+  "geometry": {"coordinates":[9.3727,13.4068],"type":"Point"}
+}

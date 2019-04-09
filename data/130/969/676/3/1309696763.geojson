@@ -1,0 +1,67 @@
+{
+  "id": 1309696763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.9584,14.00679,0.9584,14.00679",
+    "geom:latitude":14.00679,
+    "geom:longitude":0.9584,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Galiangou",
+    "gn:country_code":"NE",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444827,
+    "gn:latitude":14.00679,
+    "gn:longitude":0.9584,
+    "gn:modification_date":"2008-10-21",
+    "gn:name":"Galiangou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444827
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"d29acbe4c422d36b747b69ec1168a7f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051545,
+            "locality_id":1309696763,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1309696763,
+    "wof:lastmodified":1537085174,
+    "wof:name":"Galiangou",
+    "wof:parent_id":1092051545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.9584,
+    14.00679,
+    0.9584,
+    14.00679
+],
+  "geometry": {"coordinates":[0.9584,14.00679],"type":"Point"}
+}

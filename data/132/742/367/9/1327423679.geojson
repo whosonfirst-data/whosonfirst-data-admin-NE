@@ -1,0 +1,71 @@
+{
+  "id": 1327423679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.0553,15.0759,3.0553,15.0759",
+    "geom:latitude":15.0759,
+    "geom:longitude":3.0553,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"I-n-Felendjedan",
+    "gn:country_code":"NE",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6678191,
+    "gn:latitude":15.0759,
+    "gn:longitude":3.0553,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"I-n-F\u00e9lendj\u00e9dan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "In F\u00e9lendj\u00e9dan",
+        "I-n-F\u00e9lendj\u00e9dan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6678191
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"7e15d719a3a1607bd7614cebd71f5503",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051633,
+            "locality_id":1327423679,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1327423679,
+    "wof:lastmodified":1537674878,
+    "wof:name":"I-n-Felendjedan",
+    "wof:parent_id":1092051633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.0553,
+    15.0759,
+    3.0553,
+    15.0759
+],
+  "geometry": {"coordinates":[3.0553,15.0759],"type":"Point"}
+}

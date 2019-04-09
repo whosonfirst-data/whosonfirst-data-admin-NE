@@ -1,0 +1,70 @@
+{
+  "id": 1260184017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.98105,12.83116,2.98105,12.83116",
+    "geom:latitude":12.83116,
+    "geom:longitude":2.98105,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Souley Gorou",
+    "gn:country_code":"NE",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8420357,
+    "gn:latitude":12.83116,
+    "gn:longitude":2.98105,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Souley Gorou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Daney"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8420357
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"92214980959d9e92aa1afb5d043728b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051075,
+            "locality_id":1260184017,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1260184017,
+    "wof:lastmodified":1537674895,
+    "wof:name":"Souley Gorou",
+    "wof:parent_id":1092051075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.98105,
+    12.83116,
+    2.98105,
+    12.83116
+],
+  "geometry": {"coordinates":[2.98105,12.83116],"type":"Point"}
+}

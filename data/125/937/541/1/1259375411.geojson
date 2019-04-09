@@ -1,0 +1,67 @@
+{
+  "id": 1259375411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.13643,14.8366,6.13643,14.8366",
+    "geom:latitude":14.8366,
+    "geom:longitude":6.13643,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Samiatan",
+    "gn:country_code":"NE",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6849457,
+    "gn:latitude":14.8366,
+    "gn:longitude":6.13643,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Samiatan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6849457
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"42a1d7c8cbad58775cb2fbdd32e6268a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051577,
+            "locality_id":1259375411,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1259375411,
+    "wof:lastmodified":1537013204,
+    "wof:name":"Samiatan",
+    "wof:parent_id":1092051577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.13643,
+    14.8366,
+    6.13643,
+    14.8366
+],
+  "geometry": {"coordinates":[6.13643,14.8366],"type":"Point"}
+}

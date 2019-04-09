@@ -1,0 +1,67 @@
+{
+  "id": 1343763079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.30653,14.73172,7.30653,14.73172",
+    "geom:latitude":14.73172,
+    "geom:longitude":7.30653,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dan Boka",
+    "gn:country_code":"NE",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446167,
+    "gn:latitude":14.73172,
+    "gn:longitude":7.30653,
+    "gn:modification_date":"2008-08-21",
+    "gn:name":"Dan Boka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446167
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"64dbe7d272e3912705c60c6f3eec73b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1343763079,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1343763079,
+    "wof:lastmodified":1536806901,
+    "wof:name":"Dan Boka",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.30653,
+    14.73172,
+    7.30653,
+    14.73172
+],
+  "geometry": {"coordinates":[7.30653,14.73172],"type":"Point"}
+}

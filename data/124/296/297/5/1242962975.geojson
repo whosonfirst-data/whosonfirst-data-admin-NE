@@ -1,0 +1,72 @@
+{
+  "id": 1242962975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.4599,13.963,1.4599,13.963",
+    "geom:latitude":13.963,
+    "geom:longitude":1.4599,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ganguikogo",
+    "gn:country_code":"NE",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444168,
+    "gn:latitude":13.963,
+    "gn:longitude":1.4599,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ganguikogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Genguikogo",
+        "Guenguikogo",
+        "Ganguikogo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444168
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"c6be94a94f76fb4940471bd1145bdc9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051545,
+            "locality_id":1242962975,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1242962975,
+    "wof:lastmodified":1537674790,
+    "wof:name":"Ganguikogo",
+    "wof:parent_id":1092051545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.4599,
+    13.963,
+    1.4599,
+    13.963
+],
+  "geometry": {"coordinates":[1.4599,13.963],"type":"Point"}
+}

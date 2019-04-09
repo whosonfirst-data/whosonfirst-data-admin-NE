@@ -1,0 +1,71 @@
+{
+  "id": 1293522555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.97888,14.3628,6.97888,14.3628",
+    "geom:latitude":14.3628,
+    "geom:longitude":6.97888,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Guidan Lolo",
+    "gn:country_code":"NE",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2443739,
+    "gn:latitude":14.3628,
+    "gn:longitude":6.97888,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Guidan Lolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guidan Lalo",
+        "Guidan Lolo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2443739
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"15b39f99daa552b68912fff55e1eec24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1293522555,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1293522555,
+    "wof:lastmodified":1537674776,
+    "wof:name":"Guidan Lolo",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.97888,
+    14.3628,
+    6.97888,
+    14.3628
+],
+  "geometry": {"coordinates":[6.97888,14.3628],"type":"Point"}
+}

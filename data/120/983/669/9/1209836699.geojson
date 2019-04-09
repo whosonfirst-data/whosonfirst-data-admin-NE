@@ -1,0 +1,67 @@
+{
+  "id": 1209836699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.90062,13.75678,8.90062,13.75678",
+    "geom:latitude":13.75678,
+    "geom:longitude":8.90062,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Roumfouan Tchetcheri",
+    "gn:country_code":"NE",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6735284,
+    "gn:latitude":13.75678,
+    "gn:longitude":8.90062,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Roumfouan Tchetch\u00e9ri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6735284
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"9fb45333246b7afd791743f75e4f0fd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051411,
+            "locality_id":1209836699,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1209836699,
+    "wof:lastmodified":1536394585,
+    "wof:name":"Roumfouan Tchetcheri",
+    "wof:parent_id":1092051411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.90062,
+    13.75678,
+    8.90062,
+    13.75678
+],
+  "geometry": {"coordinates":[8.90062,13.75678],"type":"Point"}
+}

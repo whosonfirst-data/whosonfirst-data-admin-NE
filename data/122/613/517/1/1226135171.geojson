@@ -1,0 +1,75 @@
+{
+  "id": 1226135171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.3593,14.7693,5.3593,14.7693",
+    "geom:latitude":14.7693,
+    "geom:longitude":5.3593,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Founkouey",
+    "gn:country_code":"NE",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444922,
+    "gn:latitude":14.7693,
+    "gn:longitude":5.3593,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Founkou\u00e9y",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fonkoya",
+        "Founkou\u00e8ye",
+        "Fonkoye",
+        "Founkoye",
+        "Founkouy",
+        "Founkou\u00e9y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444922
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"58b6233a60cb5d8aaaf5ed5b281c76e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051609,
+            "locality_id":1226135171,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1226135171,
+    "wof:lastmodified":1537674807,
+    "wof:name":"Founkouey",
+    "wof:parent_id":1092051609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.3593,
+    14.7693,
+    5.3593,
+    14.7693
+],
+  "geometry": {"coordinates":[5.3593,14.7693],"type":"Point"}
+}

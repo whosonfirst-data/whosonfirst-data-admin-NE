@@ -1,0 +1,71 @@
+{
+  "id": 1310406433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.18578,13.55694,7.18578,13.55694",
+    "geom:latitude":13.55694,
+    "geom:longitude":7.18578,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Talagawa",
+    "gn:country_code":"NE",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6712289,
+    "gn:latitude":13.55694,
+    "gn:longitude":7.18578,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Talagawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tagaza",
+        "Talagawa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6712289
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"8ace0020d8b2b486eb522153084be9cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051229,
+            "locality_id":1310406433,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1310406433,
+    "wof:lastmodified":1537674883,
+    "wof:name":"Talagawa",
+    "wof:parent_id":1092051229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.18578,
+    13.55694,
+    7.18578,
+    13.55694
+],
+  "geometry": {"coordinates":[7.18578,13.55694],"type":"Point"}
+}

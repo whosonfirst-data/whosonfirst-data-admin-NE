@@ -1,0 +1,71 @@
+{
+  "id": 1310200951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.82092,13.63269,1.82092,13.63269",
+    "geom:latitude":13.63269,
+    "geom:longitude":1.82092,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Balati Foulague Koyra",
+    "gn:country_code":"NE",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447229,
+    "gn:latitude":13.63269,
+    "gn:longitude":1.82092,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Balati Foulagu\u00e9 Koyra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Balati Foulague Koira",
+        "Balati Foulagu\u00e9 Koyra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447229
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"f2d2032d6fb916562fa3aedb4d246004",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1310200951,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1310200951,
+    "wof:lastmodified":1537674860,
+    "wof:name":"Balati Foulague Koyra",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.82092,
+    13.63269,
+    1.82092,
+    13.63269
+],
+  "geometry": {"coordinates":[1.82092,13.63269],"type":"Point"}
+}

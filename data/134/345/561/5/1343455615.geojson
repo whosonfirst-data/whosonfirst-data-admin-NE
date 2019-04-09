@@ -1,0 +1,67 @@
+{
+  "id": 1343455615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.29133,13.8451,9.29133,13.8451",
+    "geom:latitude":13.8451,
+    "geom:longitude":9.29133,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Malemari",
+    "gn:country_code":"NE",
+    "gn:dem":425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6806790,
+    "gn:latitude":13.8451,
+    "gn:longitude":9.29133,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Mal\u00e9mari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6806790
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"a0d3180c3ebd2454a678b850a42c3000",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051411,
+            "locality_id":1343455615,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1343455615,
+    "wof:lastmodified":1536753198,
+    "wof:name":"Malemari",
+    "wof:parent_id":1092051411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.29133,
+    13.8451,
+    9.29133,
+    13.8451
+],
+  "geometry": {"coordinates":[9.29133,13.8451],"type":"Point"}
+}

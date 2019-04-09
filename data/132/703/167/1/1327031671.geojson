@@ -1,0 +1,71 @@
+{
+  "id": 1327031671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.0553,12.99738,3.0553,12.99738",
+    "geom:latitude":12.99738,
+    "geom:longitude":3.0553,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Koure-Sakaou",
+    "gn:country_code":"NE",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441896,
+    "gn:latitude":12.99738,
+    "gn:longitude":3.0553,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kour\u00e9-Sakaou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kour\u00e9-Sakao",
+        "Kour\u00e9-Sakaou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441896
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"c3824315215eeb124c5272738f2aaff6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051041,
+            "locality_id":1327031671,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1327031671,
+    "wof:lastmodified":1537674735,
+    "wof:name":"Koure-Sakaou",
+    "wof:parent_id":1092051041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.0553,
+    12.99738,
+    3.0553,
+    12.99738
+],
+  "geometry": {"coordinates":[3.0553,12.99738],"type":"Point"}
+}

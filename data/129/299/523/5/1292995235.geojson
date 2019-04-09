@@ -1,0 +1,74 @@
+{
+  "id": 1292995235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.60789,13.84637,1.60789,13.84637",
+    "geom:latitude":13.84637,
+    "geom:longitude":1.60789,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Sansane Haoussa",
+    "gn:country_code":"NE",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439621,
+    "gn:latitude":13.84637,
+    "gn:longitude":1.60789,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Sansan\u00e9 Haoussa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sansan Haoussa",
+        "Sonsoni Haoussa",
+        "Sansan\u00e9",
+        "Sansan Aussa",
+        "Sansan\u00e9 Haoussa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        890429081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439621
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"b8cfbb406d4e086279506a81b3fd271d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":890429081,
+            "locality_id":1292995235,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1292995235,
+    "wof:lastmodified":1537674687,
+    "wof:name":"Sansane Haoussa",
+    "wof:parent_id":890429081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.60789,
+    13.84637,
+    1.60789,
+    13.84637
+],
+  "geometry": {"coordinates":[1.60789,13.84637],"type":"Point"}
+}

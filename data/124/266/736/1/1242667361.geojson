@@ -1,0 +1,71 @@
+{
+  "id": 1242667361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.5439,14.1833,3.5439,14.1833",
+    "geom:latitude":14.1833,
+    "geom:longitude":3.5439,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Gworozenge",
+    "gn:country_code":"NE",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2443455,
+    "gn:latitude":14.1833,
+    "gn:longitude":3.5439,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gworozeng\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gworozengu\u00e9",
+        "Gworozeng\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2443455
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"224754405b2d2e41e1a17a4af0219452",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051695,
+            "locality_id":1242667361,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1242667361,
+    "wof:lastmodified":1537674766,
+    "wof:name":"Gworozenge",
+    "wof:parent_id":1092051695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.5439,
+    14.1833,
+    3.5439,
+    14.1833
+],
+  "geometry": {"coordinates":[3.5439,14.1833],"type":"Point"}
+}

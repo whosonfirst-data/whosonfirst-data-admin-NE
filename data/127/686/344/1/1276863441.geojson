@@ -1,0 +1,67 @@
+{
+  "id": 1276863441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.7774,14.19,10.7774,14.19",
+    "geom:latitude":14.19,
+    "geom:longitude":10.7774,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kouboule Malam Bello",
+    "gn:country_code":"NE",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6848205,
+    "gn:latitude":14.19,
+    "gn:longitude":10.7774,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Kouboul\u00e9 Malam B\u00e9llo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6848205
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"ab7880a362594a93a37ba7f06e0cf9c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051753,
+            "locality_id":1276863441,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1276863441,
+    "wof:lastmodified":1537060512,
+    "wof:name":"Kouboule Malam Bello",
+    "wof:parent_id":1092051753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.7774,
+    14.19,
+    10.7774,
+    14.19
+],
+  "geometry": {"coordinates":[10.7774,14.19],"type":"Point"}
+}

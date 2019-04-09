@@ -1,0 +1,73 @@
+{
+  "id": 1309719415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.8985,12.5793,2.8985,12.5793",
+    "geom:latitude":12.5793,
+    "geom:longitude":2.8985,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Alouguel",
+    "gn:country_code":"NE",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447842,
+    "gn:latitude":12.5793,
+    "gn:longitude":2.8985,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Alougu\u00e8l",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alenguel",
+        "Allanguel",
+        "Aloug\u00e8l",
+        "Alougu\u00e8l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447842
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"140c19f6b0c9854d1473ce5016dfae59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051075,
+            "locality_id":1309719415,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1309719415,
+    "wof:lastmodified":1537674869,
+    "wof:name":"Alouguel",
+    "wof:parent_id":1092051075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.8985,
+    12.5793,
+    2.8985,
+    12.5793
+],
+  "geometry": {"coordinates":[2.8985,12.5793],"type":"Point"}
+}

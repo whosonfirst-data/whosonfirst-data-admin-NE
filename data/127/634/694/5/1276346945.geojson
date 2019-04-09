@@ -1,0 +1,67 @@
+{
+  "id": 1276346945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.00939,13.03531,4.00939,13.03531",
+    "geom:latitude":13.03531,
+    "geom:longitude":4.00939,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kore",
+    "gn:country_code":"NE",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442151,
+    "gn:latitude":13.03531,
+    "gn:longitude":4.00939,
+    "gn:modification_date":"2009-03-27",
+    "gn:name":"Kor\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442151
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"58c04f1735e45a02b6858fab465cdbef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051467,
+            "locality_id":1276346945,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1276346945,
+    "wof:lastmodified":1536760398,
+    "wof:name":"Kore",
+    "wof:parent_id":1092051467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.00939,
+    13.03531,
+    4.00939,
+    13.03531
+],
+  "geometry": {"coordinates":[4.00939,13.03531],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360091235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.01244,13.40584,7.01244,13.40584",
+    "geom:latitude":13.40584,
+    "geom:longitude":7.01244,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Serkin Yak'i Tanko",
+    "gn:country_code":"NE",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6718280,
+    "gn:latitude":13.40584,
+    "gn:longitude":7.01244,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Serkin Y\u00e2k'i Tanko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6718280
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"bd4839fe7a05c892661d622049b4d9e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051007,
+            "locality_id":1360091235,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1360091235,
+    "wof:lastmodified":1536937493,
+    "wof:name":"Serkin Yak'i Tanko",
+    "wof:parent_id":1092051007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.01244,
+    13.40584,
+    7.01244,
+    13.40584
+],
+  "geometry": {"coordinates":[7.01244,13.40584],"type":"Point"}
+}

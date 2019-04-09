@@ -1,0 +1,67 @@
+{
+  "id": 1259980161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.02965,13.37321,8.02965,13.37321",
+    "geom:latitude":13.37321,
+    "geom:longitude":8.02965,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Rijia Ango",
+    "gn:country_code":"NE",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6726709,
+    "gn:latitude":13.37321,
+    "gn:longitude":8.02965,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Rijia Ango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6726709
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"2152482269c1426ed5a4b46fc645bdcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051197,
+            "locality_id":1259980161,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1259980161,
+    "wof:lastmodified":1536638910,
+    "wof:name":"Rijia Ango",
+    "wof:parent_id":1092051197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.02965,
+    13.37321,
+    8.02965,
+    13.37321
+],
+  "geometry": {"coordinates":[8.02965,13.37321],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293122363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.16557,15.0911,9.16557,15.0911",
+    "geom:latitude":15.0911,
+    "geom:longitude":9.16557,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douno Mari",
+    "gn:country_code":"NE",
+    "gn:dem":484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6806213,
+    "gn:latitude":15.0911,
+    "gn:longitude":9.16557,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Douno Mari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6806213
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"158b8b8e24e6c7adaea111f4e299c448",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1293122363,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1293122363,
+    "wof:lastmodified":1536815759,
+    "wof:name":"Douno Mari",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.16557,
+    15.0911,
+    9.16557,
+    15.0911
+],
+  "geometry": {"coordinates":[9.16557,15.0911],"type":"Point"}
+}

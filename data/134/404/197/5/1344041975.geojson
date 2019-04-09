@@ -1,0 +1,72 @@
+{
+  "id": 1344041975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.75014,13.39437,1.75014,13.39437",
+    "geom:latitude":13.39437,
+    "geom:longitude":1.75014,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tielel",
+    "gn:country_code":"NE",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438174,
+    "gn:latitude":13.39437,
+    "gn:longitude":1.75014,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Ti\u00e9l\u00e9l",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tyeleltonkady\u00e9",
+        "Tyellel Tonkady\u00e9",
+        "Ti\u00e9l\u00e9l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438174
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"57cfd783ff8aa1da247c0751a3bb0f61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051103,
+            "locality_id":1344041975,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1344041975,
+    "wof:lastmodified":1537674658,
+    "wof:name":"Tielel",
+    "wof:parent_id":1092051103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.75014,
+    13.39437,
+    1.75014,
+    13.39437
+],
+  "geometry": {"coordinates":[1.75014,13.39437],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310429507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.47302,14.56624,7.47302,14.56624",
+    "geom:latitude":14.56624,
+    "geom:longitude":7.47302,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Gadare",
+    "gn:country_code":"NE",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444873,
+    "gn:latitude":14.56624,
+    "gn:longitude":7.47302,
+    "gn:modification_date":"2008-08-21",
+    "gn:name":"Gadar\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444873
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"618bf74f7c63be35e5d270d3f79bb893",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1310429507,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1310429507,
+    "wof:lastmodified":1537025461,
+    "wof:name":"Gadare",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.47302,
+    14.56624,
+    7.47302,
+    14.56624
+],
+  "geometry": {"coordinates":[7.47302,14.56624],"type":"Point"}
+}

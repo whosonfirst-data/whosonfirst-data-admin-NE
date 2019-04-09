@@ -1,0 +1,67 @@
+{
+  "id": 1293495287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.898,13.4276,3.898,13.4276",
+    "geom:latitude":13.4276,
+    "geom:longitude":3.898,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Doula",
+    "gn:country_code":"NE",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445467,
+    "gn:latitude":13.4276,
+    "gn:longitude":3.898,
+    "gn:modification_date":"2008-10-22",
+    "gn:name":"Doula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445467
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"a783d59994ed1704c03bd58847e27a18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051467,
+            "locality_id":1293495287,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1293495287,
+    "wof:lastmodified":1536776346,
+    "wof:name":"Doula",
+    "wof:parent_id":1092051467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.898,
+    13.4276,
+    3.898,
+    13.4276
+],
+  "geometry": {"coordinates":[3.898,13.4276],"type":"Point"}
+}

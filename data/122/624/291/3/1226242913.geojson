@@ -1,0 +1,67 @@
+{
+  "id": 1226242913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.32712,14.43824,7.32712,14.43824",
+    "geom:latitude":14.43824,
+    "geom:longitude":7.32712,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Soke Soke Saboa",
+    "gn:country_code":"NE",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439648,
+    "gn:latitude":14.43824,
+    "gn:longitude":7.32712,
+    "gn:modification_date":"2008-08-21",
+    "gn:name":"Sok\u00e9 Sok\u00e9 Saboa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439648
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"68f6f87f8cd428c96b515c7e8c145b27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051435,
+            "locality_id":1226242913,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1226242913,
+    "wof:lastmodified":1536938444,
+    "wof:name":"Soke Soke Saboa",
+    "wof:parent_id":1092051435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.32712,
+    14.43824,
+    7.32712,
+    14.43824
+],
+  "geometry": {"coordinates":[7.32712,14.43824],"type":"Point"}
+}

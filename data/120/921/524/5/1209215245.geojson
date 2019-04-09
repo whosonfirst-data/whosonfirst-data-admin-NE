@@ -1,0 +1,61 @@
+{
+  "id": 1209215245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.79209,13.34376,7.79209,13.34376",
+    "geom:latitude":13.34376,
+    "geom:longitude":7.79209,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Charin Dawa",
+    "gn:country_code":"NE",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6722928,
+    "gn:latitude":13.34376,
+    "gn:longitude":7.79209,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Charin Dawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6722928
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"ded42609cc8176f9100caa8217681ce2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209215245
+        }
+    ],
+    "wof:id":1209215245,
+    "wof:lastmodified":1536294154,
+    "wof:name":"Charin Dawa",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.792089999999999,
+    13.34376,
+    7.792089999999999,
+    13.34376
+],
+  "geometry": {"coordinates":[7.79209,13.34376],"type":"Point"}
+}

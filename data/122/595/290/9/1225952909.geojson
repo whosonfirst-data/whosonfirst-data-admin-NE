@@ -1,0 +1,71 @@
+{
+  "id": 1225952909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.41274,13.08347,12.41274,13.08347",
+    "geom:latitude":13.08347,
+    "geom:longitude":12.41274,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Douro",
+    "gn:country_code":"NE",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445421,
+    "gn:latitude":13.08347,
+    "gn:longitude":12.41274,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Douro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Duro",
+        "Douro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445421
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"63caeb5aa6f48045590a6660b2d953bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051245,
+            "locality_id":1225952909,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1225952909,
+    "wof:lastmodified":1537674816,
+    "wof:name":"Douro",
+    "wof:parent_id":1092051245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.41274,
+    13.08347,
+    12.41274,
+    13.08347
+],
+  "geometry": {"coordinates":[12.41274,13.08347],"type":"Point"}
+}

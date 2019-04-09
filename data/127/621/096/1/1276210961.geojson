@@ -1,0 +1,67 @@
+{
+  "id": 1276210961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.35935,14.55329,2.35935,14.55329",
+    "geom:latitude":14.55329,
+    "geom:longitude":2.35935,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tondibon Bangou",
+    "gn:country_code":"NE",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6827368,
+    "gn:latitude":14.55329,
+    "gn:longitude":2.35935,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Tondibon Bangou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6827368
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"8fb93068856a79ab5021beae91767276",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051633,
+            "locality_id":1276210961,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1276210961,
+    "wof:lastmodified":1536943631,
+    "wof:name":"Tondibon Bangou",
+    "wof:parent_id":1092051633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.35935,
+    14.55329,
+    2.35935,
+    14.55329
+],
+  "geometry": {"coordinates":[2.35935,14.55329],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276325691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.53195,14.25997,8.53195,14.25997",
+    "geom:latitude":14.25997,
+    "geom:longitude":8.53195,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Falenko",
+    "gn:country_code":"NE",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445156,
+    "gn:latitude":14.25997,
+    "gn:longitude":8.53195,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Fal\u00e9nko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Folenko",
+        "Falenkolollla",
+        "Fal\u00e9nko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445156,
+        "wk:page":"Falenko"
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"1f7ea7bb376a340e114acc5f350d05ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1276325691,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1276325691,
+    "wof:lastmodified":1537674813,
+    "wof:name":"Falenko",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.53195,
+    14.25997,
+    8.53195,
+    14.25997
+],
+  "geometry": {"coordinates":[8.53195,14.25997],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293596657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.95203,12.79368,2.95203,12.79368",
+    "geom:latitude":12.79368,
+    "geom:longitude":2.95203,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Debe Debe Peul",
+    "gn:country_code":"NE",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445819,
+    "gn:latitude":12.79368,
+    "gn:longitude":2.95203,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"D\u00e9b\u00e9 D\u00e9b\u00e9 Peul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u00e9b\u00e9 D\u00e9b\u00e9 Peul",
+        "Kadi\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445819
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"4ab18accc32e91f226abf305254cd693",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051075,
+            "locality_id":1293596657,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1293596657,
+    "wof:lastmodified":1537674829,
+    "wof:name":"Debe Debe Peul",
+    "wof:parent_id":1092051075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.95203,
+    12.79368,
+    2.95203,
+    12.79368
+],
+  "geometry": {"coordinates":[2.95203,12.79368],"type":"Point"}
+}

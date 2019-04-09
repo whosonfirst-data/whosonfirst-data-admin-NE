@@ -1,0 +1,70 @@
+{
+  "id": 1226444393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.86382,12.85911,2.86382,12.85911",
+    "geom:latitude":12.85911,
+    "geom:longitude":2.86382,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sirakatou",
+    "gn:country_code":"NE",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439677,
+    "gn:latitude":12.85911,
+    "gn:longitude":2.86382,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Sirakatou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sirakatoun\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439677
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"ec17e7fb3e53fe27d299b226a1b6a2cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051075,
+            "locality_id":1226444393,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1226444393,
+    "wof:lastmodified":1537674688,
+    "wof:name":"Sirakatou",
+    "wof:parent_id":1092051075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.86382,
+    12.85911,
+    2.86382,
+    12.85911
+],
+  "geometry": {"coordinates":[2.86382,12.85911],"type":"Point"}
+}

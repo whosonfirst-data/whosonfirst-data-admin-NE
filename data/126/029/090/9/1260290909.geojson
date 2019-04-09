@@ -1,0 +1,67 @@
+{
+  "id": 1260290909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.98804,13.64202,6.98804,13.64202",
+    "geom:latitude":13.64202,
+    "geom:longitude":6.98804,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Samayna",
+    "gn:country_code":"NE",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439938,
+    "gn:latitude":13.64202,
+    "gn:longitude":6.98804,
+    "gn:modification_date":"2008-02-08",
+    "gn:name":"Samayna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439938
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"07c7834bd0083a4741d96d96d097b786",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051229,
+            "locality_id":1260290909,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1260290909,
+    "wof:lastmodified":1536702216,
+    "wof:name":"Samayna",
+    "wof:parent_id":1092051229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.98804,
+    13.64202,
+    6.98804,
+    13.64202
+],
+  "geometry": {"coordinates":[6.98804,13.64202],"type":"Point"}
+}

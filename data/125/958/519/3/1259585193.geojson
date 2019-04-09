@@ -1,0 +1,67 @@
+{
+  "id": 1259585193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.8547,13.3174,2.8547,13.3174",
+    "geom:latitude":13.3174,
+    "geom:longitude":2.8547,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Niabere Kaina",
+    "gn:country_code":"NE",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6858482,
+    "gn:latitude":13.3174,
+    "gn:longitude":2.8547,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Niab\u00e9r\u00e9 Ka\u00efna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6858482
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"fe7601855ba6b3970d9fe21ca21a8847",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051075,
+            "locality_id":1259585193,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1259585193,
+    "wof:lastmodified":1536712664,
+    "wof:name":"Niabere Kaina",
+    "wof:parent_id":1092051075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.8547,
+    13.3174,
+    2.8547,
+    13.3174
+],
+  "geometry": {"coordinates":[2.8547,13.3174],"type":"Point"}
+}

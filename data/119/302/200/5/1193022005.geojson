@@ -1,0 +1,67 @@
+{
+  "id": 1193022005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.25613,14.30499,7.25613,14.30499",
+    "geom:latitude":14.30499,
+    "geom:longitude":7.25613,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Guidan Saidou",
+    "gn:country_code":"NE",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2443618,
+    "gn:latitude":14.30499,
+    "gn:longitude":7.25613,
+    "gn:modification_date":"2008-08-21",
+    "gn:name":"Guidan Saidou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2443618
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"5eed22157ba1f53d54b84869fc9f362b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051435,
+            "locality_id":1193022005,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1193022005,
+    "wof:lastmodified":1536372192,
+    "wof:name":"Guidan Saidou",
+    "wof:parent_id":1092051435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.25613,
+    14.30499,
+    7.25613,
+    14.30499
+],
+  "geometry": {"coordinates":[7.25613,14.30499],"type":"Point"}
+}

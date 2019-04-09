@@ -1,0 +1,67 @@
+{
+  "id": 1276753763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.70201,13.93517,1.70201,13.93517",
+    "geom:latitude":13.93517,
+    "geom:longitude":1.70201,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bourou Bangou",
+    "gn:country_code":"NE",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446485,
+    "gn:latitude":13.93517,
+    "gn:longitude":1.70201,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Bourou Bangou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        890429081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446485
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"9ac4aea93c02f86e5ff6f887b8babf7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":890429081,
+            "locality_id":1276753763,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1276753763,
+    "wof:lastmodified":1536712845,
+    "wof:name":"Bourou Bangou",
+    "wof:parent_id":890429081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.70201,
+    13.93517,
+    1.70201,
+    13.93517
+],
+  "geometry": {"coordinates":[1.70201,13.93517],"type":"Point"}
+}

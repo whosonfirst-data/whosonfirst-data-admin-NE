@@ -1,0 +1,61 @@
+{
+  "id": 1209423917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.25013,14.32412,13.25013,14.32412",
+    "geom:latitude":14.32412,
+    "geom:longitude":13.25013,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mandara Gana",
+    "gn:country_code":"NE",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6787037,
+    "gn:latitude":14.32412,
+    "gn:longitude":13.25013,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Mandara Gana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6787037
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"c489fb16fe66187835683f8606ab6d3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209423917
+        }
+    ],
+    "wof:id":1209423917,
+    "wof:lastmodified":1536287441,
+    "wof:name":"Mandara Gana",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.25013,
+    14.32412,
+    13.25013,
+    14.32412
+],
+  "geometry": {"coordinates":[13.25013,14.32412],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209439045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.23487,13.46624,7.23487,13.46624",
+    "geom:latitude":13.46624,
+    "geom:longitude":7.23487,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dalia",
+    "gn:country_code":"NE",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446255,
+    "gn:latitude":13.46624,
+    "gn:longitude":7.23487,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dalia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dalya",
+        "Dalia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446255
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"72e0fa2c42e02fc05541cefa5a4081ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209439045
+        }
+    ],
+    "wof:id":1209439045,
+    "wof:lastmodified":1537674837,
+    "wof:name":"Dalia",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.23487,
+    13.46624,
+    7.23487,
+    13.46624
+],
+  "geometry": {"coordinates":[7.23487,13.46624],"type":"Point"}
+}

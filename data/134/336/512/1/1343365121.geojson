@@ -1,0 +1,72 @@
+{
+  "id": 1343365121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.08744,13.36875,7.08744,13.36875",
+    "geom:latitude":13.36875,
+    "geom:longitude":7.08744,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Garin Magari",
+    "gn:country_code":"NE",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444558,
+    "gn:latitude":13.36875,
+    "gn:longitude":7.08744,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Garin Magari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Garin Ma\u00e9gali",
+        "Garin Maygali",
+        "Garin Magari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444558
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"9f2e177c338e57ff26a4c643fbc97f44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051007,
+            "locality_id":1343365121,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1343365121,
+    "wof:lastmodified":1537674799,
+    "wof:name":"Garin Magari",
+    "wof:parent_id":1092051007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.08744,
+    13.36875,
+    7.08744,
+    13.36875
+],
+  "geometry": {"coordinates":[7.08744,13.36875],"type":"Point"}
+}

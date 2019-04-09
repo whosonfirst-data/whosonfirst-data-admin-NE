@@ -1,0 +1,72 @@
+{
+  "id": 1209907871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.32784,13.70712,9.32784,13.70712",
+    "geom:latitude":13.70712,
+    "geom:longitude":9.32784,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kissanbana",
+    "gn:country_code":"NE",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442392,
+    "gn:latitude":13.70712,
+    "gn:longitude":9.32784,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kissanbana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kisanbana",
+        "Kissambana",
+        "Kissanbana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442392
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"98c8605ab97582b14e16d297f2a99624",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051411,
+            "locality_id":1209907871,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1209907871,
+    "wof:lastmodified":1537674748,
+    "wof:name":"Kissanbana",
+    "wof:parent_id":1092051411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.32784,
+    13.70712,
+    9.32784,
+    13.70712
+],
+  "geometry": {"coordinates":[9.32784,13.70712],"type":"Point"}
+}

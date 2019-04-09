@@ -1,0 +1,61 @@
+{
+  "id": 1209097909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.9383,14.3759,8.9383,14.3759",
+    "geom:latitude":14.3759,
+    "geom:longitude":8.9383,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kadata",
+    "gn:country_code":"NE",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442899,
+    "gn:latitude":14.3759,
+    "gn:longitude":8.9383,
+    "gn:modification_date":"2008-08-26",
+    "gn:name":"Kadata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442899
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"8e1652472e1b52bc0b4eeb49d2ef8873",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209097909
+        }
+    ],
+    "wof:id":1209097909,
+    "wof:lastmodified":1536297828,
+    "wof:name":"Kadata",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.9383,
+    14.3759,
+    8.9383,
+    14.3759
+],
+  "geometry": {"coordinates":[8.9383,14.3759],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226164303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.77988,13.47667,8.77988,13.47667",
+    "geom:latitude":13.47667,
+    "geom:longitude":8.77988,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Barawa Saboua",
+    "gn:country_code":"NE",
+    "gn:dem":426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6739667,
+    "gn:latitude":13.47667,
+    "gn:longitude":8.77988,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Barawa Saboua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6739667
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"c772950a5e3447ed5df7ae54ce07d9d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051411,
+            "locality_id":1226164303,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1226164303,
+    "wof:lastmodified":1537048942,
+    "wof:name":"Barawa Saboua",
+    "wof:parent_id":1092051411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.77988,
+    13.47667,
+    8.77988,
+    13.47667
+],
+  "geometry": {"coordinates":[8.77988,13.47667],"type":"Point"}
+}

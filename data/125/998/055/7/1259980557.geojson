@@ -1,0 +1,72 @@
+{
+  "id": 1259980557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.52601,13.48389,7.52601,13.48389",
+    "geom:latitude":13.48389,
+    "geom:longitude":7.52601,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Guidan Baje",
+    "gn:country_code":"NE",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2443970,
+    "gn:latitude":13.48389,
+    "gn:longitude":7.52601,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Guidan Baj\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gidan Baz\u00e9",
+        "Guidan Baz\u00e9",
+        "Guidan Baj\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2443970
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"71cb78c1174a6f3589dfb1043cbe1cce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051197,
+            "locality_id":1259980557,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1259980557,
+    "wof:lastmodified":1537674783,
+    "wof:name":"Guidan Baje",
+    "wof:parent_id":1092051197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.52601,
+    13.48389,
+    7.52601,
+    13.48389
+],
+  "geometry": {"coordinates":[7.52601,13.48389],"type":"Point"}
+}

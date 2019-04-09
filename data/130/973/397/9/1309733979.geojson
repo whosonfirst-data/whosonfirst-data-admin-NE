@@ -1,0 +1,67 @@
+{
+  "id": 1309733979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.31705,14.60881,6.31705,14.60881",
+    "geom:latitude":14.60881,
+    "geom:longitude":6.31705,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Guidan Dan Bawa",
+    "gn:country_code":"NE",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6849560,
+    "gn:latitude":14.60881,
+    "gn:longitude":6.31705,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Guidan Dan Bawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6849560
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"a8ad0ccffee680e16673f7f205546344",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051515,
+            "locality_id":1309733979,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1309733979,
+    "wof:lastmodified":1537033232,
+    "wof:name":"Guidan Dan Bawa",
+    "wof:parent_id":1092051515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.31705,
+    14.60881,
+    6.31705,
+    14.60881
+],
+  "geometry": {"coordinates":[6.31705,14.60881],"type":"Point"}
+}

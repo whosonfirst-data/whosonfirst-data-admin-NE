@@ -1,0 +1,67 @@
+{
+  "id": 1309696609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.54869,14.37632,1.54869,14.37632",
+    "geom:latitude":14.37632,
+    "geom:longitude":1.54869,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Zebanafiti",
+    "gn:country_code":"NE",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8516217,
+    "gn:latitude":14.37632,
+    "gn:longitude":1.54869,
+    "gn:modification_date":"2013-04-06",
+    "gn:name":"Z\u00e9banafiti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        890429081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8516217
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"de962a428153cb36442d4a5553a9615f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":890429081,
+            "locality_id":1309696609,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1309696609,
+    "wof:lastmodified":1537085400,
+    "wof:name":"Zebanafiti",
+    "wof:parent_id":890429081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.54869,
+    14.37632,
+    1.54869,
+    14.37632
+],
+  "geometry": {"coordinates":[1.54869,14.37632],"type":"Point"}
+}

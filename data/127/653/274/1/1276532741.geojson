@@ -1,0 +1,67 @@
+{
+  "id": 1276532741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.52074,14.17421,2.52074,14.17421",
+    "geom:latitude":14.17421,
+    "geom:longitude":2.52074,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Meynelogo",
+    "gn:country_code":"NE",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6827233,
+    "gn:latitude":14.17421,
+    "gn:longitude":2.52074,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"M\u00e8yn\u00e9logo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6827233
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"a3bd5290a261c970e1b727580f8d12ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051633,
+            "locality_id":1276532741,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1276532741,
+    "wof:lastmodified":1537008089,
+    "wof:name":"Meynelogo",
+    "wof:parent_id":1092051633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.52074,
+    14.17421,
+    2.52074,
+    14.17421
+],
+  "geometry": {"coordinates":[2.52074,14.17421],"type":"Point"}
+}

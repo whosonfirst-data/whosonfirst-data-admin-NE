@@ -1,0 +1,71 @@
+{
+  "id": 1243164579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.6211,14.5385,5.6211,14.5385",
+    "geom:latitude":14.5385,
+    "geom:longitude":5.6211,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Zangon Gabassa",
+    "gn:country_code":"NE",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6679213,
+    "gn:latitude":14.5385,
+    "gn:longitude":5.6211,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Zangon Gabassa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zangon Gabasa",
+        "Zangon Gabassa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6679213
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"b6324dcc7259c6e5a90db7cec725ea27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051577,
+            "locality_id":1243164579,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1243164579,
+    "wof:lastmodified":1537674880,
+    "wof:name":"Zangon Gabassa",
+    "wof:parent_id":1092051577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.6211,
+    14.5385,
+    5.6211,
+    14.5385
+],
+  "geometry": {"coordinates":[5.6211,14.5385],"type":"Point"}
+}

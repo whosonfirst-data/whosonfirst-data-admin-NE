@@ -1,0 +1,67 @@
+{
+  "id": 1226144903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.9608,13.1855,3.9608,13.1855",
+    "geom:latitude":13.1855,
+    "geom:longitude":3.9608,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kore-Marna",
+    "gn:country_code":"NE",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442146,
+    "gn:latitude":13.1855,
+    "gn:longitude":3.9608,
+    "gn:modification_date":"2008-10-22",
+    "gn:name":"Kor\u00e9-Marna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442146
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"9618e838fba5e138d3bb43a0467f1cd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051467,
+            "locality_id":1226144903,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1226144903,
+    "wof:lastmodified":1537075820,
+    "wof:name":"Kore-Marna",
+    "wof:parent_id":1092051467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.9608,
+    13.1855,
+    3.9608,
+    13.1855
+],
+  "geometry": {"coordinates":[3.9608,13.1855],"type":"Point"}
+}

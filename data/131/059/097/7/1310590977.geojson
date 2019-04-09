@@ -1,0 +1,73 @@
+{
+  "id": 1310590977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.194,13.7125,2.194,13.7125",
+    "geom:latitude":13.7125,
+    "geom:longitude":2.194,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Lawey",
+    "gn:country_code":"NE",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441704,
+    "gn:latitude":13.7125,
+    "gn:longitude":2.194,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lawey",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Laoueye",
+        "Lanroi",
+        "Laouey",
+        "Lawey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441704
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"3a0a283f4ec3c283c01ee521d1c9c135",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1310590977,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1310590977,
+    "wof:lastmodified":1537674728,
+    "wof:name":"Lawey",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.194,
+    13.7125,
+    2.194,
+    13.7125
+],
+  "geometry": {"coordinates":[2.194,13.7125],"type":"Point"}
+}

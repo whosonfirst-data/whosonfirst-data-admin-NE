@@ -1,0 +1,72 @@
+{
+  "id": 1293413649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.04645,13.00279,7.04645,13.00279",
+    "geom:latitude":13.00279,
+    "geom:longitude":7.04645,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Douhoun Bara",
+    "gn:country_code":"NE",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445476,
+    "gn:latitude":13.00279,
+    "gn:longitude":7.04645,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Douhoun Bara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Doufaumbara",
+        "Doufoumbara",
+        "Douhoun Bara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445476
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"0e1abbd65ca538ac2501c957cad9bc1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051007,
+            "locality_id":1293413649,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1293413649,
+    "wof:lastmodified":1537674818,
+    "wof:name":"Douhoun Bara",
+    "wof:parent_id":1092051007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.04645,
+    13.00279,
+    7.04645,
+    13.00279
+],
+  "geometry": {"coordinates":[7.04645,13.00279],"type":"Point"}
+}

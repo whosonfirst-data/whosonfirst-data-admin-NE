@@ -1,0 +1,67 @@
+{
+  "id": 1343578947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.96,16.98,7.96,16.98",
+    "geom:latitude":16.98,
+    "geom:longitude":7.96,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tajajaret",
+    "gn:country_code":"NE",
+    "gn:dem":493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11204396,
+    "gn:latitude":16.98,
+    "gn:longitude":7.96,
+    "gn:modification_date":"2016-07-18",
+    "gn:name":"Tajajaret",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675273,
+        421182277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11204396
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"5397d4294bfa908a4d0ade52d6a60924",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182277,
+            "locality_id":1343578947,
+            "region_id":85675273
+        }
+    ],
+    "wof:id":1343578947,
+    "wof:lastmodified":1537069731,
+    "wof:name":"Tajajaret",
+    "wof:parent_id":421182277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.96,
+    16.98,
+    7.96,
+    16.98
+],
+  "geometry": {"coordinates":[7.96,16.98],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276753627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.74685,13.06852,1.74685,13.06852",
+    "geom:latitude":13.06852,
+    "geom:longitude":1.74685,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Doboda",
+    "gn:country_code":"NE",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446304,
+    "gn:latitude":13.06852,
+    "gn:longitude":1.74685,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Doboda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dadoba",
+        "Doboda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446304
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"a150d0df34a9c29dc45bd77f36b0a15b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051103,
+            "locality_id":1276753627,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1276753627,
+    "wof:lastmodified":1537674839,
+    "wof:name":"Doboda",
+    "wof:parent_id":1092051103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.74685,
+    13.06852,
+    1.74685,
+    13.06852
+],
+  "geometry": {"coordinates":[1.74685,13.06852],"type":"Point"}
+}

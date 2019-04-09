@@ -1,0 +1,67 @@
+{
+  "id": 1293890977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.2191,13.6971,3.2191,13.6971",
+    "geom:latitude":13.6971,
+    "geom:longitude":3.2191,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bouki",
+    "gn:country_code":"NE",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446566,
+    "gn:latitude":13.6971,
+    "gn:longitude":3.2191,
+    "gn:modification_date":"2008-10-22",
+    "gn:name":"Bouki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446566
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"81e6c9be82a99e1660bc2a89f8501e1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051273,
+            "locality_id":1293890977,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1293890977,
+    "wof:lastmodified":1536702780,
+    "wof:name":"Bouki",
+    "wof:parent_id":1092051273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.2191,
+    13.6971,
+    3.2191,
+    13.6971
+],
+  "geometry": {"coordinates":[3.2191,13.6971],"type":"Point"}
+}

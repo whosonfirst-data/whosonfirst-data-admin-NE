@@ -1,0 +1,72 @@
+{
+  "id": 1226436781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.38934,13.32609,8.38934,13.32609",
+    "geom:latitude":13.32609,
+    "geom:longitude":8.38934,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Yel Dawa",
+    "gn:country_code":"NE",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445280,
+    "gn:latitude":13.32609,
+    "gn:longitude":8.38934,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yel Dawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Dawa",
+        "El Daoua",
+        "Yel Dawa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445280
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"7bff8324c8ded4b441dafb6eab7ccbc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051165,
+            "locality_id":1226436781,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1226436781,
+    "wof:lastmodified":1537674814,
+    "wof:name":"Yel Dawa",
+    "wof:parent_id":1092051165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.38934,
+    13.32609,
+    8.38934,
+    13.32609
+],
+  "geometry": {"coordinates":[8.38934,13.32609],"type":"Point"}
+}

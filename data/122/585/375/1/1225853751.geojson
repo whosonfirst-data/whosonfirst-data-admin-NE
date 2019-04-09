@@ -1,0 +1,67 @@
+{
+  "id": 1225853751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.45306,13.33168,12.45306,13.33168",
+    "geom:latitude":13.33168,
+    "geom:longitude":12.45306,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mamari Dina",
+    "gn:country_code":"NE",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6777946,
+    "gn:latitude":13.33168,
+    "gn:longitude":12.45306,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Mamari Dina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6777946
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"7796512238e7c840085100f9e2ac6718",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051245,
+            "locality_id":1225853751,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1225853751,
+    "wof:lastmodified":1537001294,
+    "wof:name":"Mamari Dina",
+    "wof:parent_id":1092051245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.45306,
+    13.33168,
+    12.45306,
+    13.33168
+],
+  "geometry": {"coordinates":[12.45306,13.33168],"type":"Point"}
+}

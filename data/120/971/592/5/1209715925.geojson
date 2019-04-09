@@ -1,0 +1,67 @@
+{
+  "id": 1209715925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.50212,14.47977,7.50212,14.47977",
+    "geom:latitude":14.47977,
+    "geom:longitude":7.50212,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Louga Nalelo",
+    "gn:country_code":"NE",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441571,
+    "gn:latitude":14.47977,
+    "gn:longitude":7.50212,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Louga Nal\u00e8lo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441571
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"6998807c5b0f68f78e8d6e9298cf6a3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1209715925,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1209715925,
+    "wof:lastmodified":1536388577,
+    "wof:name":"Louga Nalelo",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.50212,
+    14.47977,
+    7.50212,
+    14.47977
+],
+  "geometry": {"coordinates":[7.50212,14.47977],"type":"Point"}
+}

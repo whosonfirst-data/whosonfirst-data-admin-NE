@@ -1,0 +1,67 @@
+{
+  "id": 1260102229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.3506,14.5831,5.3506,14.5831",
+    "geom:latitude":14.5831,
+    "geom:longitude":5.3506,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mountchere",
+    "gn:country_code":"NE",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6679192,
+    "gn:latitude":14.5831,
+    "gn:longitude":5.3506,
+    "gn:modification_date":"2008-02-09",
+    "gn:name":"Mountch\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6679192
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"76bae6bdf2351d89007ef68bd0ec4e96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051609,
+            "locality_id":1260102229,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1260102229,
+    "wof:lastmodified":1536961029,
+    "wof:name":"Mountchere",
+    "wof:parent_id":1092051609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.3506,
+    14.5831,
+    5.3506,
+    14.5831
+],
+  "geometry": {"coordinates":[5.3506,14.5831],"type":"Point"}
+}

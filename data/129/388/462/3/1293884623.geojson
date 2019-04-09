@@ -1,0 +1,71 @@
+{
+  "id": 1293884623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.2575,13.20483,7.2575,13.20483",
+    "geom:latitude":13.20483,
+    "geom:longitude":7.2575,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dan Issa",
+    "gn:country_code":"NE",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446059,
+    "gn:latitude":13.20483,
+    "gn:longitude":7.2575,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dan Issa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dan Isa",
+        "Dan Issa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446059
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"e348e5232d863255003b0a958bd5bfa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051007,
+            "locality_id":1293884623,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1293884623,
+    "wof:lastmodified":1537674833,
+    "wof:name":"Dan Issa",
+    "wof:parent_id":1092051007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.2575,
+    13.20483,
+    7.2575,
+    13.20483
+],
+  "geometry": {"coordinates":[7.2575,13.20483],"type":"Point"}
+}

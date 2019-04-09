@@ -1,0 +1,71 @@
+{
+  "id": 1226150601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.7297,13.3931,3.7297,13.3931",
+    "geom:latitude":13.3931,
+    "geom:longitude":3.7297,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Koara-Tegui",
+    "gn:country_code":"NE",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441793,
+    "gn:latitude":13.3931,
+    "gn:longitude":3.7297,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Koara-T\u00e9gui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kwara T\u00e9gui",
+        "Koara-T\u00e9gui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441793
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"eed276d6a65febe2e438fd27c97cdbe5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051273,
+            "locality_id":1226150601,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1226150601,
+    "wof:lastmodified":1537674731,
+    "wof:name":"Koara-Tegui",
+    "wof:parent_id":1092051273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.7297,
+    13.3931,
+    3.7297,
+    13.3931
+],
+  "geometry": {"coordinates":[3.7297,13.3931],"type":"Point"}
+}

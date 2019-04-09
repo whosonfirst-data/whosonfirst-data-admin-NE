@@ -1,0 +1,67 @@
+{
+  "id": 1276640417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.69363,13.01301,1.69363,13.01301",
+    "geom:latitude":13.01301,
+    "geom:longitude":1.69363,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ouro Hagati",
+    "gn:country_code":"NE",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2440247,
+    "gn:latitude":13.01301,
+    "gn:longitude":1.69363,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Ouro Hagati",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2440247
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"5ef0b074749c57da80a1688c06935fb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051103,
+            "locality_id":1276640417,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1276640417,
+    "wof:lastmodified":1536863076,
+    "wof:name":"Ouro Hagati",
+    "wof:parent_id":1092051103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.69363,
+    13.01301,
+    1.69363,
+    13.01301
+],
+  "geometry": {"coordinates":[1.69363,13.01301],"type":"Point"}
+}

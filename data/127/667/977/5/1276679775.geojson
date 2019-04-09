@@ -1,0 +1,67 @@
+{
+  "id": 1276679775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.8604,13.0853,9.8604,13.0853",
+    "geom:latitude":13.0853,
+    "geom:longitude":9.8604,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Goneri",
+    "gn:country_code":"NE",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6807060,
+    "gn:latitude":13.0853,
+    "gn:longitude":9.8604,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Goneri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6807060
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"d7c1e0eda274c44fc80b64d52a50fdb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051753,
+            "locality_id":1276679775,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1276679775,
+    "wof:lastmodified":1536811054,
+    "wof:name":"Goneri",
+    "wof:parent_id":1092051753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8604,
+    13.0853,
+    9.8604,
+    13.0853
+],
+  "geometry": {"coordinates":[9.8604,13.0853],"type":"Point"}
+}

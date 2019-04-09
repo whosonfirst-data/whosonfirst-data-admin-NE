@@ -1,0 +1,72 @@
+{
+  "id": 1276651173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.32037,14.45574,2.32037,14.45574",
+    "geom:latitude":14.45574,
+    "geom:longitude":2.32037,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tondi Tire",
+    "gn:country_code":"NE",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438432,
+    "gn:latitude":14.45574,
+    "gn:longitude":2.32037,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Tondi Tir\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tondikari",
+        "Tondi Tyir\u00e9",
+        "Tondi Tir\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438432
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"31ac1d97cd7457021e4d567e4f61c40d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051633,
+            "locality_id":1276651173,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1276651173,
+    "wof:lastmodified":1537674665,
+    "wof:name":"Tondi Tire",
+    "wof:parent_id":1092051633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.32037,
+    14.45574,
+    2.32037,
+    14.45574
+],
+  "geometry": {"coordinates":[2.32037,14.45574],"type":"Point"}
+}

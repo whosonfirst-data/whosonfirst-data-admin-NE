@@ -1,0 +1,67 @@
+{
+  "id": 1293293677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.66462,13.4031,7.66462,13.4031",
+    "geom:latitude":13.4031,
+    "geom:longitude":7.66462,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Leb'o",
+    "gn:country_code":"NE",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6723961,
+    "gn:latitude":13.4031,
+    "gn:longitude":7.66462,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"L\u00e9b'o",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6723961
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"2ca1641282b42cb594090298d65012db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051197,
+            "locality_id":1293293677,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1293293677,
+    "wof:lastmodified":1537063611,
+    "wof:name":"Leb'o",
+    "wof:parent_id":1092051197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.66462,
+    13.4031,
+    7.66462,
+    13.4031
+],
+  "geometry": {"coordinates":[7.66462,13.4031],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226245953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.2426,14.42886,13.2426,14.42886",
+    "geom:latitude":14.42886,
+    "geom:longitude":13.2426,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kassatcha",
+    "gn:country_code":"NE",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442558,
+    "gn:latitude":14.42886,
+    "gn:longitude":13.2426,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kassatcha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kasatia",
+        "Kassatia",
+        "Kassatcha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442558
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"b5aab8462471d5c52160a77a77ba7c7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051781,
+            "locality_id":1226245953,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1226245953,
+    "wof:lastmodified":1537674752,
+    "wof:name":"Kassatcha",
+    "wof:parent_id":1092051781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.2426,
+    14.42886,
+    13.2426,
+    14.42886
+],
+  "geometry": {"coordinates":[13.2426,14.42886],"type":"Point"}
+}

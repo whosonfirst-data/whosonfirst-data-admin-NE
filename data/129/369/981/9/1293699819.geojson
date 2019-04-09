@@ -1,0 +1,67 @@
+{
+  "id": 1293699819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.54188,13.21016,12.54188,13.21016",
+    "geom:latitude":13.21016,
+    "geom:longitude":12.54188,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Rouda",
+    "gn:country_code":"NE",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6778123,
+    "gn:latitude":13.21016,
+    "gn:longitude":12.54188,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Rouda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6778123
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"d3af191233242fb08170446f68f3ff09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563985,
+            "locality_id":1293699819,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1293699819,
+    "wof:lastmodified":1536977619,
+    "wof:name":"Rouda",
+    "wof:parent_id":1108563985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.54188,
+    13.21016,
+    12.54188,
+    13.21016
+],
+  "geometry": {"coordinates":[12.54188,13.21016],"type":"Point"}
+}

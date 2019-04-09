@@ -1,0 +1,71 @@
+{
+  "id": 1243065523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.23333,14.01667,6.23333,14.01667",
+    "geom:latitude":14.01667,
+    "geom:longitude":6.23333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Dawaki El Hadji",
+    "gn:country_code":"NE",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445883,
+    "gn:latitude":14.01667,
+    "gn:longitude":6.23333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dawaki El Hadji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Daoualki",
+        "Dawaki El Hadji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445883
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"269bf5e770a0e837a066f17feba7063d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051329,
+            "locality_id":1243065523,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1243065523,
+    "wof:lastmodified":1537674830,
+    "wof:name":"Dawaki El Hadji",
+    "wof:parent_id":1092051329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.23333,
+    14.01667,
+    6.23333,
+    14.01667
+],
+  "geometry": {"coordinates":[6.23333,14.01667],"type":"Point"}
+}

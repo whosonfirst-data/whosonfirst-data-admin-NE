@@ -1,0 +1,71 @@
+{
+  "id": 1293495169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.2844,13.6054,3.2844,13.6054",
+    "geom:latitude":13.6054,
+    "geom:longitude":3.2844,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kouto-Koara-Tiaranga",
+    "gn:country_code":"NE",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441841,
+    "gn:latitude":13.6054,
+    "gn:longitude":3.2844,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kouto-Koara-Tiaranga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kouto Kwara Tiaranga",
+        "Kouto-Koara-Tiaranga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441841
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"450fbe5ec2cc3bd5c74805ce43491e1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051273,
+            "locality_id":1293495169,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1293495169,
+    "wof:lastmodified":1537674734,
+    "wof:name":"Kouto-Koara-Tiaranga",
+    "wof:parent_id":1092051273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.2844,
+    13.6054,
+    3.2844,
+    13.6054
+],
+  "geometry": {"coordinates":[3.2844,13.6054],"type":"Point"}
+}

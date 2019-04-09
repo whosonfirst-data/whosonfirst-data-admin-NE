@@ -1,0 +1,72 @@
+{
+  "id": 1243475637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.66343,12.95217,8.66343,12.95217",
+    "geom:latitude":12.95217,
+    "geom:longitude":8.66343,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dounawa",
+    "gn:country_code":"NE",
+    "gn:dem":425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6971560,
+    "gn:latitude":12.95217,
+    "gn:longitude":8.66343,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Dounawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ungua Duma",
+        "Dunawa",
+        "Dounawa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6971560
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"1f0330b5d8c454e31860bcb533e8a236",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051133,
+            "locality_id":1243475637,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1243475637,
+    "wof:lastmodified":1537674890,
+    "wof:name":"Dounawa",
+    "wof:parent_id":1092051133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.66343,
+    12.95217,
+    8.66343,
+    12.95217
+],
+  "geometry": {"coordinates":[8.66343,12.95217],"type":"Point"}
+}

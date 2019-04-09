@@ -1,0 +1,68 @@
+{
+  "id": 1226761729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.1012,17.2682,8.1012,17.2682",
+    "geom:latitude":17.2682,
+    "geom:longitude":8.1012,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Dabaga",
+    "gn:country_code":"NE",
+    "gn:dem":626,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2596697,
+    "gn:latitude":17.2682,
+    "gn:longitude":8.1012,
+    "gn:modification_date":"2013-04-05",
+    "gn:name":"Dabaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675273,
+        421182277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2596697,
+        "wk:page":"Dabaga"
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"3578715f19e719220d0c01763b174dff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182277,
+            "locality_id":1226761729,
+            "region_id":85675273
+        }
+    ],
+    "wof:id":1226761729,
+    "wof:lastmodified":1537569969,
+    "wof:name":"Dabaga",
+    "wof:parent_id":421182277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.1012,
+    17.2682,
+    8.1012,
+    17.2682
+],
+  "geometry": {"coordinates":[8.1012,17.2682],"type":"Point"}
+}

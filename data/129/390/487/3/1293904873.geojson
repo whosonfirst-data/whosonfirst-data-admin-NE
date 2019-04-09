@@ -1,0 +1,67 @@
+{
+  "id": 1293904873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.80434,15.06854,8.80434,15.06854",
+    "geom:latitude":15.06854,
+    "geom:longitude":8.80434,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Goungoulouma",
+    "gn:country_code":"NE",
+    "gn:dem":493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6805172,
+    "gn:latitude":15.06854,
+    "gn:longitude":8.80434,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Goungoulouma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6805172
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"25104a7dcf6f1b95cb16c446742884eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1293904873,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1293904873,
+    "wof:lastmodified":1536682522,
+    "wof:name":"Goungoulouma",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.80434,
+    15.06854,
+    8.80434,
+    15.06854
+],
+  "geometry": {"coordinates":[8.80434,15.06854],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327418219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.1982,13.9688,3.1982,13.9688",
+    "geom:latitude":13.9688,
+    "geom:longitude":3.1982,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Inatess",
+    "gn:country_code":"NE",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6862231,
+    "gn:latitude":13.9688,
+    "gn:longitude":3.1982,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Inatess",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6862231
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"c64e7ac3e77edfc41d82359812cf7f50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051695,
+            "locality_id":1327418219,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1327418219,
+    "wof:lastmodified":1536701543,
+    "wof:name":"Inatess",
+    "wof:parent_id":1092051695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.1982,
+    13.9688,
+    3.1982,
+    13.9688
+],
+  "geometry": {"coordinates":[3.1982,13.9688],"type":"Point"}
+}

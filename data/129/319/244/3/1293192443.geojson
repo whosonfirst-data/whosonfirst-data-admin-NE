@@ -1,0 +1,67 @@
+{
+  "id": 1293192443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.1675,14.5872,10.1675,14.5872",
+    "geom:latitude":14.5872,
+    "geom:longitude":10.1675,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tchokoda",
+    "gn:country_code":"NE",
+    "gn:dem":482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6847864,
+    "gn:latitude":14.5872,
+    "gn:longitude":10.1675,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Tchokoda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6847864
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"6e3d3374ea89c5f1cfa35ce97db2bb10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051753,
+            "locality_id":1293192443,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1293192443,
+    "wof:lastmodified":1536715779,
+    "wof:name":"Tchokoda",
+    "wof:parent_id":1092051753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1675,
+    14.5872,
+    10.1675,
+    14.5872
+],
+  "geometry": {"coordinates":[10.1675,14.5872],"type":"Point"}
+}

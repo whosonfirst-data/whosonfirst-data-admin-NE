@@ -1,0 +1,67 @@
+{
+  "id": 1343483475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.50481,14.1294,4.50481,14.1294",
+    "geom:latitude":14.1294,
+    "geom:longitude":4.50481,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Dangana",
+    "gn:country_code":"NE",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6783591,
+    "gn:latitude":14.1294,
+    "gn:longitude":4.50481,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Dangana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6783591
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"70d3004f929af42746149161ddec5918",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051485,
+            "locality_id":1343483475,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1343483475,
+    "wof:lastmodified":1536713262,
+    "wof:name":"Dangana",
+    "wof:parent_id":1092051485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.50481,
+    14.1294,
+    4.50481,
+    14.1294
+],
+  "geometry": {"coordinates":[4.50481,14.1294],"type":"Point"}
+}

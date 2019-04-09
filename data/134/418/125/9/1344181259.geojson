@@ -1,0 +1,67 @@
+{
+  "id": 1344181259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.9406,14.29202,6.9406,14.29202",
+    "geom:latitude":14.29202,
+    "geom:longitude":6.9406,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Yani",
+    "gn:country_code":"NE",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6849902,
+    "gn:latitude":14.29202,
+    "gn:longitude":6.9406,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Yani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6849902
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"e10a4672e0cf6feb7ae8d2fb8d393b2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1344181259,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1344181259,
+    "wof:lastmodified":1536701568,
+    "wof:name":"Yani",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.9406,
+    14.29202,
+    6.9406,
+    14.29202
+],
+  "geometry": {"coordinates":[6.9406,14.29202],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1225835807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.73333,13.31667,1.73333,13.31667",
+    "geom:latitude":13.31667,
+    "geom:longitude":1.73333,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Winde Dyoumaro",
+    "gn:country_code":"NE",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438079,
+    "gn:latitude":13.31667,
+    "gn:longitude":1.73333,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Wind\u00e9 Dyoumaro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438079
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"c8f5b0ea6c7d8cfb34b82a7ea1490c5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051103,
+            "locality_id":1225835807,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1225835807,
+    "wof:lastmodified":1537026843,
+    "wof:name":"Winde Dyoumaro",
+    "wof:parent_id":1092051103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.73333,
+    13.31667,
+    1.73333,
+    13.31667
+],
+  "geometry": {"coordinates":[1.73333,13.31667],"type":"Point"}
+}

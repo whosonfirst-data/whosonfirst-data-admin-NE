@@ -1,0 +1,67 @@
+{
+  "id": 1209822887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.7047,13.146,3.7047,13.146",
+    "geom:latitude":13.146,
+    "geom:longitude":3.7047,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Goulouma-Kadi",
+    "gn:country_code":"NE",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444276,
+    "gn:latitude":13.146,
+    "gn:longitude":3.7047,
+    "gn:modification_date":"2008-10-22",
+    "gn:name":"Goulouma-Kadi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444276
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"32c43bc301a56565186fbed8ca8b036d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051041,
+            "locality_id":1209822887,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1209822887,
+    "wof:lastmodified":1536376838,
+    "wof:name":"Goulouma-Kadi",
+    "wof:parent_id":1092051041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.7047,
+    13.146,
+    3.7047,
+    13.146
+],
+  "geometry": {"coordinates":[3.7047,13.146],"type":"Point"}
+}

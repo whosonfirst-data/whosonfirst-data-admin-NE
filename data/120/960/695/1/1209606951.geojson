@@ -1,0 +1,65 @@
+{
+  "id": 1209606951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.4485,14.2729,9.4485,14.2729",
+    "geom:latitude":14.2729,
+    "geom:longitude":9.4485,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Toufafiram",
+    "gn:country_code":"NE",
+    "gn:dem":473,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2596792,
+    "gn:latitude":14.2729,
+    "gn:longitude":9.4485,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Toufafiram",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tounfafiram",
+        "Toufafiram"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2596792
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"7b3818f9eb36cef9b817fff1bffa6584",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209606951
+        }
+    ],
+    "wof:id":1209606951,
+    "wof:lastmodified":1537674877,
+    "wof:name":"Toufafiram",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.4485,
+    14.2729,
+    9.4485,
+    14.2729
+],
+  "geometry": {"coordinates":[9.4485,14.2729],"type":"Point"}
+}

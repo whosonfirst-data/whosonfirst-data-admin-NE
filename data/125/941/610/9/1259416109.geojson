@@ -1,0 +1,72 @@
+{
+  "id": 1259416109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.55727,13.498,7.55727,13.498",
+    "geom:latitude":13.498,
+    "geom:longitude":7.55727,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Guidan Akorao",
+    "gn:country_code":"NE",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444051,
+    "gn:latitude":13.498,
+    "gn:longitude":7.55727,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Guidan Akorao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gidan Ankouro",
+        "Guidan Ankouro",
+        "Guidan Akorao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444051
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"a51ce2039576d29fdaa66f117c579d98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051197,
+            "locality_id":1259416109,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1259416109,
+    "wof:lastmodified":1537674786,
+    "wof:name":"Guidan Akorao",
+    "wof:parent_id":1092051197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.55727,
+    13.498,
+    7.55727,
+    13.498
+],
+  "geometry": {"coordinates":[7.55727,13.498],"type":"Point"}
+}

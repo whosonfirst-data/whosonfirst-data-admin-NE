@@ -1,0 +1,71 @@
+{
+  "id": 1226138969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.20185,14.36377,2.20185,14.36377",
+    "geom:latitude":14.36377,
+    "geom:longitude":2.20185,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Fanaka Koara",
+    "gn:country_code":"NE",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445137,
+    "gn:latitude":14.36377,
+    "gn:longitude":2.20185,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Fanaka Koara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fanaka Kwara",
+        "Fanaka Koara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445137
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"81de3f9c9b192f28cbba64c4ba2d1b21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051633,
+            "locality_id":1226138969,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1226138969,
+    "wof:lastmodified":1537674812,
+    "wof:name":"Fanaka Koara",
+    "wof:parent_id":1092051633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.20185,
+    14.36377,
+    2.20185,
+    14.36377
+],
+  "geometry": {"coordinates":[2.20185,14.36377],"type":"Point"}
+}

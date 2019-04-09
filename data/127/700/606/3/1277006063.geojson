@@ -1,0 +1,67 @@
+{
+  "id": 1277006063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.63818,13.66996,6.63818,13.66996",
+    "geom:latitude":13.66996,
+    "geom:longitude":6.63818,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Karandia",
+    "gn:country_code":"NE",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442636,
+    "gn:latitude":13.66996,
+    "gn:longitude":6.63818,
+    "gn:modification_date":"2008-02-08",
+    "gn:name":"Karandia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442636
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"c5f51d32f897401c888ad1526615e15c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051229,
+            "locality_id":1277006063,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1277006063,
+    "wof:lastmodified":1536870961,
+    "wof:name":"Karandia",
+    "wof:parent_id":1092051229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.63818,
+    13.66996,
+    6.63818,
+    13.66996
+],
+  "geometry": {"coordinates":[6.63818,13.66996],"type":"Point"}
+}

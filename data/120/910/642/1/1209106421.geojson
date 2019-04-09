@@ -1,0 +1,65 @@
+{
+  "id": 1209106421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.30734,13.51777,7.30734,13.51777",
+    "geom:latitude":13.51777,
+    "geom:longitude":7.30734,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ba-mou",
+    "gn:country_code":"NE",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447193,
+    "gn:latitude":13.51777,
+    "gn:longitude":7.30734,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"B\u00e2-mou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bamo",
+        "B\u00e2-mou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447193
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"b2f618a04dbb42a6eee5c5bfdc9c3286",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209106421
+        }
+    ],
+    "wof:id":1209106421,
+    "wof:lastmodified":1537674859,
+    "wof:name":"Ba-mou",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.30734,
+    13.51777,
+    7.30734,
+    13.51777
+],
+  "geometry": {"coordinates":[7.30734,13.51777],"type":"Point"}
+}

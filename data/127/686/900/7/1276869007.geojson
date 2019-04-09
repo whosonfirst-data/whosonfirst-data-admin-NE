@@ -1,0 +1,67 @@
+{
+  "id": 1276869007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.44,13.68,8.44,13.68",
+    "geom:latitude":13.68,
+    "geom:longitude":8.44,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zongon Kiki",
+    "gn:country_code":"NE",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11204514,
+    "gn:latitude":13.68,
+    "gn:longitude":8.44,
+    "gn:modification_date":"2016-07-19",
+    "gn:name":"Zongon Kiki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11204514
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"db0f8480a586207bc4d3b53ce32c76f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051411,
+            "locality_id":1276869007,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1276869007,
+    "wof:lastmodified":1537053452,
+    "wof:name":"Zongon Kiki",
+    "wof:parent_id":1092051411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.44,
+    13.68,
+    8.44,
+    13.68
+],
+  "geometry": {"coordinates":[8.44,13.68],"type":"Point"}
+}

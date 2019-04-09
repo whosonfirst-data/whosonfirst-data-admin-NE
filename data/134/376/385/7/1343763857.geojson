@@ -1,0 +1,67 @@
+{
+  "id": 1343763857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.16633,13.91045,4.16633,13.91045",
+    "geom:latitude":13.91045,
+    "geom:longitude":4.16633,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Agode",
+    "gn:country_code":"NE",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7001438,
+    "gn:latitude":13.91045,
+    "gn:longitude":4.16633,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Agod\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7001438
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"bc58c3e62c98325a92824492a981902f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051467,
+            "locality_id":1343763857,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1343763857,
+    "wof:lastmodified":1536805860,
+    "wof:name":"Agode",
+    "wof:parent_id":1092051467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.16633,
+    13.91045,
+    4.16633,
+    13.91045
+],
+  "geometry": {"coordinates":[4.16633,13.91045],"type":"Point"}
+}

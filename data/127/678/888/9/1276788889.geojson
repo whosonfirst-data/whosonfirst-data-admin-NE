@@ -1,0 +1,71 @@
+{
+  "id": 1276788889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.12563,13.74951,5.12563,13.74951",
+    "geom:latitude":13.74951,
+    "geom:longitude":5.12563,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Anbouta",
+    "gn:country_code":"NE",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447799,
+    "gn:latitude":13.74951,
+    "gn:longitude":5.12563,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Anbouta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ambouta",
+        "Anbouta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675433,
+        1108564403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447799
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"5e21f37204b3f7f038ac31b597578855",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564403,
+            "locality_id":1276788889,
+            "region_id":85675433
+        }
+    ],
+    "wof:id":1276788889,
+    "wof:lastmodified":1537674869,
+    "wof:name":"Anbouta",
+    "wof:parent_id":1108564403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.12563,
+    13.74951,
+    5.12563,
+    13.74951
+],
+  "geometry": {"coordinates":[5.12563,13.74951],"type":"Point"}
+}

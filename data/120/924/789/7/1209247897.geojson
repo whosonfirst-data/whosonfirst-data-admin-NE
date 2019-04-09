@@ -1,0 +1,61 @@
+{
+  "id": 1209247897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.21514,14.33758,7.21514,14.33758",
+    "geom:latitude":14.33758,
+    "geom:longitude":7.21514,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Zangon Islama",
+    "gn:country_code":"NE",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437872,
+    "gn:latitude":14.33758,
+    "gn:longitude":7.21514,
+    "gn:modification_date":"2008-08-21",
+    "gn:name":"Zangon Islama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437872
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"44400a0f38f9214ca4e842490574aa13",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209247897
+        }
+    ],
+    "wof:id":1209247897,
+    "wof:lastmodified":1536293100,
+    "wof:name":"Zangon Islama",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.215139999999999,
+    14.33758,
+    7.215139999999999,
+    14.33758
+],
+  "geometry": {"coordinates":[7.21514,14.33758],"type":"Point"}
+}

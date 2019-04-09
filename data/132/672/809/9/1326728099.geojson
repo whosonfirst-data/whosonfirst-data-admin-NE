@@ -1,0 +1,67 @@
+{
+  "id": 1326728099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.6766,14.142,5.6766,14.142",
+    "geom:latitude":14.142,
+    "geom:longitude":5.6766,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Soutera",
+    "gn:country_code":"NE",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6679428,
+    "gn:latitude":14.142,
+    "gn:longitude":5.6766,
+    "gn:modification_date":"2008-02-09",
+    "gn:name":"Sout\u00e9ra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6679428
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"63c6a4c101cb3c971f64da4fdacff6bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051301,
+            "locality_id":1326728099,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1326728099,
+    "wof:lastmodified":1536702013,
+    "wof:name":"Soutera",
+    "wof:parent_id":1092051301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.6766,
+    14.142,
+    5.6766,
+    14.142
+],
+  "geometry": {"coordinates":[5.6766,14.142],"type":"Point"}
+}

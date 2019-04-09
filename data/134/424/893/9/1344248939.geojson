@@ -1,0 +1,67 @@
+{
+  "id": 1344248939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.55919,13.9606,8.55919,13.9606",
+    "geom:latitude":13.9606,
+    "geom:longitude":8.55919,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kantame",
+    "gn:country_code":"NE",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6727925,
+    "gn:latitude":13.9606,
+    "gn:longitude":8.55919,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Kantam\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6727925
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"0976e5c5a45f1523d9a057a9edef3624",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051411,
+            "locality_id":1344248939,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1344248939,
+    "wof:lastmodified":1536600405,
+    "wof:name":"Kantame",
+    "wof:parent_id":1092051411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.55919,
+    13.9606,
+    8.55919,
+    13.9606
+],
+  "geometry": {"coordinates":[8.55919,13.9606],"type":"Point"}
+}

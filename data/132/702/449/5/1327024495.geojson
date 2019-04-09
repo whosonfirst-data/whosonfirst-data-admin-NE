@@ -1,0 +1,72 @@
+{
+  "id": 1327024495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.4875,13.5346,2.4875,13.5346",
+    "geom:latitude":13.5346,
+    "geom:longitude":2.4875,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Gounti Kouara",
+    "gn:country_code":"NE",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444244,
+    "gn:latitude":13.5346,
+    "gn:longitude":2.4875,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gounti Kouara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gouni Kwara",
+        "Gouni-Koara",
+        "Gounti Kouara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444244
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"95a6aef202a33308e827054d56e0d9b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1327024495,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1327024495,
+    "wof:lastmodified":1537674792,
+    "wof:name":"Gounti Kouara",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.4875,
+    13.5346,
+    2.4875,
+    13.5346
+],
+  "geometry": {"coordinates":[2.4875,13.5346],"type":"Point"}
+}

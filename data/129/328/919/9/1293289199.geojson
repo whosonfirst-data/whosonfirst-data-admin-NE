@@ -1,0 +1,67 @@
+{
+  "id": 1293289199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.19378,14.07424,2.19378,14.07424",
+    "geom:latitude":14.07424,
+    "geom:longitude":2.19378,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Warou",
+    "gn:country_code":"NE",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6827189,
+    "gn:latitude":14.07424,
+    "gn:longitude":2.19378,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Warou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6827189
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"a098fea5941f62f323e81ee18bc3d11e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051633,
+            "locality_id":1293289199,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1293289199,
+    "wof:lastmodified":1537069844,
+    "wof:name":"Warou",
+    "wof:parent_id":1092051633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.19378,
+    14.07424,
+    2.19378,
+    14.07424
+],
+  "geometry": {"coordinates":[2.19378,14.07424],"type":"Point"}
+}

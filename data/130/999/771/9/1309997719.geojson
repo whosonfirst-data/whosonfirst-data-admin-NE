@@ -1,0 +1,67 @@
+{
+  "id": 1309997719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.61347,12.90813,9.61347,12.90813",
+    "geom:latitude":12.90813,
+    "geom:longitude":9.61347,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Maikuku",
+    "gn:country_code":"NE",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7027085,
+    "gn:latitude":12.90813,
+    "gn:longitude":9.61347,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Maikuku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7027085
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"5afd2146bb9ec3b73c28ba47f5f4cf53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051133,
+            "locality_id":1309997719,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1309997719,
+    "wof:lastmodified":1536654558,
+    "wof:name":"Maikuku",
+    "wof:parent_id":1092051133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.61347,
+    12.90813,
+    9.61347,
+    12.90813
+],
+  "geometry": {"coordinates":[9.61347,12.90813],"type":"Point"}
+}

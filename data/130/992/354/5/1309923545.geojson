@@ -1,0 +1,67 @@
+{
+  "id": 1309923545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.9725,16.96583,7.9725,16.96583",
+    "geom:latitude":16.96583,
+    "geom:longitude":7.9725,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Dagamanet",
+    "gn:country_code":"NE",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6306036,
+    "gn:latitude":16.96583,
+    "gn:longitude":7.9725,
+    "gn:modification_date":"2006-12-03",
+    "gn:name":"Dagamanet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675273,
+        421182277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6306036
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"e074dca7ae9755be4581d9d7d07ca482",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182277,
+            "locality_id":1309923545,
+            "region_id":85675273
+        }
+    ],
+    "wof:id":1309923545,
+    "wof:lastmodified":1536761627,
+    "wof:name":"Dagamanet",
+    "wof:parent_id":421182277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.9725,
+    16.96583,
+    7.9725,
+    16.96583
+],
+  "geometry": {"coordinates":[7.9725,16.96583],"type":"Point"}
+}

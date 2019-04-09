@@ -1,0 +1,67 @@
+{
+  "id": 1276974113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.49687,13.69266,8.49687,13.69266",
+    "geom:latitude":13.69266,
+    "geom:longitude":8.49687,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Goumda Gado",
+    "gn:country_code":"NE",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6732316,
+    "gn:latitude":13.69266,
+    "gn:longitude":8.49687,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Goumda G\u00e2do",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6732316
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"2f7c3dee553f54f13576267ccee757c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051411,
+            "locality_id":1276974113,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1276974113,
+    "wof:lastmodified":1536915421,
+    "wof:name":"Goumda Gado",
+    "wof:parent_id":1092051411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.49687,
+    13.69266,
+    8.49687,
+    13.69266
+],
+  "geometry": {"coordinates":[8.49687,13.69266],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327339599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.08728,13.07643,7.08728,13.07643",
+    "geom:latitude":13.07643,
+    "geom:longitude":7.08728,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Yak Kiaou",
+    "gn:country_code":"NE",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6717083,
+    "gn:latitude":13.07643,
+    "gn:longitude":7.08728,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Yak Kiaou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taka-S\u00e2ba Bara",
+        "Yak Kiaou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6717083
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"782e9b5e8953debf1a02b8c892278b86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051007,
+            "locality_id":1327339599,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1327339599,
+    "wof:lastmodified":1537674883,
+    "wof:name":"Yak Kiaou",
+    "wof:parent_id":1092051007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.08728,
+    13.07643,
+    7.08728,
+    13.07643
+],
+  "geometry": {"coordinates":[7.08728,13.07643],"type":"Point"}
+}

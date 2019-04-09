@@ -1,0 +1,71 @@
+{
+  "id": 1193277419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.04045,13.55867,4.04045,13.55867",
+    "geom:latitude":13.55867,
+    "geom:longitude":4.04045,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Guilime",
+    "gn:country_code":"NE",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7003142,
+    "gn:latitude":13.55867,
+    "gn:longitude":4.04045,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Guilim\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gilim\u00e9",
+        "Guilim\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7003142
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"12b908fb4080f776571ebd4b1220558b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051467,
+            "locality_id":1193277419,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1193277419,
+    "wof:lastmodified":1537674891,
+    "wof:name":"Guilime",
+    "wof:parent_id":1092051467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.04045,
+    13.55867,
+    4.04045,
+    13.55867
+],
+  "geometry": {"coordinates":[4.04045,13.55867],"type":"Point"}
+}

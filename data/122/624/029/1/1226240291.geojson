@@ -1,0 +1,67 @@
+{
+  "id": 1226240291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.02367,13.77156,5.02367,13.77156",
+    "geom:latitude":13.77156,
+    "geom:longitude":5.02367,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Farendoutchi",
+    "gn:country_code":"NE",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7015609,
+    "gn:latitude":13.77156,
+    "gn:longitude":5.02367,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Farendoutchi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7015609
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"dd2ed226151fc1df2ac896add908a652",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051301,
+            "locality_id":1226240291,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1226240291,
+    "wof:lastmodified":1536942073,
+    "wof:name":"Farendoutchi",
+    "wof:parent_id":1092051301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.02367,
+    13.77156,
+    5.02367,
+    13.77156
+],
+  "geometry": {"coordinates":[5.02367,13.77156],"type":"Point"}
+}

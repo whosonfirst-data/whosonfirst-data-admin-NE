@@ -1,0 +1,67 @@
+{
+  "id": 1293804983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.1551,14.7672,8.1551,14.7672",
+    "geom:latitude":14.7672,
+    "geom:longitude":8.1551,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mato",
+    "gn:country_code":"NE",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441207,
+    "gn:latitude":14.7672,
+    "gn:longitude":8.1551,
+    "gn:modification_date":"2008-08-26",
+    "gn:name":"Mato",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441207
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"25ce11018dba4ada9f9367e7cae267fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1293804983,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1293804983,
+    "wof:lastmodified":1536825575,
+    "wof:name":"Mato",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.1551,
+    14.7672,
+    8.1551,
+    14.7672
+],
+  "geometry": {"coordinates":[8.1551,14.7672],"type":"Point"}
+}

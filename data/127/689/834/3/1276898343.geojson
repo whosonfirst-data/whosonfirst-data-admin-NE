@@ -1,0 +1,67 @@
+{
+  "id": 1276898343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.37321,14.18134,8.37321,14.18134",
+    "geom:latitude":14.18134,
+    "geom:longitude":8.37321,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Guidan Chanteli",
+    "gn:country_code":"NE",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2443936,
+    "gn:latitude":14.18134,
+    "gn:longitude":8.37321,
+    "gn:modification_date":"2008-08-26",
+    "gn:name":"Guidan Chant\u00e9li",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2443936
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"94661ab2e7610e4b1e545653e07bb9ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051389,
+            "locality_id":1276898343,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1276898343,
+    "wof:lastmodified":1537015726,
+    "wof:name":"Guidan Chanteli",
+    "wof:parent_id":1092051389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.37321,
+    14.18134,
+    8.37321,
+    14.18134
+],
+  "geometry": {"coordinates":[8.37321,14.18134],"type":"Point"}
+}

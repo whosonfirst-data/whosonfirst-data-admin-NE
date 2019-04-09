@@ -1,0 +1,61 @@
+{
+  "id": 1209507659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.31585,14.12116,6.31585,14.12116",
+    "geom:latitude":14.12116,
+    "geom:longitude":6.31585,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Guidan Yari",
+    "gn:country_code":"NE",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6850019,
+    "gn:latitude":14.12116,
+    "gn:longitude":6.31585,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Guidan Yari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6850019
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"40bc9fdb0d6ce70fbfae41fd75d1e805",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209507659
+        }
+    ],
+    "wof:id":1209507659,
+    "wof:lastmodified":1536284983,
+    "wof:name":"Guidan Yari",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.31585,
+    14.12116,
+    6.31585,
+    14.12116
+],
+  "geometry": {"coordinates":[6.31585,14.12116],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1210040655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.8171,13.71617,7.8171,13.71617",
+    "geom:latitude":13.71617,
+    "geom:longitude":7.8171,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tawalala",
+    "gn:country_code":"NE",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6709547,
+    "gn:latitude":13.71617,
+    "gn:longitude":7.8171,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Tawalala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6709547
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"4018a65b0258e0695031b424b8da215d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051389,
+            "locality_id":1210040655,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1210040655,
+    "wof:lastmodified":1536384248,
+    "wof:name":"Tawalala",
+    "wof:parent_id":1092051389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.8171,
+    13.71617,
+    7.8171,
+    13.71617
+],
+  "geometry": {"coordinates":[7.8171,13.71617],"type":"Point"}
+}

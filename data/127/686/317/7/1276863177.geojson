@@ -1,0 +1,67 @@
+{
+  "id": 1276863177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.8,13.17,8.8,13.17",
+    "geom:latitude":13.17,
+    "geom:longitude":8.8,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Angoual Malam Issoufou",
+    "gn:country_code":"NE",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11204505,
+    "gn:latitude":13.17,
+    "gn:longitude":8.8,
+    "gn:modification_date":"2016-07-19",
+    "gn:name":"Angoual Malam Issoufou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11204505
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"d9281f7ec483c617eae47eb371777d23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051133,
+            "locality_id":1276863177,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1276863177,
+    "wof:lastmodified":1537060845,
+    "wof:name":"Angoual Malam Issoufou",
+    "wof:parent_id":1092051133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.8,
+    13.17,
+    8.8,
+    13.17
+],
+  "geometry": {"coordinates":[8.8,13.17],"type":"Point"}
+}

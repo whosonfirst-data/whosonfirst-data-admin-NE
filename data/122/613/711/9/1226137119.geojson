@@ -1,0 +1,67 @@
+{
+  "id": 1226137119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.99003,12.88575,8.99003,12.88575",
+    "geom:latitude":12.88575,
+    "geom:longitude":8.99003,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dan Kourtchi",
+    "gn:country_code":"NE",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6972332,
+    "gn:latitude":12.88575,
+    "gn:longitude":8.99003,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Dan Kourtchi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6972332
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"502b794bc8c53902d6f76445c4feded0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051133,
+            "locality_id":1226137119,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1226137119,
+    "wof:lastmodified":1537086982,
+    "wof:name":"Dan Kourtchi",
+    "wof:parent_id":1092051133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.99003,
+    12.88575,
+    8.99003,
+    12.88575
+],
+  "geometry": {"coordinates":[8.99003,12.88575],"type":"Point"}
+}

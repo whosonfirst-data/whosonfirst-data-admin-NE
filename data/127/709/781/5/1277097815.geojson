@@ -1,0 +1,67 @@
+{
+  "id": 1277097815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.82977,13.79707,8.82977,13.79707",
+    "geom:latitude":13.79707,
+    "geom:longitude":8.82977,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sidi Sidi",
+    "gn:country_code":"NE",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6734638,
+    "gn:latitude":13.79707,
+    "gn:longitude":8.82977,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Sidi Sidi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6734638
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"8fd30e689845bba699ca7aaf6b7ce2ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051411,
+            "locality_id":1277097815,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1277097815,
+    "wof:lastmodified":1536745661,
+    "wof:name":"Sidi Sidi",
+    "wof:parent_id":1092051411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.82977,
+    13.79707,
+    8.82977,
+    13.79707
+],
+  "geometry": {"coordinates":[8.82977,13.79707],"type":"Point"}
+}

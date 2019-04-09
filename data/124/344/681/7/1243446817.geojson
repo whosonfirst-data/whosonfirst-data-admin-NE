@@ -1,0 +1,72 @@
+{
+  "id": 1243446817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.6326,14.0949,5.6326,14.0949",
+    "geom:latitude":14.0949,
+    "geom:longitude":5.6326,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Louhoudou",
+    "gn:country_code":"NE",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441564,
+    "gn:latitude":14.0949,
+    "gn:longitude":5.6326,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Louhoudou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Loufoudou",
+        "Lougoudou",
+        "Louhoudou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441564
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"e488175329bc02ec19f359464c6d7872",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051301,
+            "locality_id":1243446817,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1243446817,
+    "wof:lastmodified":1537674725,
+    "wof:name":"Louhoudou",
+    "wof:parent_id":1092051301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.6326,
+    14.0949,
+    5.6326,
+    14.0949
+],
+  "geometry": {"coordinates":[5.6326,14.0949],"type":"Point"}
+}

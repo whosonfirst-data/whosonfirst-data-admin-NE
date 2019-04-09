@@ -1,0 +1,67 @@
+{
+  "id": 1226244647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.81572,12.92904,3.81572,12.92904",
+    "geom:latitude":12.92904,
+    "geom:longitude":3.81572,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sabarou",
+    "gn:country_code":"NE",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2440062,
+    "gn:latitude":12.92904,
+    "gn:longitude":3.81572,
+    "gn:modification_date":"2009-03-17",
+    "gn:name":"Sabarou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2440062
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"63dec420ccf6fd47f5157cccc46e194c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051467,
+            "locality_id":1226244647,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1226244647,
+    "wof:lastmodified":1536935956,
+    "wof:name":"Sabarou",
+    "wof:parent_id":1092051467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.81572,
+    12.92904,
+    3.81572,
+    12.92904
+],
+  "geometry": {"coordinates":[3.81572,12.92904],"type":"Point"}
+}

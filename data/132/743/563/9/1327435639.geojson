@@ -1,0 +1,67 @@
+{
+  "id": 1327435639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.2053,17.0251,8.2053,17.0251",
+    "geom:latitude":17.0251,
+    "geom:longitude":8.2053,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ti-n-Tabourak",
+    "gn:country_code":"NE",
+    "gn:dem":528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6578216,
+    "gn:latitude":17.0251,
+    "gn:longitude":8.2053,
+    "gn:modification_date":"2008-09-24",
+    "gn:name":"Ti-n-Tabo\u00fbrak",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675273,
+        421182277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6578216
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"a87d0543fe49a00a59b4a1e9505d570f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182277,
+            "locality_id":1327435639,
+            "region_id":85675273
+        }
+    ],
+    "wof:id":1327435639,
+    "wof:lastmodified":1536676095,
+    "wof:name":"Ti-n-Tabourak",
+    "wof:parent_id":421182277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.2053,
+    17.0251,
+    8.2053,
+    17.0251
+],
+  "geometry": {"coordinates":[8.2053,17.0251],"type":"Point"}
+}

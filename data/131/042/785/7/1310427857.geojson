@@ -1,0 +1,67 @@
+{
+  "id": 1310427857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.4675,14.5716,5.4675,14.5716",
+    "geom:latitude":14.5716,
+    "geom:longitude":5.4675,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kartela",
+    "gn:country_code":"NE",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6679195,
+    "gn:latitude":14.5716,
+    "gn:longitude":5.4675,
+    "gn:modification_date":"2008-02-09",
+    "gn:name":"Kart\u00e9la",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6679195
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"faedb496bf22817e96ca7f99565e3e2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051577,
+            "locality_id":1310427857,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1310427857,
+    "wof:lastmodified":1537027834,
+    "wof:name":"Kartela",
+    "wof:parent_id":1092051577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.4675,
+    14.5716,
+    5.4675,
+    14.5716
+],
+  "geometry": {"coordinates":[5.4675,14.5716],"type":"Point"}
+}

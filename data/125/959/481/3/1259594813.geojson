@@ -1,0 +1,67 @@
+{
+  "id": 1259594813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.38626,12.23705,3.38626,12.23705",
+    "geom:latitude":12.23705,
+    "geom:longitude":3.38626,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Wande Baba",
+    "gn:country_code":"NE",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438119,
+    "gn:latitude":12.23705,
+    "gn:longitude":3.38626,
+    "gn:modification_date":"2009-02-18",
+    "gn:name":"Wand\u00e9 Baba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092050969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438119
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"b437dc60f57b2b5e6b3968c4b03587b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092050969,
+            "locality_id":1259594813,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1259594813,
+    "wof:lastmodified":1536698682,
+    "wof:name":"Wande Baba",
+    "wof:parent_id":1092050969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.38626,
+    12.23705,
+    3.38626,
+    12.23705
+],
+  "geometry": {"coordinates":[3.38626,12.23705],"type":"Point"}
+}

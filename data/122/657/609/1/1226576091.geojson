@@ -1,0 +1,67 @@
+{
+  "id": 1226576091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.72812,13.80906,6.72812,13.80906",
+    "geom:latitude":13.80906,
+    "geom:longitude":6.72812,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Doumana Ara",
+    "gn:country_code":"NE",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445458,
+    "gn:latitude":13.80906,
+    "gn:longitude":6.72812,
+    "gn:modification_date":"2008-02-07",
+    "gn:name":"Doumana Ara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445458
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"29ed9283fd8b8a71e49df770d0409c9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051229,
+            "locality_id":1226576091,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1226576091,
+    "wof:lastmodified":1536955779,
+    "wof:name":"Doumana Ara",
+    "wof:parent_id":1092051229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.72812,
+    13.80906,
+    6.72812,
+    13.80906
+],
+  "geometry": {"coordinates":[6.72812,13.80906],"type":"Point"}
+}

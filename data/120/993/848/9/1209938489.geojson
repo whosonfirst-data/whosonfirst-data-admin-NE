@@ -1,0 +1,67 @@
+{
+  "id": 1209938489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.98025,14.22974,4.98025,14.22974",
+    "geom:latitude":14.22974,
+    "geom:longitude":4.98025,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Geza",
+    "gn:country_code":"NE",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6783518,
+    "gn:latitude":14.22974,
+    "gn:longitude":4.98025,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"G\u00e9za",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6783518
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"d8f9b65d531a7aefceb35fe1c96cfd4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051485,
+            "locality_id":1209938489,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1209938489,
+    "wof:lastmodified":1536389546,
+    "wof:name":"Geza",
+    "wof:parent_id":1092051485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.98025,
+    14.22974,
+    4.98025,
+    14.22974
+],
+  "geometry": {"coordinates":[4.98025,14.22974],"type":"Point"}
+}

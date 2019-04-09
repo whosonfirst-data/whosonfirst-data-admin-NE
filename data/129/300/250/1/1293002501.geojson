@@ -1,0 +1,67 @@
+{
+  "id": 1293002501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.61637,12.85337,3.61637,12.85337",
+    "geom:latitude":12.85337,
+    "geom:longitude":3.61637,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bourgami",
+    "gn:country_code":"NE",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446494,
+    "gn:latitude":12.85337,
+    "gn:longitude":3.61637,
+    "gn:modification_date":"2009-03-16",
+    "gn:name":"Bourgami",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092050969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446494
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"3e543d6143c5ba5673fe7a211d694163",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092050969,
+            "locality_id":1293002501,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1293002501,
+    "wof:lastmodified":1536988359,
+    "wof:name":"Bourgami",
+    "wof:parent_id":1092050969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.61637,
+    12.85337,
+    3.61637,
+    12.85337
+],
+  "geometry": {"coordinates":[3.61637,12.85337],"type":"Point"}
+}

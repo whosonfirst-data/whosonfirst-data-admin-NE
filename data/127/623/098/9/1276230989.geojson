@@ -1,0 +1,71 @@
+{
+  "id": 1276230989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.72511,13.60552,11.72511,13.60552",
+    "geom:latitude":13.60552,
+    "geom:longitude":11.72511,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Abakouraram",
+    "gn:country_code":"NE",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6787639,
+    "gn:latitude":13.60552,
+    "gn:longitude":11.72511,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Abakouraram",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abakouroram",
+        "Abakouraram"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6787639
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"868f15b80de3d72349e20ea4b31be567",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051363,
+            "locality_id":1276230989,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1276230989,
+    "wof:lastmodified":1537674887,
+    "wof:name":"Abakouraram",
+    "wof:parent_id":1092051363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.72511,
+    13.60552,
+    11.72511,
+    13.60552
+],
+  "geometry": {"coordinates":[11.72511,13.60552],"type":"Point"}
+}

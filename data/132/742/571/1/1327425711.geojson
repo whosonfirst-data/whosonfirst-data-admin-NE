@@ -1,0 +1,67 @@
+{
+  "id": 1327425711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.352,13.19743,8.352,13.19743",
+    "geom:latitude":13.19743,
+    "geom:longitude":8.352,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Roufao",
+    "gn:country_code":"NE",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6743898,
+    "gn:latitude":13.19743,
+    "gn:longitude":8.352,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Roufao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6743898
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"01d9574c28d6d4492b84cee97e6cc5a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051165,
+            "locality_id":1327425711,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1327425711,
+    "wof:lastmodified":1536690647,
+    "wof:name":"Roufao",
+    "wof:parent_id":1092051165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.352,
+    13.19743,
+    8.352,
+    13.19743
+],
+  "geometry": {"coordinates":[8.352,13.19743],"type":"Point"}
+}

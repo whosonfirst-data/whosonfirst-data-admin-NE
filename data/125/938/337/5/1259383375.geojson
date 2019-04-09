@@ -1,0 +1,67 @@
+{
+  "id": 1259383375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.06119,14.43187,7.06119,14.43187",
+    "geom:latitude":14.43187,
+    "geom:longitude":7.06119,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Maylawa",
+    "gn:country_code":"NE",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441076,
+    "gn:latitude":14.43187,
+    "gn:longitude":7.06119,
+    "gn:modification_date":"2008-08-21",
+    "gn:name":"Maylawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441076
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"7a32241e4af4428cfe830a1b0c626965",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1259383375,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1259383375,
+    "wof:lastmodified":1537001676,
+    "wof:name":"Maylawa",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.06119,
+    14.43187,
+    7.06119,
+    14.43187
+],
+  "geometry": {"coordinates":[7.06119,14.43187],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327437615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.08876,13.80406,7.08876,13.80406",
+    "geom:latitude":13.80406,
+    "geom:longitude":7.08876,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Magajin Kore",
+    "gn:country_code":"NE",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441467,
+    "gn:latitude":13.80406,
+    "gn:longitude":7.08876,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mag\u00e2j\u00een Kor\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Magazin Koli",
+        "Mag\u00e2j\u00een Kor\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441467
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"5e1bedf3fbfab05862526971af87f7d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1327437615,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1327437615,
+    "wof:lastmodified":1537674723,
+    "wof:name":"Magajin Kore",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.08876,
+    13.80406,
+    7.08876,
+    13.80406
+],
+  "geometry": {"coordinates":[7.08876,13.80406],"type":"Point"}
+}

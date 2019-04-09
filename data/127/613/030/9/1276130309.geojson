@@ -1,0 +1,67 @@
+{
+  "id": 1276130309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.29363,13.54052,4.29363,13.54052",
+    "geom:latitude":13.54052,
+    "geom:longitude":4.29363,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Dan Ganabay",
+    "gn:country_code":"NE",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446102,
+    "gn:latitude":13.54052,
+    "gn:longitude":4.29363,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Dan Ganabay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675433,
+        1108563439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446102
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"ed7badf68f19d4f84827650733d74d98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563439,
+            "locality_id":1276130309,
+            "region_id":85675433
+        }
+    ],
+    "wof:id":1276130309,
+    "wof:lastmodified":1537048553,
+    "wof:name":"Dan Ganabay",
+    "wof:parent_id":1108563439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.29363,
+    13.54052,
+    4.29363,
+    13.54052
+],
+  "geometry": {"coordinates":[4.29363,13.54052],"type":"Point"}
+}

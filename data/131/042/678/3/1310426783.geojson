@@ -1,0 +1,67 @@
+{
+  "id": 1310426783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.9507,14.0427,8.9507,14.0427",
+    "geom:latitude":14.0427,
+    "geom:longitude":8.9507,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Garin Garakye",
+    "gn:country_code":"NE",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444592,
+    "gn:latitude":14.0427,
+    "gn:longitude":8.9507,
+    "gn:modification_date":"2008-08-26",
+    "gn:name":"Garin Garaky\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444592
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"635a84314c46a54d97b6ef7565d4f546",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051411,
+            "locality_id":1310426783,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1310426783,
+    "wof:lastmodified":1537029331,
+    "wof:name":"Garin Garakye",
+    "wof:parent_id":1092051411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.9507,
+    14.0427,
+    8.9507,
+    14.0427
+],
+  "geometry": {"coordinates":[8.9507,14.0427],"type":"Point"}
+}

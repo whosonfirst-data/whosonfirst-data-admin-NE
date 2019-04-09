@@ -1,0 +1,67 @@
+{
+  "id": 1310400055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.9095,14.3268,8.9095,14.3268",
+    "geom:latitude":14.3268,
+    "geom:longitude":8.9095,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Patakar",
+    "gn:country_code":"NE",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2440206,
+    "gn:latitude":14.3268,
+    "gn:longitude":8.9095,
+    "gn:modification_date":"2008-08-26",
+    "gn:name":"Patakar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2440206
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"783ebfdf471028d9977f1c9d78ef7a5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1310400055,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1310400055,
+    "wof:lastmodified":1537066225,
+    "wof:name":"Patakar",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.9095,
+    14.3268,
+    8.9095,
+    14.3268
+],
+  "geometry": {"coordinates":[8.9095,14.3268],"type":"Point"}
+}

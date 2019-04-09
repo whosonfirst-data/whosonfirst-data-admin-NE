@@ -1,0 +1,71 @@
+{
+  "id": 1327158121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.23995,13.42854,7.23995,13.42854",
+    "geom:latitude":13.42854,
+    "geom:longitude":7.23995,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Houdel Magaji",
+    "gn:country_code":"NE",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2443390,
+    "gn:latitude":13.42854,
+    "gn:longitude":7.23995,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Houdel Mag\u00e2j\u00ee",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Houdel",
+        "Houdel Mag\u00e2j\u00ee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2443390
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"14d91ed509955fd31c92bbdd6d2774c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051007,
+            "locality_id":1327158121,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1327158121,
+    "wof:lastmodified":1537674765,
+    "wof:name":"Houdel Magaji",
+    "wof:parent_id":1092051007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.23995,
+    13.42854,
+    7.23995,
+    13.42854
+],
+  "geometry": {"coordinates":[7.23995,13.42854],"type":"Point"}
+}

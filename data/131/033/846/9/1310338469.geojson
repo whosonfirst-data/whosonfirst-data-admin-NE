@@ -1,0 +1,67 @@
+{
+  "id": 1310338469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.24906,13.27648,7.24906,13.27648",
+    "geom:latitude":13.27648,
+    "geom:longitude":7.24906,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Wakili Dogon Dawa",
+    "gn:country_code":"NE",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6721650,
+    "gn:latitude":13.27648,
+    "gn:longitude":7.24906,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Wakili Dogon Dawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6721650
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"cba0e10b0f22a54117b4616f01e095f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051007,
+            "locality_id":1310338469,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1310338469,
+    "wof:lastmodified":1536660504,
+    "wof:name":"Wakili Dogon Dawa",
+    "wof:parent_id":1092051007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.24906,
+    13.27648,
+    7.24906,
+    13.27648
+],
+  "geometry": {"coordinates":[7.24906,13.27648],"type":"Point"}
+}

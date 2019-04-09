@@ -1,0 +1,71 @@
+{
+  "id": 1293807887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.74726,13.45309,6.74726,13.45309",
+    "geom:latitude":13.45309,
+    "geom:longitude":6.74726,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mousa",
+    "gn:country_code":"NE",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2440839,
+    "gn:latitude":13.45309,
+    "gn:longitude":6.74726,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mousa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Moussa",
+        "Mousa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2440839
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"675783fd9ed0cc4d05443955bd14fc7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051229,
+            "locality_id":1293807887,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1293807887,
+    "wof:lastmodified":1537674709,
+    "wof:name":"Mousa",
+    "wof:parent_id":1092051229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.74726,
+    13.45309,
+    6.74726,
+    13.45309
+],
+  "geometry": {"coordinates":[6.74726,13.45309],"type":"Point"}
+}

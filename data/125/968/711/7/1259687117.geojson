@@ -1,0 +1,67 @@
+{
+  "id": 1259687117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.44464,14.05362,13.44464,14.05362",
+    "geom:latitude":14.05362,
+    "geom:longitude":13.44464,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Fiefia",
+    "gn:country_code":"NE",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6787076,
+    "gn:latitude":14.05362,
+    "gn:longitude":13.44464,
+    "gn:modification_date":"2013-02-09",
+    "gn:name":"Fi\u00e9fia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6787076
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"ec55a1bf6eb9e38280e5e3b0a2379b05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051781,
+            "locality_id":1259687117,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1259687117,
+    "wof:lastmodified":1537059161,
+    "wof:name":"Fiefia",
+    "wof:parent_id":1092051781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.44464,
+    14.05362,
+    13.44464,
+    14.05362
+],
+  "geometry": {"coordinates":[13.44464,14.05362],"type":"Point"}
+}

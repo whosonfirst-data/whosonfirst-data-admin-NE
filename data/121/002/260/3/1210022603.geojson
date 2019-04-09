@@ -1,0 +1,67 @@
+{
+  "id": 1210022603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.55644,13.68838,7.55644,13.68838",
+    "geom:latitude":13.68838,
+    "geom:longitude":7.55644,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Katari",
+    "gn:country_code":"NE",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6711168,
+    "gn:latitude":13.68838,
+    "gn:longitude":7.55644,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Katari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6711168
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"f66dc8bbfeb7dd3c020c19b870adfc65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051197,
+            "locality_id":1210022603,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1210022603,
+    "wof:lastmodified":1536392172,
+    "wof:name":"Katari",
+    "wof:parent_id":1092051197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.55644,
+    13.68838,
+    7.55644,
+    13.68838
+],
+  "geometry": {"coordinates":[7.55644,13.68838],"type":"Point"}
+}

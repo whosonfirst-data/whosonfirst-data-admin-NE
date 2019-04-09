@@ -1,0 +1,67 @@
+{
+  "id": 1226653487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.06299,13.61278,4.06299,13.61278",
+    "geom:latitude":13.61278,
+    "geom:longitude":4.06299,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Argoum",
+    "gn:country_code":"NE",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7003134,
+    "gn:latitude":13.61278,
+    "gn:longitude":4.06299,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Argoum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7003134
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"62116e61a4aac6df0919ae78910187f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051467,
+            "locality_id":1226653487,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1226653487,
+    "wof:lastmodified":1536847124,
+    "wof:name":"Argoum",
+    "wof:parent_id":1092051467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.06299,
+    13.61278,
+    4.06299,
+    13.61278
+],
+  "geometry": {"coordinates":[4.06299,13.61278],"type":"Point"}
+}

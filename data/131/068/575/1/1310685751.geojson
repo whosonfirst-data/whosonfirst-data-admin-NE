@@ -1,0 +1,71 @@
+{
+  "id": 1310685751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.4974,13.7595,2.4974,13.7595",
+    "geom:latitude":13.7595,
+    "geom:longitude":2.4974,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kiran Fandou Beri",
+    "gn:country_code":"NE",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442411,
+    "gn:latitude":13.7595,
+    "gn:longitude":2.4974,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kiran Fandou B\u00e9ri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kiran Fadoub\u00e9ri",
+        "Kiran Fandou B\u00e9ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442411
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"b8977baa03ef81116e94238bd07a8632",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1310685751,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1310685751,
+    "wof:lastmodified":1537674749,
+    "wof:name":"Kiran Fandou Beri",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.4974,
+    13.7595,
+    2.4974,
+    13.7595
+],
+  "geometry": {"coordinates":[2.4974,13.7595],"type":"Point"}
+}

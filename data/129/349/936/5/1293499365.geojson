@@ -1,0 +1,71 @@
+{
+  "id": 1293499365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.5803,13.6492,3.5803,13.6492",
+    "geom:latitude":13.6492,
+    "geom:longitude":3.5803,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Deytegui-Made",
+    "gn:country_code":"NE",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445747,
+    "gn:latitude":13.6492,
+    "gn:longitude":3.5803,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Deyt\u00e9gui-Mad\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Deyt\u00e9gi Mad\u00e9",
+        "Deyt\u00e9gui-Mad\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445747
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"48e3363bd18237e4e25c2b7b4fa9af3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051273,
+            "locality_id":1293499365,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1293499365,
+    "wof:lastmodified":1537674826,
+    "wof:name":"Deytegui-Made",
+    "wof:parent_id":1092051273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.5803,
+    13.6492,
+    3.5803,
+    13.6492
+],
+  "geometry": {"coordinates":[3.5803,13.6492],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242866685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.1211,14.75355,6.1211,14.75355",
+    "geom:latitude":14.75355,
+    "geom:longitude":6.1211,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Wadey",
+    "gn:country_code":"NE",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6849464,
+    "gn:latitude":14.75355,
+    "gn:longitude":6.1211,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Wad\u00e9y",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6849464
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"e8362ea4d28396810d6bb254a2edd3a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051577,
+            "locality_id":1242866685,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1242866685,
+    "wof:lastmodified":1536646848,
+    "wof:name":"Wadey",
+    "wof:parent_id":1092051577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.1211,
+    14.75355,
+    6.1211,
+    14.75355
+],
+  "geometry": {"coordinates":[6.1211,14.75355],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293374487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.581,13.6206,2.581,13.6206",
+    "geom:latitude":13.6206,
+    "geom:longitude":2.581,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kida Bazagaize",
+    "gn:country_code":"NE",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6858564,
+    "gn:latitude":13.6206,
+    "gn:longitude":2.581,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Kida Bazaga\u00efz\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6858564
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"66a744f1fc868fecf32d0727acf9976c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1293374487,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1293374487,
+    "wof:lastmodified":1536950239,
+    "wof:name":"Kida Bazagaize",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.581,
+    13.6206,
+    2.581,
+    13.6206
+],
+  "geometry": {"coordinates":[2.581,13.6206],"type":"Point"}
+}

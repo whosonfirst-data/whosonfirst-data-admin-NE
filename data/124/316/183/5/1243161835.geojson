@@ -1,0 +1,67 @@
+{
+  "id": 1243161835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.36209,14.12542,1.36209,14.12542",
+    "geom:latitude":14.12542,
+    "geom:longitude":1.36209,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Taborat",
+    "gn:country_code":"NE",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439492,
+    "gn:latitude":14.12542,
+    "gn:longitude":1.36209,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Taborat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439492
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"be450fc04c15d205c8d74f57abe84b53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051545,
+            "locality_id":1243161835,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1243161835,
+    "wof:lastmodified":1536719278,
+    "wof:name":"Taborat",
+    "wof:parent_id":1092051545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.36209,
+    14.12542,
+    1.36209,
+    14.12542
+],
+  "geometry": {"coordinates":[1.36209,14.12542],"type":"Point"}
+}

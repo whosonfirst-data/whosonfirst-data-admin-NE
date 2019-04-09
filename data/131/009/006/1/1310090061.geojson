@@ -1,0 +1,72 @@
+{
+  "id": 1310090061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.47557,12.79519,2.47557,12.79519",
+    "geom:latitude":12.79519,
+    "geom:longitude":2.47557,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kirtachi Seybou",
+    "gn:country_code":"NE",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442394,
+    "gn:latitude":12.79519,
+    "gn:longitude":2.47557,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Kirtachi Seybou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kirtachi",
+        "Kirtachi Seybou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442394,
+        "wk:page":"Kirtachi"
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"c523e40ea8666fbee2977ed0cf9cc801",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1310090061,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1310090061,
+    "wof:lastmodified":1537674748,
+    "wof:name":"Kirtachi Seybou",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.47557,
+    12.79519,
+    2.47557,
+    12.79519
+],
+  "geometry": {"coordinates":[2.47557,12.79519],"type":"Point"}
+}

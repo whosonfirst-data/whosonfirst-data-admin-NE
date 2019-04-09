@@ -1,0 +1,67 @@
+{
+  "id": 1226748145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.80458,13.61046,6.80458,13.61046",
+    "geom:latitude":13.61046,
+    "geom:longitude":6.80458,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dan Anza",
+    "gn:country_code":"NE",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6712261,
+    "gn:latitude":13.61046,
+    "gn:longitude":6.80458,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Dan Anza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6712261
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"558ca4cc2aaf914cb3111679e5a6f7ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051229,
+            "locality_id":1226748145,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1226748145,
+    "wof:lastmodified":1536712364,
+    "wof:name":"Dan Anza",
+    "wof:parent_id":1092051229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.80458,
+    13.61046,
+    6.80458,
+    13.61046
+],
+  "geometry": {"coordinates":[6.80458,13.61046],"type":"Point"}
+}

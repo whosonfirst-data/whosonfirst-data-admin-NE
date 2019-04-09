@@ -1,0 +1,71 @@
+{
+  "id": 1310413571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.4669,13.86089,4.4669,13.86089",
+    "geom:latitude":13.86089,
+    "geom:longitude":4.4669,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Karki",
+    "gn:country_code":"NE",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442597,
+    "gn:latitude":13.86089,
+    "gn:longitude":4.4669,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Karki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karky",
+        "Karki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442597
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"36eb84fb59e1d20017aa4dea56a4419f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051467,
+            "locality_id":1310413571,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1310413571,
+    "wof:lastmodified":1537674753,
+    "wof:name":"Karki",
+    "wof:parent_id":1092051467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.4669,
+    13.86089,
+    4.4669,
+    13.86089
+],
+  "geometry": {"coordinates":[4.4669,13.86089],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1360076947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.43469,14.40618,8.43469,14.40618",
+    "geom:latitude":14.40618,
+    "geom:longitude":8.43469,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Asiri",
+    "gn:country_code":"NE",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447468,
+    "gn:latitude":14.40618,
+    "gn:longitude":8.43469,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Asiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Assiri",
+        "Asiri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447468
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"6cdc669d72d5e474ade88bf3bbf32aa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1360076947,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1360076947,
+    "wof:lastmodified":1537674864,
+    "wof:name":"Asiri",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.43469,
+    14.40618,
+    8.43469,
+    14.40618
+],
+  "geometry": {"coordinates":[8.43469,14.40618],"type":"Point"}
+}

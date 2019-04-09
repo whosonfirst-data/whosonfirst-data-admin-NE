@@ -1,0 +1,71 @@
+{
+  "id": 1226326853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.78465,14.40309,2.78465,14.40309",
+    "geom:latitude":14.40309,
+    "geom:longitude":2.78465,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Grasa Koara",
+    "gn:country_code":"NE",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444186,
+    "gn:latitude":14.40309,
+    "gn:longitude":2.78465,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Grasa Koara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Grassa Kwara",
+        "Grasa Koara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444186
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"e095efb9cfa38cc193121320deddb1e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051633,
+            "locality_id":1226326853,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1226326853,
+    "wof:lastmodified":1537674790,
+    "wof:name":"Grasa Koara",
+    "wof:parent_id":1092051633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.78465,
+    14.40309,
+    2.78465,
+    14.40309
+],
+  "geometry": {"coordinates":[2.78465,14.40309],"type":"Point"}
+}

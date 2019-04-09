@@ -1,0 +1,67 @@
+{
+  "id": 1293304451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.9361,13.1497,3.9361,13.1497",
+    "geom:latitude":13.1497,
+    "geom:longitude":3.9361,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mori",
+    "gn:country_code":"NE",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2440884,
+    "gn:latitude":13.1497,
+    "gn:longitude":3.9361,
+    "gn:modification_date":"2008-10-22",
+    "gn:name":"Mori",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2440884
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"7c9f6e63c8504a4c49c28f897e52cce8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051467,
+            "locality_id":1293304451,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1293304451,
+    "wof:lastmodified":1537048779,
+    "wof:name":"Mori",
+    "wof:parent_id":1092051467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.9361,
+    13.1497,
+    3.9361,
+    13.1497
+],
+  "geometry": {"coordinates":[3.9361,13.1497],"type":"Point"}
+}

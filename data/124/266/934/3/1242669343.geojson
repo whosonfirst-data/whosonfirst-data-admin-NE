@@ -1,0 +1,72 @@
+{
+  "id": 1242669343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.47863,13.50026,8.47863,13.50026",
+    "geom:latitude":13.50026,
+    "geom:longitude":8.47863,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tassaou Haoussa",
+    "gn:country_code":"NE",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439079,
+    "gn:latitude":13.50026,
+    "gn:longitude":8.47863,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tassaou Haoussa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tasao Haousa",
+        "Tassao Haoussa",
+        "Tassaou Haoussa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439079
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"7fb9a60edb78a7ac0cac2bd40dddcd53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051165,
+            "locality_id":1242669343,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1242669343,
+    "wof:lastmodified":1537674677,
+    "wof:name":"Tassaou Haoussa",
+    "wof:parent_id":1092051165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.47863,
+    13.50026,
+    8.47863,
+    13.50026
+],
+  "geometry": {"coordinates":[8.47863,13.50026],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310596037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.6591,15.0995,2.6591,15.0995",
+    "geom:latitude":15.0995,
+    "geom:longitude":2.6591,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Sageze Koara",
+    "gn:country_code":"NE",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2440000,
+    "gn:latitude":15.0995,
+    "gn:longitude":2.6591,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sag\u00e9z\u00e9 Koara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sagu\u00e9z\u00e9 Kwara",
+        "Sag\u00e9z\u00e9 Koara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2440000
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"c532f8add8c5f7d8ddc0beb35747d1af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051633,
+            "locality_id":1310596037,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1310596037,
+    "wof:lastmodified":1537674695,
+    "wof:name":"Sageze Koara",
+    "wof:parent_id":1092051633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6591,
+    15.0995,
+    2.6591,
+    15.0995
+],
+  "geometry": {"coordinates":[2.6591,15.0995],"type":"Point"}
+}

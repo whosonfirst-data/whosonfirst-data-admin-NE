@@ -1,0 +1,67 @@
+{
+  "id": 1243178223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.75379,13.53244,6.75379,13.53244",
+    "geom:latitude":13.53244,
+    "geom:longitude":6.75379,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"May Kiemro",
+    "gn:country_code":"NE",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441089,
+    "gn:latitude":13.53244,
+    "gn:longitude":6.75379,
+    "gn:modification_date":"2008-03-06",
+    "gn:name":"May Kiemro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441089
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"4c222653472f7e488586e64da1e6abb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051229,
+            "locality_id":1243178223,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1243178223,
+    "wof:lastmodified":1536695433,
+    "wof:name":"May Kiemro",
+    "wof:parent_id":1092051229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.75379,
+    13.53244,
+    6.75379,
+    13.53244
+],
+  "geometry": {"coordinates":[6.75379,13.53244],"type":"Point"}
+}

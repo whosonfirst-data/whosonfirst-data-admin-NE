@@ -1,0 +1,67 @@
+{
+  "id": 1226667297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.9164,14.7635,8.9164,14.7635",
+    "geom:latitude":14.7635,
+    "geom:longitude":8.9164,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Magajiri",
+    "gn:country_code":"NE",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441490,
+    "gn:latitude":14.7635,
+    "gn:longitude":8.9164,
+    "gn:modification_date":"2008-08-26",
+    "gn:name":"Magajiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441490
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"393fe02faf4c18595f0da251bd2e6372",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1226667297,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1226667297,
+    "wof:lastmodified":1536827551,
+    "wof:name":"Magajiri",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.9164,
+    14.7635,
+    8.9164,
+    14.7635
+],
+  "geometry": {"coordinates":[8.9164,14.7635],"type":"Point"}
+}

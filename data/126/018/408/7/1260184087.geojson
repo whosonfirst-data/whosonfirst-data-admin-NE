@@ -1,0 +1,67 @@
+{
+  "id": 1260184087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.9114,13.1507,3.9114,13.1507",
+    "geom:latitude":13.1507,
+    "geom:longitude":3.9114,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kadidi",
+    "gn:country_code":"NE",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442887,
+    "gn:latitude":13.1507,
+    "gn:longitude":3.9114,
+    "gn:modification_date":"2008-10-22",
+    "gn:name":"Kadidi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442887
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"ceac8cbe601306c3b29e9acd765197f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051467,
+            "locality_id":1260184087,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1260184087,
+    "wof:lastmodified":1536845978,
+    "wof:name":"Kadidi",
+    "wof:parent_id":1092051467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.9114,
+    13.1507,
+    3.9114,
+    13.1507
+],
+  "geometry": {"coordinates":[3.9114,13.1507],"type":"Point"}
+}

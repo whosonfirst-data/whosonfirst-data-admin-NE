@@ -1,0 +1,67 @@
+{
+  "id": 1276230849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.2645,13.7544,11.2645,13.7544",
+    "geom:latitude":13.7544,
+    "geom:longitude":11.2645,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kadia",
+    "gn:country_code":"NE",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6819757,
+    "gn:latitude":13.7544,
+    "gn:longitude":11.2645,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Kadia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6819757
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"0656c7d6e62e1cfc75dd08fedc542a20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051363,
+            "locality_id":1276230849,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1276230849,
+    "wof:lastmodified":1536916670,
+    "wof:name":"Kadia",
+    "wof:parent_id":1092051363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.2645,
+    13.7544,
+    11.2645,
+    13.7544
+],
+  "geometry": {"coordinates":[11.2645,13.7544],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259881565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.6444,13.2387,3.6444,13.2387",
+    "geom:latitude":13.2387,
+    "geom:longitude":3.6444,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Borogo",
+    "gn:country_code":"NE",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446629,
+    "gn:latitude":13.2387,
+    "gn:longitude":3.6444,
+    "gn:modification_date":"2008-10-22",
+    "gn:name":"Borogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446629
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"7cf103fc9b86cde3e7aa214012266ee5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051041,
+            "locality_id":1259881565,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1259881565,
+    "wof:lastmodified":1536782422,
+    "wof:name":"Borogo",
+    "wof:parent_id":1092051041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.6444,
+    13.2387,
+    3.6444,
+    13.2387
+],
+  "geometry": {"coordinates":[3.6444,13.2387],"type":"Point"}
+}

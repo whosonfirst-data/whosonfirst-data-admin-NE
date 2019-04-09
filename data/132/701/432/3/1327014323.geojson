@@ -1,0 +1,72 @@
+{
+  "id": 1327014323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.82822,13.75121,1.82822,13.75121",
+    "geom:latitude":13.75121,
+    "geom:longitude":1.82822,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Goro",
+    "gn:country_code":"NE",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444228,
+    "gn:latitude":13.75121,
+    "gn:longitude":1.82822,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Goro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gworo",
+        "Gouoro",
+        "Goro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444228
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"282864cbd26851cb7864d67ca353b8b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1327014323,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1327014323,
+    "wof:lastmodified":1537674791,
+    "wof:name":"Goro",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.82822,
+    13.75121,
+    1.82822,
+    13.75121
+],
+  "geometry": {"coordinates":[1.82822,13.75121],"type":"Point"}
+}

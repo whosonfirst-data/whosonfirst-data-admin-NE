@@ -1,0 +1,67 @@
+{
+  "id": 1193133245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.5757,13.722,2.5757,13.722",
+    "geom:latitude":13.722,
+    "geom:longitude":2.5757,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kouabiri Kouara",
+    "gn:country_code":"NE",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6858579,
+    "gn:latitude":13.722,
+    "gn:longitude":2.5757,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Kouabiri Kouara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6858579
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"38a99cddaa9775e209a8d212f8e234bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1193133245,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1193133245,
+    "wof:lastmodified":1536373519,
+    "wof:name":"Kouabiri Kouara",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.5757,
+    13.722,
+    2.5757,
+    13.722
+],
+  "geometry": {"coordinates":[2.5757,13.722],"type":"Point"}
+}

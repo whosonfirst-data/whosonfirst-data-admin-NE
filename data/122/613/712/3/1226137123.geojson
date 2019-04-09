@@ -1,0 +1,71 @@
+{
+  "id": 1226137123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.89449,13.8443,8.89449,13.8443",
+    "geom:latitude":13.8443,
+    "geom:longitude":8.89449,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tagouay",
+    "gn:country_code":"NE",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6734732,
+    "gn:latitude":13.8443,
+    "gn:longitude":8.89449,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Tagouay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Toudoun Kourna",
+        "Tagouay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6734732
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"5155ba59c6981e842bf2625f55857c90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051411,
+            "locality_id":1226137123,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1226137123,
+    "wof:lastmodified":1537674884,
+    "wof:name":"Tagouay",
+    "wof:parent_id":1092051411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.89449,
+    13.8443,
+    8.89449,
+    13.8443
+],
+  "geometry": {"coordinates":[8.89449,13.8443],"type":"Point"}
+}

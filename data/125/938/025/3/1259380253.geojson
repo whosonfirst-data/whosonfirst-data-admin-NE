@@ -1,0 +1,67 @@
+{
+  "id": 1259380253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.11023,14.96574,6.11023,14.96574",
+    "geom:latitude":14.96574,
+    "geom:longitude":6.11023,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Marke",
+    "gn:country_code":"NE",
+    "gn:dem":562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6849332,
+    "gn:latitude":14.96574,
+    "gn:longitude":6.11023,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Mark\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6849332
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"7f4e6860f9d4f65a7e0209e77bac06f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051577,
+            "locality_id":1259380253,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1259380253,
+    "wof:lastmodified":1537006248,
+    "wof:name":"Marke",
+    "wof:parent_id":1092051577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.11023,
+    14.96574,
+    6.11023,
+    14.96574
+],
+  "geometry": {"coordinates":[6.11023,14.96574],"type":"Point"}
+}

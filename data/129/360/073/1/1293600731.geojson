@@ -1,0 +1,73 @@
+{
+  "id": 1293600731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.92528,12.88662,3.92528,12.88662",
+    "geom:latitude":12.88662,
+    "geom:longitude":3.92528,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bey Bey",
+    "gn:country_code":"NE",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446830,
+    "gn:latitude":12.88662,
+    "gn:longitude":3.92528,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bey Bey",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00e8ye-B\u00e8ye",
+        "Beybeye",
+        "Bei-Bei",
+        "Bey Bey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446830
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"3c745dabead2e0debaefb0e735dfd99e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051467,
+            "locality_id":1293600731,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1293600731,
+    "wof:lastmodified":1537674851,
+    "wof:name":"Bey Bey",
+    "wof:parent_id":1092051467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.92528,
+    12.88662,
+    3.92528,
+    12.88662
+],
+  "geometry": {"coordinates":[3.92528,12.88662],"type":"Point"}
+}

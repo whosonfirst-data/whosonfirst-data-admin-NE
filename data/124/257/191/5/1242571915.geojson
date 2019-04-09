@@ -1,0 +1,67 @@
+{
+  "id": 1242571915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.9136,14.2686,9.9136,14.2686",
+    "geom:latitude":14.2686,
+    "geom:longitude":9.9136,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Goubdi",
+    "gn:country_code":"NE",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6803860,
+    "gn:latitude":14.2686,
+    "gn:longitude":9.9136,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Goubdi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6803860
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"026aa1c1d60efacff2a7b67a9983c3f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051753,
+            "locality_id":1242571915,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1242571915,
+    "wof:lastmodified":1537068879,
+    "wof:name":"Goubdi",
+    "wof:parent_id":1092051753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9136,
+    14.2686,
+    9.9136,
+    14.2686
+],
+  "geometry": {"coordinates":[9.9136,14.2686],"type":"Point"}
+}

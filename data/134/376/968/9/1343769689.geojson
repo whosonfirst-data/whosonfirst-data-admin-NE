@@ -1,0 +1,67 @@
+{
+  "id": 1343769689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.92655,13.50903,2.92655,13.50903",
+    "geom:latitude":13.50903,
+    "geom:longitude":2.92655,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Handou Kouara",
+    "gn:country_code":"NE",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6858536,
+    "gn:latitude":13.50903,
+    "gn:longitude":2.92655,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Handou Kouara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6858536
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"33d1d6a8b827075ac495751e98729d36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051075,
+            "locality_id":1343769689,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1343769689,
+    "wof:lastmodified":1536797710,
+    "wof:name":"Handou Kouara",
+    "wof:parent_id":1092051075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.92655,
+    13.50903,
+    2.92655,
+    13.50903
+],
+  "geometry": {"coordinates":[2.92655,13.50903],"type":"Point"}
+}

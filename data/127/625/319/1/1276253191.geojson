@@ -1,0 +1,71 @@
+{
+  "id": 1276253191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.3981,14.47356,7.3981,14.47356",
+    "geom:latitude":14.47356,
+    "geom:longitude":7.3981,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Guidan Asoko",
+    "gn:country_code":"NE",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444034,
+    "gn:latitude":14.47356,
+    "gn:longitude":7.3981,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Guidan Asoko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guidan Assoko",
+        "Guidan Asoko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444034
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"c81b80e53759a66d4d1d2bf1d4c5e886",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051435,
+            "locality_id":1276253191,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1276253191,
+    "wof:lastmodified":1537674785,
+    "wof:name":"Guidan Asoko",
+    "wof:parent_id":1092051435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.3981,
+    14.47356,
+    7.3981,
+    14.47356
+],
+  "geometry": {"coordinates":[7.3981,14.47356],"type":"Point"}
+}

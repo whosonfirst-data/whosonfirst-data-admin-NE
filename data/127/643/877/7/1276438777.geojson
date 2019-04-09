@@ -1,0 +1,67 @@
+{
+  "id": 1276438777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.5292,14.0698,9.5292,14.0698",
+    "geom:latitude":14.0698,
+    "geom:longitude":9.5292,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zangon Mbarka",
+    "gn:country_code":"NE",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6803702,
+    "gn:latitude":14.0698,
+    "gn:longitude":9.5292,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Zangon Mbarka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6803702
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"eba9e09a0d84986f065ee5beabb5c95c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051411,
+            "locality_id":1276438777,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1276438777,
+    "wof:lastmodified":1536636147,
+    "wof:name":"Zangon Mbarka",
+    "wof:parent_id":1092051411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.5292,
+    14.0698,
+    9.5292,
+    14.0698
+],
+  "geometry": {"coordinates":[9.5292,14.0698],"type":"Point"}
+}

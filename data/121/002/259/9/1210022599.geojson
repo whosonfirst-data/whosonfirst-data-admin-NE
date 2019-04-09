@@ -1,0 +1,67 @@
+{
+  "id": 1210022599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.0688,13.58877,8.0688,13.58877",
+    "geom:latitude":13.58877,
+    "geom:longitude":8.0688,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Rijia Magaji",
+    "gn:country_code":"NE",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6725493,
+    "gn:latitude":13.58877,
+    "gn:longitude":8.0688,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Rijia Mag\u00e2j\u00ee",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6725493
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"2174d585c07f2d0d359c15819bfd0afd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051389,
+            "locality_id":1210022599,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1210022599,
+    "wof:lastmodified":1536392174,
+    "wof:name":"Rijia Magaji",
+    "wof:parent_id":1092051389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.0688,
+    13.58877,
+    8.0688,
+    13.58877
+],
+  "geometry": {"coordinates":[8.0688,13.58877],"type":"Point"}
+}

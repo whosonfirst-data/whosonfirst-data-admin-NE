@@ -1,0 +1,67 @@
+{
+  "id": 1343651375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.09464,14.67393,4.09464,14.67393",
+    "geom:latitude":14.67393,
+    "geom:longitude":4.09464,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Danya Achya",
+    "gn:country_code":"NE",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6783447,
+    "gn:latitude":14.67393,
+    "gn:longitude":4.09464,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Danya Achya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6783447
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"d6f28f079f2ce4897529e5e23c7949ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051695,
+            "locality_id":1343651375,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1343651375,
+    "wof:lastmodified":1536967872,
+    "wof:name":"Danya Achya",
+    "wof:parent_id":1092051695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.09464,
+    14.67393,
+    4.09464,
+    14.67393
+],
+  "geometry": {"coordinates":[4.09464,14.67393],"type":"Point"}
+}

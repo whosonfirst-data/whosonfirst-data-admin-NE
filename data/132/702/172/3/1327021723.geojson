@@ -1,0 +1,67 @@
+{
+  "id": 1327021723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.92344,14.69188,8.92344,14.69188",
+    "geom:latitude":14.69188,
+    "geom:longitude":8.92344,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kerwoule",
+    "gn:country_code":"NE",
+    "gn:dem":482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442455,
+    "gn:latitude":14.69188,
+    "gn:longitude":8.92344,
+    "gn:modification_date":"2008-08-26",
+    "gn:name":"Kerwoul\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442455
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"658c250718dbadc02a02517019135475",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1327021723,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1327021723,
+    "wof:lastmodified":1536776499,
+    "wof:name":"Kerwoule",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.92344,
+    14.69188,
+    8.92344,
+    14.69188
+],
+  "geometry": {"coordinates":[8.92344,14.69188],"type":"Point"}
+}

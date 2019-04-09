@@ -1,0 +1,67 @@
+{
+  "id": 1226761843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.8952,18.80296,12.8952,18.80296",
+    "geom:latitude":18.80296,
+    "geom:longitude":12.8952,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Agguer",
+    "gn:country_code":"NE",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7060952,
+    "gn:latitude":18.80296,
+    "gn:longitude":12.8952,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Agguer",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675273,
+        1092051881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7060952
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"2b710b1dbe7954c46ad50e9689f0238a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051881,
+            "locality_id":1226761843,
+            "region_id":85675273
+        }
+    ],
+    "wof:id":1226761843,
+    "wof:lastmodified":1536692479,
+    "wof:name":"Agguer",
+    "wof:parent_id":1092051881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.8952,
+    18.80296,
+    12.8952,
+    18.80296
+],
+  "geometry": {"coordinates":[12.8952,18.80296],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259891459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.0423,13.1326,3.0423,13.1326",
+    "geom:latitude":13.1326,
+    "geom:longitude":3.0423,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Forsey",
+    "gn:country_code":"NE",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444943,
+    "gn:latitude":13.1326,
+    "gn:longitude":3.0423,
+    "gn:modification_date":"2008-10-22",
+    "gn:name":"Forsey",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444943
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"bbd5ade75cc58c373e11d285afc018e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051041,
+            "locality_id":1259891459,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1259891459,
+    "wof:lastmodified":1536768047,
+    "wof:name":"Forsey",
+    "wof:parent_id":1092051041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.0423,
+    13.1326,
+    3.0423,
+    13.1326
+],
+  "geometry": {"coordinates":[3.0423,13.1326],"type":"Point"}
+}

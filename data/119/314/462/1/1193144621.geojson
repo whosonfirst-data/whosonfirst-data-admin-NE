@@ -1,0 +1,71 @@
+{
+  "id": 1193144621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.95617,12.93314,2.95617,12.93314",
+    "geom:latitude":12.93314,
+    "geom:longitude":2.95617,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bobiol Peul",
+    "gn:country_code":"NE",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446722,
+    "gn:latitude":12.93314,
+    "gn:longitude":2.95617,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Bobiol Peul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bobi\u00e8l",
+        "Karguiga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446722
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"d7cd4e04c2f74a4095c4fc502657e381",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051075,
+            "locality_id":1193144621,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1193144621,
+    "wof:lastmodified":1537674849,
+    "wof:name":"Bobiol Peul",
+    "wof:parent_id":1092051075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.95617,
+    12.93314,
+    2.95617,
+    12.93314
+],
+  "geometry": {"coordinates":[2.95617,12.93314],"type":"Point"}
+}

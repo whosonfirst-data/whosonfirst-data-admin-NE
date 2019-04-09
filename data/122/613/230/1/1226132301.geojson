@@ -1,0 +1,67 @@
+{
+  "id": 1226132301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.98129,14.01952,1.98129,14.01952",
+    "geom:latitude":14.01952,
+    "geom:longitude":1.98129,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bane",
+    "gn:country_code":"NE",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6848594,
+    "gn:latitude":14.01952,
+    "gn:longitude":1.98129,
+    "gn:modification_date":"2013-04-05",
+    "gn:name":"Ban\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6848594
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"10ebca605e460bc6627853a0563f8c26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051633,
+            "locality_id":1226132301,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1226132301,
+    "wof:lastmodified":1537093906,
+    "wof:name":"Bane",
+    "wof:parent_id":1092051633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.98129,
+    14.01952,
+    1.98129,
+    14.01952
+],
+  "geometry": {"coordinates":[1.98129,14.01952],"type":"Point"}
+}

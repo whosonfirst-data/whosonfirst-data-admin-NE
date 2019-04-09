@@ -1,0 +1,61 @@
+{
+  "id": 1209412725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.7252,14.8487,5.7252,14.8487",
+    "geom:latitude":14.8487,
+    "geom:longitude":5.7252,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Agouloum",
+    "gn:country_code":"NE",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6679040,
+    "gn:latitude":14.8487,
+    "gn:longitude":5.7252,
+    "gn:modification_date":"2008-02-09",
+    "gn:name":"Agouloum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6679040
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"0fd27575fe7427842485f8cf1e841d60",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209412725
+        }
+    ],
+    "wof:id":1209412725,
+    "wof:lastmodified":1536287786,
+    "wof:name":"Agouloum",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.7252,
+    14.8487,
+    5.7252,
+    14.8487
+],
+  "geometry": {"coordinates":[5.7252,14.8487],"type":"Point"}
+}

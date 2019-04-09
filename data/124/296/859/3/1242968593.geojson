@@ -1,0 +1,67 @@
+{
+  "id": 1242968593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.1628,15.0184,5.1628,15.0184",
+    "geom:latitude":15.0184,
+    "geom:longitude":5.1628,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Akanzafa",
+    "gn:country_code":"NE",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6699609,
+    "gn:latitude":15.0184,
+    "gn:longitude":5.1628,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Akanzafa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6699609
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"eaea07a712aabf99a2ce3d8d808d82f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051609,
+            "locality_id":1242968593,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1242968593,
+    "wof:lastmodified":1536996753,
+    "wof:name":"Akanzafa",
+    "wof:parent_id":1092051609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.1628,
+    15.0184,
+    5.1628,
+    15.0184
+],
+  "geometry": {"coordinates":[5.1628,15.0184],"type":"Point"}
+}

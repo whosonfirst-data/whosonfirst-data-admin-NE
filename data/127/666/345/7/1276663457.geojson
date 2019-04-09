@@ -1,0 +1,67 @@
+{
+  "id": 1276663457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.10927,14.27773,7.10927,14.27773",
+    "geom:latitude":14.27773,
+    "geom:longitude":7.10927,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Guidan Gwari",
+    "gn:country_code":"NE",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2443842,
+    "gn:latitude":14.27773,
+    "gn:longitude":7.10927,
+    "gn:modification_date":"2008-08-21",
+    "gn:name":"Guidan Gwari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2443842
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"69bc33498d8b4e405f9128f1f52a6680",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1276663457,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1276663457,
+    "wof:lastmodified":1536832329,
+    "wof:name":"Guidan Gwari",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.10927,
+    14.27773,
+    7.10927,
+    14.27773
+],
+  "geometry": {"coordinates":[7.10927,14.27773],"type":"Point"}
+}

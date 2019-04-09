@@ -1,0 +1,67 @@
+{
+  "id": 1310111787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.50877,13.40208,7.50877,13.40208",
+    "geom:latitude":13.40208,
+    "geom:longitude":7.50877,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Guidan Bahago",
+    "gn:country_code":"NE",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6723469,
+    "gn:latitude":13.40208,
+    "gn:longitude":7.50877,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Guidan Bahago",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6723469
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"19bf12493d8d38c4a5da24e08afdc98f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051197,
+            "locality_id":1310111787,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1310111787,
+    "wof:lastmodified":1536986566,
+    "wof:name":"Guidan Bahago",
+    "wof:parent_id":1092051197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.50877,
+    13.40208,
+    7.50877,
+    13.40208
+],
+  "geometry": {"coordinates":[7.50877,13.40208],"type":"Point"}
+}

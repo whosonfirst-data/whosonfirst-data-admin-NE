@@ -1,0 +1,71 @@
+{
+  "id": 1226054293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.2883,13.0468,3.2883,13.0468",
+    "geom:latitude":13.0468,
+    "geom:longitude":3.2883,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kountoudeye",
+    "gn:country_code":"NE",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441911,
+    "gn:latitude":13.0468,
+    "gn:longitude":3.2883,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kountoud\u00e8ye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kountoudey",
+        "Kountoud\u00e8ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441911
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"5090951fb06e072a7a4b96443e7edd75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051041,
+            "locality_id":1226054293,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1226054293,
+    "wof:lastmodified":1537674735,
+    "wof:name":"Kountoudeye",
+    "wof:parent_id":1092051041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.2883,
+    13.0468,
+    3.2883,
+    13.0468
+],
+  "geometry": {"coordinates":[3.2883,13.0468],"type":"Point"}
+}

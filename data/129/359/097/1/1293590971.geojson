@@ -1,0 +1,71 @@
+{
+  "id": 1293590971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.96324,12.87374,2.96324,12.87374",
+    "geom:latitude":12.87374,
+    "geom:longitude":2.96324,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kankandi",
+    "gn:country_code":"NE",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442727,
+    "gn:latitude":12.87374,
+    "gn:longitude":2.96324,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Kankandi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kankani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442727,
+        "wk:page":"Kankandi"
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"8d7e29ebb4991995a56e6bf023b29a60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051075,
+            "locality_id":1293590971,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1293590971,
+    "wof:lastmodified":1537674756,
+    "wof:name":"Kankandi",
+    "wof:parent_id":1092051075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.96324,
+    12.87374,
+    2.96324,
+    12.87374
+],
+  "geometry": {"coordinates":[2.96324,12.87374],"type":"Point"}
+}

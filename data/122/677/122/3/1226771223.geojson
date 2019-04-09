@@ -1,0 +1,68 @@
+{
+  "id": 1226771223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.86,15.1,8.86,15.1",
+    "geom:latitude":15.1,
+    "geom:longitude":8.86,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"2439154.0",
+    "gn:asciiname":"Gouragass",
+    "gn:country_code":"NE",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11204217,
+    "gn:latitude":15.1,
+    "gn:longitude":8.86,
+    "gn:modification_date":"2016-07-14",
+    "gn:name":"Gouragass",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11204217
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"c6649e2bba4c51fcd8a8b33505fedf7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1226771223,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1226771223,
+    "wof:lastmodified":1536678894,
+    "wof:name":"Gouragass",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.86,
+    15.1,
+    8.86,
+    15.1
+],
+  "geometry": {"coordinates":[8.86,15.1],"type":"Point"}
+}

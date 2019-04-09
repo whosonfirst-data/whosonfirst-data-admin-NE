@@ -1,0 +1,71 @@
+{
+  "id": 1327147457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.471,13.3977,11.471,13.3977",
+    "geom:latitude":13.3977,
+    "geom:longitude":11.471,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Keytawa",
+    "gn:country_code":"NE",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6819438,
+    "gn:latitude":13.3977,
+    "gn:longitude":11.471,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Keytawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaiatwa",
+        "Keytawa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6819438
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"c5e1773be6cfaa3016957fb65b7629f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051363,
+            "locality_id":1327147457,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1327147457,
+    "wof:lastmodified":1537674887,
+    "wof:name":"Keytawa",
+    "wof:parent_id":1092051363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.471,
+    13.3977,
+    11.471,
+    13.3977
+],
+  "geometry": {"coordinates":[11.471,13.3977],"type":"Point"}
+}

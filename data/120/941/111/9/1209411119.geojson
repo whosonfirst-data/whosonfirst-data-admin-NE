@@ -1,0 +1,61 @@
+{
+  "id": 1209411119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.52242,14.02742,1.52242,14.02742",
+    "geom:latitude":14.02742,
+    "geom:longitude":1.52242,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Baria",
+    "gn:country_code":"NE",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447008,
+    "gn:latitude":14.02742,
+    "gn:longitude":1.52242,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Baria",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447008
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"d697307b1e11e6f88bac89e2f505e10f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209411119
+        }
+    ],
+    "wof:id":1209411119,
+    "wof:lastmodified":1536287834,
+    "wof:name":"Baria",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.52242,
+    14.02742,
+    1.52242,
+    14.02742
+],
+  "geometry": {"coordinates":[1.52242,14.02742],"type":"Point"}
+}

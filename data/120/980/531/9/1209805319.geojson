@@ -1,0 +1,67 @@
+{
+  "id": 1209805319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.9035,14.6456,1.9035,14.6456",
+    "geom:latitude":14.6456,
+    "geom:longitude":1.9035,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bafale",
+    "gn:country_code":"NE",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6848498,
+    "gn:latitude":14.6456,
+    "gn:longitude":1.9035,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Bafal\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6848498
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"76d076a4abe54fa647edfbe8344cb5bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051633,
+            "locality_id":1209805319,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1209805319,
+    "wof:lastmodified":1536388867,
+    "wof:name":"Bafale",
+    "wof:parent_id":1092051633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.9035,
+    14.6456,
+    1.9035,
+    14.6456
+],
+  "geometry": {"coordinates":[1.9035,14.6456],"type":"Point"}
+}

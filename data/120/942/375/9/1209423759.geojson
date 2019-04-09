@@ -1,0 +1,61 @@
+{
+  "id": 1209423759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.791,13.4085,12.791,13.4085",
+    "geom:latitude":13.4085,
+    "geom:longitude":12.791,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Masa",
+    "gn:country_code":"NE",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6777650,
+    "gn:latitude":13.4085,
+    "gn:longitude":12.791,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Masa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6777650
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"0237925f531ef7df88286ef58a396f8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209423759
+        }
+    ],
+    "wof:id":1209423759,
+    "wof:lastmodified":1536287445,
+    "wof:name":"Masa",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.791,
+    13.4085,
+    12.791,
+    13.4085
+],
+  "geometry": {"coordinates":[12.791,13.4085],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1344068529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.53182,12.57019,3.53182,12.57019",
+    "geom:latitude":12.57019,
+    "geom:longitude":3.53182,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Goudou",
+    "gn:country_code":"NE",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444300,
+    "gn:latitude":12.57019,
+    "gn:longitude":3.53182,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Goudou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gandou",
+        "Goudou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092050969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444300
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"94effb2cc1ddbfd095b8a6de95613581",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092050969,
+            "locality_id":1344068529,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1344068529,
+    "wof:lastmodified":1537674793,
+    "wof:name":"Goudou",
+    "wof:parent_id":1092050969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.53182,
+    12.57019,
+    3.53182,
+    12.57019
+],
+  "geometry": {"coordinates":[3.53182,12.57019],"type":"Point"}
+}

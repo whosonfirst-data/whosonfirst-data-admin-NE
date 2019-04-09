@@ -1,0 +1,71 @@
+{
+  "id": 1276788697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.30837,14.75836,6.30837,14.75836",
+    "geom:latitude":14.75836,
+    "geom:longitude":6.30837,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tagalel",
+    "gn:country_code":"NE",
+    "gn:dem":455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439421,
+    "gn:latitude":14.75836,
+    "gn:longitude":6.30837,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tagalel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tagatil",
+        "Tagalel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439421
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"c816bf6bbe813cc46a900da7629e53bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051577,
+            "locality_id":1276788697,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1276788697,
+    "wof:lastmodified":1537674683,
+    "wof:name":"Tagalel",
+    "wof:parent_id":1092051577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.30837,
+    14.75836,
+    6.30837,
+    14.75836
+],
+  "geometry": {"coordinates":[6.30837,14.75836],"type":"Point"}
+}

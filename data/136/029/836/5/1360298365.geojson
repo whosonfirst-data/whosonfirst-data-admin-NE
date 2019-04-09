@@ -1,0 +1,71 @@
+{
+  "id": 1360298365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.29347,13.67648,13.29347,13.67648",
+    "geom:latitude":13.67648,
+    "geom:longitude":13.29347,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Boula Gana",
+    "gn:country_code":"NE",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446556,
+    "gn:latitude":13.67648,
+    "gn:longitude":13.29347,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Boula Gana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Belagana",
+        "Boula Gana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446556
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"d79befdeca1a63d9dc7260228843ab11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051245,
+            "locality_id":1360298365,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1360298365,
+    "wof:lastmodified":1537674844,
+    "wof:name":"Boula Gana",
+    "wof:parent_id":1092051245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.29347,
+    13.67648,
+    13.29347,
+    13.67648
+],
+  "geometry": {"coordinates":[13.29347,13.67648],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276569925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.23174,13.95136,3.23174,13.95136",
+    "geom:latitude":13.95136,
+    "geom:longitude":3.23174,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kirguili",
+    "gn:country_code":"NE",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6862331,
+    "gn:latitude":13.95136,
+    "gn:longitude":3.23174,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Kirguili",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6862331
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"d13f0d7b13f1d1713244db2487ccb73b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051695,
+            "locality_id":1276569925,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1276569925,
+    "wof:lastmodified":1536959189,
+    "wof:name":"Kirguili",
+    "wof:parent_id":1092051695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.23174,
+    13.95136,
+    3.23174,
+    13.95136
+],
+  "geometry": {"coordinates":[3.23174,13.95136],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327024473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.9969,15.1318,1.9969,15.1318",
+    "geom:latitude":15.1318,
+    "geom:longitude":1.9969,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Fandou Kire",
+    "gn:country_code":"NE",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445118,
+    "gn:latitude":15.1318,
+    "gn:longitude":1.9969,
+    "gn:modification_date":"2008-01-30",
+    "gn:name":"Fandou Kir\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445118
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"0b24ea2a969ddaa3f19c2f2953a5845b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051633,
+            "locality_id":1327024473,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1327024473,
+    "wof:lastmodified":1536772522,
+    "wof:name":"Fandou Kire",
+    "wof:parent_id":1092051633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.9969,
+    15.1318,
+    1.9969,
+    15.1318
+],
+  "geometry": {"coordinates":[1.9969,15.1318],"type":"Point"}
+}

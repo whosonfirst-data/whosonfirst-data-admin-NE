@@ -1,0 +1,65 @@
+{
+  "id": 1209310437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.4314,14.1292,3.4314,14.1292",
+    "geom:latitude":14.1292,
+    "geom:longitude":3.4314,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"I-n-Takachi",
+    "gn:country_code":"NE",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2443108,
+    "gn:latitude":14.1292,
+    "gn:longitude":3.4314,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"I-n-Takachi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "In Takachi",
+        "I-n-Takachi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2443108
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"987d4fc278824974168f5298f8820ec2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209310437
+        }
+    ],
+    "wof:id":1209310437,
+    "wof:lastmodified":1537674762,
+    "wof:name":"I-n-Takachi",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.4314,
+    14.1292,
+    3.4314,
+    14.1292
+],
+  "geometry": {"coordinates":[3.4314,14.1292],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259579995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.60797,14.44861,1.60797,14.44861",
+    "geom:latitude":14.44861,
+    "geom:longitude":1.60797,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Baya Ilimat",
+    "gn:country_code":"NE",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8523694,
+    "gn:latitude":14.44861,
+    "gn:longitude":1.60797,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Baya Ilimat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        890429081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8523694
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"8bb01b6c7e6273c822d37d06ce89e209",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":890429081,
+            "locality_id":1259579995,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1259579995,
+    "wof:lastmodified":1536720247,
+    "wof:name":"Baya Ilimat",
+    "wof:parent_id":890429081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.60797,
+    14.44861,
+    1.60797,
+    14.44861
+],
+  "geometry": {"coordinates":[1.60797,14.44861],"type":"Point"}
+}

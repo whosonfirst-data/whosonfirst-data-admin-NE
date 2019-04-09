@@ -1,0 +1,73 @@
+{
+  "id": 1343773671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.4487,12.47746,3.4487,12.47746",
+    "geom:latitude":12.47746,
+    "geom:longitude":3.4487,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Atara Oubanda Waki Kwara",
+    "gn:country_code":"NE",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447446,
+    "gn:latitude":12.47746,
+    "gn:longitude":3.4487,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Atara Oubanda Waki Kwara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Atara Oubanda Waki Koara",
+        "Attara-Oubanda-Waki-Koara",
+        "Attara-Oubanda",
+        "Atara Oubanda Waki Kwara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092050969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447446
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"4f66db99abcf588467d390a342157c7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092050969,
+            "locality_id":1343773671,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1343773671,
+    "wof:lastmodified":1537674864,
+    "wof:name":"Atara Oubanda Waki Kwara",
+    "wof:parent_id":1092050969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.4487,
+    12.47746,
+    3.4487,
+    12.47746
+],
+  "geometry": {"coordinates":[3.4487,12.47746],"type":"Point"}
+}

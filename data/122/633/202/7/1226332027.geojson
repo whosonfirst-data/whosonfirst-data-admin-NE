@@ -1,0 +1,73 @@
+{
+  "id": 1226332027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.65,13.3724,2.65,13.3724",
+    "geom:latitude":13.3724,
+    "geom:longitude":2.65,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Dey Tegui Gorou",
+    "gn:country_code":"NE",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445759,
+    "gn:latitude":13.3724,
+    "gn:longitude":2.65,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dey T\u00e9gui Gorou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u00e9itiguigorou",
+        "De\u00eftagui-Gorou",
+        "Dey Tagui Gorou",
+        "Dey T\u00e9gui Gorou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445759
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"93e63d750d22a99fb2e54b0d12f2bf64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1226332027,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1226332027,
+    "wof:lastmodified":1537674826,
+    "wof:name":"Dey Tegui Gorou",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.65,
+    13.3724,
+    2.65,
+    13.3724
+],
+  "geometry": {"coordinates":[2.65,13.3724],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1225852231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.8068,12.8222,3.8068,12.8222",
+    "geom:latitude":12.8222,
+    "geom:longitude":3.8068,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Guidal",
+    "gn:country_code":"NE",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444119,
+    "gn:latitude":12.8222,
+    "gn:longitude":3.8068,
+    "gn:modification_date":"2009-03-17",
+    "gn:name":"Guidal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444119
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"3263735bf72582c0054c753a8facbac4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051467,
+            "locality_id":1225852231,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1225852231,
+    "wof:lastmodified":1537003510,
+    "wof:name":"Guidal",
+    "wof:parent_id":1092051467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.8068,
+    12.8222,
+    3.8068,
+    12.8222
+],
+  "geometry": {"coordinates":[3.8068,12.8222],"type":"Point"}
+}

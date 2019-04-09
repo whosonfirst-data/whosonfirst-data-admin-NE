@@ -1,0 +1,71 @@
+{
+  "id": 1259767821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.99162,14.47882,0.99162,14.47882",
+    "geom:latitude":14.47882,
+    "geom:longitude":0.99162,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Guinguenia",
+    "gn:country_code":"NE",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2443495,
+    "gn:latitude":14.47882,
+    "gn:longitude":0.99162,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Guingu\u00e9nia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guimgu\u00e9nia",
+        "Guingu\u00e9nia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2443495
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"08aabb3b599b6039157e79af6998c666",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051545,
+            "locality_id":1259767821,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1259767821,
+    "wof:lastmodified":1537674768,
+    "wof:name":"Guinguenia",
+    "wof:parent_id":1092051545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.99162,
+    14.47882,
+    0.99162,
+    14.47882
+],
+  "geometry": {"coordinates":[0.99162,14.47882],"type":"Point"}
+}

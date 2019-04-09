@@ -1,0 +1,67 @@
+{
+  "id": 1243285233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.83105,13.30065,8.83105,13.30065",
+    "geom:latitude":13.30065,
+    "geom:longitude":8.83105,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Garin Gona",
+    "gn:country_code":"NE",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6745815,
+    "gn:latitude":13.30065,
+    "gn:longitude":8.83105,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Garin Gona",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6745815
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"32cef784047751561ce2394e203971c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051411,
+            "locality_id":1243285233,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1243285233,
+    "wof:lastmodified":1537036432,
+    "wof:name":"Garin Gona",
+    "wof:parent_id":1092051411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.83105,
+    13.30065,
+    8.83105,
+    13.30065
+],
+  "geometry": {"coordinates":[8.83105,13.30065],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326635969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.34052,14.64797,7.34052,14.64797",
+    "geom:latitude":14.64797,
+    "geom:longitude":7.34052,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dan Dola",
+    "gn:country_code":"NE",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446138,
+    "gn:latitude":14.64797,
+    "gn:longitude":7.34052,
+    "gn:modification_date":"2008-08-21",
+    "gn:name":"Dan Dola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446138
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"4eb2aa7fef2ec18af809ed5df9523309",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1326635969,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1326635969,
+    "wof:lastmodified":1536833343,
+    "wof:name":"Dan Dola",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.34052,
+    14.64797,
+    7.34052,
+    14.64797
+],
+  "geometry": {"coordinates":[7.34052,14.64797],"type":"Point"}
+}

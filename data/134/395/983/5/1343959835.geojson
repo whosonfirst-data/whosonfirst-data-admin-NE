@@ -1,0 +1,72 @@
+{
+  "id": 1343959835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.0108,13.4871,3.0108,13.4871",
+    "geom:latitude":13.4871,
+    "geom:longitude":3.0108,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Koigolo",
+    "gn:country_code":"NE",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441823,
+    "gn:latitude":13.4871,
+    "gn:longitude":3.0108,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ko\u00efgolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koygolo",
+        "Ko\u00efgolo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441823,
+        "wk:page":"Koygolo"
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"fce2ce52c18a6cae3c22d45ba97674bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051075,
+            "locality_id":1343959835,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1343959835,
+    "wof:lastmodified":1537674733,
+    "wof:name":"Koigolo",
+    "wof:parent_id":1092051075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.0108,
+    13.4871,
+    3.0108,
+    13.4871
+],
+  "geometry": {"coordinates":[3.0108,13.4871],"type":"Point"}
+}

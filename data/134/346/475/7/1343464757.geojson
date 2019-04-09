@@ -1,0 +1,67 @@
+{
+  "id": 1343464757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.97846,14.21618,6.97846,14.21618",
+    "geom:latitude":14.21618,
+    "geom:longitude":6.97846,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Guidan Adamou",
+    "gn:country_code":"NE",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6849910,
+    "gn:latitude":14.21618,
+    "gn:longitude":6.97846,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Guidan Adamou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6849910
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"e0a9f80cc42c9ee134eaa5a91c844702",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1343464757,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1343464757,
+    "wof:lastmodified":1536739758,
+    "wof:name":"Guidan Adamou",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.97846,
+    14.21618,
+    6.97846,
+    14.21618
+],
+  "geometry": {"coordinates":[6.97846,14.21618],"type":"Point"}
+}

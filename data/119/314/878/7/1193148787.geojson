@@ -1,0 +1,71 @@
+{
+  "id": 1193148787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.31907,13.57512,4.31907,13.57512",
+    "geom:latitude":13.57512,
+    "geom:longitude":4.31907,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kordango",
+    "gn:country_code":"NE",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442156,
+    "gn:latitude":13.57512,
+    "gn:longitude":4.31907,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Kordango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saorikehi Natigasa",
+        "Kordango"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675433,
+        1108563439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442156
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"b0f7df42bb993e45a75fba7beaed8dd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563439,
+            "locality_id":1193148787,
+            "region_id":85675433
+        }
+    ],
+    "wof:id":1193148787,
+    "wof:lastmodified":1537674742,
+    "wof:name":"Kordango",
+    "wof:parent_id":1108563439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.31907,
+    13.57512,
+    4.31907,
+    13.57512
+],
+  "geometry": {"coordinates":[4.31907,13.57512],"type":"Point"}
+}

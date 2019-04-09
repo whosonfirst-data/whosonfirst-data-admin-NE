@@ -1,0 +1,71 @@
+{
+  "id": 1243161759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.72599,14.44884,2.72599,14.44884",
+    "geom:latitude":14.44884,
+    "geom:longitude":2.72599,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Logazeido",
+    "gn:country_code":"NE",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441626,
+    "gn:latitude":14.44884,
+    "gn:longitude":2.72599,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Logazeido",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Logazeydo",
+        "Logazeido"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441626
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"a6ab71d28d3206c4b8e52daebca6a824",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051633,
+            "locality_id":1243161759,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1243161759,
+    "wof:lastmodified":1537674726,
+    "wof:name":"Logazeido",
+    "wof:parent_id":1092051633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.72599,
+    14.44884,
+    2.72599,
+    14.44884
+],
+  "geometry": {"coordinates":[2.72599,14.44884],"type":"Point"}
+}

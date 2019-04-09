@@ -1,0 +1,61 @@
+{
+  "id": 1209307037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.33146,14.61018,4.33146,14.61018",
+    "geom:latitude":14.61018,
+    "geom:longitude":4.33146,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kantya",
+    "gn:country_code":"NE",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6783467,
+    "gn:latitude":14.61018,
+    "gn:longitude":4.33146,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Kantya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6783467
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"8079794e0df0fd36c48df93e627e665a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209307037
+        }
+    ],
+    "wof:id":1209307037,
+    "wof:lastmodified":1536291159,
+    "wof:name":"Kantya",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.33146,
+    14.61018,
+    4.33146,
+    14.61018
+],
+  "geometry": {"coordinates":[4.33146,14.61018],"type":"Point"}
+}

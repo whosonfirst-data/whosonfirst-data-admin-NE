@@ -1,0 +1,70 @@
+{
+  "id": 1242978233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.92725,12.91976,2.92725,12.91976",
+    "geom:latitude":12.91976,
+    "geom:longitude":2.92725,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bangourouol Zarma",
+    "gn:country_code":"NE",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447145,
+    "gn:latitude":12.91976,
+    "gn:longitude":2.92725,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Bangourouol Zarma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bangourwal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447145
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"bae9b698dfe35bffd37978511da43728",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051075,
+            "locality_id":1242978233,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1242978233,
+    "wof:lastmodified":1537674857,
+    "wof:name":"Bangourouol Zarma",
+    "wof:parent_id":1092051075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.92725,
+    12.91976,
+    2.92725,
+    12.91976
+],
+  "geometry": {"coordinates":[2.92725,12.91976],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209097995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.4439,14.0039,9.4439,14.0039",
+    "geom:latitude":14.0039,
+    "geom:longitude":9.4439,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Daodari",
+    "gn:country_code":"NE",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6803632,
+    "gn:latitude":14.0039,
+    "gn:longitude":9.4439,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Daodari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6803632
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"f0ff0438aebde90799806370fcf5992a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209097995
+        }
+    ],
+    "wof:id":1209097995,
+    "wof:lastmodified":1536297825,
+    "wof:name":"Daodari",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.4439,
+    14.0039,
+    9.4439,
+    14.0039
+],
+  "geometry": {"coordinates":[9.4439,14.0039],"type":"Point"}
+}

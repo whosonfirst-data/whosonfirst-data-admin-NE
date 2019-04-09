@@ -1,0 +1,67 @@
+{
+  "id": 1242863849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.24642,14.31032,1.24642,14.31032",
+    "geom:latitude":14.31032,
+    "geom:longitude":1.24642,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ouabon",
+    "gn:country_code":"NE",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2440388,
+    "gn:latitude":14.31032,
+    "gn:longitude":1.24642,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Ouabon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        890429081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2440388
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"604837355230dacd0f2305c6582c3ce2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":890429081,
+            "locality_id":1242863849,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1242863849,
+    "wof:lastmodified":1536651183,
+    "wof:name":"Ouabon",
+    "wof:parent_id":890429081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.24642,
+    14.31032,
+    1.24642,
+    14.31032
+],
+  "geometry": {"coordinates":[1.24642,14.31032],"type":"Point"}
+}

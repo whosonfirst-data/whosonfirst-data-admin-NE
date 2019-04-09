@@ -1,0 +1,67 @@
+{
+  "id": 1259577761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.51099,13.38189,8.51099,13.38189",
+    "geom:latitude":13.38189,
+    "geom:longitude":8.51099,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kirgui Haoussa",
+    "gn:country_code":"NE",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6739670,
+    "gn:latitude":13.38189,
+    "gn:longitude":8.51099,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Kirgui Haoussa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6739670
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"b97845f76ef8dc81f3774467965065f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051165,
+            "locality_id":1259577761,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1259577761,
+    "wof:lastmodified":1536723470,
+    "wof:name":"Kirgui Haoussa",
+    "wof:parent_id":1092051165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.51099,
+    13.38189,
+    8.51099,
+    13.38189
+],
+  "geometry": {"coordinates":[8.51099,13.38189],"type":"Point"}
+}

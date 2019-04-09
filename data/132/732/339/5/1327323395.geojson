@@ -1,0 +1,67 @@
+{
+  "id": 1327323395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.88372,14.42727,1.88372,14.42727",
+    "geom:latitude":14.42727,
+    "geom:longitude":1.88372,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Sewan",
+    "gn:country_code":"NE",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439739,
+    "gn:latitude":14.42727,
+    "gn:longitude":1.88372,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"S\u00e9wan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439739
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"1f0cfb082ed0af4115496640381f93d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051633,
+            "locality_id":1327323395,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1327323395,
+    "wof:lastmodified":1536837238,
+    "wof:name":"Sewan",
+    "wof:parent_id":1092051633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.88372,
+    14.42727,
+    1.88372,
+    14.42727
+],
+  "geometry": {"coordinates":[1.88372,14.42727],"type":"Point"}
+}

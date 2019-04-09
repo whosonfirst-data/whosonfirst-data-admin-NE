@@ -1,0 +1,65 @@
+{
+  "id": 1209226051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.32099,12.57929,3.32099,12.57929",
+    "geom:latitude":12.57929,
+    "geom:longitude":3.32099,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Souna Koy",
+    "gn:country_code":"NE",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6968096,
+    "gn:latitude":12.57929,
+    "gn:longitude":3.32099,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Souna Koy",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Souna-Koye",
+        "Souna Koy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6968096
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"697b9ed24c5d2f224c88a2504426a827",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209226051
+        }
+    ],
+    "wof:id":1209226051,
+    "wof:lastmodified":1537674890,
+    "wof:name":"Souna Koy",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.32099,
+    12.57929,
+    3.32099,
+    12.57929
+],
+  "geometry": {"coordinates":[3.32099,12.57929],"type":"Point"}
+}

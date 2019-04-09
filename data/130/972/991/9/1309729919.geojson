@@ -1,0 +1,70 @@
+{
+  "id": 1309729919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.90717,19.15717,12.90717,19.15717",
+    "geom:latitude":19.15717,
+    "geom:longitude":12.90717,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tehi Dorosso",
+    "gn:country_code":"NE",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7102876,
+    "gn:latitude":19.15717,
+    "gn:longitude":12.90717,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"T\u00e9hi Dorosso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "T\u00e9hi Dorosso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675273,
+        1092051881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7102876
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"041a1e2242fd3a2cd0d1c240ba1e8720",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051881,
+            "locality_id":1309729919,
+            "region_id":85675273
+        }
+    ],
+    "wof:id":1309729919,
+    "wof:lastmodified":1537674894,
+    "wof:name":"Tehi Dorosso",
+    "wof:parent_id":1092051881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.90717,
+    19.15717,
+    12.90717,
+    19.15717
+],
+  "geometry": {"coordinates":[12.90717,19.15717],"type":"Point"}
+}

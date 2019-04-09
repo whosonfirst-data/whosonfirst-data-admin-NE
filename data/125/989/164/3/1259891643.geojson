@@ -1,0 +1,71 @@
+{
+  "id": 1259891643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.9494,14.0465,3.9494,14.0465",
+    "geom:latitude":14.0465,
+    "geom:longitude":3.9494,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tarsousa",
+    "gn:country_code":"NE",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439088,
+    "gn:latitude":14.0465,
+    "gn:longitude":3.9494,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tarsousa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tarsoussa",
+        "Tarsousa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439088
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"d68ddf768d526969f5f6c43a8fb745e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051467,
+            "locality_id":1259891643,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1259891643,
+    "wof:lastmodified":1537674677,
+    "wof:name":"Tarsousa",
+    "wof:parent_id":1092051467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.9494,
+    14.0465,
+    3.9494,
+    14.0465
+],
+  "geometry": {"coordinates":[3.9494,14.0465],"type":"Point"}
+}

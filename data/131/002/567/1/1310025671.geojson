@@ -1,0 +1,72 @@
+{
+  "id": 1310025671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.16667,13.41667,2.16667,13.41667",
+    "geom:latitude":13.41667,
+    "geom:longitude":2.16667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Leley Beri",
+    "gn:cc2":"NE",
+    "gn:country_code":"NE",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441673,
+    "gn:latitude":13.41667,
+    "gn:longitude":2.16667,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"L\u00e9ley B\u00e9ri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00e9l\u00e9 B\u00e9ri",
+        "L\u00e9ley B\u00e9ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441673
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"1071396f886a7315c278573c3cb3271b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1310025671,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1310025671,
+    "wof:lastmodified":1537674728,
+    "wof:name":"Leley Beri",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.16667,
+    13.41667,
+    2.16667,
+    13.41667
+],
+  "geometry": {"coordinates":[2.16667,13.41667],"type":"Point"}
+}

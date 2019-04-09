@@ -1,0 +1,67 @@
+{
+  "id": 1310398057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.55321,14.43945,4.55321,14.43945",
+    "geom:latitude":14.43945,
+    "geom:longitude":4.55321,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Taose",
+    "gn:country_code":"NE",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6783540,
+    "gn:latitude":14.43945,
+    "gn:longitude":4.55321,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Taos\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6783540
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"d3cad78d8b3be120fdb0c80adc994b9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051485,
+            "locality_id":1310398057,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1310398057,
+    "wof:lastmodified":1537069008,
+    "wof:name":"Taose",
+    "wof:parent_id":1092051485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.55321,
+    14.43945,
+    4.55321,
+    14.43945
+],
+  "geometry": {"coordinates":[4.55321,14.43945],"type":"Point"}
+}

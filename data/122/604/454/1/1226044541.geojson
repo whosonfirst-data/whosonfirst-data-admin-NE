@@ -1,0 +1,67 @@
+{
+  "id": 1226044541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.9852,13.1376,3.9852,13.1376",
+    "geom:latitude":13.1376,
+    "geom:longitude":3.9852,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Afole",
+    "gn:country_code":"NE",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448099,
+    "gn:latitude":13.1376,
+    "gn:longitude":3.9852,
+    "gn:modification_date":"2008-10-22",
+    "gn:name":"Afol\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448099
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"5b3a08c97599aabf776b4afc0a853096",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051467,
+            "locality_id":1226044541,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1226044541,
+    "wof:lastmodified":1536727281,
+    "wof:name":"Afole",
+    "wof:parent_id":1092051467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.9852,
+    13.1376,
+    3.9852,
+    13.1376
+],
+  "geometry": {"coordinates":[3.9852,13.1376],"type":"Point"}
+}

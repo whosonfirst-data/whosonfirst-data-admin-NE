@@ -1,0 +1,72 @@
+{
+  "id": 1193007837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.1531,13.4155,2.1531,13.4155",
+    "geom:latitude":13.4155,
+    "geom:longitude":2.1531,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Lele Koynounga",
+    "gn:country_code":"NE",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441671,
+    "gn:latitude":13.4155,
+    "gn:longitude":2.1531,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"L\u00e9l\u00e9 Koynounga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00e9l\u00e9-Ka\u00efna",
+        "L\u00e9ley Keyna",
+        "L\u00e9l\u00e9 Koynounga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441671
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"b72be9d343d034e0c4b53f9257e85e30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1193007837,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1193007837,
+    "wof:lastmodified":1537674727,
+    "wof:name":"Lele Koynounga",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1531,
+    13.4155,
+    2.1531,
+    13.4155
+],
+  "geometry": {"coordinates":[2.1531,13.4155],"type":"Point"}
+}

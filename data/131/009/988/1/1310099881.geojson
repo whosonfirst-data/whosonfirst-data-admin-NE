@@ -1,0 +1,71 @@
+{
+  "id": 1310099881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.4144,13.0349,2.4144,13.0349",
+    "geom:latitude":13.0349,
+    "geom:longitude":2.4144,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Toulouey",
+    "gn:country_code":"NE",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438324,
+    "gn:latitude":13.0349,
+    "gn:longitude":2.4144,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Toulouey",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Toulou\u00e9ye",
+        "Toulouey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438324
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"10bc322277227a4b1f9744d63e4f014e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1310099881,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1310099881,
+    "wof:lastmodified":1537674663,
+    "wof:name":"Toulouey",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.4144,
+    13.0349,
+    2.4144,
+    13.0349
+],
+  "geometry": {"coordinates":[2.4144,13.0349],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243566089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.9127,13.0417,3.9127,13.0417",
+    "geom:latitude":13.0417,
+    "geom:longitude":3.9127,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Katarma",
+    "gn:country_code":"NE",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442521,
+    "gn:latitude":13.0417,
+    "gn:longitude":3.9127,
+    "gn:modification_date":"2008-10-22",
+    "gn:name":"Katarma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442521
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"4c3c97a08d6e1b2700c0995dc3dfd6a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051467,
+            "locality_id":1243566089,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1243566089,
+    "wof:lastmodified":1536631554,
+    "wof:name":"Katarma",
+    "wof:parent_id":1092051467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.9127,
+    13.0417,
+    3.9127,
+    13.0417
+],
+  "geometry": {"coordinates":[3.9127,13.0417],"type":"Point"}
+}

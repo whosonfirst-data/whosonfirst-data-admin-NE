@@ -1,0 +1,68 @@
+{
+  "id": 1226326939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.0156,13.563,2.0156,13.563",
+    "geom:latitude":13.563,
+    "geom:longitude":2.0156,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tondibia",
+    "gn:country_code":"NE",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438459,
+    "gn:latitude":13.563,
+    "gn:longitude":2.0156,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Tondibia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438459,
+        "wk:page":"Tondibia"
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"80732002763ab3856c48c638e0f98d75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1226326939,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1226326939,
+    "wof:lastmodified":1537569949,
+    "wof:name":"Tondibia",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.0156,
+    13.563,
+    2.0156,
+    13.563
+],
+  "geometry": {"coordinates":[2.0156,13.563],"type":"Point"}
+}

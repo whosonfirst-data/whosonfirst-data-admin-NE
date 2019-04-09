@@ -1,0 +1,71 @@
+{
+  "id": 1259377719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.96721,14.82585,1.96721,14.82585",
+    "geom:latitude":14.82585,
+    "geom:longitude":1.96721,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kabe Kaina",
+    "gn:country_code":"NE",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442935,
+    "gn:latitude":14.82585,
+    "gn:longitude":1.96721,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Kab\u00e9 Kaina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kab\u00e9 Keyna",
+        "Kab\u00e9 Kaina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442935
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"7745055284116adfe2e4580a56658a1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051633,
+            "locality_id":1259377719,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1259377719,
+    "wof:lastmodified":1537674760,
+    "wof:name":"Kabe Kaina",
+    "wof:parent_id":1092051633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.96721,
+    14.82585,
+    1.96721,
+    14.82585
+],
+  "geometry": {"coordinates":[1.96721,14.82585],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310089983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.9339,13.89788,0.9339,13.89788",
+    "geom:latitude":13.89788,
+    "geom:longitude":0.9339,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Yalaboumkyendi",
+    "gn:country_code":"NE",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438047,
+    "gn:latitude":13.89788,
+    "gn:longitude":0.9339,
+    "gn:modification_date":"2008-08-15",
+    "gn:name":"Yalaboumkyendi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438047
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"b6c0cf6c2a28b6de050d4c47e2efc589",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051545,
+            "locality_id":1310089983,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1310089983,
+    "wof:lastmodified":1537018148,
+    "wof:name":"Yalaboumkyendi",
+    "wof:parent_id":1092051545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.9339,
+    13.89788,
+    0.9339,
+    13.89788
+],
+  "geometry": {"coordinates":[0.9339,13.89788],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276679737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.347,14.5449,8.347,14.5449",
+    "geom:latitude":14.5449,
+    "geom:longitude":8.347,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Doungourousou",
+    "gn:country_code":"NE",
+    "gn:dem":459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445428,
+    "gn:latitude":14.5449,
+    "gn:longitude":8.347,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Doungourousou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Doungouroussou",
+        "Doungourousou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445428
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"9cdd3fcc7e4ad9f06a25cb8da39596b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1276679737,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1276679737,
+    "wof:lastmodified":1537674817,
+    "wof:name":"Doungourousou",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.347,
+    14.5449,
+    8.347,
+    14.5449
+],
+  "geometry": {"coordinates":[8.347,14.5449],"type":"Point"}
+}

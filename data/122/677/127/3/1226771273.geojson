@@ -1,0 +1,67 @@
+{
+  "id": 1226771273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.63162,15.10996,8.63162,15.10996",
+    "geom:latitude":15.10996,
+    "geom:longitude":8.63162,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zinngui",
+    "gn:country_code":"NE",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6804662,
+    "gn:latitude":15.10996,
+    "gn:longitude":8.63162,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Zinngui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6804662
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"c896073df2d6bc00541fca0f571a6f92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1226771273,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1226771273,
+    "wof:lastmodified":1536678823,
+    "wof:name":"Zinngui",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.63162,
+    15.10996,
+    8.63162,
+    15.10996
+],
+  "geometry": {"coordinates":[8.63162,15.10996],"type":"Point"}
+}

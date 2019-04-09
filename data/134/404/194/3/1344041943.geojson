@@ -1,0 +1,74 @@
+{
+  "id": 1344041943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.12736,14.21685,2.12736,14.21685",
+    "geom:latitude":14.21685,
+    "geom:longitude":2.12736,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tolkoboy Koara Tegi",
+    "gn:country_code":"NE",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439264,
+    "gn:latitude":14.21685,
+    "gn:longitude":2.12736,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Tolkoboy Koara Tegi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Talkabo\u00ef",
+        "Talkaboy",
+        "Takalbo\u00ef",
+        "Talkaboy Kwara T\u00e9gui",
+        "Tolkoboy Koara Tegi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439264
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"25a0a419d4ee99cd7dce60198d3ecbb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051633,
+            "locality_id":1344041943,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1344041943,
+    "wof:lastmodified":1537674680,
+    "wof:name":"Tolkoboy Koara Tegi",
+    "wof:parent_id":1092051633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.12736,
+    14.21685,
+    2.12736,
+    14.21685
+],
+  "geometry": {"coordinates":[2.12736,14.21685],"type":"Point"}
+}

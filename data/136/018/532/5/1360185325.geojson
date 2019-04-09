@@ -1,0 +1,67 @@
+{
+  "id": 1360185325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.79635,13.61975,7.79635,13.61975",
+    "geom:latitude":13.61975,
+    "geom:longitude":7.79635,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Roumawa",
+    "gn:country_code":"NE",
+    "gn:dem":426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2440096,
+    "gn:latitude":13.61975,
+    "gn:longitude":7.79635,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Roumawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2440096
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"f006d8198600273b5b47be90fee50203",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051197,
+            "locality_id":1360185325,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1360185325,
+    "wof:lastmodified":1536801067,
+    "wof:name":"Roumawa",
+    "wof:parent_id":1092051197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.79635,
+    13.61975,
+    7.79635,
+    13.61975
+],
+  "geometry": {"coordinates":[7.79635,13.61975],"type":"Point"}
+}

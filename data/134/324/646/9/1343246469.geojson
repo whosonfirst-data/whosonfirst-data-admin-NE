@@ -1,0 +1,67 @@
+{
+  "id": 1343246469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.58114,13.87082,1.58114,13.87082",
+    "geom:latitude":13.87082,
+    "geom:longitude":1.58114,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Melle Haoussa",
+    "gn:country_code":"NE",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6844909,
+    "gn:latitude":13.87082,
+    "gn:longitude":1.58114,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"Mell\u00e9 Haoussa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        890429081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6844909
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"de8c7542a6b75761eb2063dd3f09a8ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":890429081,
+            "locality_id":1343246469,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1343246469,
+    "wof:lastmodified":1537052914,
+    "wof:name":"Melle Haoussa",
+    "wof:parent_id":890429081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.58114,
+    13.87082,
+    1.58114,
+    13.87082
+],
+  "geometry": {"coordinates":[1.58114,13.87082],"type":"Point"}
+}

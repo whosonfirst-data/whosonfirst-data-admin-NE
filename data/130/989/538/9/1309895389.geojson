@@ -1,0 +1,71 @@
+{
+  "id": 1309895389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.5492,13.7612,2.5492,13.7612",
+    "geom:latitude":13.7612,
+    "geom:longitude":2.5492,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Zimba",
+    "gn:country_code":"NE",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437802,
+    "gn:latitude":13.7612,
+    "gn:longitude":2.5492,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zimba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zimmba",
+        "Zimba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437802
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"7a23a6da49450b6bcdcbeb8cd637fcf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1309895389,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1309895389,
+    "wof:lastmodified":1537674649,
+    "wof:name":"Zimba",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.5492,
+    13.7612,
+    2.5492,
+    13.7612
+],
+  "geometry": {"coordinates":[2.5492,13.7612],"type":"Point"}
+}

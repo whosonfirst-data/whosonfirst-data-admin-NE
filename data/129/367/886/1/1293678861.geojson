@@ -1,0 +1,71 @@
+{
+  "id": 1293678861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.01518,14.81034,2.01518,14.81034",
+    "geom:latitude":14.81034,
+    "geom:longitude":2.01518,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mangaize Koysedo",
+    "gn:country_code":"NE",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441325,
+    "gn:latitude":14.81034,
+    "gn:longitude":2.01518,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Mangaiz\u00e9 Koys\u00e9do",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mangahiz\u00e9-Keina",
+        "Mangaiz\u00e9 Koys\u00e9do"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441325
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"0c15d0971c728800966dd39da6860321",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051633,
+            "locality_id":1293678861,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1293678861,
+    "wof:lastmodified":1537674721,
+    "wof:name":"Mangaize Koysedo",
+    "wof:parent_id":1092051633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.01518,
+    14.81034,
+    2.01518,
+    14.81034
+],
+  "geometry": {"coordinates":[2.01518,14.81034],"type":"Point"}
+}

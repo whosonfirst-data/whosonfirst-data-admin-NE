@@ -1,0 +1,67 @@
+{
+  "id": 1226344237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.84991,12.98483,2.84991,12.98483",
+    "geom:latitude":12.98483,
+    "geom:longitude":2.84991,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Dolle",
+    "gn:country_code":"NE",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8420320,
+    "gn:latitude":12.98483,
+    "gn:longitude":2.84991,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Doll\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8420320
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"4a82bace7af6d44f91ed3c799cffd5fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051075,
+            "locality_id":1226344237,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1226344237,
+    "wof:lastmodified":1536791968,
+    "wof:name":"Dolle",
+    "wof:parent_id":1092051075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.84991,
+    12.98483,
+    2.84991,
+    12.98483
+],
+  "geometry": {"coordinates":[2.84991,12.98483],"type":"Point"}
+}

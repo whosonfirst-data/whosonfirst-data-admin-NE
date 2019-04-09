@@ -1,0 +1,67 @@
+{
+  "id": 1243253217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.67263,14.45926,1.67263,14.45926",
+    "geom:latitude":14.45926,
+    "geom:longitude":1.67263,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bangan Dey Deuxieme",
+    "gn:country_code":"NE",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8516161,
+    "gn:latitude":14.45926,
+    "gn:longitude":1.67263,
+    "gn:modification_date":"2013-04-06",
+    "gn:name":"Bangan Dey Deuxi\u00e8me",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8516161
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"3de7c8d2fe2b21a5726eba215ca4cfcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051633,
+            "locality_id":1243253217,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1243253217,
+    "wof:lastmodified":1537080933,
+    "wof:name":"Bangan Dey Deuxieme",
+    "wof:parent_id":1092051633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.67263,
+    14.45926,
+    1.67263,
+    14.45926
+],
+  "geometry": {"coordinates":[1.67263,14.45926],"type":"Point"}
+}

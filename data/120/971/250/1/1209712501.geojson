@@ -1,0 +1,71 @@
+{
+  "id": 1209712501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.3515,14.5413,8.3515,14.5413",
+    "geom:latitude":14.5413,
+    "geom:longitude":8.3515,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Maydachi",
+    "gn:country_code":"NE",
+    "gn:dem":461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441162,
+    "gn:latitude":14.5413,
+    "gn:longitude":8.3515,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Maydachi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maidachi",
+        "Maydachi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441162
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"f6c8190ee737cb203256c4de00e9379d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1209712501,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1209712501,
+    "wof:lastmodified":1537674716,
+    "wof:name":"Maydachi",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.3515,
+    14.5413,
+    8.3515,
+    14.5413
+],
+  "geometry": {"coordinates":[8.3515,14.5413],"type":"Point"}
+}

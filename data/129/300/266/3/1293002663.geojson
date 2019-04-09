@@ -1,0 +1,67 @@
+{
+  "id": 1293002663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.8693,13.1021,2.8693,13.1021",
+    "geom:latitude":13.1021,
+    "geom:longitude":2.8693,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tchegao",
+    "gn:country_code":"NE",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6858425,
+    "gn:latitude":13.1021,
+    "gn:longitude":2.8693,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Tch\u00e9gao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6858425
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"8dc9db23b5de9617e0809d7fd7dacecf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051075,
+            "locality_id":1293002663,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1293002663,
+    "wof:lastmodified":1536988126,
+    "wof:name":"Tchegao",
+    "wof:parent_id":1092051075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.8693,
+    13.1021,
+    2.8693,
+    13.1021
+],
+  "geometry": {"coordinates":[2.8693,13.1021],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1309707053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.60661,13.861,1.60661,13.861",
+    "geom:latitude":13.861,
+    "geom:longitude":1.60661,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Koundou Gorou",
+    "gn:country_code":"NE",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441926,
+    "gn:latitude":13.861,
+    "gn:longitude":1.60661,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Koundou Gorou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koundougourou",
+        "Koundou Gorou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        890429081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441926
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"a339e827955a6942618b02aeb80a95b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":890429081,
+            "locality_id":1309707053,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1309707053,
+    "wof:lastmodified":1537674735,
+    "wof:name":"Koundou Gorou",
+    "wof:parent_id":890429081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.60661,
+    13.861,
+    1.60661,
+    13.861
+],
+  "geometry": {"coordinates":[1.60661,13.861],"type":"Point"}
+}

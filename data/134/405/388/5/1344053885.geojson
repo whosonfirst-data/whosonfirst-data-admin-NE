@@ -1,0 +1,67 @@
+{
+  "id": 1344053885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.99427,15.07549,8.99427,15.07549",
+    "geom:latitude":15.07549,
+    "geom:longitude":8.99427,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Taskaram",
+    "gn:country_code":"NE",
+    "gn:dem":518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6804691,
+    "gn:latitude":15.07549,
+    "gn:longitude":8.99427,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Taskaram",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6804691
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"58c14ce4234eca9a22923bdb01aca9e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1344053885,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1344053885,
+    "wof:lastmodified":1536884582,
+    "wof:name":"Taskaram",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.99427,
+    15.07549,
+    8.99427,
+    15.07549
+],
+  "geometry": {"coordinates":[8.99427,15.07549],"type":"Point"}
+}

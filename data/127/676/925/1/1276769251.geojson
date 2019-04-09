@@ -1,0 +1,72 @@
+{
+  "id": 1276769251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.33226,13.84975,7.33226,13.84975",
+    "geom:latitude":13.84975,
+    "geom:longitude":7.33226,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Guidan Aikao",
+    "gn:country_code":"NE",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444024,
+    "gn:latitude":13.84975,
+    "gn:longitude":7.33226,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Guidan A\u00efkao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gidan Aykao",
+        "Guidan Aykao",
+        "Guidan A\u00efkao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444024
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"3bed2283529c3df330c5fb715b2627cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1276769251,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1276769251,
+    "wof:lastmodified":1537674785,
+    "wof:name":"Guidan Aikao",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.33226,
+    13.84975,
+    7.33226,
+    13.84975
+],
+  "geometry": {"coordinates":[7.33226,13.84975],"type":"Point"}
+}

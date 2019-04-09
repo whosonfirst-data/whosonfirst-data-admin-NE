@@ -1,0 +1,67 @@
+{
+  "id": 1242869641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.48333,13.75,1.48333,13.75",
+    "geom:latitude":13.75,
+    "geom:longitude":1.48333,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Lafan",
+    "gn:country_code":"NE",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441735,
+    "gn:latitude":13.75,
+    "gn:longitude":1.48333,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Lafan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441735
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"e220eb57ff2e45a26b85c9db7cd5a624",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051545,
+            "locality_id":1242869641,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1242869641,
+    "wof:lastmodified":1536642269,
+    "wof:name":"Lafan",
+    "wof:parent_id":1092051545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.48333,
+    13.75,
+    1.48333,
+    13.75
+],
+  "geometry": {"coordinates":[1.48333,13.75],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326451505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.2151,14.5505,10.2151,14.5505",
+    "geom:latitude":14.5505,
+    "geom:longitude":10.2151,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Goundaoua",
+    "gn:country_code":"NE",
+    "gn:dem":544,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6847848,
+    "gn:latitude":14.5505,
+    "gn:longitude":10.2151,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Goundaoua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6847848
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"54be0850d7c00fcda3cc22f709d9d061",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051753,
+            "locality_id":1326451505,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1326451505,
+    "wof:lastmodified":1536600210,
+    "wof:name":"Goundaoua",
+    "wof:parent_id":1092051753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2151,
+    14.5505,
+    10.2151,
+    14.5505
+],
+  "geometry": {"coordinates":[10.2151,14.5505],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293119873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.2912,14.8271,3.2912,14.8271",
+    "geom:latitude":14.8271,
+    "geom:longitude":3.2912,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Gerink Kiemogo",
+    "gn:country_code":"NE",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444153,
+    "gn:latitude":14.8271,
+    "gn:longitude":3.2912,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"G\u00e9rink Ki\u00e9mogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gu\u00e9rin Ki\u00e9mogo",
+        "G\u00e9rink Ki\u00e9mogo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444153
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"7b70cbbe6dca10a1cd1926b28810ef86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051695,
+            "locality_id":1293119873,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1293119873,
+    "wof:lastmodified":1537674789,
+    "wof:name":"Gerink Kiemogo",
+    "wof:parent_id":1092051695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.2912,
+    14.8271,
+    3.2912,
+    14.8271
+],
+  "geometry": {"coordinates":[3.2912,14.8271],"type":"Point"}
+}

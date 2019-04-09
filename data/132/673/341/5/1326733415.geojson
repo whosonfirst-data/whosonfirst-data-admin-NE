@@ -1,0 +1,70 @@
+{
+  "id": 1326733415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.26317,13.76282,13.26317,13.76282",
+    "geom:latitude":13.76282,
+    "geom:longitude":13.26317,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kangouri Tchingoa",
+    "gn:country_code":"NE",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7501584,
+    "gn:latitude":13.76282,
+    "gn:longitude":13.26317,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kangouri Tchingoa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malam Gourdjamti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7501584
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"b03b976307137cb01d0004747906c4ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051245,
+            "locality_id":1326733415,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1326733415,
+    "wof:lastmodified":1537674894,
+    "wof:name":"Kangouri Tchingoa",
+    "wof:parent_id":1092051245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.26317,
+    13.76282,
+    13.26317,
+    13.76282
+],
+  "geometry": {"coordinates":[13.26317,13.76282],"type":"Point"}
+}

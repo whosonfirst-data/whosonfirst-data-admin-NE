@@ -1,0 +1,67 @@
+{
+  "id": 1277071359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.98494,13.71009,8.98494,13.71009",
+    "geom:latitude":13.71009,
+    "geom:longitude":8.98494,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tchantchandi Delko",
+    "gn:country_code":"NE",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6732053,
+    "gn:latitude":13.71009,
+    "gn:longitude":8.98494,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Tchantchandi Delko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6732053
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"d57f5379da20dc258b86819ab16892f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051411,
+            "locality_id":1277071359,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1277071359,
+    "wof:lastmodified":1536784556,
+    "wof:name":"Tchantchandi Delko",
+    "wof:parent_id":1092051411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.98494,
+    13.71009,
+    8.98494,
+    13.71009
+],
+  "geometry": {"coordinates":[8.98494,13.71009],"type":"Point"}
+}

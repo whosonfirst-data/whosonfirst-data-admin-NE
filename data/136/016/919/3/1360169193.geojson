@@ -1,0 +1,67 @@
+{
+  "id": 1360169193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.49307,14.05933,2.49307,14.05933",
+    "geom:latitude":14.05933,
+    "geom:longitude":2.49307,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Djino Bangou",
+    "gn:country_code":"NE",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6827186,
+    "gn:latitude":14.05933,
+    "gn:longitude":2.49307,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Djino Bangou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6827186
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"0b5f6ee3f8a589971f1602b766011247",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051633,
+            "locality_id":1360169193,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1360169193,
+    "wof:lastmodified":1536823451,
+    "wof:name":"Djino Bangou",
+    "wof:parent_id":1092051633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.49307,
+    14.05933,
+    2.49307,
+    14.05933
+],
+  "geometry": {"coordinates":[2.49307,14.05933],"type":"Point"}
+}

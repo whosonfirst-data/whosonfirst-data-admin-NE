@@ -1,0 +1,67 @@
+{
+  "id": 1293789889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.81111,13.56349,6.81111,13.56349",
+    "geom:latitude":13.56349,
+    "geom:longitude":6.81111,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Goda",
+    "gn:country_code":"NE",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444444,
+    "gn:latitude":13.56349,
+    "gn:longitude":6.81111,
+    "gn:modification_date":"2008-02-08",
+    "gn:name":"Goda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444444
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"b07186d3d33e530cc0869d7704c55095",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051229,
+            "locality_id":1293789889,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1293789889,
+    "wof:lastmodified":1536847037,
+    "wof:name":"Goda",
+    "wof:parent_id":1092051229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.81111,
+    13.56349,
+    6.81111,
+    13.56349
+],
+  "geometry": {"coordinates":[6.81111,13.56349],"type":"Point"}
+}

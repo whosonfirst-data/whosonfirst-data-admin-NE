@@ -1,0 +1,67 @@
+{
+  "id": 1293905593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.8123,14.937,5.8123,14.937",
+    "geom:latitude":14.937,
+    "geom:longitude":5.8123,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kourega",
+    "gn:country_code":"NE",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6679575,
+    "gn:latitude":14.937,
+    "gn:longitude":5.8123,
+    "gn:modification_date":"2008-02-09",
+    "gn:name":"Kour\u00e9ga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6679575
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"3e888537a3935ca0e955a59861066e90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051577,
+            "locality_id":1293905593,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1293905593,
+    "wof:lastmodified":1536681502,
+    "wof:name":"Kourega",
+    "wof:parent_id":1092051577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.8123,
+    14.937,
+    5.8123,
+    14.937
+],
+  "geometry": {"coordinates":[5.8123,14.937],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259901283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.0235,13.2174,9.0235,13.2174",
+    "geom:latitude":13.2174,
+    "geom:longitude":9.0235,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Angoal Manda Karama",
+    "gn:country_code":"NE",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6806994,
+    "gn:latitude":13.2174,
+    "gn:longitude":9.0235,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Angoal Manda Karama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6806994
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"a39169087793c40ab6700188d7644583",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051133,
+            "locality_id":1259901283,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1259901283,
+    "wof:lastmodified":1536753530,
+    "wof:name":"Angoal Manda Karama",
+    "wof:parent_id":1092051133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.0235,
+    13.2174,
+    9.0235,
+    13.2174
+],
+  "geometry": {"coordinates":[9.0235,13.2174],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343265025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.45524,13.49818,11.45524,13.49818",
+    "geom:latitude":13.49818,
+    "geom:longitude":11.45524,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Katyalari",
+    "gn:country_code":"NE",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6819515,
+    "gn:latitude":13.49818,
+    "gn:longitude":11.45524,
+    "gn:modification_date":"2015-02-24",
+    "gn:name":"Katyalari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6819515
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"1ceabbada508db0de3f125d1df6b1686",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051363,
+            "locality_id":1343265025,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1343265025,
+    "wof:lastmodified":1537027086,
+    "wof:name":"Katyalari",
+    "wof:parent_id":1092051363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.45524,
+    13.49818,
+    11.45524,
+    13.49818
+],
+  "geometry": {"coordinates":[11.45524,13.49818],"type":"Point"}
+}

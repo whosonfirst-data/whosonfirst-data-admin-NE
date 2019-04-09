@@ -1,0 +1,71 @@
+{
+  "id": 1293314843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.0907,14.56199,6.0907,14.56199",
+    "geom:latitude":14.56199,
+    "geom:longitude":6.0907,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Asarou",
+    "gn:country_code":"NE",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447472,
+    "gn:latitude":14.56199,
+    "gn:longitude":6.0907,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Asarou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Assarou",
+        "Asarou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447472
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"95b07487c09c9e791004ec7f12cd93cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051515,
+            "locality_id":1293314843,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1293314843,
+    "wof:lastmodified":1537674864,
+    "wof:name":"Asarou",
+    "wof:parent_id":1092051515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.0907,
+    14.56199,
+    6.0907,
+    14.56199
+],
+  "geometry": {"coordinates":[6.0907,14.56199],"type":"Point"}
+}

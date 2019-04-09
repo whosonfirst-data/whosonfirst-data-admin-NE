@@ -1,0 +1,67 @@
+{
+  "id": 1209716175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.13325,13.78816,8.13325,13.78816",
+    "geom:latitude":13.78816,
+    "geom:longitude":8.13325,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kamoun",
+    "gn:country_code":"NE",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6723614,
+    "gn:latitude":13.78816,
+    "gn:longitude":8.13325,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Kamoun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6723614
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"1e466c55924324cd08484b094e57f7f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051389,
+            "locality_id":1209716175,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1209716175,
+    "wof:lastmodified":1536388469,
+    "wof:name":"Kamoun",
+    "wof:parent_id":1092051389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.13325,
+    13.78816,
+    8.13325,
+    13.78816
+],
+  "geometry": {"coordinates":[8.13325,13.78816],"type":"Point"}
+}

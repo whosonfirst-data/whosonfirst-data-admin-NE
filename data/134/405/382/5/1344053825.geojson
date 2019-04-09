@@ -1,0 +1,67 @@
+{
+  "id": 1344053825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.6507,14.1652,9.6507,14.1652",
+    "geom:latitude":14.1652,
+    "geom:longitude":9.6507,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Karakpati",
+    "gn:country_code":"NE",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6803798,
+    "gn:latitude":14.1652,
+    "gn:longitude":9.6507,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Karakpati",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6803798
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"b95845279f7e7e5eb55c1a3b12d7a2aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051411,
+            "locality_id":1344053825,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1344053825,
+    "wof:lastmodified":1536884674,
+    "wof:name":"Karakpati",
+    "wof:parent_id":1092051411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.6507,
+    14.1652,
+    9.6507,
+    14.1652
+],
+  "geometry": {"coordinates":[9.6507,14.1652],"type":"Point"}
+}

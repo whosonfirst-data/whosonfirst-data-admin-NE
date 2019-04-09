@@ -1,0 +1,71 @@
+{
+  "id": 1327351181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.932,17.6083,8.932,17.6083",
+    "geom:latitude":17.6083,
+    "geom:longitude":8.932,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Akrereb",
+    "gn:country_code":"NE",
+    "gn:dem":857,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447958,
+    "gn:latitude":17.6083,
+    "gn:longitude":8.932,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Akr\u00e9r\u00e8b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aqrereb",
+        "Akr\u00e9r\u00e8b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675273,
+        421182277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447958
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"a698b296427e91d16068fe36565e93cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182277,
+            "locality_id":1327351181,
+            "region_id":85675273
+        }
+    ],
+    "wof:id":1327351181,
+    "wof:lastmodified":1537674872,
+    "wof:name":"Akrereb",
+    "wof:parent_id":421182277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.932,
+    17.6083,
+    8.932,
+    17.6083
+],
+  "geometry": {"coordinates":[8.932,17.6083],"type":"Point"}
+}

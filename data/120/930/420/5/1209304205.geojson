@@ -1,0 +1,64 @@
+{
+  "id": 1209304205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.42279,14.22387,1.42279,14.22387",
+    "geom:latitude":14.22387,
+    "geom:longitude":1.42279,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Naouani",
+    "gn:country_code":"NE",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2440768,
+    "gn:latitude":14.22387,
+    "gn:longitude":1.42279,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Naouani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nawani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2440768
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"f29467ac89120df6c18fb6260870288b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209304205
+        }
+    ],
+    "wof:id":1209304205,
+    "wof:lastmodified":1537674708,
+    "wof:name":"Naouani",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.42279,
+    14.22387,
+    1.42279,
+    14.22387
+],
+  "geometry": {"coordinates":[1.42279,14.22387],"type":"Point"}
+}

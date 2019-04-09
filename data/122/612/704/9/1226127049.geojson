@@ -1,0 +1,67 @@
+{
+  "id": 1226127049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.50117,14.27739,2.50117,14.27739",
+    "geom:latitude":14.27739,
+    "geom:longitude":2.50117,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kangaroa Kwomo",
+    "gn:country_code":"NE",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6827263,
+    "gn:latitude":14.27739,
+    "gn:longitude":2.50117,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Kangaroa Kwomo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6827263
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"ebd3e465e3b9bc8507124eee6e396927",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051633,
+            "locality_id":1226127049,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1226127049,
+    "wof:lastmodified":1536604835,
+    "wof:name":"Kangaroa Kwomo",
+    "wof:parent_id":1092051633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.50117,
+    14.27739,
+    2.50117,
+    14.27739
+],
+  "geometry": {"coordinates":[2.50117,14.27739],"type":"Point"}
+}

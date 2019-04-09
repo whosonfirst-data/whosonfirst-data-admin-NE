@@ -1,0 +1,67 @@
+{
+  "id": 1276234087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.89553,13.92129,6.89553,13.92129",
+    "geom:latitude":13.92129,
+    "geom:longitude":6.89553,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tamidao",
+    "gn:country_code":"NE",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439209,
+    "gn:latitude":13.92129,
+    "gn:longitude":6.89553,
+    "gn:modification_date":"2008-02-06",
+    "gn:name":"Tamidao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439209
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"24e9ba077509cb124298bb2ab0c81b6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1276234087,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1276234087,
+    "wof:lastmodified":1536911990,
+    "wof:name":"Tamidao",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.89553,
+    13.92129,
+    6.89553,
+    13.92129
+],
+  "geometry": {"coordinates":[6.89553,13.92129],"type":"Point"}
+}

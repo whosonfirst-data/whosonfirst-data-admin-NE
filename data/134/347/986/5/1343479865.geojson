@@ -1,0 +1,72 @@
+{
+  "id": 1343479865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.66791,13.47153,1.66791,13.47153",
+    "geom:latitude":13.47153,
+    "geom:longitude":1.66791,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bahondo",
+    "gn:country_code":"NE",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447277,
+    "gn:latitude":13.47153,
+    "gn:longitude":1.66791,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Bahondo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bahonndou",
+        "Bahondou",
+        "Bahondo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447277
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"35808c3bd258f14b2a3aaeee50be13e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051103,
+            "locality_id":1343479865,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1343479865,
+    "wof:lastmodified":1537674860,
+    "wof:name":"Bahondo",
+    "wof:parent_id":1092051103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.66791,
+    13.47153,
+    1.66791,
+    13.47153
+],
+  "geometry": {"coordinates":[1.66791,13.47153],"type":"Point"}
+}

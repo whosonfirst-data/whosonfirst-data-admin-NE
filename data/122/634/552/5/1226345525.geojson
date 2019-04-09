@@ -1,0 +1,67 @@
+{
+  "id": 1226345525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.29495,13.92101,13.29495,13.92101",
+    "geom:latitude":13.92101,
+    "geom:longitude":13.29495,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Karouna",
+    "gn:country_code":"NE",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6698782,
+    "gn:latitude":13.92101,
+    "gn:longitude":13.29495,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Karouna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6698782
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"ca30fd8f82f6a0c737d8f162da11019b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051781,
+            "locality_id":1226345525,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1226345525,
+    "wof:lastmodified":1536790166,
+    "wof:name":"Karouna",
+    "wof:parent_id":1092051781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.29495,
+    13.92101,
+    13.29495,
+    13.92101
+],
+  "geometry": {"coordinates":[13.29495,13.92101],"type":"Point"}
+}

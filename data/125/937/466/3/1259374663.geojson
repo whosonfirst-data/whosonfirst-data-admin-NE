@@ -1,0 +1,67 @@
+{
+  "id": 1259374663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.7247,14.27131,8.7247,14.27131",
+    "geom:latitude":14.27131,
+    "geom:longitude":8.7247,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Chafa",
+    "gn:country_code":"NE",
+    "gn:dem":459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446430,
+    "gn:latitude":14.27131,
+    "gn:longitude":8.7247,
+    "gn:modification_date":"2008-08-26",
+    "gn:name":"Chafa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446430
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"e580c266e0aa74d70b96d3cf8a0b1084",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1259374663,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1259374663,
+    "wof:lastmodified":1537014273,
+    "wof:name":"Chafa",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.7247,
+    14.27131,
+    8.7247,
+    14.27131
+],
+  "geometry": {"coordinates":[8.7247,14.27131],"type":"Point"}
+}

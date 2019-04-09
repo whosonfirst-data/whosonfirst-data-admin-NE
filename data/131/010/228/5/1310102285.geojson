@@ -1,0 +1,67 @@
+{
+  "id": 1310102285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.8882,14.2258,9.8882,14.2258",
+    "geom:latitude":14.2258,
+    "geom:longitude":9.8882,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kouzotori",
+    "gn:country_code":"NE",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6803837,
+    "gn:latitude":14.2258,
+    "gn:longitude":9.8882,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Kouzotori",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6803837
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"d2065dc197fc387a3df9b30cffaccdd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051411,
+            "locality_id":1310102285,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1310102285,
+    "wof:lastmodified":1537000409,
+    "wof:name":"Kouzotori",
+    "wof:parent_id":1092051411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8882,
+    14.2258,
+    9.8882,
+    14.2258
+],
+  "geometry": {"coordinates":[9.8882,14.2258],"type":"Point"}
+}

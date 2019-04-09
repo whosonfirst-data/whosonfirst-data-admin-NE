@@ -1,0 +1,71 @@
+{
+  "id": 1310525517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.083,14.4023,8.083,14.4023",
+    "geom:latitude":14.4023,
+    "geom:longitude":8.083,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Maybaguey",
+    "gn:country_code":"NE",
+    "gn:dem":453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441174,
+    "gn:latitude":14.4023,
+    "gn:longitude":8.083,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Maybagu\u00e9y",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maybag\u00e9y",
+        "Maybagu\u00e9y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441174
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"e71678525ed67f5e25f3f0dab1a4b10a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051389,
+            "locality_id":1310525517,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1310525517,
+    "wof:lastmodified":1537674716,
+    "wof:name":"Maybaguey",
+    "wof:parent_id":1092051389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.083,
+    14.4023,
+    8.083,
+    14.4023
+],
+  "geometry": {"coordinates":[8.083,14.4023],"type":"Point"}
+}

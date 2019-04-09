@@ -1,0 +1,71 @@
+{
+  "id": 1226564365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.2541,14.4888,6.2541,14.4888",
+    "geom:latitude":14.4888,
+    "geom:longitude":6.2541,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Badafalaley",
+    "gn:country_code":"NE",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447321,
+    "gn:latitude":14.4888,
+    "gn:longitude":6.2541,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Badafalal\u00e9y",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Badafalal\u00e8ye",
+        "Badafalal\u00e9y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447321
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"d33d43002f7786c0d88f7e5aaea458f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051515,
+            "locality_id":1226564365,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1226564365,
+    "wof:lastmodified":1537674862,
+    "wof:name":"Badafalaley",
+    "wof:parent_id":1092051515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.2541,
+    14.4888,
+    6.2541,
+    14.4888
+],
+  "geometry": {"coordinates":[6.2541,14.4888],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276651095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.68242,13.72471,1.68242,13.72471",
+    "geom:latitude":13.72471,
+    "geom:longitude":1.68242,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bomboulassa",
+    "gn:country_code":"NE",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446661,
+    "gn:latitude":13.72471,
+    "gn:longitude":1.68242,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Bomboulassa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bomboulasa",
+        "Bomboulassa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446661
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"ca8ea8743571a54d6bd64f9f1cd9c194",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1276651095,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1276651095,
+    "wof:lastmodified":1537674847,
+    "wof:name":"Bomboulassa",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.68242,
+    13.72471,
+    1.68242,
+    13.72471
+],
+  "geometry": {"coordinates":[1.68242,13.72471],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243265827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.96593,12.90615,2.96593,12.90615",
+    "geom:latitude":12.90615,
+    "geom:longitude":2.96593,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tondi Kouarey",
+    "gn:country_code":"NE",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6855163,
+    "gn:latitude":12.90615,
+    "gn:longitude":2.96593,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Tondi Kouarey",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tondi Kwar\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6855163
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"47366b218f5fc6aa686cbd03e3393e51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051075,
+            "locality_id":1243265827,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1243265827,
+    "wof:lastmodified":1537674889,
+    "wof:name":"Tondi Kouarey",
+    "wof:parent_id":1092051075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.96593,
+    12.90615,
+    2.96593,
+    12.90615
+],
+  "geometry": {"coordinates":[2.96593,12.90615],"type":"Point"}
+}

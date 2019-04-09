@@ -1,0 +1,71 @@
+{
+  "id": 1360088071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.29252,13.73423,13.29252,13.73423",
+    "geom:latitude":13.73423,
+    "geom:longitude":13.29252,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Yewi Boula Brin",
+    "gn:country_code":"NE",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6698775,
+    "gn:latitude":13.73423,
+    "gn:longitude":13.29252,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Y\u00e9wi Boula Brin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yebi Boulabirim",
+        "Y\u00e9wi Boula Brin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6698775
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"e076698b13205ad0be91ff94bc2f161b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051245,
+            "locality_id":1360088071,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1360088071,
+    "wof:lastmodified":1537674882,
+    "wof:name":"Yewi Boula Brin",
+    "wof:parent_id":1092051245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.29252,
+    13.73423,
+    13.29252,
+    13.73423
+],
+  "geometry": {"coordinates":[13.29252,13.73423],"type":"Point"}
+}

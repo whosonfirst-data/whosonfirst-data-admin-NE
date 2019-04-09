@@ -1,0 +1,67 @@
+{
+  "id": 1242866851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.24421,14.4285,6.24421,14.4285",
+    "geom:latitude":14.4285,
+    "geom:longitude":6.24421,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Zangon Marafa",
+    "gn:country_code":"NE",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6849710,
+    "gn:latitude":14.4285,
+    "gn:longitude":6.24421,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Zangon Marafa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6849710
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"b13dd6603739f6cec054660f62ad1f2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051515,
+            "locality_id":1242866851,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1242866851,
+    "wof:lastmodified":1536646592,
+    "wof:name":"Zangon Marafa",
+    "wof:parent_id":1092051515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.24421,
+    14.4285,
+    6.24421,
+    14.4285
+],
+  "geometry": {"coordinates":[6.24421,14.4285],"type":"Point"}
+}

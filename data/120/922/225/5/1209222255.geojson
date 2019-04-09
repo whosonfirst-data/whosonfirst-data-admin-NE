@@ -1,0 +1,65 @@
+{
+  "id": 1209222255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.31561,12.55594,3.31561,12.55594",
+    "geom:latitude":12.55594,
+    "geom:longitude":3.31561,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Koy Teguio",
+    "gn:country_code":"NE",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441814,
+    "gn:latitude":12.55594,
+    "gn:longitude":3.31561,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Koy T\u00e9guio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koye-T\u00e9guio",
+        "Koy T\u00e9guio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441814
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"840ef1052fdd428dd0217311e3178479",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209222255
+        }
+    ],
+    "wof:id":1209222255,
+    "wof:lastmodified":1537674733,
+    "wof:name":"Koy Teguio",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.31561,
+    12.55594,
+    3.31561,
+    12.55594
+],
+  "geometry": {"coordinates":[3.31561,12.55594],"type":"Point"}
+}

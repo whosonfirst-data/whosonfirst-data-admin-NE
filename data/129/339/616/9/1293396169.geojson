@@ -1,0 +1,67 @@
+{
+  "id": 1293396169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.92931,13.92522,6.92931,13.92522",
+    "geom:latitude":13.92522,
+    "geom:longitude":6.92931,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dambade",
+    "gn:country_code":"NE",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446232,
+    "gn:latitude":13.92522,
+    "gn:longitude":6.92931,
+    "gn:modification_date":"2008-03-06",
+    "gn:name":"Dambad\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446232
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"cb7c16ade975074c39e692dac2b8f7fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1293396169,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1293396169,
+    "wof:lastmodified":1536919212,
+    "wof:name":"Dambade",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.92931,
+    13.92522,
+    6.92931,
+    13.92522
+],
+  "geometry": {"coordinates":[6.92931,13.92522],"type":"Point"}
+}

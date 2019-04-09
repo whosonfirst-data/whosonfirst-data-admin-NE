@@ -1,0 +1,72 @@
+{
+  "id": 1259467473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.53268,13.89626,0.53268,13.89626",
+    "geom:latitude":13.89626,
+    "geom:longitude":0.53268,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Lmoudaka Kogane",
+    "gn:country_code":"NE",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2443277,
+    "gn:latitude":13.89626,
+    "gn:longitude":0.53268,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lmoudaka Kogan\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kogan\u00e9",
+        "Imoudaka",
+        "Lmoudaka Kogan\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2443277
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"669890920bc4c56233489eef954fc380",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051545,
+            "locality_id":1259467473,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1259467473,
+    "wof:lastmodified":1537674764,
+    "wof:name":"Lmoudaka Kogane",
+    "wof:parent_id":1092051545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.53268,
+    13.89626,
+    0.53268,
+    13.89626
+],
+  "geometry": {"coordinates":[0.53268,13.89626],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1260184105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.49471,12.77794,3.49471,12.77794",
+    "geom:latitude":12.77794,
+    "geom:longitude":3.49471,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mayaki Kwara",
+    "gn:country_code":"NE",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441188,
+    "gn:latitude":12.77794,
+    "gn:longitude":3.49471,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mayaki Kwara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mayaki-Koara",
+        "Mayaki Kwara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441188
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"728aa398d13063396bb1fe8a4632c5e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051041,
+            "locality_id":1260184105,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1260184105,
+    "wof:lastmodified":1537674717,
+    "wof:name":"Mayaki Kwara",
+    "wof:parent_id":1092051041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.49471,
+    12.77794,
+    3.49471,
+    12.77794
+],
+  "geometry": {"coordinates":[3.49471,12.77794],"type":"Point"}
+}

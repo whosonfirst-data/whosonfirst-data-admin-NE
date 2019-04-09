@@ -1,0 +1,72 @@
+{
+  "id": 1209900729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.88137,13.63615,1.88137,13.63615",
+    "geom:latitude":13.63615,
+    "geom:longitude":1.88137,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tagabati",
+    "gn:country_code":"NE",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439442,
+    "gn:latitude":13.63615,
+    "gn:longitude":1.88137,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Tagabati",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tagabaton",
+        "Tagabatou",
+        "Tagabati"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439442
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"21626eee795248412aa4a94a53c72c7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1209900729,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1209900729,
+    "wof:lastmodified":1537674683,
+    "wof:name":"Tagabati",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.88137,
+    13.63615,
+    1.88137,
+    13.63615
+],
+  "geometry": {"coordinates":[1.88137,13.63615],"type":"Point"}
+}

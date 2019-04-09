@@ -1,0 +1,67 @@
+{
+  "id": 1226044419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.40127,12.15514,3.40127,12.15514",
+    "geom:latitude":12.15514,
+    "geom:longitude":3.40127,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Konte Langou",
+    "gn:country_code":"NE",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442176,
+    "gn:latitude":12.15514,
+    "gn:longitude":3.40127,
+    "gn:modification_date":"2009-02-18",
+    "gn:name":"Kont\u00e9 Langou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092050969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442176
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"97dc6fbe48013d4f907ea10615d65959",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092050969,
+            "locality_id":1226044419,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1226044419,
+    "wof:lastmodified":1536727453,
+    "wof:name":"Konte Langou",
+    "wof:parent_id":1092050969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.40127,
+    12.15514,
+    3.40127,
+    12.15514
+],
+  "geometry": {"coordinates":[3.40127,12.15514],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243059347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.22677,13.89145,10.22677,13.89145",
+    "geom:latitude":13.89145,
+    "geom:longitude":10.22677,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ngagoro",
+    "gn:country_code":"NE",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6750173,
+    "gn:latitude":13.89145,
+    "gn:longitude":10.22677,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Ngagoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6750173
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"4a78f38ae3f059b837f41870be163048",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051753,
+            "locality_id":1243059347,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1243059347,
+    "wof:lastmodified":1536865293,
+    "wof:name":"Ngagoro",
+    "wof:parent_id":1092051753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.22677,
+    13.89145,
+    10.22677,
+    13.89145
+],
+  "geometry": {"coordinates":[10.22677,13.89145],"type":"Point"}
+}

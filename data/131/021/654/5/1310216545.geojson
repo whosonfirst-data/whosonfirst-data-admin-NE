@@ -1,0 +1,71 @@
+{
+  "id": 1310216545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.5549,13.3518,3.5549,13.3518",
+    "geom:latitude":13.3518,
+    "geom:longitude":3.5549,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Dere-Koara",
+    "gn:country_code":"NE",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445778,
+    "gn:latitude":13.3518,
+    "gn:longitude":3.5549,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"D\u00e9r\u00e9-Koara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u00e9r\u00e9 Kwara",
+        "D\u00e9r\u00e9-Koara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445778
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"73c8d2d90e81e71c6ceeb6ef5db35a3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051273,
+            "locality_id":1310216545,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1310216545,
+    "wof:lastmodified":1537674828,
+    "wof:name":"Dere-Koara",
+    "wof:parent_id":1092051273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.5549,
+    13.3518,
+    3.5549,
+    13.3518
+],
+  "geometry": {"coordinates":[3.5549,13.3518],"type":"Point"}
+}

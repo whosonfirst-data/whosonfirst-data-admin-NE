@@ -1,0 +1,67 @@
+{
+  "id": 1343284037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.3763,15.0459,5.3763,15.0459",
+    "geom:latitude":15.0459,
+    "geom:longitude":5.3763,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Takoukout",
+    "gn:country_code":"NE",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6699628,
+    "gn:latitude":15.0459,
+    "gn:longitude":5.3763,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Takoukout",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6699628
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"b2fe5cf4ac80d2c65870bb9707d3c49a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051609,
+            "locality_id":1343284037,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1343284037,
+    "wof:lastmodified":1537000184,
+    "wof:name":"Takoukout",
+    "wof:parent_id":1092051609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.3763,
+    15.0459,
+    5.3763,
+    15.0459
+],
+  "geometry": {"coordinates":[5.3763,15.0459],"type":"Point"}
+}

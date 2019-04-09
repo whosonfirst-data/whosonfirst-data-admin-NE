@@ -1,0 +1,72 @@
+{
+  "id": 1293678805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.87177,13.61318,1.87177,13.61318",
+    "geom:latitude":13.61318,
+    "geom:longitude":1.87177,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Yoreize Kouara",
+    "gn:country_code":"NE",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437940,
+    "gn:latitude":13.61318,
+    "gn:longitude":1.87177,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Yor\u00e9iz\u00e9 Kouara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yorez Koira",
+        "Yorez Koyra",
+        "Yor\u00e9iz\u00e9 Kouara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437940
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"6765eb25dc268d74ebc37ce67944d3a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1293678805,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1293678805,
+    "wof:lastmodified":1537674652,
+    "wof:name":"Yoreize Kouara",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.87177,
+    13.61318,
+    1.87177,
+    13.61318
+],
+  "geometry": {"coordinates":[1.87177,13.61318],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343965739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.9651,14.1273,3.9651,14.1273",
+    "geom:latitude":14.1273,
+    "geom:longitude":3.9651,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Baraya",
+    "gn:country_code":"NE",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447027,
+    "gn:latitude":14.1273,
+    "gn:longitude":3.9651,
+    "gn:modification_date":"2008-01-29",
+    "gn:name":"Baraya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447027
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"49ef2ce58be8d3f483cb3bfd05bd8374",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051467,
+            "locality_id":1343965739,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1343965739,
+    "wof:lastmodified":1537011561,
+    "wof:name":"Baraya",
+    "wof:parent_id":1092051467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.9651,
+    14.1273,
+    3.9651,
+    14.1273
+],
+  "geometry": {"coordinates":[3.9651,14.1273],"type":"Point"}
+}

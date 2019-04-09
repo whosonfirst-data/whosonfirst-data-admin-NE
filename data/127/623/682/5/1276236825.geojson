@@ -1,0 +1,67 @@
+{
+  "id": 1276236825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.84051,13.43765,10.84051,13.43765",
+    "geom:latitude":13.43765,
+    "geom:longitude":10.84051,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Abdou Kanomari",
+    "gn:country_code":"NE",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6750484,
+    "gn:latitude":13.43765,
+    "gn:longitude":10.84051,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Abdou Kanomari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6750484
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"378dc209aba2431b485a307e0b0103e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051363,
+            "locality_id":1276236825,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1276236825,
+    "wof:lastmodified":1536908186,
+    "wof:name":"Abdou Kanomari",
+    "wof:parent_id":1092051363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.84051,
+    13.43765,
+    10.84051,
+    13.43765
+],
+  "geometry": {"coordinates":[10.84051,13.43765],"type":"Point"}
+}

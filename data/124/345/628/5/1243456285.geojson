@@ -1,0 +1,67 @@
+{
+  "id": 1243456285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.93476,12.80705,2.93476,12.80705",
+    "geom:latitude":12.80705,
+    "geom:longitude":2.93476,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Souda Ahidjo",
+    "gn:country_code":"NE",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8541532,
+    "gn:latitude":12.80705,
+    "gn:longitude":2.93476,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Souda Ahidjo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8541532
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"cf88562cc73fb39cc538a4c8689c9777",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051075,
+            "locality_id":1243456285,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1243456285,
+    "wof:lastmodified":1536791668,
+    "wof:name":"Souda Ahidjo",
+    "wof:parent_id":1092051075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.93476,
+    12.80705,
+    2.93476,
+    12.80705
+],
+  "geometry": {"coordinates":[2.93476,12.80705],"type":"Point"}
+}

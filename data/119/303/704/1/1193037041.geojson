@@ -1,0 +1,71 @@
+{
+  "id": 1193037041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.3682,13.2249,2.3682,13.2249",
+    "geom:latitude":13.2249,
+    "geom:longitude":2.3682,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Garba Goungou",
+    "gn:country_code":"NE",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444717,
+    "gn:latitude":13.2249,
+    "gn:longitude":2.3682,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Garba Goungou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Garbagougou",
+        "Garba Goungou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444717
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"c96e9f24d755aeb759f21f1cbd81d2b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1193037041,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1193037041,
+    "wof:lastmodified":1537674802,
+    "wof:name":"Garba Goungou",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.3682,
+    13.2249,
+    2.3682,
+    13.2249
+],
+  "geometry": {"coordinates":[2.3682,13.2249],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276323663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.53497,13.71265,2.53497,13.71265",
+    "geom:latitude":13.71265,
+    "geom:longitude":2.53497,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Birnin Lafia",
+    "gn:country_code":"NE",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446758,
+    "gn:latitude":13.71265,
+    "gn:longitude":2.53497,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Birnin Lafia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Birni Lafia",
+        "Birnin Lafia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446758
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"520c5adcb47aac4f31d7e1a331c3128a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1276323663,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1276323663,
+    "wof:lastmodified":1537674849,
+    "wof:name":"Birnin Lafia",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.53497,
+    13.71265,
+    2.53497,
+    13.71265
+],
+  "geometry": {"coordinates":[2.53497,13.71265],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327218141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.3993,14.2258,3.3993,14.2258",
+    "geom:latitude":14.2258,
+    "geom:longitude":3.3993,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Gari Ganndou",
+    "gn:country_code":"NE",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444668,
+    "gn:latitude":14.2258,
+    "gn:longitude":3.3993,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gari Ganndou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gari Gandou",
+        "Gari Ganndou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444668
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"7b4b6f791d7c1bd7315e65f468399827",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051695,
+            "locality_id":1327218141,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1327218141,
+    "wof:lastmodified":1537674801,
+    "wof:name":"Gari Ganndou",
+    "wof:parent_id":1092051695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.3993,
+    14.2258,
+    3.3993,
+    14.2258
+],
+  "geometry": {"coordinates":[3.3993,14.2258],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310194787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.98405,13.5605,1.98405,13.5605",
+    "geom:latitude":13.5605,
+    "geom:longitude":1.98405,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Settore",
+    "gn:country_code":"NE",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439608,
+    "gn:latitude":13.5605,
+    "gn:longitude":1.98405,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Settor\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sotor\u00e9",
+        "Settor\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439608
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"6e4dd790764b7eb1ee944261064c1dee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1310194787,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1310194787,
+    "wof:lastmodified":1537674686,
+    "wof:name":"Settore",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.98405,
+    13.5605,
+    1.98405,
+    13.5605
+],
+  "geometry": {"coordinates":[1.98405,13.5605],"type":"Point"}
+}

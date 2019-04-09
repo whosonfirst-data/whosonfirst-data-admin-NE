@@ -1,0 +1,67 @@
+{
+  "id": 1327346363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.85869,13.56311,12.85869,13.56311",
+    "geom:latitude":13.56311,
+    "geom:longitude":12.85869,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ngagam",
+    "gn:country_code":"NE",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6777217,
+    "gn:latitude":13.56311,
+    "gn:longitude":12.85869,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Ngagam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6777217
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"bb24bb153a2c3344abd52f6dd518f866",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051245,
+            "locality_id":1327346363,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1327346363,
+    "wof:lastmodified":1536804844,
+    "wof:name":"Ngagam",
+    "wof:parent_id":1092051245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.85869,
+    13.56311,
+    12.85869,
+    13.56311
+],
+  "geometry": {"coordinates":[12.85869,13.56311],"type":"Point"}
+}

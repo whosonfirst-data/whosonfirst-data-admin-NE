@@ -1,0 +1,67 @@
+{
+  "id": 1210029161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.28444,16.48194,13.28444,16.48194",
+    "geom:latitude":16.48194,
+    "geom:longitude":13.28444,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Oyou Bezze Denga",
+    "gn:country_code":"NE",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2596777,
+    "gn:latitude":16.48194,
+    "gn:longitude":13.28444,
+    "gn:modification_date":"2003-08-01",
+    "gn:name":"Oyou Bezz\u00e9 Denga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2596777
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"8ce9758ac2b04c31557d2e3ae046f1b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051781,
+            "locality_id":1210029161,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1210029161,
+    "wof:lastmodified":1536389363,
+    "wof:name":"Oyou Bezze Denga",
+    "wof:parent_id":1092051781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.28444,
+    16.48194,
+    13.28444,
+    16.48194
+],
+  "geometry": {"coordinates":[13.28444,16.48194],"type":"Point"}
+}

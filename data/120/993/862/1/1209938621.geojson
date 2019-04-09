@@ -1,0 +1,71 @@
+{
+  "id": 1209938621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.8204,14.8358,5.8204,14.8358",
+    "geom:latitude":14.8358,
+    "geom:longitude":5.8204,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"I-n-Guira",
+    "gn:country_code":"NE",
+    "gn:dem":441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6679114,
+    "gn:latitude":14.8358,
+    "gn:longitude":5.8204,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"I-n-Guira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "In Gira",
+        "I-n-Guira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6679114
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"a1fbb2bbedd9f05709777ea8e49fc7c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051577,
+            "locality_id":1209938621,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1209938621,
+    "wof:lastmodified":1537674879,
+    "wof:name":"I-n-Guira",
+    "wof:parent_id":1092051577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.8204,
+    14.8358,
+    5.8204,
+    14.8358
+],
+  "geometry": {"coordinates":[5.8204,14.8358],"type":"Point"}
+}

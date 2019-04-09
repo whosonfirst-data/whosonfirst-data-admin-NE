@@ -1,0 +1,72 @@
+{
+  "id": 1209700307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.34128,13.69174,1.34128,13.69174",
+    "geom:latitude":13.69174,
+    "geom:longitude":1.34128,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tondi Kirey",
+    "gn:country_code":"NE",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438435,
+    "gn:latitude":13.69174,
+    "gn:longitude":1.34128,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Tondi Kirey",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tonndi-Kir\u00e8y",
+        "Tondi Kyirey",
+        "Tondi Kirey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438435
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"3f4cc2132aefa9dab6f97a69b824de71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051545,
+            "locality_id":1209700307,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1209700307,
+    "wof:lastmodified":1537674666,
+    "wof:name":"Tondi Kirey",
+    "wof:parent_id":1092051545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.34128,
+    13.69174,
+    1.34128,
+    13.69174
+],
+  "geometry": {"coordinates":[1.34128,13.69174],"type":"Point"}
+}

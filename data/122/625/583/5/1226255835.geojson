@@ -1,0 +1,71 @@
+{
+  "id": 1226255835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.35046,13.72498,13.35046,13.72498",
+    "geom:latitude":13.72498,
+    "geom:longitude":13.35046,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Magmori",
+    "gn:country_code":"NE",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441340,
+    "gn:latitude":13.72498,
+    "gn:longitude":13.35046,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Magmori",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mamouri",
+        "Magmori"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441340
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"c239191f4b06b18167077d7f890f4571",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051245,
+            "locality_id":1226255835,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1226255835,
+    "wof:lastmodified":1537674721,
+    "wof:name":"Magmori",
+    "wof:parent_id":1092051245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.35046,
+    13.72498,
+    13.35046,
+    13.72498
+],
+  "geometry": {"coordinates":[13.35046,13.72498],"type":"Point"}
+}

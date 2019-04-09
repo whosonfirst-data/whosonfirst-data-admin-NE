@@ -1,0 +1,67 @@
+{
+  "id": 1292897595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.74262,14.52132,7.74262,14.52132",
+    "geom:latitude":14.52132,
+    "geom:longitude":7.74262,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Guidan Illo",
+    "gn:country_code":"NE",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2443825,
+    "gn:latitude":14.52132,
+    "gn:longitude":7.74262,
+    "gn:modification_date":"2008-08-21",
+    "gn:name":"Guidan Illo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2443825
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"d90c436239c89ddc3205cc0a7e204066",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1292897595,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1292897595,
+    "wof:lastmodified":1536642666,
+    "wof:name":"Guidan Illo",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.74262,
+    14.52132,
+    7.74262,
+    14.52132
+],
+  "geometry": {"coordinates":[7.74262,14.52132],"type":"Point"}
+}

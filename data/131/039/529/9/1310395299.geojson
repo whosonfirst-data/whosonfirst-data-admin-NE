@@ -1,0 +1,67 @@
+{
+  "id": 1310395299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.86003,13.85154,1.86003,13.85154",
+    "geom:latitude":13.85154,
+    "geom:longitude":1.86003,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Fatay Karma",
+    "gn:country_code":"NE",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445046,
+    "gn:latitude":13.85154,
+    "gn:longitude":1.86003,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Fatay Karma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445046
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"33fd5c7fddc8a987542203fe3d35cef5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1310395299,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1310395299,
+    "wof:lastmodified":1537072877,
+    "wof:name":"Fatay Karma",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.86003,
+    13.85154,
+    1.86003,
+    13.85154
+],
+  "geometry": {"coordinates":[1.86003,13.85154],"type":"Point"}
+}

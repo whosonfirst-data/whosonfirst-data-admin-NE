@@ -1,0 +1,67 @@
+{
+  "id": 1276465273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.58579,14.77614,7.58579,14.77614",
+    "geom:latitude":14.77614,
+    "geom:longitude":7.58579,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Seyeri",
+    "gn:country_code":"NE",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439736,
+    "gn:latitude":14.77614,
+    "gn:longitude":7.58579,
+    "gn:modification_date":"2008-08-21",
+    "gn:name":"S\u00e9y\u00e9ri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439736
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"1c53b69675129c25aecb25a5c5e845f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1276465273,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1276465273,
+    "wof:lastmodified":1537095865,
+    "wof:name":"Seyeri",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.58579,
+    14.77614,
+    7.58579,
+    14.77614
+],
+  "geometry": {"coordinates":[7.58579,14.77614],"type":"Point"}
+}

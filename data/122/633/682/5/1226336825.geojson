@@ -1,0 +1,67 @@
+{
+  "id": 1226336825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.6477,13.9503,9.6477,13.9503",
+    "geom:latitude":13.9503,
+    "geom:longitude":9.6477,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mayo Kokatiram",
+    "gn:country_code":"NE",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6806762,
+    "gn:latitude":13.9503,
+    "gn:longitude":9.6477,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Mayo Kokatiram",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6806762
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"ae8eec42892c36f8c153c22b4241c9e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051411,
+            "locality_id":1226336825,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1226336825,
+    "wof:lastmodified":1536802353,
+    "wof:name":"Mayo Kokatiram",
+    "wof:parent_id":1092051411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.6477,
+    13.9503,
+    9.6477,
+    13.9503
+],
+  "geometry": {"coordinates":[9.6477,13.9503],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259575035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.41183,13.35061,8.41183,13.35061",
+    "geom:latitude":13.35061,
+    "geom:longitude":8.41183,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dan Dissa",
+    "gn:country_code":"NE",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6733830,
+    "gn:latitude":13.35061,
+    "gn:longitude":8.41183,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Dan Dissa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Angoual Hamidou",
+        "Dan Dissa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6733830
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"bff4b74bf15d66b132604e47f201709f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051165,
+            "locality_id":1259575035,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1259575035,
+    "wof:lastmodified":1537674884,
+    "wof:name":"Dan Dissa",
+    "wof:parent_id":1092051165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.41183,
+    13.35061,
+    8.41183,
+    13.35061
+],
+  "geometry": {"coordinates":[8.41183,13.35061],"type":"Point"}
+}

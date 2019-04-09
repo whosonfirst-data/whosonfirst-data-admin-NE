@@ -1,0 +1,61 @@
+{
+  "id": 1209336559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.1533,14.5486,5.1533,14.5486",
+    "geom:latitude":14.5486,
+    "geom:longitude":5.1533,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"May Kankari",
+    "gn:country_code":"NE",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6679168,
+    "gn:latitude":14.5486,
+    "gn:longitude":5.1533,
+    "gn:modification_date":"2008-02-09",
+    "gn:name":"May Kankari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6679168
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"3d1b6225b3e1fbf7795cd33f14ff4fbb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209336559
+        }
+    ],
+    "wof:id":1209336559,
+    "wof:lastmodified":1536290201,
+    "wof:name":"May Kankari",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.1533,
+    14.5486,
+    5.1533,
+    14.5486
+],
+  "geometry": {"coordinates":[5.1533,14.5486],"type":"Point"}
+}

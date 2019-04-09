@@ -1,0 +1,67 @@
+{
+  "id": 1243360563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.4255,14.3447,10.4255,14.3447",
+    "geom:latitude":14.3447,
+    "geom:longitude":10.4255,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bressoua",
+    "gn:country_code":"NE",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6848055,
+    "gn:latitude":14.3447,
+    "gn:longitude":10.4255,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Br\u00e9ssoua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6848055
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"c2083050d83db39b5b52b8dc1d914ac5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051753,
+            "locality_id":1243360563,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1243360563,
+    "wof:lastmodified":1536930163,
+    "wof:name":"Bressoua",
+    "wof:parent_id":1092051753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4255,
+    14.3447,
+    10.4255,
+    14.3447
+],
+  "geometry": {"coordinates":[10.4255,14.3447],"type":"Point"}
+}

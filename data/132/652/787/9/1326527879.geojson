@@ -1,0 +1,67 @@
+{
+  "id": 1326527879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.7451,14.3958,5.7451,14.3958",
+    "geom:latitude":14.3958,
+    "geom:longitude":5.7451,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Gidan Ganga",
+    "gn:country_code":"NE",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6679320,
+    "gn:latitude":14.3958,
+    "gn:longitude":5.7451,
+    "gn:modification_date":"2008-02-09",
+    "gn:name":"Gidan Ganga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6679320
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"5487cf22c8e7f20e971cfd2c231311dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051515,
+            "locality_id":1326527879,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1326527879,
+    "wof:lastmodified":1536989532,
+    "wof:name":"Gidan Ganga",
+    "wof:parent_id":1092051515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.7451,
+    14.3958,
+    5.7451,
+    14.3958
+],
+  "geometry": {"coordinates":[5.7451,14.3958],"type":"Point"}
+}

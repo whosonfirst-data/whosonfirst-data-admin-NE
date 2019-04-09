@@ -1,0 +1,61 @@
+{
+  "id": 1209298855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.8541,14.806,3.8541,14.806",
+    "geom:latitude":14.806,
+    "geom:longitude":3.8541,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Amagay",
+    "gn:country_code":"NE",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447830,
+    "gn:latitude":14.806,
+    "gn:longitude":3.8541,
+    "gn:modification_date":"2008-01-29",
+    "gn:name":"Amagay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447830
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"8396abf6080b7a0d661cdf5c0fd63cce",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209298855
+        }
+    ],
+    "wof:id":1209298855,
+    "wof:lastmodified":1536291428,
+    "wof:name":"Amagay",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.8541,
+    14.806,
+    3.8541,
+    14.806
+],
+  "geometry": {"coordinates":[3.8541,14.806],"type":"Point"}
+}

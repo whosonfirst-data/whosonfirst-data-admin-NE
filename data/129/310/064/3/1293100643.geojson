@@ -1,0 +1,71 @@
+{
+  "id": 1293100643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.50885,12.77716,3.50885,12.77716",
+    "geom:latitude":12.77716,
+    "geom:longitude":3.50885,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sekba Yerima Kwara",
+    "gn:country_code":"NE",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6968093,
+    "gn:latitude":12.77716,
+    "gn:longitude":3.50885,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sekba Y\u00e9rima Kwara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sekba-Y\u00e9rima-Koara",
+        "Sekba Y\u00e9rima Kwara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6968093
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"46b1f4e103638f2e2c4b8e49ff08ce6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051041,
+            "locality_id":1293100643,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1293100643,
+    "wof:lastmodified":1537674890,
+    "wof:name":"Sekba Yerima Kwara",
+    "wof:parent_id":1092051041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.50885,
+    12.77716,
+    3.50885,
+    12.77716
+],
+  "geometry": {"coordinates":[3.50885,12.77716],"type":"Point"}
+}

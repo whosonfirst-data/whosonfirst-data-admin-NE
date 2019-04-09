@@ -1,0 +1,71 @@
+{
+  "id": 1277060839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.81728,13.27966,1.81728,13.27966",
+    "geom:latitude":13.27966,
+    "geom:longitude":1.81728,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Banganieri",
+    "gn:country_code":"NE",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447198,
+    "gn:latitude":13.27966,
+    "gn:longitude":1.81728,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Bangani\u00e9ri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bamgu\u00e9l Nyiri",
+        "Bangani\u00e9ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447198
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"6ca630f4a381d359fec73ff2e659b429",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051103,
+            "locality_id":1277060839,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1277060839,
+    "wof:lastmodified":1537674859,
+    "wof:name":"Banganieri",
+    "wof:parent_id":1092051103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.81728,
+    13.27966,
+    1.81728,
+    13.27966
+],
+  "geometry": {"coordinates":[1.81728,13.27966],"type":"Point"}
+}

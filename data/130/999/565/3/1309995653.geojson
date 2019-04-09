@@ -1,0 +1,67 @@
+{
+  "id": 1309995653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.28974,14.30215,2.28974,14.30215",
+    "geom:latitude":14.30215,
+    "geom:longitude":2.28974,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Talkadabey Kale",
+    "gn:country_code":"NE",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6827275,
+    "gn:latitude":14.30215,
+    "gn:longitude":2.28974,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Talkadabey Kal\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6827275
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"f9a62fed582c4bdfb9b36bff2b961a38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051633,
+            "locality_id":1309995653,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1309995653,
+    "wof:lastmodified":1536657635,
+    "wof:name":"Talkadabey Kale",
+    "wof:parent_id":1092051633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.28974,
+    14.30215,
+    2.28974,
+    14.30215
+],
+  "geometry": {"coordinates":[2.28974,14.30215],"type":"Point"}
+}

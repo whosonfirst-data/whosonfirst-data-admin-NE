@@ -1,0 +1,65 @@
+{
+  "id": 1209226251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.5216,13.1738,3.5216,13.1738",
+    "geom:latitude":13.1738,
+    "geom:longitude":3.5216,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Deitegui-Yamoussa",
+    "gn:country_code":"NE",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445744,
+    "gn:latitude":13.1738,
+    "gn:longitude":3.5216,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"D\u00e9\u00eft\u00e9gui-Yamoussa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dey T\u00e9gui Yamoussa",
+        "D\u00e9\u00eft\u00e9gui-Yamoussa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445744
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"e6ca701c11805bb2c065018def455713",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209226251
+        }
+    ],
+    "wof:id":1209226251,
+    "wof:lastmodified":1537674825,
+    "wof:name":"Deitegui-Yamoussa",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.5216,
+    13.1738,
+    3.5216,
+    13.1738
+],
+  "geometry": {"coordinates":[3.5216,13.1738],"type":"Point"}
+}

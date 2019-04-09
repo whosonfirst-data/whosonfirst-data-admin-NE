@@ -1,0 +1,67 @@
+{
+  "id": 1259590665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.32005,14.26982,4.32005,14.26982",
+    "geom:latitude":14.26982,
+    "geom:longitude":4.32005,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Korama",
+    "gn:country_code":"NE",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6783607,
+    "gn:latitude":14.26982,
+    "gn:longitude":4.32005,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Korama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6783607
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"81b351726471031ed16b48436b1a031f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051467,
+            "locality_id":1259590665,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1259590665,
+    "wof:lastmodified":1536704678,
+    "wof:name":"Korama",
+    "wof:parent_id":1092051467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.32005,
+    14.26982,
+    4.32005,
+    14.26982
+],
+  "geometry": {"coordinates":[4.32005,14.26982],"type":"Point"}
+}

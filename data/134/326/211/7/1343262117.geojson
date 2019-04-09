@@ -1,0 +1,67 @@
+{
+  "id": 1343262117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.07053,13.60007,7.07053,13.60007",
+    "geom:latitude":13.60007,
+    "geom:longitude":7.07053,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Touza",
+    "gn:country_code":"NE",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438215,
+    "gn:latitude":13.60007,
+    "gn:longitude":7.07053,
+    "gn:modification_date":"2008-02-12",
+    "gn:name":"Touza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438215
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"9f6e91b31210b5fcb3a6ab47bb8b152e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051229,
+            "locality_id":1343262117,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1343262117,
+    "wof:lastmodified":1537031149,
+    "wof:name":"Touza",
+    "wof:parent_id":1092051229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.07053,
+    13.60007,
+    7.07053,
+    13.60007
+],
+  "geometry": {"coordinates":[7.07053,13.60007],"type":"Point"}
+}

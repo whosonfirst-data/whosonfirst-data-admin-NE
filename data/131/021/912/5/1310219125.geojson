@@ -1,0 +1,71 @@
+{
+  "id": 1310219125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.78444,18.4825,7.78444,18.4825",
+    "geom:latitude":18.4825,
+    "geom:longitude":7.78444,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Gougaram",
+    "gn:country_code":"NE",
+    "gn:dem":489,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2596701,
+    "gn:latitude":18.4825,
+    "gn:longitude":7.78444,
+    "gn:modification_date":"2013-04-05",
+    "gn:name":"Go\u00fbgaram",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Go\u00fbgaram"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675273,
+        1092051845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2596701,
+        "wk:page":"Go%C3%BBgaram"
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"58668098f02c351c8b9c3bd9685f06a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051845,
+            "locality_id":1310219125,
+            "region_id":85675273
+        }
+    ],
+    "wof:id":1310219125,
+    "wof:lastmodified":1537674877,
+    "wof:name":"Gougaram",
+    "wof:parent_id":1092051845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.78444,
+    18.4825,
+    7.78444,
+    18.4825
+],
+  "geometry": {"coordinates":[7.78444,18.4825],"type":"Point"}
+}

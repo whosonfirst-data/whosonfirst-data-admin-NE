@@ -1,0 +1,61 @@
+{
+  "id": 1209427775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.69629,13.35975,12.69629,13.35975",
+    "geom:latitude":13.35975,
+    "geom:longitude":12.69629,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ngouy",
+    "gn:country_code":"NE",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6777895,
+    "gn:latitude":13.35975,
+    "gn:longitude":12.69629,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Ngouy",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6777895
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"507e2f7180687ed9fdb417b25d968111",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209427775
+        }
+    ],
+    "wof:id":1209427775,
+    "wof:lastmodified":1536287327,
+    "wof:name":"Ngouy",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.69629,
+    13.35975,
+    12.69629,
+    13.35975
+],
+  "geometry": {"coordinates":[12.69629,13.35975],"type":"Point"}
+}

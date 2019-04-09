@@ -1,0 +1,67 @@
+{
+  "id": 1243551499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.02093,14.02346,11.02093,14.02346",
+    "geom:latitude":14.02346,
+    "geom:longitude":11.02093,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Belaberim",
+    "gn:country_code":"NE",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446905,
+    "gn:latitude":14.02346,
+    "gn:longitude":11.02093,
+    "gn:modification_date":"2008-04-09",
+    "gn:name":"B\u00e9lab\u00e9rim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446905
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"f39e9d806dc1283cece2e7cc10ee0ee3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051753,
+            "locality_id":1243551499,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1243551499,
+    "wof:lastmodified":1536654137,
+    "wof:name":"Belaberim",
+    "wof:parent_id":1092051753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.02093,
+    14.02346,
+    11.02093,
+    14.02346
+],
+  "geometry": {"coordinates":[11.02093,14.02346],"type":"Point"}
+}

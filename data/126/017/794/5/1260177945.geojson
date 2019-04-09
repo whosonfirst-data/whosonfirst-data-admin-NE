@@ -1,0 +1,67 @@
+{
+  "id": 1260177945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.5757,14.30704,1.5757,14.30704",
+    "geom:latitude":14.30704,
+    "geom:longitude":1.5757,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kouroumou",
+    "gn:country_code":"NE",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6848567,
+    "gn:latitude":14.30704,
+    "gn:longitude":1.5757,
+    "gn:modification_date":"2013-04-05",
+    "gn:name":"Kouroumou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        890429081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6848567
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"c1876dbaae2c47b86af6333b096e0f96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":890429081,
+            "locality_id":1260177945,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1260177945,
+    "wof:lastmodified":1536854512,
+    "wof:name":"Kouroumou",
+    "wof:parent_id":890429081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.5757,
+    14.30704,
+    1.5757,
+    14.30704
+],
+  "geometry": {"coordinates":[1.5757,14.30704],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1360190773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.75291,13.78908,7.75291,13.78908",
+    "geom:latitude":13.78908,
+    "geom:longitude":7.75291,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dan Gouiwa",
+    "gn:country_code":"NE",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446067,
+    "gn:latitude":13.78908,
+    "gn:longitude":7.75291,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Dan Gouiwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dan Gwywa",
+        "Dan Gwiwa",
+        "Dan Gouiwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446067
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"e1ae00bcbb74a5e9a9bba4dfd0bd436d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051435,
+            "locality_id":1360190773,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1360190773,
+    "wof:lastmodified":1537674834,
+    "wof:name":"Dan Gouiwa",
+    "wof:parent_id":1092051435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.75291,
+    13.78908,
+    7.75291,
+    13.78908
+],
+  "geometry": {"coordinates":[7.75291,13.78908],"type":"Point"}
+}

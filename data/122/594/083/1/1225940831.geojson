@@ -1,0 +1,71 @@
+{
+  "id": 1225940831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.27645,14.61194,0.27645,14.61194",
+    "geom:latitude":14.61194,
+    "geom:longitude":0.27645,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Dolbel",
+    "gn:country_code":"NE",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445520,
+    "gn:latitude":14.61194,
+    "gn:longitude":0.27645,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dolb\u00e8l",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Golbel",
+        "Dolb\u00e8l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445520
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"fa9246d430a9c36782f59b95b7fb5707",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051545,
+            "locality_id":1225940831,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1225940831,
+    "wof:lastmodified":1537674819,
+    "wof:name":"Dolbel",
+    "wof:parent_id":1092051545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.27645,
+    14.61194,
+    0.27645,
+    14.61194
+],
+  "geometry": {"coordinates":[0.27645,14.61194],"type":"Point"}
+}

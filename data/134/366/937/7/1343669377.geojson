@@ -1,0 +1,71 @@
+{
+  "id": 1343669377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.5255,13.0644,2.5255,13.0644",
+    "geom:latitude":13.0644,
+    "geom:longitude":2.5255,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tana Kaina",
+    "gn:country_code":"NE",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439190,
+    "gn:latitude":13.0644,
+    "gn:longitude":2.5255,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tana Ka\u00efna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tana Keyna",
+        "Tana Ka\u00efna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439190
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"d633650c15ad1efc8b28e3bfdc9c9cd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051075,
+            "locality_id":1343669377,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1343669377,
+    "wof:lastmodified":1537674678,
+    "wof:name":"Tana Kaina",
+    "wof:parent_id":1092051075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.5255,
+    13.0644,
+    2.5255,
+    13.0644
+],
+  "geometry": {"coordinates":[2.5255,13.0644],"type":"Point"}
+}

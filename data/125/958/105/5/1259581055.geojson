@@ -1,0 +1,67 @@
+{
+  "id": 1259581055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.96667,13.6,2.96667,13.6",
+    "geom:latitude":13.6,
+    "geom:longitude":2.96667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Gaobangou",
+    "gn:country_code":"NE",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444746,
+    "gn:latitude":13.6,
+    "gn:longitude":2.96667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Gaobangou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444746
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"bbedaa3653e578f71ade2b24c7724fea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051075,
+            "locality_id":1259581055,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1259581055,
+    "wof:lastmodified":1536718723,
+    "wof:name":"Gaobangou",
+    "wof:parent_id":1092051075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.96667,
+    13.6,
+    2.96667,
+    13.6
+],
+  "geometry": {"coordinates":[2.96667,13.6],"type":"Point"}
+}

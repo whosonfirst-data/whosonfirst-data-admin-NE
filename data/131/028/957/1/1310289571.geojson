@@ -1,0 +1,72 @@
+{
+  "id": 1310289571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.5298,14.9011,3.5298,14.9011",
+    "geom:latitude":14.9011,
+    "geom:longitude":3.5298,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"I-n-Tikilaten",
+    "gn:country_code":"NE",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2443067,
+    "gn:latitude":14.9011,
+    "gn:longitude":3.5298,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"I-n-Tikilat\u00e8n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "In Tikilat\u00e8n",
+        "I-n-Tikilat\u00e8ne",
+        "I-n-Tikilat\u00e8n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2443067
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"900a05e40203b660b1c59f7de6ea4b59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051695,
+            "locality_id":1310289571,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1310289571,
+    "wof:lastmodified":1537674762,
+    "wof:name":"I-n-Tikilaten",
+    "wof:parent_id":1092051695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.5298,
+    14.9011,
+    3.5298,
+    14.9011
+],
+  "geometry": {"coordinates":[3.5298,14.9011],"type":"Point"}
+}

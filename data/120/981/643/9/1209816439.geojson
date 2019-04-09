@@ -1,0 +1,67 @@
+{
+  "id": 1209816439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.87846,13.35329,6.87846,13.35329",
+    "geom:latitude":13.35329,
+    "geom:longitude":6.87846,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Garin Labou",
+    "gn:country_code":"NE",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444569,
+    "gn:latitude":13.35329,
+    "gn:longitude":6.87846,
+    "gn:modification_date":"2008-02-08",
+    "gn:name":"Garin Labou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444569
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"cd5f895e1b5a0cf2d5d93f67d5c9b40f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051007,
+            "locality_id":1209816439,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1209816439,
+    "wof:lastmodified":1536383419,
+    "wof:name":"Garin Labou",
+    "wof:parent_id":1092051007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.87846,
+    13.35329,
+    6.87846,
+    13.35329
+],
+  "geometry": {"coordinates":[6.87846,13.35329],"type":"Point"}
+}

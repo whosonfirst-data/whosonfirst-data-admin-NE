@@ -1,0 +1,65 @@
+{
+  "id": 1209615537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.29136,13.85513,7.29136,13.85513",
+    "geom:latitude":13.85513,
+    "geom:longitude":7.29136,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Toumboudao",
+    "gn:country_code":"NE",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438465,
+    "gn:latitude":13.85513,
+    "gn:longitude":7.29136,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Toumboudao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tomboudao",
+        "Toumboudao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438465
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"a53e8c3e4363633ec5747b645f2a7006",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209615537
+        }
+    ],
+    "wof:id":1209615537,
+    "wof:lastmodified":1537674667,
+    "wof:name":"Toumboudao",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.29136,
+    13.85513,
+    7.29136,
+    13.85513
+],
+  "geometry": {"coordinates":[7.29136,13.85513],"type":"Point"}
+}

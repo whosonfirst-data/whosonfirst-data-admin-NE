@@ -1,0 +1,72 @@
+{
+  "id": 1343646057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.2475,13.3342,2.2475,13.3342",
+    "geom:latitude":13.3342,
+    "geom:longitude":2.2475,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Youri Kourtere",
+    "gn:country_code":"NE",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437934,
+    "gn:latitude":13.3342,
+    "gn:longitude":2.2475,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Youri Kourt\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Youri",
+        "Youri Kourt\u00e9r\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437934,
+        "wk:page":"Youri%2C_Niger"
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"b4f2cd764132d8cc6e1f5aed7ba70164",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051103,
+            "locality_id":1343646057,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1343646057,
+    "wof:lastmodified":1537674652,
+    "wof:name":"Youri Kourtere",
+    "wof:parent_id":1092051103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.2475,
+    13.3342,
+    2.2475,
+    13.3342
+],
+  "geometry": {"coordinates":[2.2475,13.3342],"type":"Point"}
+}

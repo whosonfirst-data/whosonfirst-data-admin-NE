@@ -1,0 +1,65 @@
+{
+  "id": 1209422381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.9495,13.7405,3.9495,13.7405",
+    "geom:latitude":13.7405,
+    "geom:longitude":3.9495,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Agnari",
+    "gn:country_code":"NE",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447629,
+    "gn:latitude":13.7405,
+    "gn:longitude":3.9495,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Agnari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Anyari",
+        "Agnari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447629
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"db06f217ae8c7bf5ae40bed87b67f70a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209422381
+        }
+    ],
+    "wof:id":1209422381,
+    "wof:lastmodified":1537674867,
+    "wof:name":"Agnari",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.9495,
+    13.7405,
+    3.9495,
+    13.7405
+],
+  "geometry": {"coordinates":[3.9495,13.7405],"type":"Point"}
+}

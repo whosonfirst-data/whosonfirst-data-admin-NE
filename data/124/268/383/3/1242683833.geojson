@@ -1,0 +1,71 @@
+{
+  "id": 1242683833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.19877,13.13334,7.19877,13.13334",
+    "geom:latitude":13.13334,
+    "geom:longitude":7.19877,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Angoual Roumji",
+    "gn:country_code":"NE",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447688,
+    "gn:latitude":13.13334,
+    "gn:longitude":7.19877,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Angoual Roumji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Angoal Roumji",
+        "Angoual Roumji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447688
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"3f1400c06e0510c984de26f7bc0b5847",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051007,
+            "locality_id":1242683833,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1242683833,
+    "wof:lastmodified":1537674868,
+    "wof:name":"Angoual Roumji",
+    "wof:parent_id":1092051007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.19877,
+    13.13334,
+    7.19877,
+    13.13334
+],
+  "geometry": {"coordinates":[7.19877,13.13334],"type":"Point"}
+}

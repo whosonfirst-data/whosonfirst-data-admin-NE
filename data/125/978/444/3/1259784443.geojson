@@ -1,0 +1,67 @@
+{
+  "id": 1259784443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.30289,13.67209,7.30289,13.67209",
+    "geom:latitude":13.67209,
+    "geom:longitude":7.30289,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ta-jae",
+    "gn:country_code":"NE",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6713459,
+    "gn:latitude":13.67209,
+    "gn:longitude":7.30289,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"T\u00e2-ja\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6713459
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"ef03e76f3705b6f2cfb1a56454d43ef4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051229,
+            "locality_id":1259784443,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1259784443,
+    "wof:lastmodified":1536922454,
+    "wof:name":"Ta-jae",
+    "wof:parent_id":1092051229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.30289,
+    13.67209,
+    7.30289,
+    13.67209
+],
+  "geometry": {"coordinates":[7.30289,13.67209],"type":"Point"}
+}

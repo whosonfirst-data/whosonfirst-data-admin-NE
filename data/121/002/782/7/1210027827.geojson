@@ -1,0 +1,71 @@
+{
+  "id": 1210027827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.8986,13.1861,2.8986,13.1861",
+    "geom:latitude":13.1861,
+    "geom:longitude":2.8986,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ko Founo",
+    "gn:country_code":"NE",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442234,
+    "gn:latitude":13.1861,
+    "gn:longitude":2.8986,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ko Founo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kolouno",
+        "Ko Founo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442234
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"0924f80f37aec0ee5b9c2ae098d7648c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051075,
+            "locality_id":1210027827,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1210027827,
+    "wof:lastmodified":1537674744,
+    "wof:name":"Ko Founo",
+    "wof:parent_id":1092051075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.8986,
+    13.1861,
+    2.8986,
+    13.1861
+],
+  "geometry": {"coordinates":[2.8986,13.1861],"type":"Point"}
+}

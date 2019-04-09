@@ -1,0 +1,67 @@
+{
+  "id": 1343764145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.01903,12.8218,3.01903,12.8218",
+    "geom:latitude":12.8218,
+    "geom:longitude":3.01903,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Gorou-Yeno",
+    "gn:country_code":"NE",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444341,
+    "gn:latitude":12.8218,
+    "gn:longitude":3.01903,
+    "gn:modification_date":"2009-01-26",
+    "gn:name":"Gorou-Y\u00e9no",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444341
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"d38e90a196b7e4e83786e983401804b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051041,
+            "locality_id":1343764145,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1343764145,
+    "wof:lastmodified":1536805462,
+    "wof:name":"Gorou-Yeno",
+    "wof:parent_id":1092051041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.01903,
+    12.8218,
+    3.01903,
+    12.8218
+],
+  "geometry": {"coordinates":[3.01903,12.8218],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1327336661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.1233,13.8803,11.1233,13.8803",
+    "geom:latitude":13.8803,
+    "geom:longitude":11.1233,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Koukoutaou",
+    "gn:country_code":"NE",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441975,
+    "gn:latitude":13.8803,
+    "gn:longitude":11.1233,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Koukoutaou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kokouta",
+        "Kukutua",
+        "Koukoutoua",
+        "Koukoutaou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441975
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"f20a764f797bb99094f59af806541232",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051363,
+            "locality_id":1327336661,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1327336661,
+    "wof:lastmodified":1537674737,
+    "wof:name":"Koukoutaou",
+    "wof:parent_id":1092051363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.1233,
+    13.8803,
+    11.1233,
+    13.8803
+],
+  "geometry": {"coordinates":[11.1233,13.8803],"type":"Point"}
+}

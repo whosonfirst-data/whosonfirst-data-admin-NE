@@ -1,0 +1,71 @@
+{
+  "id": 1310118863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.5108,13.4351,11.5108,13.4351",
+    "geom:latitude":13.4351,
+    "geom:longitude":11.5108,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Yanoun Sawarne",
+    "gn:country_code":"NE",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6819457,
+    "gn:latitude":13.4351,
+    "gn:longitude":11.5108,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Yanoun Sawarn\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yanen Shawarne",
+        "Yanoun Sawarn\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6819457
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"81ce5b9165c15bf6c5e17a5de1ad55ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051363,
+            "locality_id":1310118863,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1310118863,
+    "wof:lastmodified":1537674887,
+    "wof:name":"Yanoun Sawarne",
+    "wof:parent_id":1092051363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.5108,
+    13.4351,
+    11.5108,
+    13.4351
+],
+  "geometry": {"coordinates":[11.5108,13.4351],"type":"Point"}
+}

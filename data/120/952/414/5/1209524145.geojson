@@ -1,0 +1,61 @@
+{
+  "id": 1209524145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.7277,13.7179,11.7277,13.7179",
+    "geom:latitude":13.7179,
+    "geom:longitude":11.7277,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kadjele",
+    "gn:country_code":"NE",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6819724,
+    "gn:latitude":13.7179,
+    "gn:longitude":11.7277,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Kadj\u00e9l\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6819724
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"c9c53cdccda4da6ccc0d80b67ec62e11",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209524145
+        }
+    ],
+    "wof:id":1209524145,
+    "wof:lastmodified":1536284484,
+    "wof:name":"Kadjele",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.7277,
+    13.7179,
+    11.7277,
+    13.7179
+],
+  "geometry": {"coordinates":[11.7277,13.7179],"type":"Point"}
+}

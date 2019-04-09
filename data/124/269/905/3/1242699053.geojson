@@ -1,0 +1,71 @@
+{
+  "id": 1242699053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.79495,14.25584,8.79495,14.25584",
+    "geom:latitude":14.25584,
+    "geom:longitude":8.79495,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bakin Birji I",
+    "gn:country_code":"NE",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447261,
+    "gn:latitude":14.25584,
+    "gn:longitude":8.79495,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bakin Birji I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bakin Birji",
+        "Bakin Birji I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447261
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"23240bd5bf2c9e5c7c35aaf59802e57b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1242699053,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1242699053,
+    "wof:lastmodified":1537674860,
+    "wof:name":"Bakin Birji I",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.79495,
+    14.25584,
+    8.79495,
+    14.25584
+],
+  "geometry": {"coordinates":[8.79495,14.25584],"type":"Point"}
+}

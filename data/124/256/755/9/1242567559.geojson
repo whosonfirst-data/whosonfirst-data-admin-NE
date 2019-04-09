@@ -1,0 +1,67 @@
+{
+  "id": 1242567559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.8828,15.2747,2.8828,15.2747",
+    "geom:latitude":15.2747,
+    "geom:longitude":2.8828,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ayawa",
+    "gn:country_code":"NE",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6678794,
+    "gn:latitude":15.2747,
+    "gn:longitude":2.8828,
+    "gn:modification_date":"2008-02-09",
+    "gn:name":"Ayawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6678794
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"6c315648a45a9789d53a1eb8ff4d1872",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051633,
+            "locality_id":1242567559,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1242567559,
+    "wof:lastmodified":1537075038,
+    "wof:name":"Ayawa",
+    "wof:parent_id":1092051633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.8828,
+    15.2747,
+    2.8828,
+    15.2747
+],
+  "geometry": {"coordinates":[2.8828,15.2747],"type":"Point"}
+}

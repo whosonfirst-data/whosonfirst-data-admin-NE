@@ -1,0 +1,67 @@
+{
+  "id": 1309919971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.0608,17.0598,8.0608,17.0598",
+    "geom:latitude":17.0598,
+    "geom:longitude":8.0608,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Azel",
+    "gn:country_code":"NE",
+    "gn:dem":544,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2596696,
+    "gn:latitude":17.0598,
+    "gn:longitude":8.0608,
+    "gn:modification_date":"2008-09-24",
+    "gn:name":"Azel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675273,
+        421182277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2596696
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"9d84d2d5f0e65344b7b5774147e30437",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182277,
+            "locality_id":1309919971,
+            "region_id":85675273
+        }
+    ],
+    "wof:id":1309919971,
+    "wof:lastmodified":1536766842,
+    "wof:name":"Azel",
+    "wof:parent_id":421182277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.0608,
+    17.0598,
+    8.0608,
+    17.0598
+],
+  "geometry": {"coordinates":[8.0608,17.0598],"type":"Point"}
+}

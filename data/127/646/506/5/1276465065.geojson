@@ -1,0 +1,71 @@
+{
+  "id": 1276465065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.02376,13.30798,10.02376,13.30798",
+    "geom:latitude":13.30798,
+    "geom:longitude":10.02376,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Grermari Kabya",
+    "gn:country_code":"NE",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444158,
+    "gn:latitude":13.30798,
+    "gn:longitude":10.02376,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gr\u00e9rmari Kabya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gu\u00e9rimari",
+        "Gr\u00e9rmari Kabya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444158
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"88bad489c421a37304cea51ae75d64d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051753,
+            "locality_id":1276465065,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1276465065,
+    "wof:lastmodified":1537674790,
+    "wof:name":"Grermari Kabya",
+    "wof:parent_id":1092051753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.02376,
+    13.30798,
+    10.02376,
+    13.30798
+],
+  "geometry": {"coordinates":[10.02376,13.30798],"type":"Point"}
+}

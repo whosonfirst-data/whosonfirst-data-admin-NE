@@ -1,0 +1,67 @@
+{
+  "id": 1276251173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.73839,14.34391,4.73839,14.34391",
+    "geom:latitude":14.34391,
+    "geom:longitude":4.73839,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Dan Lodi",
+    "gn:country_code":"NE",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6783551,
+    "gn:latitude":14.34391,
+    "gn:longitude":4.73839,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Dan Lodi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6783551
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"27b0f704a4f4c7d967796a70b546a226",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051485,
+            "locality_id":1276251173,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1276251173,
+    "wof:lastmodified":1536888406,
+    "wof:name":"Dan Lodi",
+    "wof:parent_id":1092051485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.73839,
+    14.34391,
+    4.73839,
+    14.34391
+],
+  "geometry": {"coordinates":[4.73839,14.34391],"type":"Point"}
+}

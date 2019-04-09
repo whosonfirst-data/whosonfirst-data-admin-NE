@@ -1,0 +1,67 @@
+{
+  "id": 1259707673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.69312,14.00239,7.69312,14.00239",
+    "geom:latitude":14.00239,
+    "geom:longitude":7.69312,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Nwala Maydoubou",
+    "gn:country_code":"NE",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2440437,
+    "gn:latitude":14.00239,
+    "gn:longitude":7.69312,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Nwala Maydoubou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2440437
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"47fe902b9ca693329d04c8bf37062daa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051435,
+            "locality_id":1259707673,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1259707673,
+    "wof:lastmodified":1537030926,
+    "wof:name":"Nwala Maydoubou",
+    "wof:parent_id":1092051435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.69312,
+    14.00239,
+    7.69312,
+    14.00239
+],
+  "geometry": {"coordinates":[7.69312,14.00239],"type":"Point"}
+}

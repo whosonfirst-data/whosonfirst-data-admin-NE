@@ -1,0 +1,71 @@
+{
+  "id": 1310493479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.53657,13.17534,8.53657,13.17534",
+    "geom:latitude":13.17534,
+    "geom:longitude":8.53657,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dan Tchibaou",
+    "gn:country_code":"NE",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445937,
+    "gn:latitude":13.17534,
+    "gn:longitude":8.53657,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dan Tchibaou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dan Tchibao",
+        "Dan Tchibaou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445937
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"4159fe5261bd36ce8ceb8400410793bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051133,
+            "locality_id":1310493479,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1310493479,
+    "wof:lastmodified":1537674831,
+    "wof:name":"Dan Tchibaou",
+    "wof:parent_id":1092051133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.53657,
+    13.17534,
+    8.53657,
+    13.17534
+],
+  "geometry": {"coordinates":[8.53657,13.17534],"type":"Point"}
+}

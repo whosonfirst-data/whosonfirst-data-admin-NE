@@ -1,0 +1,67 @@
+{
+  "id": 1242880197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.08337,13.4099,8.08337,13.4099",
+    "geom:latitude":13.4099,
+    "geom:longitude":8.08337,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Goubaou",
+    "gn:country_code":"NE",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6726698,
+    "gn:latitude":13.4099,
+    "gn:longitude":8.08337,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Goubaou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6726698
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"3277626d87f538faa5f3a2957a8d46ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051197,
+            "locality_id":1242880197,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1242880197,
+    "wof:lastmodified":1536625915,
+    "wof:name":"Goubaou",
+    "wof:parent_id":1092051197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.08337,
+    13.4099,
+    8.08337,
+    13.4099
+],
+  "geometry": {"coordinates":[8.08337,13.4099],"type":"Point"}
+}

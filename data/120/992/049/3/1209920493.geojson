@@ -1,0 +1,67 @@
+{
+  "id": 1209920493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.42969,14.24388,7.42969,14.24388",
+    "geom:latitude":14.24388,
+    "geom:longitude":7.42969,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Guidan Kaka",
+    "gn:country_code":"NE",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2443800,
+    "gn:latitude":14.24388,
+    "gn:longitude":7.42969,
+    "gn:modification_date":"2008-08-21",
+    "gn:name":"Guidan Kaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2443800
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"983163fa717430bde0e1e4cfa5f6264f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051435,
+            "locality_id":1209920493,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1209920493,
+    "wof:lastmodified":1536368910,
+    "wof:name":"Guidan Kaka",
+    "wof:parent_id":1092051435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.42969,
+    14.24388,
+    7.42969,
+    14.24388
+],
+  "geometry": {"coordinates":[7.42969,14.24388],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209316229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.08401,13.33953,4.08401,13.33953",
+    "geom:latitude":13.33953,
+    "geom:longitude":4.08401,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Garin Malam",
+    "gn:country_code":"NE",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7003153,
+    "gn:latitude":13.33953,
+    "gn:longitude":4.08401,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Garin Malam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7003153
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"588623a02a5d285f132cdb908f1a5f30",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209316229
+        }
+    ],
+    "wof:id":1209316229,
+    "wof:lastmodified":1536290854,
+    "wof:name":"Garin Malam",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.08401,
+    13.339529999999998,
+    4.08401,
+    13.339529999999998
+],
+  "geometry": {"coordinates":[4.08401,13.33953],"type":"Point"}
+}

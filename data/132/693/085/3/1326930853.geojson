@@ -1,0 +1,71 @@
+{
+  "id": 1326930853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.03208,13.45384,7.03208,13.45384",
+    "geom:latitude":13.45384,
+    "geom:longitude":7.03208,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sara Maradi",
+    "gn:country_code":"NE",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439848,
+    "gn:latitude":13.45384,
+    "gn:longitude":7.03208,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sara Maradi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u00e2d'in K\u00f4w\u00e2 Abarchi",
+        "Sara Maradi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439848
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"d52e5fec31766d3a2c86b20ecf5a6cca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051007,
+            "locality_id":1326930853,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1326930853,
+    "wof:lastmodified":1537674692,
+    "wof:name":"Sara Maradi",
+    "wof:parent_id":1092051007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.03208,
+    13.45384,
+    7.03208,
+    13.45384
+],
+  "geometry": {"coordinates":[7.03208,13.45384],"type":"Point"}
+}

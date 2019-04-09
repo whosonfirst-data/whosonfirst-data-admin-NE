@@ -1,0 +1,71 @@
+{
+  "id": 1292990601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.2608,13.782,2.2608,13.782",
+    "geom:latitude":13.782,
+    "geom:longitude":2.2608,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Labou Titiloua",
+    "gn:country_code":"NE",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441741,
+    "gn:latitude":13.782,
+    "gn:longitude":2.2608,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Labou Titiloua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Labouti Tiloa",
+        "Labou Titiloua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441741
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"6e9bf3cb2b35ef9d2858c8f49c9edef2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1292990601,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1292990601,
+    "wof:lastmodified":1537674730,
+    "wof:name":"Labou Titiloua",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.2608,
+    13.782,
+    2.2608,
+    13.782
+],
+  "geometry": {"coordinates":[2.2608,13.782],"type":"Point"}
+}

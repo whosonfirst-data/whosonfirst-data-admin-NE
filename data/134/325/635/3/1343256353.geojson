@@ -1,0 +1,67 @@
+{
+  "id": 1343256353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.77853,14.64436,7.77853,14.64436",
+    "geom:latitude":14.64436,
+    "geom:longitude":7.77853,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dan Nomo",
+    "gn:country_code":"NE",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445966,
+    "gn:latitude":14.64436,
+    "gn:longitude":7.77853,
+    "gn:modification_date":"2008-08-21",
+    "gn:name":"Dan Nomo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445966
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"2a7bdcea53a6dc42f096e2b7042f7bde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1343256353,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1343256353,
+    "wof:lastmodified":1537039172,
+    "wof:name":"Dan Nomo",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.77853,
+    14.64436,
+    7.77853,
+    14.64436
+],
+  "geometry": {"coordinates":[7.77853,14.64436],"type":"Point"}
+}

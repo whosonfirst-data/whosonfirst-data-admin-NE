@@ -1,0 +1,67 @@
+{
+  "id": 1310305327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.7424,14.01197,6.7424,14.01197",
+    "geom:latitude":14.01197,
+    "geom:longitude":6.7424,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Guidan Tiakou",
+    "gn:country_code":"NE",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6849935,
+    "gn:latitude":14.01197,
+    "gn:longitude":6.7424,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Guidan Tiakou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6849935
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"aaa0806e1946bfaf3e89d21f3cdb2a9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1310305327,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1310305327,
+    "wof:lastmodified":1536708466,
+    "wof:name":"Guidan Tiakou",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.7424,
+    14.01197,
+    6.7424,
+    14.01197
+],
+  "geometry": {"coordinates":[6.7424,14.01197],"type":"Point"}
+}

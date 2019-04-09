@@ -1,0 +1,72 @@
+{
+  "id": 1360174309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.55457,13.9427,1.55457,13.9427",
+    "geom:latitude":13.9427,
+    "geom:longitude":1.55457,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Dalawey",
+    "gn:country_code":"NE",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446256,
+    "gn:latitude":13.9427,
+    "gn:longitude":1.55457,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Dalawey",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dalouel",
+        "Dalouey",
+        "Dalawey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        890429081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446256
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"13e1000ffd9ff67d13ed5047ef846666",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":890429081,
+            "locality_id":1360174309,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1360174309,
+    "wof:lastmodified":1537674837,
+    "wof:name":"Dalawey",
+    "wof:parent_id":890429081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.55457,
+    13.9427,
+    1.55457,
+    13.9427
+],
+  "geometry": {"coordinates":[1.55457,13.9427],"type":"Point"}
+}

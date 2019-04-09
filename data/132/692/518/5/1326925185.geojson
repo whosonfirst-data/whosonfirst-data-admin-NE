@@ -1,0 +1,71 @@
+{
+  "id": 1326925185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.76053,13.14747,1.76053,13.14747",
+    "geom:latitude":13.14747,
+    "geom:longitude":1.76053,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kobio",
+    "gn:country_code":"NE",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442346,
+    "gn:latitude":13.14747,
+    "gn:longitude":1.76053,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Kobio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kobyon",
+        "Kobio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442346
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"0bc6c0a178b57d2f35b7fb87cac6a023",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051103,
+            "locality_id":1326925185,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1326925185,
+    "wof:lastmodified":1537674747,
+    "wof:name":"Kobio",
+    "wof:parent_id":1092051103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.76053,
+    13.14747,
+    1.76053,
+    13.14747
+],
+  "geometry": {"coordinates":[1.76053,13.14747],"type":"Point"}
+}

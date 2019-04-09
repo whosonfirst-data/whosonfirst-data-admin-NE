@@ -1,0 +1,71 @@
+{
+  "id": 1293202559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.5148,13.6711,3.5148,13.6711",
+    "geom:latitude":13.6711,
+    "geom:longitude":3.5148,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Gongakaina",
+    "gn:country_code":"NE",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444385,
+    "gn:latitude":13.6711,
+    "gn:longitude":3.5148,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gongaka\u00efna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gonga Keyna",
+        "Gongaka\u00efna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444385
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"d7c447ca3345ff7ce6947f0735195ea8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051273,
+            "locality_id":1293202559,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1293202559,
+    "wof:lastmodified":1537674795,
+    "wof:name":"Gongakaina",
+    "wof:parent_id":1092051273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.5148,
+    13.6711,
+    3.5148,
+    13.6711
+],
+  "geometry": {"coordinates":[3.5148,13.6711],"type":"Point"}
+}

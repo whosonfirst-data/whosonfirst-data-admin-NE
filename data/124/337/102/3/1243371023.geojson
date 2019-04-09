@@ -1,0 +1,71 @@
+{
+  "id": 1243371023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.01632,13.52008,4.01632,13.52008",
+    "geom:latitude":13.52008,
+    "geom:longitude":4.01632,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Gaguila",
+    "gn:country_code":"NE",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444849,
+    "gn:latitude":13.52008,
+    "gn:longitude":4.01632,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Gaguila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gagila",
+        "Gaguila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444849
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"10a472a60b1bc44a26da3604692b08f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051467,
+            "locality_id":1243371023,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1243371023,
+    "wof:lastmodified":1537674805,
+    "wof:name":"Gaguila",
+    "wof:parent_id":1092051467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.01632,
+    13.52008,
+    4.01632,
+    13.52008
+],
+  "geometry": {"coordinates":[4.01632,13.52008],"type":"Point"}
+}

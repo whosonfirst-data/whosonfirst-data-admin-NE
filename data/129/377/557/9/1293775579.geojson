@@ -1,0 +1,67 @@
+{
+  "id": 1293775579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.94129,14.63391,7.94129,14.63391",
+    "geom:latitude":14.63391,
+    "geom:longitude":7.94129,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bakwey",
+    "gn:country_code":"NE",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447241,
+    "gn:latitude":14.63391,
+    "gn:longitude":7.94129,
+    "gn:modification_date":"2008-08-21",
+    "gn:name":"Bakw\u00e9y",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447241
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"5e7059073a61a2c037db094a65cf51f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1293775579,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1293775579,
+    "wof:lastmodified":1536867646,
+    "wof:name":"Bakwey",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.94129,
+    14.63391,
+    7.94129,
+    14.63391
+],
+  "geometry": {"coordinates":[7.94129,14.63391],"type":"Point"}
+}

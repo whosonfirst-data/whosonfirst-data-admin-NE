@@ -1,0 +1,61 @@
+{
+  "id": 1209216433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.03019,14.28005,4.03019,14.28005",
+    "geom:latitude":14.28005,
+    "geom:longitude":4.03019,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ebiyen",
+    "gn:country_code":"NE",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6783622,
+    "gn:latitude":14.28005,
+    "gn:longitude":4.03019,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Ebiy\u00e9n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6783622
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"1cf732276438e0776ffd11bb33e610dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209216433
+        }
+    ],
+    "wof:id":1209216433,
+    "wof:lastmodified":1536294115,
+    "wof:name":"Ebiyen",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.03019,
+    14.28005,
+    4.03019,
+    14.28005
+],
+  "geometry": {"coordinates":[4.03019,14.28005],"type":"Point"}
+}

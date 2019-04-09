@@ -1,0 +1,71 @@
+{
+  "id": 1210008251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.72404,13.88772,8.72404,13.88772",
+    "geom:latitude":13.88772,
+    "geom:longitude":8.72404,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bilma Garin Dawa",
+    "gn:country_code":"NE",
+    "gn:dem":499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446797,
+    "gn:latitude":13.88772,
+    "gn:longitude":8.72404,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bilma Garin Dawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bilma",
+        "Bilma Garin Dawa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446797
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"67063d2037b39ca2b158d91843c333ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051411,
+            "locality_id":1210008251,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1210008251,
+    "wof:lastmodified":1537674850,
+    "wof:name":"Bilma Garin Dawa",
+    "wof:parent_id":1092051411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.72404,
+    13.88772,
+    8.72404,
+    13.88772
+],
+  "geometry": {"coordinates":[8.72404,13.88772],"type":"Point"}
+}

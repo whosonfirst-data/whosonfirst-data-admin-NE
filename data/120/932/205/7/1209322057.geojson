@@ -1,0 +1,65 @@
+{
+  "id": 1209322057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.51254,12.96228,3.51254,12.96228",
+    "geom:latitude":12.96228,
+    "geom:longitude":3.51254,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Gari Nkouka",
+    "gn:country_code":"NE",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444573,
+    "gn:latitude":12.96228,
+    "gn:longitude":3.51254,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gari Nkouka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Garin Kouka",
+        "Gari Nkouka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444573
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"cc8c97eb3d27f19a416b4bd15edf1087",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209322057
+        }
+    ],
+    "wof:id":1209322057,
+    "wof:lastmodified":1537674800,
+    "wof:name":"Gari Nkouka",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.51254,
+    12.96228,
+    3.51254,
+    12.96228
+],
+  "geometry": {"coordinates":[3.51254,12.96228],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1260275875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.50932,13.89089,5.50932,13.89089",
+    "geom:latitude":13.89089,
+    "geom:longitude":5.50932,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Guidan-Barao",
+    "gn:country_code":"NE",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2443985,
+    "gn:latitude":13.89089,
+    "gn:longitude":5.50932,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Guidan-Barao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gidan-Barao",
+        "Guidan-Barao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2443985
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"fc5d5c4989839b1ff815dcbf2d23289c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051301,
+            "locality_id":1260275875,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1260275875,
+    "wof:lastmodified":1537674784,
+    "wof:name":"Guidan-Barao",
+    "wof:parent_id":1092051301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.50932,
+    13.89089,
+    5.50932,
+    13.89089
+],
+  "geometry": {"coordinates":[5.50932,13.89089],"type":"Point"}
+}

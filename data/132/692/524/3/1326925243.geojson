@@ -1,0 +1,72 @@
+{
+  "id": 1326925243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.1919,13.4034,2.1919,13.4034",
+    "geom:latitude":13.4034,
+    "geom:longitude":2.1919,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Libore",
+    "gn:country_code":"NE",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2568994,
+    "gn:latitude":13.4034,
+    "gn:longitude":2.1919,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Libor\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Libor\u00e9 Tonko Bangou",
+        "Libor\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2568994,
+        "wk:page":"Libore"
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"c90eb1921f8444915c6b8ad909b36482",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1326925243,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1326925243,
+    "wof:lastmodified":1537674875,
+    "wof:name":"Libore",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1919,
+    13.4034,
+    2.1919,
+    13.4034
+],
+  "geometry": {"coordinates":[2.1919,13.4034],"type":"Point"}
+}

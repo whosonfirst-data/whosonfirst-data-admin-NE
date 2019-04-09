@@ -1,0 +1,67 @@
+{
+  "id": 1225928327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.38034,14.04725,1.38034,14.04725",
+    "geom:latitude":14.04725,
+    "geom:longitude":1.38034,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Doundoubangou",
+    "gn:country_code":"NE",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445440,
+    "gn:latitude":14.04725,
+    "gn:longitude":1.38034,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Doundoubangou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445440
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"8fcb47a981a7dc4710fc0c596baee643",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051545,
+            "locality_id":1225928327,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1225928327,
+    "wof:lastmodified":1536894359,
+    "wof:name":"Doundoubangou",
+    "wof:parent_id":1092051545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.38034,
+    14.04725,
+    1.38034,
+    14.04725
+],
+  "geometry": {"coordinates":[1.38034,14.04725],"type":"Point"}
+}

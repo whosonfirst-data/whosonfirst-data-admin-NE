@@ -1,0 +1,71 @@
+{
+  "id": 1243161887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.477,14.55453,1.477,14.55453",
+    "geom:latitude":14.55453,
+    "geom:longitude":1.477,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Manssa",
+    "gn:country_code":"NE",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441313,
+    "gn:latitude":14.55453,
+    "gn:longitude":1.477,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Manssa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mansa",
+        "Manssa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        890429081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441313
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"65ca0ca2162a9573bccbd8b1615f5286",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":890429081,
+            "locality_id":1243161887,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1243161887,
+    "wof:lastmodified":1537674720,
+    "wof:name":"Manssa",
+    "wof:parent_id":890429081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.477,
+    14.55453,
+    1.477,
+    14.55453
+],
+  "geometry": {"coordinates":[1.477,14.55453],"type":"Point"}
+}

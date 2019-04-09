@@ -1,0 +1,67 @@
+{
+  "id": 1293673663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.41024,14.25272,1.41024,14.25272",
+    "geom:latitude":14.25272,
+    "geom:longitude":1.41024,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bossa",
+    "gn:country_code":"NE",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446624,
+    "gn:latitude":14.25272,
+    "gn:longitude":1.41024,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Bossa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        890429081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446624
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"15e22544385b884aef1e67224f6ca9d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":890429081,
+            "locality_id":1293673663,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1293673663,
+    "wof:lastmodified":1537015197,
+    "wof:name":"Bossa",
+    "wof:parent_id":890429081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.41024,
+    14.25272,
+    1.41024,
+    14.25272
+],
+  "geometry": {"coordinates":[1.41024,14.25272],"type":"Point"}
+}

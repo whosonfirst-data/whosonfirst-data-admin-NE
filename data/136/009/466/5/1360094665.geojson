@@ -1,0 +1,67 @@
+{
+  "id": 1360094665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.7263,17.6928,8.7263,17.6928",
+    "geom:latitude":17.6928,
+    "geom:longitude":8.7263,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Merig",
+    "gn:country_code":"NE",
+    "gn:dem":1541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6578640,
+    "gn:latitude":17.6928,
+    "gn:longitude":8.7263,
+    "gn:modification_date":"2008-09-24",
+    "gn:name":"M\u00e9r\u00efg",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675273,
+        421182277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6578640
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"e7d3a689d100ce0213c95d4f8a76e303",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182277,
+            "locality_id":1360094665,
+            "region_id":85675273
+        }
+    ],
+    "wof:id":1360094665,
+    "wof:lastmodified":1536932500,
+    "wof:name":"Merig",
+    "wof:parent_id":421182277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.7263,
+    17.6928,
+    8.7263,
+    17.6928
+],
+  "geometry": {"coordinates":[8.7263,17.6928],"type":"Point"}
+}

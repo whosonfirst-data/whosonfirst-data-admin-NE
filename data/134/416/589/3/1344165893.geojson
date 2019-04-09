@@ -1,0 +1,71 @@
+{
+  "id": 1344165893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.27039,14.33119,13.27039,14.33119",
+    "geom:latitude":14.33119,
+    "geom:longitude":13.27039,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Boula Koura",
+    "gn:country_code":"NE",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6786975,
+    "gn:latitude":14.33119,
+    "gn:longitude":13.27039,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Boula Koura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Limi",
+        "Boula Koura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6786975
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"419dc41c53909b75b0e47fff06d56cc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051781,
+            "locality_id":1344165893,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1344165893,
+    "wof:lastmodified":1537674887,
+    "wof:name":"Boula Koura",
+    "wof:parent_id":1092051781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.27039,
+    14.33119,
+    13.27039,
+    14.33119
+],
+  "geometry": {"coordinates":[13.27039,14.33119],"type":"Point"}
+}

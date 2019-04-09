@@ -1,0 +1,61 @@
+{
+  "id": 1209623983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.0761,13.3827,11.0761,13.3827",
+    "geom:latitude":13.3827,
+    "geom:longitude":11.0761,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Likaridi",
+    "gn:country_code":"NE",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6819423,
+    "gn:latitude":13.3827,
+    "gn:longitude":11.0761,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Likaridi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6819423
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"faa8f6bb96bc991fbb3a7caf47f99022",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209623983
+        }
+    ],
+    "wof:id":1209623983,
+    "wof:lastmodified":1536281419,
+    "wof:name":"Likaridi",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.0761,
+    13.3827,
+    11.0761,
+    13.3827
+],
+  "geometry": {"coordinates":[11.0761,13.3827],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209512127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.86333,14.03194,2.86333,14.03194",
+    "geom:latitude":14.03194,
+    "geom:longitude":2.86333,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tondikandia",
+    "gn:country_code":"NE",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8335371,
+    "gn:latitude":14.03194,
+    "gn:longitude":2.86333,
+    "gn:modification_date":"2012-06-25",
+    "gn:name":"Tondikandia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8335371,
+        "wk:page":"Tondikandia"
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"cd288585ffa2dc7db8d63ac38baf4637",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209512127
+        }
+    ],
+    "wof:id":1209512127,
+    "wof:lastmodified":1537569972,
+    "wof:name":"Tondikandia",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.86333,
+    14.03194,
+    2.86333,
+    14.03194
+],
+  "geometry": {"coordinates":[2.86333,14.03194],"type":"Point"}
+}

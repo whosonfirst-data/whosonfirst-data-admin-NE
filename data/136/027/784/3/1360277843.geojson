@@ -1,0 +1,67 @@
+{
+  "id": 1360277843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.32111,13.91688,6.32111,13.91688",
+    "geom:latitude":13.91688,
+    "geom:longitude":6.32111,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Soungali",
+    "gn:country_code":"NE",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439554,
+    "gn:latitude":13.91688,
+    "gn:longitude":6.32111,
+    "gn:modification_date":"2008-02-07",
+    "gn:name":"Soungali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439554
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"f3d93795e7b005d75a6936e2ea848714",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051329,
+            "locality_id":1360277843,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1360277843,
+    "wof:lastmodified":1536667628,
+    "wof:name":"Soungali",
+    "wof:parent_id":1092051329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.32111,
+    13.91688,
+    6.32111,
+    13.91688
+],
+  "geometry": {"coordinates":[6.32111,13.91688],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1309790279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.00139,12.7735,2.00139,12.7735",
+    "geom:latitude":12.7735,
+    "geom:longitude":2.00139,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ouadi Soudou",
+    "gn:country_code":"NE",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2440383,
+    "gn:latitude":12.7735,
+    "gn:longitude":2.00139,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Ouadi Soudou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wadi Soudou",
+        "Ouadi Soudou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2440383
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"18d52b8c130db9057310583d35e7283f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051103,
+            "locality_id":1309790279,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1309790279,
+    "wof:lastmodified":1537674704,
+    "wof:name":"Ouadi Soudou",
+    "wof:parent_id":1092051103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.00139,
+    12.7735,
+    2.00139,
+    12.7735
+],
+  "geometry": {"coordinates":[2.00139,12.7735],"type":"Point"}
+}

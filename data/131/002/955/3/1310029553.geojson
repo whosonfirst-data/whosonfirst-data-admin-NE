@@ -1,0 +1,71 @@
+{
+  "id": 1310029553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.14846,13.87772,7.14846,13.87772",
+    "geom:latitude":13.87772,
+    "geom:longitude":7.14846,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Guidan Achalou",
+    "gn:country_code":"NE",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444108,
+    "gn:latitude":13.87772,
+    "gn:longitude":7.14846,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Guidan Achalou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gidan Achalou",
+        "Guidan Achalou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444108
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"638a35876ac48f298a2b770e8847476f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1310029553,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1310029553,
+    "wof:lastmodified":1537674788,
+    "wof:name":"Guidan Achalou",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.14846,
+    13.87772,
+    7.14846,
+    13.87772
+],
+  "geometry": {"coordinates":[7.14846,13.87772],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276880583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.2254,13.85001,4.2254,13.85001",
+    "geom:latitude":13.85001,
+    "geom:longitude":4.2254,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Baoudaguida",
+    "gn:country_code":"NE",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7007243,
+    "gn:latitude":13.85001,
+    "gn:longitude":4.2254,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Baoudaguida",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bnoudugida",
+        "Bnoudagida",
+        "Baoudaguida",
+        "Baoudagida"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7007243
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"017cd57cd523b3105b89af63f1fd5bc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051467,
+            "locality_id":1276880583,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1276880583,
+    "wof:lastmodified":1537674892,
+    "wof:name":"Baoudaguida",
+    "wof:parent_id":1092051467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.2254,
+    13.85001,
+    4.2254,
+    13.85001
+],
+  "geometry": {"coordinates":[4.2254,13.85001],"type":"Point"}
+}

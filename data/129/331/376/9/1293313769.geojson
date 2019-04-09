@@ -1,0 +1,67 @@
+{
+  "id": 1293313769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.24663,13.90983,9.24663,13.90983",
+    "geom:latitude":13.90983,
+    "geom:longitude":9.24663,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Lalachi",
+    "gn:country_code":"NE",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6806792,
+    "gn:latitude":13.90983,
+    "gn:longitude":9.24663,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Lalachi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6806792
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"45fa2c8850b0aa248259aa2abaa0e553",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051411,
+            "locality_id":1293313769,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1293313769,
+    "wof:lastmodified":1537035999,
+    "wof:name":"Lalachi",
+    "wof:parent_id":1092051411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.24663,
+    13.90983,
+    9.24663,
+    13.90983
+],
+  "geometry": {"coordinates":[9.24663,13.90983],"type":"Point"}
+}

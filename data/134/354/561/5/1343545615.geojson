@@ -1,0 +1,67 @@
+{
+  "id": 1343545615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.80785,13.34118,1.80785,13.34118",
+    "geom:latitude":13.34118,
+    "geom:longitude":1.80785,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Nodire Aamdiaparo",
+    "gn:country_code":"NE",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6844882,
+    "gn:latitude":13.34118,
+    "gn:longitude":1.80785,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Nodir\u00e9 Aamdiaparo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6844882
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"456adb215ce705e45397a04976b8aa3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051103,
+            "locality_id":1343545615,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1343545615,
+    "wof:lastmodified":1536621328,
+    "wof:name":"Nodire Aamdiaparo",
+    "wof:parent_id":1092051103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.80785,
+    13.34118,
+    1.80785,
+    13.34118
+],
+  "geometry": {"coordinates":[1.80785,13.34118],"type":"Point"}
+}

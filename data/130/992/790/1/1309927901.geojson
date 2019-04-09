@@ -1,0 +1,67 @@
+{
+  "id": 1309927901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.19531,13.70259,6.19531,13.70259",
+    "geom:latitude":13.70259,
+    "geom:longitude":6.19531,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Guidan Abara",
+    "gn:country_code":"NE",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444117,
+    "gn:latitude":13.70259,
+    "gn:longitude":6.19531,
+    "gn:modification_date":"2008-02-07",
+    "gn:name":"Guidan Abara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444117
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"1ecf2c19a389ce0b5d9916dd2f5ef747",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051329,
+            "locality_id":1309927901,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1309927901,
+    "wof:lastmodified":1536755194,
+    "wof:name":"Guidan Abara",
+    "wof:parent_id":1092051329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.19531,
+    13.70259,
+    6.19531,
+    13.70259
+],
+  "geometry": {"coordinates":[6.19531,13.70259],"type":"Point"}
+}

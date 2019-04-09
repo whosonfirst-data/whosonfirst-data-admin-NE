@@ -1,0 +1,67 @@
+{
+  "id": 1343654175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.4987,14.7798,5.4987,14.7798",
+    "geom:latitude":14.7798,
+    "geom:longitude":5.4987,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Gidan Baraya",
+    "gn:country_code":"NE",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2596660,
+    "gn:latitude":14.7798,
+    "gn:longitude":5.4987,
+    "gn:modification_date":"2007-11-30",
+    "gn:name":"Gidan Baraya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2596660
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"26d931b56c1d90819b415697fdc677ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051609,
+            "locality_id":1343654175,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1343654175,
+    "wof:lastmodified":1536963952,
+    "wof:name":"Gidan Baraya",
+    "wof:parent_id":1092051609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.4987,
+    14.7798,
+    5.4987,
+    14.7798
+],
+  "geometry": {"coordinates":[5.4987,14.7798],"type":"Point"}
+}

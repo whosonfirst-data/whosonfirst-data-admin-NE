@@ -1,0 +1,71 @@
+{
+  "id": 1260104329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.61583,14.7777,6.61583,14.7777",
+    "geom:latitude":14.7777,
+    "geom:longitude":6.61583,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"I-n-Tigar",
+    "gn:country_code":"NE",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6849245,
+    "gn:latitude":14.7777,
+    "gn:longitude":6.61583,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"I-n-Tigar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "In Tigar",
+        "I-n-Tigar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6849245
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"d3dfa73de3d6023c32d3f03772c7b3c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1260104329,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1260104329,
+    "wof:lastmodified":1537674889,
+    "wof:name":"I-n-Tigar",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.61583,
+    14.7777,
+    6.61583,
+    14.7777
+],
+  "geometry": {"coordinates":[6.61583,14.7777],"type":"Point"}
+}

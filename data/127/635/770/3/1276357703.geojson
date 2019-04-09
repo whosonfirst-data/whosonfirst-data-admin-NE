@@ -1,0 +1,67 @@
+{
+  "id": 1276357703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.36199,13.24826,8.36199,13.24826",
+    "geom:latitude":13.24826,
+    "geom:longitude":8.36199,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Rijial Kourma",
+    "gn:country_code":"NE",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6733820,
+    "gn:latitude":13.24826,
+    "gn:longitude":8.36199,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Rijial Kourma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6733820
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"b79a5cb39ddeca3c5d5b5479b51901c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051165,
+            "locality_id":1276357703,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1276357703,
+    "wof:lastmodified":1536745649,
+    "wof:name":"Rijial Kourma",
+    "wof:parent_id":1092051165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.36199,
+    13.24826,
+    8.36199,
+    13.24826
+],
+  "geometry": {"coordinates":[8.36199,13.24826],"type":"Point"}
+}

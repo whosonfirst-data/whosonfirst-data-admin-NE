@@ -1,0 +1,67 @@
+{
+  "id": 1242897925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.16185,14.25488,7.16185,14.25488",
+    "geom:latitude":14.25488,
+    "geom:longitude":7.16185,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Danzabo",
+    "gn:country_code":"NE",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445896,
+    "gn:latitude":14.25488,
+    "gn:longitude":7.16185,
+    "gn:modification_date":"2008-08-21",
+    "gn:name":"Danzabo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445896
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"8c07b001ce137d4c8218b7c78070961e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1242897925,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1242897925,
+    "wof:lastmodified":1537096027,
+    "wof:name":"Danzabo",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.16185,
+    14.25488,
+    7.16185,
+    14.25488
+],
+  "geometry": {"coordinates":[7.16185,14.25488],"type":"Point"}
+}

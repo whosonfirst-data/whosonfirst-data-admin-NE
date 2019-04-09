@@ -1,0 +1,71 @@
+{
+  "id": 1209713345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.15143,13.75557,6.15143,13.75557",
+    "geom:latitude":13.75557,
+    "geom:longitude":6.15143,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tosa",
+    "gn:country_code":"NE",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438397,
+    "gn:latitude":13.75557,
+    "gn:longitude":6.15143,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tosa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tossa",
+        "Tosa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438397
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"e4ec60b2e13498d69f8a9b6c000518b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051329,
+            "locality_id":1209713345,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1209713345,
+    "wof:lastmodified":1537674664,
+    "wof:name":"Tosa",
+    "wof:parent_id":1092051329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.15143,
+    13.75557,
+    6.15143,
+    13.75557
+],
+  "geometry": {"coordinates":[6.15143,13.75557],"type":"Point"}
+}

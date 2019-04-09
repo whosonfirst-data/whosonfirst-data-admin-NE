@@ -1,0 +1,67 @@
+{
+  "id": 1259596127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.20065,14.08149,11.20065,14.08149",
+    "geom:latitude":14.08149,
+    "geom:longitude":11.20065,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Jitkouka",
+    "gn:country_code":"NE",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442961,
+    "gn:latitude":14.08149,
+    "gn:longitude":11.20065,
+    "gn:modification_date":"2008-04-09",
+    "gn:name":"Jitkouka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442961
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"5ab5d3ac7e458d05b5b45a2159d47ec7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051363,
+            "locality_id":1259596127,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1259596127,
+    "wof:lastmodified":1536696716,
+    "wof:name":"Jitkouka",
+    "wof:parent_id":1092051363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.20065,
+    14.08149,
+    11.20065,
+    14.08149
+],
+  "geometry": {"coordinates":[11.20065,14.08149],"type":"Point"}
+}

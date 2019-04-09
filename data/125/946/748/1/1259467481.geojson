@@ -1,0 +1,72 @@
+{
+  "id": 1259467481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.86603,13.92015,1.86603,13.92015",
+    "geom:latitude":13.92015,
+    "geom:longitude":1.86603,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bangou Tawey",
+    "gn:country_code":"NE",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447143,
+    "gn:latitude":13.92015,
+    "gn:longitude":1.86603,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Bangou Tawey",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bangou-Taw\u00e9",
+        "Bangou Taou\u00e9",
+        "Bangou Tawey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        890429081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447143
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"f17916766f87519482fc782e42ed0ac1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":890429081,
+            "locality_id":1259467481,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1259467481,
+    "wof:lastmodified":1537674857,
+    "wof:name":"Bangou Tawey",
+    "wof:parent_id":890429081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.86603,
+    13.92015,
+    1.86603,
+    13.92015
+],
+  "geometry": {"coordinates":[1.86603,13.92015],"type":"Point"}
+}

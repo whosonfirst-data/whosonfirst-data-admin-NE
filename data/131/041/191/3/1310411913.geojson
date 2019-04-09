@@ -1,0 +1,67 @@
+{
+  "id": 1310411913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.57349,13.80805,7.57349,13.80805",
+    "geom:latitude":13.80805,
+    "geom:longitude":7.57349,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Guidan Bako May Ganga",
+    "gn:country_code":"NE",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444006,
+    "gn:latitude":13.80805,
+    "gn:longitude":7.57349,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Guidan Bako May Ganga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444006
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"1f916bd6c2d95209fc06c40acb9beabc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051435,
+            "locality_id":1310411913,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1310411913,
+    "wof:lastmodified":1537049888,
+    "wof:name":"Guidan Bako May Ganga",
+    "wof:parent_id":1092051435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.57349,
+    13.80805,
+    7.57349,
+    13.80805
+],
+  "geometry": {"coordinates":[7.57349,13.80805],"type":"Point"}
+}

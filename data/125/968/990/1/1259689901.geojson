@@ -1,0 +1,67 @@
+{
+  "id": 1259689901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.96202,14.00606,6.96202,14.00606",
+    "geom:latitude":14.00606,
+    "geom:longitude":6.96202,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dan Fachima",
+    "gn:country_code":"NE",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6849915,
+    "gn:latitude":14.00606,
+    "gn:longitude":6.96202,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Dan Fachima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6849915
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"776bc4d1c861c6730ab71f0688a9c64d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1259689901,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1259689901,
+    "wof:lastmodified":1537055310,
+    "wof:name":"Dan Fachima",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.96202,
+    14.00606,
+    6.96202,
+    14.00606
+],
+  "geometry": {"coordinates":[6.96202,14.00606],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209426307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.96667,13.3,2.96667,13.3",
+    "geom:latitude":13.3,
+    "geom:longitude":2.96667,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mayeri Kwara",
+    "gn:cc2":"NE",
+    "gn:country_code":"NE",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441144,
+    "gn:latitude":13.3,
+    "gn:longitude":2.96667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"May\u00e9ri Kwara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "May\u00e9ri-Koara",
+        "May\u00e9ri Kwara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441144
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"b4a0583e4fdebf0b20ccb4fe8a2147a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209426307
+        }
+    ],
+    "wof:id":1209426307,
+    "wof:lastmodified":1537674716,
+    "wof:name":"Mayeri Kwara",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.96667,
+    13.3,
+    2.96667,
+    13.3
+],
+  "geometry": {"coordinates":[2.96667,13.3],"type":"Point"}
+}

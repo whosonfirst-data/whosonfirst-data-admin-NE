@@ -1,0 +1,61 @@
+{
+  "id": 1209523091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.23102,12.20373,3.23102,12.20373",
+    "geom:latitude":12.20373,
+    "geom:longitude":3.23102,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tombo Guerba",
+    "gn:country_code":"NE",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438479,
+    "gn:latitude":12.20373,
+    "gn:longitude":3.23102,
+    "gn:modification_date":"2009-02-18",
+    "gn:name":"Tombo Guerba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438479
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"8c4d68de04a959c89c44f50d6e9e66c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209523091
+        }
+    ],
+    "wof:id":1209523091,
+    "wof:lastmodified":1536284518,
+    "wof:name":"Tombo Guerba",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.23102,
+    12.20373,
+    3.23102,
+    12.20373
+],
+  "geometry": {"coordinates":[3.23102,12.20373],"type":"Point"}
+}

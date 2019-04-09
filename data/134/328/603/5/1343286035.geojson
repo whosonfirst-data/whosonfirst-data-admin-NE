@@ -1,0 +1,71 @@
+{
+  "id": 1343286035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.35545,13.10135,7.35545,13.10135",
+    "geom:latitude":13.10135,
+    "geom:longitude":7.35545,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Doutchi Koura",
+    "gn:country_code":"NE",
+    "gn:dem":453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445410,
+    "gn:latitude":13.10135,
+    "gn:longitude":7.35545,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Doutchi Ko\u00fbr\u00e2",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Doutikoura",
+        "Doutchi Ko\u00fbr\u00e2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445410
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"9d3a016118e0a8782247a2c9fb3a6c00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051007,
+            "locality_id":1343286035,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1343286035,
+    "wof:lastmodified":1537674816,
+    "wof:name":"Doutchi Koura",
+    "wof:parent_id":1092051007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.35545,
+    13.10135,
+    7.35545,
+    13.10135
+],
+  "geometry": {"coordinates":[7.35545,13.10135],"type":"Point"}
+}

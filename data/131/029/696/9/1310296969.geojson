@@ -1,0 +1,67 @@
+{
+  "id": 1310296969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.9557,14.2712,9.9557,14.2712",
+    "geom:latitude":14.2712,
+    "geom:longitude":9.9557,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Jajiri",
+    "gn:country_code":"NE",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6803862,
+    "gn:latitude":14.2712,
+    "gn:longitude":9.9557,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Jajiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6803862
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"3c8ab3c08885b70190c2c6aeca1d0146",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051753,
+            "locality_id":1310296969,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1310296969,
+    "wof:lastmodified":1536720633,
+    "wof:name":"Jajiri",
+    "wof:parent_id":1092051753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9557,
+    14.2712,
+    9.9557,
+    14.2712
+],
+  "geometry": {"coordinates":[9.9557,14.2712],"type":"Point"}
+}

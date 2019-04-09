@@ -1,0 +1,68 @@
+{
+  "id": 1310103317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.45415,14.29965,6.45415,14.29965",
+    "geom:latitude":14.29965,
+    "geom:longitude":6.45415,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ourno",
+    "gn:country_code":"NE",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2440257,
+    "gn:latitude":14.29965,
+    "gn:longitude":6.45415,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Ourno",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2440257,
+        "wk:page":"Ourno"
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"454cb86b7a96202210f028c6c67c9aba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051329,
+            "locality_id":1310103317,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1310103317,
+    "wof:lastmodified":1537569953,
+    "wof:name":"Ourno",
+    "wof:parent_id":1092051329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.45415,
+    14.29965,
+    6.45415,
+    14.29965
+],
+  "geometry": {"coordinates":[6.45415,14.29965],"type":"Point"}
+}

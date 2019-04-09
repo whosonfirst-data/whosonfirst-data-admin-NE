@@ -1,0 +1,67 @@
+{
+  "id": 1260385733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.6929,13.4804,9.6929,13.4804",
+    "geom:latitude":13.4804,
+    "geom:longitude":9.6929,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Banba Dakwali",
+    "gn:country_code":"NE",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6806978,
+    "gn:latitude":13.4804,
+    "gn:longitude":9.6929,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Banba Dakwali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6806978
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"1e6e78a1ce132ab3f00d2851e98dab2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051753,
+            "locality_id":1260385733,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1260385733,
+    "wof:lastmodified":1537069017,
+    "wof:name":"Banba Dakwali",
+    "wof:parent_id":1092051753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.6929,
+    13.4804,
+    9.6929,
+    13.4804
+],
+  "geometry": {"coordinates":[9.6929,13.4804],"type":"Point"}
+}

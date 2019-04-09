@@ -1,0 +1,74 @@
+{
+  "id": 1226353983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.5044,12.94972,3.5044,12.94972",
+    "geom:latitude":12.94972,
+    "geom:longitude":3.5044,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kargui Bangou",
+    "gn:country_code":"NE",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442607,
+    "gn:latitude":12.94972,
+    "gn:longitude":3.5044,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kargui Bangou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kargi Bangou",
+        "Karjibengu",
+        "Kardjibangou",
+        "Karjibengou",
+        "Kargui Bangou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442607
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"3ea2e5ea88f28fc23b96a1aaf1010aa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051041,
+            "locality_id":1226353983,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1226353983,
+    "wof:lastmodified":1537674753,
+    "wof:name":"Kargui Bangou",
+    "wof:parent_id":1092051041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.5044,
+    12.94972,
+    3.5044,
+    12.94972
+],
+  "geometry": {"coordinates":[3.5044,12.94972],"type":"Point"}
+}

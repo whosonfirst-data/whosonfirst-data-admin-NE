@@ -1,0 +1,71 @@
+{
+  "id": 1310327265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.764,14.9768,5.764,14.9768",
+    "geom:latitude":14.9768,
+    "geom:longitude":5.764,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Takachaoua",
+    "gn:country_code":"NE",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6679572,
+    "gn:latitude":14.9768,
+    "gn:longitude":5.764,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Takachaoua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Takachawa",
+        "Takachaoua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6679572
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"a294b4ec53d8f9823c1cc448baeaf704",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051577,
+            "locality_id":1310327265,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1310327265,
+    "wof:lastmodified":1537674880,
+    "wof:name":"Takachaoua",
+    "wof:parent_id":1092051577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.764,
+    14.9768,
+    5.764,
+    14.9768
+],
+  "geometry": {"coordinates":[5.764,14.9768],"type":"Point"}
+}

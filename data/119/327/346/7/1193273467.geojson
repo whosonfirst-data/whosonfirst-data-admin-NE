@@ -1,0 +1,71 @@
+{
+  "id": 1193273467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.08663,14.72812,6.08663,14.72812",
+    "geom:latitude":14.72812,
+    "geom:longitude":6.08663,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Taia Koune",
+    "gn:country_code":"NE",
+    "gn:dem":460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2443003,
+    "gn:latitude":14.72812,
+    "gn:longitude":6.08663,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Taia Koune",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jaja Koum\u00e9",
+        "Taia Koune"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2443003
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"b90df68c5cf7c9fbf516d3ba510c69d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051577,
+            "locality_id":1193273467,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1193273467,
+    "wof:lastmodified":1537674761,
+    "wof:name":"Taia Koune",
+    "wof:parent_id":1092051577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.08663,
+    14.72812,
+    6.08663,
+    14.72812
+],
+  "geometry": {"coordinates":[6.08663,14.72812],"type":"Point"}
+}

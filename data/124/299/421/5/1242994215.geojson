@@ -1,0 +1,67 @@
+{
+  "id": 1242994215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.06275,13.43505,9.06275,13.43505",
+    "geom:latitude":13.43505,
+    "geom:longitude":9.06275,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kalgo",
+    "gn:country_code":"NE",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6806949,
+    "gn:latitude":13.43505,
+    "gn:longitude":9.06275,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Kalgo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6806949
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"a247932372a7524cdaa74a0da8ec6795",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051411,
+            "locality_id":1242994215,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1242994215,
+    "wof:lastmodified":1536960521,
+    "wof:name":"Kalgo",
+    "wof:parent_id":1092051411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.06275,
+    13.43505,
+    9.06275,
+    13.43505
+],
+  "geometry": {"coordinates":[9.06275,13.43505],"type":"Point"}
+}

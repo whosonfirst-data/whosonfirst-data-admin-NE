@@ -1,0 +1,71 @@
+{
+  "id": 1326732325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.8561,13.0412,2.8561,13.0412",
+    "geom:latitude":13.0412,
+    "geom:longitude":2.8561,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Koran Kassa Zarma",
+    "gn:country_code":"NE",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442161,
+    "gn:latitude":13.0412,
+    "gn:longitude":2.8561,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Koran Kassa Zarma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koran Kassa",
+        "Koran Kassa Zarma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442161
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"063ab154ff1eec632b768f2357efca66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051075,
+            "locality_id":1326732325,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1326732325,
+    "wof:lastmodified":1537674742,
+    "wof:name":"Koran Kassa Zarma",
+    "wof:parent_id":1092051075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.8561,
+    13.0412,
+    2.8561,
+    13.0412
+],
+  "geometry": {"coordinates":[2.8561,13.0412],"type":"Point"}
+}

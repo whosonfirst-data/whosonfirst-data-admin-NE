@@ -1,0 +1,67 @@
+{
+  "id": 1343353297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.29975,13.67633,8.29975,13.67633",
+    "geom:latitude":13.67633,
+    "geom:longitude":8.29975,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Angoual Nouhou",
+    "gn:country_code":"NE",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6732298,
+    "gn:latitude":13.67633,
+    "gn:longitude":8.29975,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Angoual Nouhou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6732298
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"651e7cb488885abc2ddc82117d71cce5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051411,
+            "locality_id":1343353297,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1343353297,
+    "wof:lastmodified":1536900983,
+    "wof:name":"Angoual Nouhou",
+    "wof:parent_id":1092051411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.29975,
+    13.67633,
+    8.29975,
+    13.67633
+],
+  "geometry": {"coordinates":[8.29975,13.67633],"type":"Point"}
+}

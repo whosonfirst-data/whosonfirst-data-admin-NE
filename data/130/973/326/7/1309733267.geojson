@@ -1,0 +1,67 @@
+{
+  "id": 1309733267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.79195,13.667,8.79195,13.667",
+    "geom:latitude":13.667,
+    "geom:longitude":8.79195,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"May Rami",
+    "gn:country_code":"NE",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6735731,
+    "gn:latitude":13.667,
+    "gn:longitude":8.79195,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"May R\u00e2mi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6735731
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"0e529112a386d3dfc2f930f0b1affc62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051411,
+            "locality_id":1309733267,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1309733267,
+    "wof:lastmodified":1537034223,
+    "wof:name":"May Rami",
+    "wof:parent_id":1092051411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.79195,
+    13.667,
+    8.79195,
+    13.667
+],
+  "geometry": {"coordinates":[8.79195,13.667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259675443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.9533,14.1602,10.9533,14.1602",
+    "geom:latitude":14.1602,
+    "geom:longitude":10.9533,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Koumorsori",
+    "gn:country_code":"NE",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6848222,
+    "gn:latitude":14.1602,
+    "gn:longitude":10.9533,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Koumorsori",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6848222
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"bc9208b8420e49ccdfd0b6c8190e55de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051753,
+            "locality_id":1259675443,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1259675443,
+    "wof:lastmodified":1537075542,
+    "wof:name":"Koumorsori",
+    "wof:parent_id":1092051753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.9533,
+    14.1602,
+    10.9533,
+    14.1602
+],
+  "geometry": {"coordinates":[10.9533,14.1602],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310498263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.47048,14.1783,8.47048,14.1783",
+    "geom:latitude":14.1783,
+    "geom:longitude":8.47048,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Goudougwa",
+    "gn:country_code":"NE",
+    "gn:dem":460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444299,
+    "gn:latitude":14.1783,
+    "gn:longitude":8.47048,
+    "gn:modification_date":"2008-08-26",
+    "gn:name":"Goudougwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444299
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"d82526b8e5ecaeabce2aa341206800c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1310498263,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1310498263,
+    "wof:lastmodified":1536928108,
+    "wof:name":"Goudougwa",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.47048,
+    14.1783,
+    8.47048,
+    14.1783
+],
+  "geometry": {"coordinates":[8.47048,14.1783],"type":"Point"}
+}

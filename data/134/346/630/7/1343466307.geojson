@@ -1,0 +1,71 @@
+{
+  "id": 1343466307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.0142,13.0022,3.0142,13.0022",
+    "geom:latitude":13.0022,
+    "geom:longitude":3.0142,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tade-Koara",
+    "gn:country_code":"NE",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439471,
+    "gn:latitude":13.0022,
+    "gn:longitude":3.0142,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tad\u00e9-Koara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tad\u00e9 Kwara",
+        "Tad\u00e9-Koara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439471
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"f8b7a7ae3e49a9d9a13fd5c0247cdfa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051041,
+            "locality_id":1343466307,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1343466307,
+    "wof:lastmodified":1537674684,
+    "wof:name":"Tade-Koara",
+    "wof:parent_id":1092051041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.0142,
+    13.0022,
+    3.0142,
+    13.0022
+],
+  "geometry": {"coordinates":[3.0142,13.0022],"type":"Point"}
+}

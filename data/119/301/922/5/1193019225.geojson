@@ -1,0 +1,67 @@
+{
+  "id": 1193019225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.70808,13.31281,12.70808,13.31281",
+    "geom:latitude":13.31281,
+    "geom:longitude":12.70808,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Asaka-Koura",
+    "gn:country_code":"NE",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6777896,
+    "gn:latitude":13.31281,
+    "gn:longitude":12.70808,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Asaka-Koura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6777896
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"befdd0a74e876e27b043b9a23f88969e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051245,
+            "locality_id":1193019225,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1193019225,
+    "wof:lastmodified":1536375074,
+    "wof:name":"Asaka-Koura",
+    "wof:parent_id":1092051245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.70808,
+    13.31281,
+    12.70808,
+    13.31281
+],
+  "geometry": {"coordinates":[12.70808,13.31281],"type":"Point"}
+}

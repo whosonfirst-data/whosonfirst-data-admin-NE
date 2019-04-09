@@ -1,0 +1,71 @@
+{
+  "id": 1259785433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.8809,13.3276,2.8809,13.3276",
+    "geom:latitude":13.3276,
+    "geom:longitude":2.8809,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Foulanzam",
+    "gn:country_code":"NE",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444928,
+    "gn:latitude":13.3276,
+    "gn:longitude":2.8809,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Foulanzam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Foulanza",
+        "Foulanzam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444928
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"e6cc7fd5980bbd6ba1105c7022f81f78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051075,
+            "locality_id":1259785433,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1259785433,
+    "wof:lastmodified":1537674807,
+    "wof:name":"Foulanzam",
+    "wof:parent_id":1092051075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.8809,
+    13.3276,
+    2.8809,
+    13.3276
+],
+  "geometry": {"coordinates":[2.8809,13.3276],"type":"Point"}
+}

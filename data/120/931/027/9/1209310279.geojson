@@ -1,0 +1,61 @@
+{
+  "id": 1209310279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.4569,13.7959,2.4569,13.7959",
+    "geom:latitude":13.7959,
+    "geom:longitude":2.4569,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Oura-Tondi",
+    "gn:country_code":"NE",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2440264,
+    "gn:latitude":13.7959,
+    "gn:longitude":2.4569,
+    "gn:modification_date":"2009-01-02",
+    "gn:name":"Oura-Tondi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2440264
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"1fc31dc52d3d7aa7c795844192f57414",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209310279
+        }
+    ],
+    "wof:id":1209310279,
+    "wof:lastmodified":1536291052,
+    "wof:name":"Oura-Tondi",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.4569,
+    13.7959,
+    2.4569,
+    13.7959
+],
+  "geometry": {"coordinates":[2.4569,13.7959],"type":"Point"}
+}

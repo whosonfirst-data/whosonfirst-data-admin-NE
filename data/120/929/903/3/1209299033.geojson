@@ -1,0 +1,68 @@
+{
+  "id": 1209299033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.17995,13.68881,2.17995,13.68881",
+    "geom:latitude":13.68881,
+    "geom:longitude":2.17995,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Barkiawal Kaina",
+    "gn:country_code":"NE",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446990,
+    "gn:latitude":13.68881,
+    "gn:longitude":2.17995,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Barkiawal Ka\u00efna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Barkiaoual-Ka\u00efna",
+        "Barkaoual Keyna",
+        "Barkaouel",
+        "Barkiaoual Keyna",
+        "Barkiawal Ka\u00efna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446990
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"ede713f66fcccc2ab9dde89a1f1c9d9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209299033
+        }
+    ],
+    "wof:id":1209299033,
+    "wof:lastmodified":1537674854,
+    "wof:name":"Barkiawal Kaina",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.17995,
+    13.68881,
+    2.17995,
+    13.68881
+],
+  "geometry": {"coordinates":[2.17995,13.68881],"type":"Point"}
+}

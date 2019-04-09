@@ -1,0 +1,61 @@
+{
+  "id": 1209524215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.67,13.6926,11.67,13.6926",
+    "geom:latitude":13.6926,
+    "geom:longitude":11.67,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Landori",
+    "gn:country_code":"NE",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6819694,
+    "gn:latitude":13.6926,
+    "gn:longitude":11.67,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Landori",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6819694
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"d44fc970f9b46ffe525d6952b2a7e253",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209524215
+        }
+    ],
+    "wof:id":1209524215,
+    "wof:lastmodified":1536284482,
+    "wof:name":"Landori",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.67,
+    13.6926,
+    11.67,
+    13.6926
+],
+  "geometry": {"coordinates":[11.67,13.6926],"type":"Point"}
+}

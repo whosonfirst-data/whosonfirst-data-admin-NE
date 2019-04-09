@@ -1,0 +1,101 @@
+{
+  "id": 1126090759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.10056,13.48778,2.10056,13.48778",
+    "geom:latitude":13.48778,
+    "geom:longitude":2.10056,
+    "gn:gn_country":"NE",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"NE",
+    "lbl:latitude":13.48778,
+    "lbl:longitude":2.10056,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fra_x_colloquial":[
+        "Gaweye"
+    ],
+    "name:fra_x_preferred":[
+        "Gaw\u00e9ye"
+    ],
+    "name:unk_x_variant":[
+        "Gaw\u00e9ye"
+    ],
+    "qs_pg:aaroncc":"NE",
+    "qs_pg:gn_country":"NE",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":2569130,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Gaw\u00e9ye",
+    "qs_pg:name_adm0":"Niger",
+    "qs_pg:name_adm1":"Niamey",
+    "qs_pg:photos":257,
+    "qs_pg:photos_1k":52,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":257,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1083578,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424906,
+    "qs_pg:woe_id":1379711,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424906,
+    "woe:name_adm0":"Niger",
+    "woe:name_adm1":"Niamey",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85675291,
+        102191573,
+        85632269,
+        421204117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2569130,
+        "gp:id":1379711,
+        "qs:id":1083578,
+        "qs_pg:id":1083578
+    },
+    "wof:country":"NE",
+    "wof:created":1497313710,
+    "wof:geomhash":"e981986fc8bb4c32ec8399922383bd2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421204117,
+            "locality_id":-1,
+            "neighbourhood_id":1126090759,
+            "region_id":85675291
+        }
+    ],
+    "wof:id":1126090759,
+    "wof:lastmodified":1534379385,
+    "wof:name":"Gaw\u00e9ye",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85802201
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.10056,
+    13.48778,
+    2.10056,
+    13.48778
+],
+  "geometry": {"coordinates":[2.10056,13.48778],"type":"Point"}
+}

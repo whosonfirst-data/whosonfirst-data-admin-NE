@@ -1,0 +1,71 @@
+{
+  "id": 1276336437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.1303,13.1678,3.1303,13.1678",
+    "geom:latitude":13.1678,
+    "geom:longitude":3.1303,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Banikadeye",
+    "gn:country_code":"NE",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447119,
+    "gn:latitude":13.1678,
+    "gn:longitude":3.1303,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Banikad\u00e8ye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Banikadey",
+        "Banikad\u00e8ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447119
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"b50521fe63a745a2595ced5dde4d19dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051041,
+            "locality_id":1276336437,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1276336437,
+    "wof:lastmodified":1537674856,
+    "wof:name":"Banikadeye",
+    "wof:parent_id":1092051041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.1303,
+    13.1678,
+    3.1303,
+    13.1678
+],
+  "geometry": {"coordinates":[3.1303,13.1678],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343965619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.7175,13.1623,3.7175,13.1623",
+    "geom:latitude":13.1623,
+    "geom:longitude":3.7175,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Madalaize-Koara",
+    "gn:country_code":"NE",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441534,
+    "gn:latitude":13.1623,
+    "gn:longitude":3.7175,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Madala\u00efz\u00e9-Koara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Madalayz\u00e9 Koara",
+        "Madala\u00efz\u00e9 Kwara",
+        "Madala\u00efz\u00e9-Koara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441534
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"f0feb2c25ba862e7b963ebbf7a8be11a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051467,
+            "locality_id":1343965619,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1343965619,
+    "wof:lastmodified":1537674724,
+    "wof:name":"Madalaize-Koara",
+    "wof:parent_id":1092051467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.7175,
+    13.1623,
+    3.7175,
+    13.1623
+],
+  "geometry": {"coordinates":[3.7175,13.1623],"type":"Point"}
+}

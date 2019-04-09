@@ -1,0 +1,72 @@
+{
+  "id": 1310397121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.85,13.8,10.85,13.8",
+    "geom:latitude":13.8,
+    "geom:longitude":10.85,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Toungouri",
+    "gn:cc2":"NE",
+    "gn:country_code":"NE",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438249,
+    "gn:latitude":13.8,
+    "gn:longitude":10.85,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Toungouri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tunguri",
+        "Toungouri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438249
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"88cb64b6da6af7df47d4c52dddb19b7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051363,
+            "locality_id":1310397121,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1310397121,
+    "wof:lastmodified":1537674660,
+    "wof:name":"Toungouri",
+    "wof:parent_id":1092051363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.85,
+    13.8,
+    10.85,
+    13.8
+],
+  "geometry": {"coordinates":[10.85,13.8],"type":"Point"}
+}

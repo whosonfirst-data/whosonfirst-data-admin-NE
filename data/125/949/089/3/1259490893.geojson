@@ -1,0 +1,71 @@
+{
+  "id": 1259490893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.05763,13.25678,4.05763,13.25678",
+    "geom:latitude":13.25678,
+    "geom:longitude":4.05763,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kaniagoma",
+    "gn:country_code":"NE",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442698,
+    "gn:latitude":13.25678,
+    "gn:longitude":4.05763,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kaniagoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kanyagoma",
+        "Kaniagoma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442698
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"544a2bf9c7b96364ee1cdd1e88306fa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051467,
+            "locality_id":1259490893,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1259490893,
+    "wof:lastmodified":1537674755,
+    "wof:name":"Kaniagoma",
+    "wof:parent_id":1092051467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.05763,
+    13.25678,
+    4.05763,
+    13.25678
+],
+  "geometry": {"coordinates":[4.05763,13.25678],"type":"Point"}
+}

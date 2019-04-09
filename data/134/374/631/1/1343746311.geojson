@@ -1,0 +1,71 @@
+{
+  "id": 1343746311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.76611,14.44128,2.76611,14.44128",
+    "geom:latitude":14.44128,
+    "geom:longitude":2.76611,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tiro Koara",
+    "gn:country_code":"NE",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438548,
+    "gn:latitude":14.44128,
+    "gn:longitude":2.76611,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Tiro Koara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tiro Kwara",
+        "Tiro Koara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438548
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"626e4505251a91da3f20b0f180481891",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051633,
+            "locality_id":1343746311,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1343746311,
+    "wof:lastmodified":1537674669,
+    "wof:name":"Tiro Koara",
+    "wof:parent_id":1092051633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.76611,
+    14.44128,
+    2.76611,
+    14.44128
+],
+  "geometry": {"coordinates":[2.76611,14.44128],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360006925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.1858,13.0166,9.1858,13.0166",
+    "geom:latitude":13.0166,
+    "geom:longitude":9.1858,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Lolo",
+    "gn:country_code":"NE",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6807090,
+    "gn:latitude":13.0166,
+    "gn:longitude":9.1858,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Lolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6807090
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"f717e764728b5ff47305c0a37b8298a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051133,
+            "locality_id":1360006925,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1360006925,
+    "wof:lastmodified":1537056022,
+    "wof:name":"Lolo",
+    "wof:parent_id":1092051133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.1858,
+    13.0166,
+    9.1858,
+    13.0166
+],
+  "geometry": {"coordinates":[9.1858,13.0166],"type":"Point"}
+}

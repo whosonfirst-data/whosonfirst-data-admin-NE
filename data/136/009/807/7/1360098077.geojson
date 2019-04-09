@@ -1,0 +1,72 @@
+{
+  "id": 1360098077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.93477,13.40742,10.93477,13.40742",
+    "geom:latitude":13.40742,
+    "geom:longitude":10.93477,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Dabalya",
+    "gn:country_code":"NE",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446328,
+    "gn:latitude":13.40742,
+    "gn:longitude":10.93477,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Dabalya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Daballa",
+        "Dabalia",
+        "Dabalya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446328
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"a433436ad37faeb32ca4d857f0b04689",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051363,
+            "locality_id":1360098077,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1360098077,
+    "wof:lastmodified":1537674839,
+    "wof:name":"Dabalya",
+    "wof:parent_id":1092051363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.93477,
+    13.40742,
+    10.93477,
+    13.40742
+],
+  "geometry": {"coordinates":[10.93477,13.40742],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276228109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.05137,14.29916,8.05137,14.29916",
+    "geom:latitude":14.29916,
+    "geom:longitude":8.05137,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Taka",
+    "gn:country_code":"NE",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439361,
+    "gn:latitude":14.29916,
+    "gn:longitude":8.05137,
+    "gn:modification_date":"2008-08-26",
+    "gn:name":"Taka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439361
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"a973206eb3f006ac525b75e269abc64f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051435,
+            "locality_id":1276228109,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1276228109,
+    "wof:lastmodified":1536920449,
+    "wof:name":"Taka",
+    "wof:parent_id":1092051435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.05137,
+    14.29916,
+    8.05137,
+    14.29916
+],
+  "geometry": {"coordinates":[8.05137,14.29916],"type":"Point"}
+}

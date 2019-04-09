@@ -1,0 +1,67 @@
+{
+  "id": 1209900705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.98695,14.12926,1.98695,14.12926",
+    "geom:latitude":14.12926,
+    "geom:longitude":1.98695,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tolberi",
+    "gn:country_code":"NE",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438500,
+    "gn:latitude":14.12926,
+    "gn:longitude":1.98695,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Tolb\u00e9ri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438500
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"b83df3efec44ef23e9cf5a4521bd0dec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051633,
+            "locality_id":1209900705,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1209900705,
+    "wof:lastmodified":1536386566,
+    "wof:name":"Tolberi",
+    "wof:parent_id":1092051633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.98695,
+    14.12926,
+    1.98695,
+    14.12926
+],
+  "geometry": {"coordinates":[1.98695,14.12926],"type":"Point"}
+}

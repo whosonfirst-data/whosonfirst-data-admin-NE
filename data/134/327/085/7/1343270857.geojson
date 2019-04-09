@@ -1,0 +1,67 @@
+{
+  "id": 1343270857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.13133,14.00397,11.13133,14.00397",
+    "geom:latitude":14.00397,
+    "geom:longitude":11.13133,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kandeloua",
+    "gn:country_code":"NE",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442759,
+    "gn:latitude":14.00397,
+    "gn:longitude":11.13133,
+    "gn:modification_date":"2008-04-09",
+    "gn:name":"Kand\u00e9loua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442759
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"25bb34feeece1cd8f117088e4cf98e0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051363,
+            "locality_id":1343270857,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1343270857,
+    "wof:lastmodified":1537018988,
+    "wof:name":"Kandeloua",
+    "wof:parent_id":1092051363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.13133,
+    14.00397,
+    11.13133,
+    14.00397
+],
+  "geometry": {"coordinates":[11.13133,14.00397],"type":"Point"}
+}

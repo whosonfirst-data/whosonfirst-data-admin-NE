@@ -1,0 +1,72 @@
+{
+  "id": 1260191733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.17125,13.60745,12.17125,13.60745",
+    "geom:latitude":13.60745,
+    "geom:longitude":12.17125,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kandildogo",
+    "gn:country_code":"NE",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445355,
+    "gn:latitude":13.60745,
+    "gn:longitude":12.17125,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Kandildogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dzitumma",
+        "Dzituma",
+        "Kandildogo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445355
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"6e59b6786039d3214301555975431bcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051245,
+            "locality_id":1260191733,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1260191733,
+    "wof:lastmodified":1537674814,
+    "wof:name":"Kandildogo",
+    "wof:parent_id":1092051245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.17125,
+    13.60745,
+    12.17125,
+    13.60745
+],
+  "geometry": {"coordinates":[12.17125,13.60745],"type":"Point"}
+}

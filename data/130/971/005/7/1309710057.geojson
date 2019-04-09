@@ -1,0 +1,72 @@
+{
+  "id": 1309710057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.3169,14.0108,5.3169,14.0108",
+    "geom:latitude":14.0108,
+    "geom:longitude":5.3169,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Gidan Ider",
+    "gn:country_code":"NE",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2443833,
+    "gn:latitude":14.0108,
+    "gn:longitude":5.3169,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gidan Id\u00e8r",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guidam",
+        "Gidan Id\u00e8r",
+        "Guidan Ider"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2443833
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"5b7d5446b5d26406491fa94d66e4ed91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051301,
+            "locality_id":1309710057,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1309710057,
+    "wof:lastmodified":1537674779,
+    "wof:name":"Gidan Ider",
+    "wof:parent_id":1092051301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.3169,
+    14.0108,
+    5.3169,
+    14.0108
+],
+  "geometry": {"coordinates":[5.3169,14.0108],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209935289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.1301,13.4376,2.1301,13.4376",
+    "geom:latitude":13.4376,
+    "geom:longitude":2.1301,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Gorou-Banda",
+    "gn:country_code":"NE",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444204,
+    "gn:latitude":13.4376,
+    "gn:longitude":2.1301,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gorou-Banda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gourou Banda",
+        "Gorou-Banda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444204
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"5ed821165172fa0274dae6f4e2e50362",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1209935289,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1209935289,
+    "wof:lastmodified":1537674791,
+    "wof:name":"Gorou-Banda",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1301,
+    13.4376,
+    2.1301,
+    13.4376
+],
+  "geometry": {"coordinates":[2.1301,13.4376],"type":"Point"}
+}

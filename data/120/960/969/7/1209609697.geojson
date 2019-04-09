@@ -1,0 +1,61 @@
+{
+  "id": 1209609697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.461,14.0053,9.461,14.0053",
+    "geom:latitude":14.0053,
+    "geom:longitude":9.461,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kilaloum",
+    "gn:country_code":"NE",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6803634,
+    "gn:latitude":14.0053,
+    "gn:longitude":9.461,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Kilaloum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6803634
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"ee063154d8f4277fa99febf82bdbc77c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209609697
+        }
+    ],
+    "wof:id":1209609697,
+    "wof:lastmodified":1536281889,
+    "wof:name":"Kilaloum",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.461,
+    14.0053,
+    9.461,
+    14.0053
+],
+  "geometry": {"coordinates":[9.461,14.0053],"type":"Point"}
+}

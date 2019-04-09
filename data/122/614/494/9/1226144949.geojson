@@ -1,0 +1,67 @@
+{
+  "id": 1226144949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.84877,12.53216,2.84877,12.53216",
+    "geom:latitude":12.53216,
+    "geom:longitude":2.84877,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Fereze",
+    "gn:country_code":"NE",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445019,
+    "gn:latitude":12.53216,
+    "gn:longitude":2.84877,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"F\u00e9r\u00e9z\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445019
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"616b04710a557429a63afe4cf5d04ba9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051075,
+            "locality_id":1226144949,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1226144949,
+    "wof:lastmodified":1537075753,
+    "wof:name":"Fereze",
+    "wof:parent_id":1092051075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.84877,
+    12.53216,
+    2.84877,
+    12.53216
+],
+  "geometry": {"coordinates":[2.84877,12.53216],"type":"Point"}
+}

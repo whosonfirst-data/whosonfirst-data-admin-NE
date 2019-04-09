@@ -1,0 +1,127 @@
+{
+  "id": 421174641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.7749,14.7551,5.7749,14.7551",
+    "geom:latitude":14.7551,
+    "geom:longitude":5.7749,
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Keita"
+    ],
+    "name:dut_x_preferred":[
+        "Keita"
+    ],
+    "name:eng_x_preferred":[
+        "Keita"
+    ],
+    "name:fin_x_preferred":[
+        "Keita"
+    ],
+    "name:fra_x_preferred":[
+        "K\u00e9ita"
+    ],
+    "name:fre_x_preferred":[
+        "Keita"
+    ],
+    "name:ger_x_preferred":[
+        "Keita"
+    ],
+    "name:ita_x_preferred":[
+        "Keita"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b1\u30a4\u30bf"
+    ],
+    "name:may_x_preferred":[
+        "Keita"
+    ],
+    "name:msa_x_preferred":[
+        "Keita"
+    ],
+    "name:ron_x_preferred":[
+        "Keita"
+    ],
+    "name:rum_x_preferred":[
+        "Keita"
+    ],
+    "name:spa_x_preferred":[
+        "Keita"
+    ],
+    "name:unk_x_variant":[
+        "Ke\u00efta"
+    ],
+    "qs:gn_country":"NE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2442478,
+    "qs:gn_pop":8960,
+    "qs:name":"Keita",
+    "qs:name_adm0":"Niger",
+    "qs:name_adm1":"Tahoua",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1297904,
+    "qs:woe_adm0":23424906,
+    "qs:woe_id":1380825,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":84,
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442478,
+        "gp:id":1380825,
+        "qs:id":1297904,
+        "wd:id":"Q1010040",
+        "wk:page":"Keita, Niger"
+    },
+    "wof:country":"NE",
+    "wof:created":1459009039,
+    "wof:geomhash":"67c5c36d65936d83d3002b25ab53abcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051577,
+            "locality_id":421174641,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":421174641,
+    "wof:lastmodified":1553816364,
+    "wof:name":"Keita",
+    "wof:parent_id":1092051577,
+    "wof:placetype":"locality",
+    "wof:population":8960,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.7749,
+    14.7551,
+    5.7749,
+    14.7551
+],
+  "geometry": {"coordinates":[5.7749,14.7551],"type":"Point"}
+}

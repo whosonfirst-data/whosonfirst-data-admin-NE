@@ -1,0 +1,71 @@
+{
+  "id": 1310197499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.25204,13.83704,5.25204,13.83704",
+    "geom:latitude":13.83704,
+    "geom:longitude":5.25204,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Guidan-Godya",
+    "gn:country_code":"NE",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7015595,
+    "gn:latitude":13.83704,
+    "gn:longitude":5.25204,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Guidan-Godya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gidan-Godya",
+        "Guidan-Godya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7015595
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"c831dea2183e89538b3ce3f7380d148d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051301,
+            "locality_id":1310197499,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1310197499,
+    "wof:lastmodified":1537674893,
+    "wof:name":"Guidan-Godya",
+    "wof:parent_id":1092051301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.25204,
+    13.83704,
+    5.25204,
+    13.83704
+],
+  "geometry": {"coordinates":[5.25204,13.83704],"type":"Point"}
+}

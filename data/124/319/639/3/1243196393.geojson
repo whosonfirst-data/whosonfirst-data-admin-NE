@@ -1,0 +1,67 @@
+{
+  "id": 1243196393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.23184,13.87459,7.23184,13.87459",
+    "geom:latitude":13.87459,
+    "geom:longitude":7.23184,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sabon Guero",
+    "gn:country_code":"NE",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6705731,
+    "gn:latitude":13.87459,
+    "gn:longitude":7.23184,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Sabon Gu\u00e9ro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6705731
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"41b2caf5be28662b974957c7756af964",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1243196393,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1243196393,
+    "wof:lastmodified":1536669052,
+    "wof:name":"Sabon Guero",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.23184,
+    13.87459,
+    7.23184,
+    13.87459
+],
+  "geometry": {"coordinates":[7.23184,13.87459],"type":"Point"}
+}

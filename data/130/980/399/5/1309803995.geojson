@@ -1,0 +1,67 @@
+{
+  "id": 1309803995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.45767,14.32598,7.45767,14.32598",
+    "geom:latitude":14.32598,
+    "geom:longitude":7.45767,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dan Zabaya",
+    "gn:country_code":"NE",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445899,
+    "gn:latitude":14.32598,
+    "gn:longitude":7.45767,
+    "gn:modification_date":"2008-08-21",
+    "gn:name":"Dan Zabaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445899
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"2658a06150bf91aa7707dd762542e5e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051435,
+            "locality_id":1309803995,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1309803995,
+    "wof:lastmodified":1536934397,
+    "wof:name":"Dan Zabaya",
+    "wof:parent_id":1092051435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.45767,
+    14.32598,
+    7.45767,
+    14.32598
+],
+  "geometry": {"coordinates":[7.45767,14.32598],"type":"Point"}
+}

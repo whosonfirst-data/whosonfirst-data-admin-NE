@@ -1,0 +1,67 @@
+{
+  "id": 1243364285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.71206,13.91691,6.71206,13.91691",
+    "geom:latitude":13.91691,
+    "geom:longitude":6.71206,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Yangaouna",
+    "gn:country_code":"NE",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438025,
+    "gn:latitude":13.91691,
+    "gn:longitude":6.71206,
+    "gn:modification_date":"2008-02-06",
+    "gn:name":"Yangaouna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438025
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"b95b8565ec05da1b30c96631cfbb9ce1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1243364285,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1243364285,
+    "wof:lastmodified":1536924760,
+    "wof:name":"Yangaouna",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.71206,
+    13.91691,
+    6.71206,
+    13.91691
+],
+  "geometry": {"coordinates":[6.71206,13.91691],"type":"Point"}
+}

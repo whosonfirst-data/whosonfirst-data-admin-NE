@@ -1,0 +1,67 @@
+{
+  "id": 1260173057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.0535,13.3444,9.0535,13.3444",
+    "geom:latitude":13.3444,
+    "geom:longitude":9.0535,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Gourougoubji Haousa",
+    "gn:country_code":"NE",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6806981,
+    "gn:latitude":13.3444,
+    "gn:longitude":9.0535,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Gourougoubji Haousa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6806981
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"1c57c7f7e5ce8af7de3971337b9e9b21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051411,
+            "locality_id":1260173057,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1260173057,
+    "wof:lastmodified":1536860867,
+    "wof:name":"Gourougoubji Haousa",
+    "wof:parent_id":1092051411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.0535,
+    13.3444,
+    9.0535,
+    13.3444
+],
+  "geometry": {"coordinates":[9.0535,13.3444],"type":"Point"}
+}

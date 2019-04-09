@@ -1,0 +1,71 @@
+{
+  "id": 1226150567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.68101,12.69718,3.68101,12.69718",
+    "geom:latitude":12.69718,
+    "geom:longitude":3.68101,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Samia Mayemoda",
+    "gn:country_code":"NE",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439916,
+    "gn:latitude":12.69718,
+    "gn:longitude":3.68101,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Samia Mayemoda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Samia May Moda",
+        "Samia Mayemoda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092050969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439916
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"262abe88934b2e39e1bec99f52b27339",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092050969,
+            "locality_id":1226150567,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1226150567,
+    "wof:lastmodified":1537674693,
+    "wof:name":"Samia Mayemoda",
+    "wof:parent_id":1092050969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.68101,
+    12.69718,
+    3.68101,
+    12.69718
+],
+  "geometry": {"coordinates":[3.68101,12.69718],"type":"Point"}
+}

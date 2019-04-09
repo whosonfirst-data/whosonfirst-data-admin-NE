@@ -1,0 +1,67 @@
+{
+  "id": 1326619725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.56755,12.9851,1.56755,12.9851",
+    "geom:latitude":12.9851,
+    "geom:longitude":1.56755,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kiki",
+    "gn:country_code":"NE",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442430,
+    "gn:latitude":12.9851,
+    "gn:longitude":1.56755,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Kiki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442430
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"3ebbab8c3c1b674115b565e6278be2a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051103,
+            "locality_id":1326619725,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1326619725,
+    "wof:lastmodified":1536856662,
+    "wof:name":"Kiki",
+    "wof:parent_id":1092051103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.56755,
+    12.9851,
+    1.56755,
+    12.9851
+],
+  "geometry": {"coordinates":[1.56755,12.9851],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209636685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.92928,12.8692,8.92928,12.8692",
+    "geom:latitude":12.8692,
+    "geom:longitude":8.92928,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Gallawa Beriberi",
+    "gn:country_code":"NE",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6972340,
+    "gn:latitude":12.8692,
+    "gn:longitude":8.92928,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Gallawa B\u00e9rib\u00e9ri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6972340
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"255086e04ba84e518a1160ee89e7682c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209636685
+        }
+    ],
+    "wof:id":1209636685,
+    "wof:lastmodified":1536281022,
+    "wof:name":"Gallawa Beriberi",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.92928,
+    12.8692,
+    8.92928,
+    12.8692
+],
+  "geometry": {"coordinates":[8.92928,12.8692],"type":"Point"}
+}

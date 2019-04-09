@@ -1,0 +1,71 @@
+{
+  "id": 1327218267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.50426,13.35773,2.50426,13.35773",
+    "geom:latitude":13.35773,
+    "geom:longitude":2.50426,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tiou Dawa",
+    "gn:country_code":"NE",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438571,
+    "gn:latitude":13.35773,
+    "gn:longitude":2.50426,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tiou Dawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Todaoua",
+        "Tiou Dawa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438571
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"9b0987667b97485f83a61e2de24d4cd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1327218267,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1327218267,
+    "wof:lastmodified":1537674669,
+    "wof:name":"Tiou Dawa",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.50426,
+    13.35773,
+    2.50426,
+    13.35773
+],
+  "geometry": {"coordinates":[2.50426,13.35773],"type":"Point"}
+}

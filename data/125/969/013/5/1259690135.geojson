@@ -1,0 +1,67 @@
+{
+  "id": 1259690135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.08923,13.30628,8.08923,13.30628",
+    "geom:latitude":13.30628,
+    "geom:longitude":8.08923,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Goura Gouri",
+    "gn:country_code":"NE",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6722685,
+    "gn:latitude":13.30628,
+    "gn:longitude":8.08923,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Goura Gouri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6722685
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"c72d04acad3efde8d43a685e19e19bc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051197,
+            "locality_id":1259690135,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1259690135,
+    "wof:lastmodified":1537054988,
+    "wof:name":"Goura Gouri",
+    "wof:parent_id":1092051197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.08923,
+    13.30628,
+    8.08923,
+    13.30628
+],
+  "geometry": {"coordinates":[8.08923,13.30628],"type":"Point"}
+}

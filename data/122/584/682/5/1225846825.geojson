@@ -1,0 +1,67 @@
+{
+  "id": 1225846825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.9931,13.4076,2.9931,13.4076",
+    "geom:latitude":13.4076,
+    "geom:longitude":2.9931,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Koydouga",
+    "gn:country_code":"NE",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6858516,
+    "gn:latitude":13.4076,
+    "gn:longitude":2.9931,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Koydouga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6858516
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"4dadb44ba74b15e7b40b2da39d998a31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051075,
+            "locality_id":1225846825,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1225846825,
+    "wof:lastmodified":1537011389,
+    "wof:name":"Koydouga",
+    "wof:parent_id":1092051075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.9931,
+    13.4076,
+    2.9931,
+    13.4076
+],
+  "geometry": {"coordinates":[2.9931,13.4076],"type":"Point"}
+}

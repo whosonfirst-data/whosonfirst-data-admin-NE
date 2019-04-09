@@ -1,0 +1,71 @@
+{
+  "id": 1276425353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.82116,13.71596,1.82116,13.71596",
+    "geom:latitude":13.71596,
+    "geom:longitude":1.82116,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Telbia",
+    "gn:country_code":"NE",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438889,
+    "gn:latitude":13.71596,
+    "gn:longitude":1.82116,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Telbia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u00e9lbya",
+        "Telbia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438889
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"86f5f44b4d823a40fea315ff640d556c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1276425353,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1276425353,
+    "wof:lastmodified":1537674674,
+    "wof:name":"Telbia",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.82116,
+    13.71596,
+    1.82116,
+    13.71596
+],
+  "geometry": {"coordinates":[1.82116,13.71596],"type":"Point"}
+}

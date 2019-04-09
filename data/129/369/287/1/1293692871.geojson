@@ -1,0 +1,71 @@
+{
+  "id": 1293692871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.11937,13.40888,7.11937,13.40888",
+    "geom:latitude":13.40888,
+    "geom:longitude":7.11937,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Safo",
+    "gn:country_code":"NE",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2440022,
+    "gn:latitude":13.40888,
+    "gn:longitude":7.11937,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Safo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Safa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2440022,
+        "wk:page":"Safo%2C_Niger"
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"53d689c2f3dd2521120b916e0b1cfe63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051007,
+            "locality_id":1293692871,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1293692871,
+    "wof:lastmodified":1537674696,
+    "wof:name":"Safo",
+    "wof:parent_id":1092051007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.11937,
+    13.40888,
+    7.11937,
+    13.40888
+],
+  "geometry": {"coordinates":[7.11937,13.40888],"type":"Point"}
+}

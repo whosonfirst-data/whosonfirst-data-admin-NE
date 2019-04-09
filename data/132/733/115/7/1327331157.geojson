@@ -1,0 +1,67 @@
+{
+  "id": 1327331157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.17166,13.76875,6.17166,13.76875",
+    "geom:latitude":13.76875,
+    "geom:longitude":6.17166,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Saratawa",
+    "gn:country_code":"NE",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439844,
+    "gn:latitude":13.76875,
+    "gn:longitude":6.17166,
+    "gn:modification_date":"2008-02-07",
+    "gn:name":"Saratawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439844
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"ca4b19014e8ca740cfee7b081aef51cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051329,
+            "locality_id":1327331157,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1327331157,
+    "wof:lastmodified":1536826114,
+    "wof:name":"Saratawa",
+    "wof:parent_id":1092051329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.17166,
+    13.76875,
+    6.17166,
+    13.76875
+],
+  "geometry": {"coordinates":[6.17166,13.76875],"type":"Point"}
+}

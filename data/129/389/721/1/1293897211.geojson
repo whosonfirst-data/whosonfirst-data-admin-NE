@@ -1,0 +1,67 @@
+{
+  "id": 1293897211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.51392,20.2725,10.51392,20.2725",
+    "geom:latitude":20.2725,
+    "geom:longitude":10.51392,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Katanga",
+    "gn:country_code":"NE",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11239087,
+    "gn:latitude":20.2725,
+    "gn:longitude":10.51392,
+    "gn:modification_date":"2016-09-03",
+    "gn:name":"Katanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675273,
+        1092051845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11239087
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"15effcb5ee6071497fd20e6f04d4ed52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051845,
+            "locality_id":1293897211,
+            "region_id":85675273
+        }
+    ],
+    "wof:id":1293897211,
+    "wof:lastmodified":1536693712,
+    "wof:name":"Katanga",
+    "wof:parent_id":1092051845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.51392,
+    20.2725,
+    10.51392,
+    20.2725
+],
+  "geometry": {"coordinates":[10.51392,20.2725],"type":"Point"}
+}

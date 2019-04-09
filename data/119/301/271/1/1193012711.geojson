@@ -1,0 +1,67 @@
+{
+  "id": 1193012711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.72489,13.27017,8.72489,13.27017",
+    "geom:latitude":13.27017,
+    "geom:longitude":8.72489,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Garin Yassey",
+    "gn:country_code":"NE",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6745783,
+    "gn:latitude":13.27017,
+    "gn:longitude":8.72489,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Garin Yassey",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6745783
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"4569aee5577f850491d0f0e913a45139",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051133,
+            "locality_id":1193012711,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1193012711,
+    "wof:lastmodified":1536381812,
+    "wof:name":"Garin Yassey",
+    "wof:parent_id":1092051133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.72489,
+    13.27017,
+    8.72489,
+    13.27017
+],
+  "geometry": {"coordinates":[8.72489,13.27017],"type":"Point"}
+}

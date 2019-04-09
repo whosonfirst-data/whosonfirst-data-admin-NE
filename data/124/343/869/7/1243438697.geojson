@@ -1,0 +1,71 @@
+{
+  "id": 1243438697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.9508,13.7094,2.9508,13.7094",
+    "geom:latitude":13.7094,
+    "geom:longitude":2.9508,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Hogga",
+    "gn:country_code":"NE",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2440417,
+    "gn:latitude":13.7094,
+    "gn:longitude":2.9508,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hogga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oga",
+        "Hogga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2440417
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"85044b816d4097be79cc5564f4e25393",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051695,
+            "locality_id":1243438697,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1243438697,
+    "wof:lastmodified":1537674704,
+    "wof:name":"Hogga",
+    "wof:parent_id":1092051695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.9508,
+    13.7094,
+    2.9508,
+    13.7094
+],
+  "geometry": {"coordinates":[2.9508,13.7094],"type":"Point"}
+}

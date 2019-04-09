@@ -1,0 +1,71 @@
+{
+  "id": 1293374397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.47706,14.22884,2.47706,14.22884",
+    "geom:latitude":14.22884,
+    "geom:longitude":2.47706,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kasakorou",
+    "gn:country_code":"NE",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442570,
+    "gn:latitude":14.22884,
+    "gn:longitude":2.47706,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Kasakorou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kassakorou",
+        "Kasakorou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442570
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"981ca982bea01e39fb4001bfe78f9012",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051633,
+            "locality_id":1293374397,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1293374397,
+    "wof:lastmodified":1537674752,
+    "wof:name":"Kasakorou",
+    "wof:parent_id":1092051633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.47706,
+    14.22884,
+    2.47706,
+    14.22884
+],
+  "geometry": {"coordinates":[2.47706,14.22884],"type":"Point"}
+}

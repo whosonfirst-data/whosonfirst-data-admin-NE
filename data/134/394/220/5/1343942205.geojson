@@ -1,0 +1,71 @@
+{
+  "id": 1343942205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.11053,14.24169,2.11053,14.24169",
+    "geom:latitude":14.24169,
+    "geom:longitude":2.11053,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Sargan",
+    "gn:country_code":"NE",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439836,
+    "gn:latitude":14.24169,
+    "gn:longitude":2.11053,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Sargan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sargam",
+        "Sargan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439836
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"4f2127e19e3cf15e91177e5ae59e3a18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051633,
+            "locality_id":1343942205,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1343942205,
+    "wof:lastmodified":1537674692,
+    "wof:name":"Sargan",
+    "wof:parent_id":1092051633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.11053,
+    14.24169,
+    2.11053,
+    14.24169
+],
+  "geometry": {"coordinates":[2.11053,14.24169],"type":"Point"}
+}

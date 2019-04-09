@@ -1,0 +1,71 @@
+{
+  "id": 1225936609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.8698,15.0503,4.8698,15.0503",
+    "geom:latitude":15.0503,
+    "geom:longitude":4.8698,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"I-n-Awaro",
+    "gn:country_code":"NE",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6688783,
+    "gn:latitude":15.0503,
+    "gn:longitude":4.8698,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"I-n-Awaro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "In Awaro",
+        "I-n-Awaro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6688783
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"ef686214cacf5980c12d8cf28c52590b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051609,
+            "locality_id":1225936609,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1225936609,
+    "wof:lastmodified":1537674881,
+    "wof:name":"I-n-Awaro",
+    "wof:parent_id":1092051609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.8698,
+    15.0503,
+    4.8698,
+    15.0503
+],
+  "geometry": {"coordinates":[4.8698,15.0503],"type":"Point"}
+}

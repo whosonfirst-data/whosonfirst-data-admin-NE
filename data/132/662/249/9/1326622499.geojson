@@ -1,0 +1,67 @@
+{
+  "id": 1326622499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.08225,14.78305,6.08225,14.78305",
+    "geom:latitude":14.78305,
+    "geom:longitude":6.08225,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tesak Tajae",
+    "gn:country_code":"NE",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6849461,
+    "gn:latitude":14.78305,
+    "gn:longitude":6.08225,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Tesak Taja\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6849461
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"bcfb00a5b6533b89a4be2c6c26b9fb74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051577,
+            "locality_id":1326622499,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1326622499,
+    "wof:lastmodified":1536852787,
+    "wof:name":"Tesak Tajae",
+    "wof:parent_id":1092051577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.08225,
+    14.78305,
+    6.08225,
+    14.78305
+],
+  "geometry": {"coordinates":[6.08225,14.78305],"type":"Point"}
+}

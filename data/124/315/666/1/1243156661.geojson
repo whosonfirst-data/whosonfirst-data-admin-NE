@@ -1,0 +1,71 @@
+{
+  "id": 1243156661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.50932,13.6767,1.50932,13.6767",
+    "geom:latitude":13.6767,
+    "geom:longitude":1.50932,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Goudie",
+    "gn:country_code":"NE",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444297,
+    "gn:latitude":13.6767,
+    "gn:longitude":1.50932,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Goudi\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Goudi\u00e9",
+        "Goudy\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444297
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"5a328398849465d2c26186ad75190715",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051545,
+            "locality_id":1243156661,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1243156661,
+    "wof:lastmodified":1537674793,
+    "wof:name":"Goudie",
+    "wof:parent_id":1092051545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.50932,
+    13.6767,
+    1.50932,
+    13.6767
+],
+  "geometry": {"coordinates":[1.50932,13.6767],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360280045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.45716,13.515,8.45716,13.515",
+    "geom:latitude":13.515,
+    "geom:longitude":8.45716,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zangon Iletafane",
+    "gn:country_code":"NE",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6733112,
+    "gn:latitude":13.515,
+    "gn:longitude":8.45716,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Zangon Il\u00e9tafane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6733112
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"baaaeb8fa9386c2fba9136d3e987392b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051165,
+            "locality_id":1360280045,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1360280045,
+    "wof:lastmodified":1536664462,
+    "wof:name":"Zangon Iletafane",
+    "wof:parent_id":1092051165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.45716,
+    13.515,
+    8.45716,
+    13.515
+],
+  "geometry": {"coordinates":[8.45716,13.515],"type":"Point"}
+}

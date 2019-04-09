@@ -1,0 +1,67 @@
+{
+  "id": 1260205579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.36949,14.55946,6.36949,14.55946",
+    "geom:latitude":14.55946,
+    "geom:longitude":6.36949,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Wakawa",
+    "gn:country_code":"NE",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6849551,
+    "gn:latitude":14.55946,
+    "gn:longitude":6.36949,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Wakawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6849551
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"a1ce983d34ea54a77dd7d605df0ee778",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051515,
+            "locality_id":1260205579,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1260205579,
+    "wof:lastmodified":1536816956,
+    "wof:name":"Wakawa",
+    "wof:parent_id":1092051515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.36949,
+    14.55946,
+    6.36949,
+    14.55946
+],
+  "geometry": {"coordinates":[6.36949,14.55946],"type":"Point"}
+}

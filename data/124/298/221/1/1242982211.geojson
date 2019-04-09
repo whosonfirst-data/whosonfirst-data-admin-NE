@@ -1,0 +1,72 @@
+{
+  "id": 1242982211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.94517,12.82175,3.94517,12.82175",
+    "geom:latitude":12.82175,
+    "geom:longitude":3.94517,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kouatadey",
+    "gn:country_code":"NE",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442047,
+    "gn:latitude":12.82175,
+    "gn:longitude":3.94517,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kouatadey",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kouatad\u00e8ye",
+        "Kutade",
+        "Kouatadey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442047
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"6c6ff7993ff24cee3d14262ee3810872",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051467,
+            "locality_id":1242982211,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1242982211,
+    "wof:lastmodified":1537674738,
+    "wof:name":"Kouatadey",
+    "wof:parent_id":1092051467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.94517,
+    12.82175,
+    3.94517,
+    12.82175
+],
+  "geometry": {"coordinates":[3.94517,12.82175],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1309696773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.14226,13.43225,1.14226,13.43225",
+    "geom:latitude":13.43225,
+    "geom:longitude":1.14226,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Niaforou",
+    "gn:country_code":"NE",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2440434,
+    "gn:latitude":13.43225,
+    "gn:longitude":1.14226,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Niaforou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nyafanou",
+        "Niaforou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2440434
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"28e80b333502dab07d47088ee4cf1ea7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051545,
+            "locality_id":1309696773,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1309696773,
+    "wof:lastmodified":1537674705,
+    "wof:name":"Niaforou",
+    "wof:parent_id":1092051545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.14226,
+    13.43225,
+    1.14226,
+    13.43225
+],
+  "geometry": {"coordinates":[1.14226,13.43225],"type":"Point"}
+}

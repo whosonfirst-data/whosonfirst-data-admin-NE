@@ -1,0 +1,61 @@
+{
+  "id": 1209320545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.14377,13.5747,8.14377,13.5747",
+    "geom:latitude":13.5747,
+    "geom:longitude":8.14377,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Moun-rey",
+    "gn:country_code":"NE",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6725657,
+    "gn:latitude":13.5747,
+    "gn:longitude":8.14377,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Moun-rey",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6725657
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"e53846ba00e7e06de09b454fb64a9fbd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209320545
+        }
+    ],
+    "wof:id":1209320545,
+    "wof:lastmodified":1536290710,
+    "wof:name":"Moun-rey",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.14377,
+    13.5747,
+    8.14377,
+    13.5747
+],
+  "geometry": {"coordinates":[8.14377,13.5747],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343943471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.41667,14.61667,2.41667,14.61667",
+    "geom:latitude":14.61667,
+    "geom:longitude":2.41667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ouagani",
+    "gn:country_code":"NE",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2440381,
+    "gn:latitude":14.61667,
+    "gn:longitude":2.41667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Ouagani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2440381
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"66d5a052626d876b8c8c405addf197e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051633,
+            "locality_id":1343943471,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1343943471,
+    "wof:lastmodified":1537042823,
+    "wof:name":"Ouagani",
+    "wof:parent_id":1092051633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.41667,
+    14.61667,
+    2.41667,
+    14.61667
+],
+  "geometry": {"coordinates":[2.41667,14.61667],"type":"Point"}
+}

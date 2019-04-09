@@ -1,0 +1,71 @@
+{
+  "id": 1309723799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.32714,12.18192,3.32714,12.18192",
+    "geom:latitude":12.18192,
+    "geom:longitude":3.32714,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Awaye Yara",
+    "gn:country_code":"NE",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447426,
+    "gn:latitude":12.18192,
+    "gn:longitude":3.32714,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Awaye Yara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Away Yara",
+        "Awaye Yara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092050969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447426
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"d8502b0f50ce572618fe857f162c685f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092050969,
+            "locality_id":1309723799,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1309723799,
+    "wof:lastmodified":1537674864,
+    "wof:name":"Awaye Yara",
+    "wof:parent_id":1092050969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.32714,
+    12.18192,
+    3.32714,
+    12.18192
+],
+  "geometry": {"coordinates":[3.32714,12.18192],"type":"Point"}
+}

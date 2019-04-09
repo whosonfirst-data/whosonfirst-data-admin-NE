@@ -1,0 +1,68 @@
+{
+  "id": 1343363043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.36417,18.13417,7.36417,18.13417",
+    "geom:latitude":18.13417,
+    "geom:longitude":7.36417,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Imourarene",
+    "gn:country_code":"NE",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2596702,
+    "gn:latitude":18.13417,
+    "gn:longitude":7.36417,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Imourarene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675273,
+        1092051845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2596702,
+        "wk:page":"Imourarene"
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"58a5422e30c190c3117472c8c62151b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051845,
+            "locality_id":1343363043,
+            "region_id":85675273
+        }
+    ],
+    "wof:id":1343363043,
+    "wof:lastmodified":1537569970,
+    "wof:name":"Imourarene",
+    "wof:parent_id":1092051845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.36417,
+    18.13417,
+    7.36417,
+    18.13417
+],
+  "geometry": {"coordinates":[7.36417,18.13417],"type":"Point"}
+}

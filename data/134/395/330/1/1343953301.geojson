@@ -1,0 +1,72 @@
+{
+  "id": 1343953301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.75326,13.868,4.75326,13.868",
+    "geom:latitude":13.868,
+    "geom:longitude":4.75326,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bayzo",
+    "gn:country_code":"NE",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446938,
+    "gn:latitude":13.868,
+    "gn:longitude":4.75326,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bayzo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ba\u00efxo",
+        "Baizo",
+        "Bayzo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446938
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"187b6e20b72c4d34aa88c4db2f1cef29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051301,
+            "locality_id":1343953301,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1343953301,
+    "wof:lastmodified":1537674852,
+    "wof:name":"Bayzo",
+    "wof:parent_id":1092051301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.75326,
+    13.868,
+    4.75326,
+    13.868
+],
+  "geometry": {"coordinates":[4.75326,13.868],"type":"Point"}
+}

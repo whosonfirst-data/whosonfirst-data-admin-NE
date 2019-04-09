@@ -1,0 +1,67 @@
+{
+  "id": 1260298253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.6177,13.6592,11.6177,13.6592",
+    "geom:latitude":13.6592,
+    "geom:longitude":11.6177,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Abdoukakouri",
+    "gn:country_code":"NE",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6819665,
+    "gn:latitude":13.6592,
+    "gn:longitude":11.6177,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Abdoukakouri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6819665
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"71e7c3c87a0e484e953e126b20334863",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051363,
+            "locality_id":1260298253,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1260298253,
+    "wof:lastmodified":1536692235,
+    "wof:name":"Abdoukakouri",
+    "wof:parent_id":1092051363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.6177,
+    13.6592,
+    11.6177,
+    13.6592
+],
+  "geometry": {"coordinates":[11.6177,13.6592],"type":"Point"}
+}

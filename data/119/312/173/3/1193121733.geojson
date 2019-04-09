@@ -1,0 +1,71 @@
+{
+  "id": 1193121733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.6999,13.283,2.6999,13.283",
+    "geom:latitude":13.283,
+    "geom:longitude":2.6999,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Boktili",
+    "gn:country_code":"NE",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446683,
+    "gn:latitude":13.283,
+    "gn:longitude":2.6999,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Boktili",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bokatili",
+        "Boktili"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446683
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"8ec3f42d212ecae9ff522d594772e115",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1193121733,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1193121733,
+    "wof:lastmodified":1537674848,
+    "wof:name":"Boktili",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6999,
+    13.283,
+    2.6999,
+    13.283
+],
+  "geometry": {"coordinates":[2.6999,13.283],"type":"Point"}
+}

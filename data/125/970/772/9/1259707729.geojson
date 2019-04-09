@@ -1,0 +1,67 @@
+{
+  "id": 1259707729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.04273,13.43116,7.04273,13.43116",
+    "geom:latitude":13.43116,
+    "geom:longitude":7.04273,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Guidan Moadi",
+    "gn:country_code":"NE",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6718676,
+    "gn:latitude":13.43116,
+    "gn:longitude":7.04273,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Guidan Moadi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6718676
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"bc48407ffb400cb5de83dbd20d9bbb16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051007,
+            "locality_id":1259707729,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1259707729,
+    "wof:lastmodified":1537030843,
+    "wof:name":"Guidan Moadi",
+    "wof:parent_id":1092051007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.04273,
+    13.43116,
+    7.04273,
+    13.43116
+],
+  "geometry": {"coordinates":[7.04273,13.43116],"type":"Point"}
+}

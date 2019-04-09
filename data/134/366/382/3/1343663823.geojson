@@ -1,0 +1,71 @@
+{
+  "id": 1343663823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.00416,12.88548,4.00416,12.88548",
+    "geom:latitude":12.88548,
+    "geom:longitude":4.00416,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kawou Kowou",
+    "gn:country_code":"NE",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442499,
+    "gn:latitude":12.88548,
+    "gn:longitude":4.00416,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kawou Kowou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kawkaw",
+        "Kawou Kowou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442499
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"7171019d38d2d82df909f0091d450f6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051467,
+            "locality_id":1343663823,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1343663823,
+    "wof:lastmodified":1537674750,
+    "wof:name":"Kawou Kowou",
+    "wof:parent_id":1092051467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.00416,
+    12.88548,
+    4.00416,
+    12.88548
+],
+  "geometry": {"coordinates":[4.00416,12.88548],"type":"Point"}
+}

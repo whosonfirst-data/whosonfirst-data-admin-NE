@@ -1,0 +1,67 @@
+{
+  "id": 1226667355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.91972,13.77073,8.91972,13.77073",
+    "geom:latitude":13.77073,
+    "geom:longitude":8.91972,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Karagoua ta Wanzam",
+    "gn:country_code":"NE",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6735282,
+    "gn:latitude":13.77073,
+    "gn:longitude":8.91972,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Karagoua ta Wanzam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6735282
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"785f34d9aa0c694a319484e23e4b47b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051411,
+            "locality_id":1226667355,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1226667355,
+    "wof:lastmodified":1536827469,
+    "wof:name":"Karagoua ta Wanzam",
+    "wof:parent_id":1092051411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.91972,
+    13.77073,
+    8.91972,
+    13.77073
+],
+  "geometry": {"coordinates":[8.91972,13.77073],"type":"Point"}
+}

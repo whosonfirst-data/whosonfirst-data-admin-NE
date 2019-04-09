@@ -1,0 +1,71 @@
+{
+  "id": 1209717379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.24038,12.74345,3.24038,12.74345",
+    "geom:latitude":12.74345,
+    "geom:longitude":3.24038,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Made Kwara",
+    "gn:country_code":"NE",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441521,
+    "gn:latitude":12.74345,
+    "gn:longitude":3.24038,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mad\u00e9 Kwara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mad\u00e9-Koara",
+        "Mad\u00e9 Kwara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441521
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"b41b79b6626f2790fcd30084641c6280",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051041,
+            "locality_id":1209717379,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1209717379,
+    "wof:lastmodified":1537674724,
+    "wof:name":"Made Kwara",
+    "wof:parent_id":1092051041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.24038,
+    12.74345,
+    3.24038,
+    12.74345
+],
+  "geometry": {"coordinates":[3.24038,12.74345],"type":"Point"}
+}

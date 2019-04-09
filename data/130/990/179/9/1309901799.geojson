@@ -1,0 +1,70 @@
+{
+  "id": 1309901799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.8603,13.62454,1.8603,13.62454",
+    "geom:latitude":13.62454,
+    "geom:longitude":1.8603,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Yonkoto",
+    "gn:country_code":"NE",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445357,
+    "gn:latitude":13.62454,
+    "gn:longitude":1.8603,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Yonkoto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dyonkoto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445357
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"9d80c65fb974e974d1fc6b515dce9330",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1309901799,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1309901799,
+    "wof:lastmodified":1537674814,
+    "wof:name":"Yonkoto",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.8603,
+    13.62454,
+    1.8603,
+    13.62454
+],
+  "geometry": {"coordinates":[1.8603,13.62454],"type":"Point"}
+}

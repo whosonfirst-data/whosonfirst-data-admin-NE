@@ -1,0 +1,67 @@
+{
+  "id": 1225965589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.51001,12.89653,9.51001,12.89653",
+    "geom:latitude":12.89653,
+    "geom:longitude":9.51001,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Angoal Aya",
+    "gn:country_code":"NE",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7027090,
+    "gn:latitude":12.89653,
+    "gn:longitude":9.51001,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Angoal Aya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7027090
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"c53a02774c2008990e86c0dea3ff6854",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051133,
+            "locality_id":1225965589,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1225965589,
+    "wof:lastmodified":1536839679,
+    "wof:name":"Angoal Aya",
+    "wof:parent_id":1092051133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.51001,
+    12.89653,
+    9.51001,
+    12.89653
+],
+  "geometry": {"coordinates":[9.51001,12.89653],"type":"Point"}
+}

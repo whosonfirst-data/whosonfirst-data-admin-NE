@@ -1,0 +1,72 @@
+{
+  "id": 1243562279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.91606,12.8511,2.91606,12.8511",
+    "geom:latitude":12.8511,
+    "geom:longitude":2.91606,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mebere Kouara",
+    "gn:country_code":"NE",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2440976,
+    "gn:latitude":12.8511,
+    "gn:longitude":2.91606,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"M\u00e9b\u00e9r\u00e9 Kouara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u00e9b\u00e9r\u00e9 Koara",
+        "M\u00e9b\u00e9r\u00e9 Kwara",
+        "M\u00e9b\u00e9r\u00e9 Kouara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2440976
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"b07a03a6663b9150602e7032e903107a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051075,
+            "locality_id":1243562279,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1243562279,
+    "wof:lastmodified":1537674712,
+    "wof:name":"Mebere Kouara",
+    "wof:parent_id":1092051075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.91606,
+    12.8511,
+    2.91606,
+    12.8511
+],
+  "geometry": {"coordinates":[2.91606,12.8511],"type":"Point"}
+}

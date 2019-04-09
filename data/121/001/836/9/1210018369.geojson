@@ -1,0 +1,71 @@
+{
+  "id": 1210018369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.88557,12.57372,2.88557,12.57372",
+    "geom:latitude":12.57372,
+    "geom:longitude":2.88557,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Koudye Keyna",
+    "gn:country_code":"NE",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442012,
+    "gn:latitude":12.57372,
+    "gn:longitude":2.88557,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Koudy\u00e9 Keyna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koudy\u00e9 Kaina",
+        "Koudy\u00e9 Keyna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442012
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"a39832b1a27bedbf51e996ce8ce96ed8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051075,
+            "locality_id":1210018369,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1210018369,
+    "wof:lastmodified":1537674738,
+    "wof:name":"Koudye Keyna",
+    "wof:parent_id":1092051075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.88557,
+    12.57372,
+    2.88557,
+    12.57372
+],
+  "geometry": {"coordinates":[2.88557,12.57372],"type":"Point"}
+}

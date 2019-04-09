@@ -1,0 +1,65 @@
+{
+  "id": 1209310419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.86725,13.22501,1.86725,13.22501",
+    "geom:latitude":13.22501,
+    "geom:longitude":1.86725,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bololadie",
+    "gn:country_code":"NE",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446669,
+    "gn:latitude":13.22501,
+    "gn:longitude":1.86725,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Bololadi\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bolobadi\u00e9",
+        "Bololadi\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446669
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"d93948c7b7e6bb279e974b9d945e675d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209310419
+        }
+    ],
+    "wof:id":1209310419,
+    "wof:lastmodified":1537674847,
+    "wof:name":"Bololadie",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.86725,
+    13.22501,
+    1.86725,
+    13.22501
+],
+  "geometry": {"coordinates":[1.86725,13.22501],"type":"Point"}
+}

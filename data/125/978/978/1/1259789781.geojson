@@ -1,0 +1,71 @@
+{
+  "id": 1259789781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.37117,13.64605,6.37117,13.64605",
+    "geom:latitude":13.64605,
+    "geom:longitude":6.37117,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bakouso",
+    "gn:country_code":"NE",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447245,
+    "gn:latitude":13.64605,
+    "gn:longitude":6.37117,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bakouso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bakousso",
+        "Bakouso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447245
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"6839dd271d63f15b4d946b3b015d3044",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051229,
+            "locality_id":1259789781,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1259789781,
+    "wof:lastmodified":1537674860,
+    "wof:name":"Bakouso",
+    "wof:parent_id":1092051229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.37117,
+    13.64605,
+    6.37117,
+    13.64605
+],
+  "geometry": {"coordinates":[6.37117,13.64605],"type":"Point"}
+}

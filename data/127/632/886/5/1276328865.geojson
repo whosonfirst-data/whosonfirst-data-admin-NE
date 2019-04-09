@@ -1,0 +1,67 @@
+{
+  "id": 1276328865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.1658,13.3948,2.1658,13.3948",
+    "geom:latitude":13.3948,
+    "geom:longitude":2.1658,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Lele Mamane Niale",
+    "gn:country_code":"NE",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2568993,
+    "gn:latitude":13.3948,
+    "gn:longitude":2.1658,
+    "gn:modification_date":"2008-10-15",
+    "gn:name":"L\u00e9l\u00e9 Mamane Nial\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2568993
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"539ccfaf5e2e1fc1b3cee22dec97587a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051103,
+            "locality_id":1276328865,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1276328865,
+    "wof:lastmodified":1536785102,
+    "wof:name":"Lele Mamane Niale",
+    "wof:parent_id":1092051103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1658,
+    13.3948,
+    2.1658,
+    13.3948
+],
+  "geometry": {"coordinates":[2.1658,13.3948],"type":"Point"}
+}

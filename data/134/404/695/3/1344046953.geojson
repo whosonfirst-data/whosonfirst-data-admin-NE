@@ -1,0 +1,71 @@
+{
+  "id": 1344046953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.27818,13.76171,1.27818,13.76171",
+    "geom:latitude":13.76171,
+    "geom:longitude":1.27818,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Brinani",
+    "gn:country_code":"NE",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446448,
+    "gn:latitude":13.76171,
+    "gn:longitude":1.27818,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Brinani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Brihani",
+        "Brinani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446448
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"6f0a4a73953bfd1d913f5620a81fb6c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051545,
+            "locality_id":1344046953,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1344046953,
+    "wof:lastmodified":1537674841,
+    "wof:name":"Brinani",
+    "wof:parent_id":1092051545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.27818,
+    13.76171,
+    1.27818,
+    13.76171
+],
+  "geometry": {"coordinates":[1.27818,13.76171],"type":"Point"}
+}

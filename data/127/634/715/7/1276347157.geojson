@@ -1,0 +1,72 @@
+{
+  "id": 1276347157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.43791,12.94355,3.43791,12.94355",
+    "geom:latitude":12.94355,
+    "geom:longitude":3.43791,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Lele Gorou",
+    "gn:country_code":"NE",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441672,
+    "gn:latitude":12.94355,
+    "gn:longitude":3.43791,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"L\u00e9l\u00e9 Gorou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00e9ley Gorou",
+        "L\u00e9t\u00e9-Gorou",
+        "L\u00e9l\u00e9 Gorou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441672
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"4b393bf582356947549126c8f9af4984",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051041,
+            "locality_id":1276347157,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1276347157,
+    "wof:lastmodified":1537674728,
+    "wof:name":"Lele Gorou",
+    "wof:parent_id":1092051041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.43791,
+    12.94355,
+    3.43791,
+    12.94355
+],
+  "geometry": {"coordinates":[3.43791,12.94355],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310403271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.23,15.0628,5.23,15.0628",
+    "geom:latitude":15.0628,
+    "geom:longitude":5.23,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Dayabo",
+    "gn:country_code":"NE",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6699615,
+    "gn:latitude":15.0628,
+    "gn:longitude":5.23,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Dayabo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6699615
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"4173c79b75e42f2ea94c0b6bf11995c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051609,
+            "locality_id":1310403271,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1310403271,
+    "wof:lastmodified":1537061767,
+    "wof:name":"Dayabo",
+    "wof:parent_id":1092051609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.23,
+    15.0628,
+    5.23,
+    15.0628
+],
+  "geometry": {"coordinates":[5.23,15.0628],"type":"Point"}
+}

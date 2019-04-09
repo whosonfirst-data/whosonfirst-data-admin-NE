@@ -1,0 +1,71 @@
+{
+  "id": 1360275233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.4483,14.2987,3.4483,14.2987",
+    "geom:latitude":14.2987,
+    "geom:longitude":3.4483,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tahoulen",
+    "gn:country_code":"NE",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439373,
+    "gn:latitude":14.2987,
+    "gn:longitude":3.4483,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tahoul\u00e8n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tahoul\u00e8ne",
+        "Tahoul\u00e8n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439373
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"075f720af897ae9537b583468bc69fd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051695,
+            "locality_id":1360275233,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1360275233,
+    "wof:lastmodified":1537674682,
+    "wof:name":"Tahoulen",
+    "wof:parent_id":1092051695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.4483,
+    14.2987,
+    3.4483,
+    14.2987
+],
+  "geometry": {"coordinates":[3.4483,14.2987],"type":"Point"}
+}

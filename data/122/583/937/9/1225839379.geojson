@@ -1,0 +1,67 @@
+{
+  "id": 1225839379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.9897,14.9268,8.9897,14.9268",
+    "geom:latitude":14.9268,
+    "geom:longitude":8.9897,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dagaradi",
+    "gn:country_code":"NE",
+    "gn:dem":525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446296,
+    "gn:latitude":14.9268,
+    "gn:longitude":8.9897,
+    "gn:modification_date":"2008-08-26",
+    "gn:name":"Dagaradi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446296
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"77e622467a2f04a61a585fe7b37a6414",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1225839379,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1225839379,
+    "wof:lastmodified":1537021911,
+    "wof:name":"Dagaradi",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.9897,
+    14.9268,
+    8.9897,
+    14.9268
+],
+  "geometry": {"coordinates":[8.9897,14.9268],"type":"Point"}
+}

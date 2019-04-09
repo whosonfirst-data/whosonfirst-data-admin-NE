@@ -1,0 +1,67 @@
+{
+  "id": 1259604493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.2095,14.4794,8.2095,14.4794",
+    "geom:latitude":14.4794,
+    "geom:longitude":8.2095,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Guidan Yerima",
+    "gn:country_code":"NE",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2443540,
+    "gn:latitude":14.4794,
+    "gn:longitude":8.2095,
+    "gn:modification_date":"2008-08-26",
+    "gn:name":"Guidan Y\u00e9rima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2443540
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"d1079d499f3c6989a5843c581922a88d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1259604493,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1259604493,
+    "wof:lastmodified":1536684553,
+    "wof:name":"Guidan Yerima",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.2095,
+    14.4794,
+    8.2095,
+    14.4794
+],
+  "geometry": {"coordinates":[8.2095,14.4794],"type":"Point"}
+}

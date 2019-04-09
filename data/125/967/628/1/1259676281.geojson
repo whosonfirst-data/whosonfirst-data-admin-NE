@@ -1,0 +1,67 @@
+{
+  "id": 1259676281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.1226,14.5828,5.1226,14.5828",
+    "geom:latitude":14.5828,
+    "geom:longitude":5.1226,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Rainsaki",
+    "gn:country_code":"NE",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6679169,
+    "gn:latitude":14.5828,
+    "gn:longitude":5.1226,
+    "gn:modification_date":"2008-02-09",
+    "gn:name":"Rainsaki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6679169
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"1c0949d596c75cad406c96f3c18580c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051609,
+            "locality_id":1259676281,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1259676281,
+    "wof:lastmodified":1537074337,
+    "wof:name":"Rainsaki",
+    "wof:parent_id":1092051609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.1226,
+    14.5828,
+    5.1226,
+    14.5828
+],
+  "geometry": {"coordinates":[5.1226,14.5828],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259687153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.09495,13.46129,11.09495,13.46129",
+    "geom:latitude":13.46129,
+    "geom:longitude":11.09495,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bougou Malamdi",
+    "gn:country_code":"NE",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6776729,
+    "gn:latitude":13.46129,
+    "gn:longitude":11.09495,
+    "gn:modification_date":"2015-02-23",
+    "gn:name":"Bougou Malamdi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6776729
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"a95660215581c97584ad7849be1da9e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051363,
+            "locality_id":1259687153,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1259687153,
+    "wof:lastmodified":1537059113,
+    "wof:name":"Bougou Malamdi",
+    "wof:parent_id":1092051363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.09495,
+    13.46129,
+    11.09495,
+    13.46129
+],
+  "geometry": {"coordinates":[11.09495,13.46129],"type":"Point"}
+}

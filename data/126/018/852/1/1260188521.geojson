@@ -1,0 +1,72 @@
+{
+  "id": 1260188521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.13887,13.40717,7.13887,13.40717",
+    "geom:latitude":13.40717,
+    "geom:longitude":7.13887,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Djiratawa",
+    "gn:country_code":"NE",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445587,
+    "gn:latitude":13.40717,
+    "gn:longitude":7.13887,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Djiratawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Djirataoua",
+        "Djiratawa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445587,
+        "wk:page":"Djiratawa"
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"93d5525b4d107877a307f29cb481b88d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051007,
+            "locality_id":1260188521,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1260188521,
+    "wof:lastmodified":1537674820,
+    "wof:name":"Djiratawa",
+    "wof:parent_id":1092051007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.13887,
+    13.40717,
+    7.13887,
+    13.40717
+],
+  "geometry": {"coordinates":[7.13887,13.40717],"type":"Point"}
+}

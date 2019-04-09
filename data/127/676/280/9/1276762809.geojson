@@ -1,0 +1,71 @@
+{
+  "id": 1276762809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.45124,14.14296,8.45124,14.14296",
+    "geom:latitude":14.14296,
+    "geom:longitude":8.45124,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tigilala",
+    "gn:country_code":"NE",
+    "gn:dem":457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438706,
+    "gn:latitude":14.14296,
+    "gn:longitude":8.45124,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tigilala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tiguilala",
+        "Tigilala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438706
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"1ae07bd64357484415c5e616497a8186",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051389,
+            "locality_id":1276762809,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1276762809,
+    "wof:lastmodified":1537674671,
+    "wof:name":"Tigilala",
+    "wof:parent_id":1092051389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.45124,
+    14.14296,
+    8.45124,
+    14.14296
+],
+  "geometry": {"coordinates":[8.45124,14.14296],"type":"Point"}
+}

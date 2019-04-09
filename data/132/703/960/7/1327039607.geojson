@@ -1,0 +1,72 @@
+{
+  "id": 1327039607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.71667,17.06667,8.71667,17.06667",
+    "geom:latitude":17.06667,
+    "geom:longitude":8.71667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Aguessis",
+    "gn:cc2":"NE",
+    "gn:country_code":"NE",
+    "gn:dem":604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448027,
+    "gn:latitude":17.06667,
+    "gn:longitude":8.71667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Aguessis",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Agessis",
+        "Aguessis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675273,
+        421182277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448027
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"b46af641a467f64d4a73f2f41b8899d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182277,
+            "locality_id":1327039607,
+            "region_id":85675273
+        }
+    ],
+    "wof:id":1327039607,
+    "wof:lastmodified":1537674872,
+    "wof:name":"Aguessis",
+    "wof:parent_id":421182277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.71667,
+    17.06667,
+    8.71667,
+    17.06667
+],
+  "geometry": {"coordinates":[8.71667,17.06667],"type":"Point"}
+}

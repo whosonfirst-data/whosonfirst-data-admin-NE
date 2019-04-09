@@ -1,0 +1,71 @@
+{
+  "id": 1243554925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.26232,13.61621,8.26232,13.61621",
+    "geom:latitude":13.61621,
+    "geom:longitude":8.26232,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Karohi",
+    "gn:country_code":"NE",
+    "gn:dem":464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442586,
+    "gn:latitude":13.61621,
+    "gn:longitude":8.26232,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Karohi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karofi",
+        "Karohi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442586
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"ba25c6a2f05c0a6cdf1d8ce30bd93f41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051389,
+            "locality_id":1243554925,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1243554925,
+    "wof:lastmodified":1537674753,
+    "wof:name":"Karohi",
+    "wof:parent_id":1092051389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.26232,
+    13.61621,
+    8.26232,
+    13.61621
+],
+  "geometry": {"coordinates":[8.26232,13.61621],"type":"Point"}
+}

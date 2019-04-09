@@ -1,0 +1,61 @@
+{
+  "id": 1209216421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.35796,14.34096,4.35796,14.34096",
+    "geom:latitude":14.34096,
+    "geom:longitude":4.35796,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bouka Bouki",
+    "gn:country_code":"NE",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6783534,
+    "gn:latitude":14.34096,
+    "gn:longitude":4.35796,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Bouka Bouki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6783534
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"96ecba1bf1f9d89581a464ba81fd46a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209216421
+        }
+    ],
+    "wof:id":1209216421,
+    "wof:lastmodified":1536294116,
+    "wof:name":"Bouka Bouki",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.35796,
+    14.34096,
+    4.35796,
+    14.34096
+],
+  "geometry": {"coordinates":[4.35796,14.34096],"type":"Point"}
+}

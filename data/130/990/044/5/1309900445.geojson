@@ -1,0 +1,67 @@
+{
+  "id": 1309900445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.90441,14.76905,8.90441,14.76905",
+    "geom:latitude":14.76905,
+    "geom:longitude":8.90441,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Maymagaria",
+    "gn:country_code":"NE",
+    "gn:dem":477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441063,
+    "gn:latitude":14.76905,
+    "gn:longitude":8.90441,
+    "gn:modification_date":"2008-08-26",
+    "gn:name":"Maymagaria",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441063
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"bf98bb7d8dc96ca253b3be487bf20610",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1309900445,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1309900445,
+    "wof:lastmodified":1536794903,
+    "wof:name":"Maymagaria",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.90441,
+    14.76905,
+    8.90441,
+    14.76905
+],
+  "geometry": {"coordinates":[8.90441,14.76905],"type":"Point"}
+}

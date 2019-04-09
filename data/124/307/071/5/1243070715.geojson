@@ -1,0 +1,67 @@
+{
+  "id": 1243070715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.66526,13.54296,11.66526,13.54296",
+    "geom:latitude":13.54296,
+    "geom:longitude":11.66526,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Arisinedi",
+    "gn:country_code":"NE",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6786847,
+    "gn:latitude":13.54296,
+    "gn:longitude":11.66526,
+    "gn:modification_date":"2013-02-09",
+    "gn:name":"Arisin\u00e9di",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6786847
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"544b36c2de5c9902bdc29972cc0f2f2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051363,
+            "locality_id":1243070715,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1243070715,
+    "wof:lastmodified":1536849048,
+    "wof:name":"Arisinedi",
+    "wof:parent_id":1092051363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.66526,
+    13.54296,
+    11.66526,
+    13.54296
+],
+  "geometry": {"coordinates":[11.66526,13.54296],"type":"Point"}
+}

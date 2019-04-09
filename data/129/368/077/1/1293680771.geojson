@@ -1,0 +1,67 @@
+{
+  "id": 1293680771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.3811,14.5705,10.3811,14.5705",
+    "geom:latitude":14.5705,
+    "geom:longitude":10.3811,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Abatilori",
+    "gn:country_code":"NE",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6847831,
+    "gn:latitude":14.5705,
+    "gn:longitude":10.3811,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Abatilori",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6847831
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"a65a1ec77505e35ae43a6d5eee50d9bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051753,
+            "locality_id":1293680771,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1293680771,
+    "wof:lastmodified":1537004996,
+    "wof:name":"Abatilori",
+    "wof:parent_id":1092051753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3811,
+    14.5705,
+    10.3811,
+    14.5705
+],
+  "geometry": {"coordinates":[10.3811,14.5705],"type":"Point"}
+}

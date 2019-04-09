@@ -1,0 +1,67 @@
+{
+  "id": 1343562031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.9499,13.5117,6.9499,13.5117",
+    "geom:latitude":13.5117,
+    "geom:longitude":6.9499,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Oubandiawaki",
+    "gn:country_code":"NE",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2440329,
+    "gn:latitude":13.5117,
+    "gn:longitude":6.9499,
+    "gn:modification_date":"2008-02-11",
+    "gn:name":"Oubandiawaki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2440329
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"721aa312add0fdafa2721181cb76d820",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051229,
+            "locality_id":1343562031,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1343562031,
+    "wof:lastmodified":1537094006,
+    "wof:name":"Oubandiawaki",
+    "wof:parent_id":1092051229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.9499,
+    13.5117,
+    6.9499,
+    13.5117
+],
+  "geometry": {"coordinates":[6.9499,13.5117],"type":"Point"}
+}

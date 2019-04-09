@@ -1,0 +1,65 @@
+{
+  "id": 1209415323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.90457,13.49047,6.90457,13.49047",
+    "geom:latitude":13.49047,
+    "geom:longitude":6.90457,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Guindi Guiri",
+    "gn:country_code":"NE",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2443490,
+    "gn:latitude":13.49047,
+    "gn:longitude":6.90457,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Guindi Guiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gindi Giri",
+        "Guindi Guiri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2443490
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"7bd23e209505bc40c786f3c84df5265b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209415323
+        }
+    ],
+    "wof:id":1209415323,
+    "wof:lastmodified":1537674768,
+    "wof:name":"Guindi Guiri",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.90457,
+    13.49047,
+    6.90457,
+    13.49047
+],
+  "geometry": {"coordinates":[6.90457,13.49047],"type":"Point"}
+}

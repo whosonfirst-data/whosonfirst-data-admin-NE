@@ -1,0 +1,67 @@
+{
+  "id": 1209920099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.91077,13.78116,7.91077,13.78116",
+    "geom:latitude":13.78116,
+    "geom:longitude":7.91077,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dan Moussa",
+    "gn:country_code":"NE",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6709142,
+    "gn:latitude":13.78116,
+    "gn:longitude":7.91077,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Dan Moussa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6709142
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"6c1e758a77ad226e30fc4c934164164f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051389,
+            "locality_id":1209920099,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1209920099,
+    "wof:lastmodified":1536369356,
+    "wof:name":"Dan Moussa",
+    "wof:parent_id":1092051389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.91077,
+    13.78116,
+    7.91077,
+    13.78116
+],
+  "geometry": {"coordinates":[7.91077,13.78116],"type":"Point"}
+}

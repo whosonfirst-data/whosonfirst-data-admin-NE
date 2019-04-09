@@ -1,0 +1,72 @@
+{
+  "id": 1310501839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.30343,13.21257,7.30343,13.21257",
+    "geom:latitude":13.21257,
+    "geom:longitude":7.30343,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Naoumfana",
+    "gn:country_code":"NE",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2440766,
+    "gn:latitude":13.21257,
+    "gn:longitude":7.30343,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"N\u00e2oumf\u00e2na",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dan Itatch\u00e9",
+        "Naounfana",
+        "N\u00e2oumf\u00e2na"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2440766
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"331390503bc9e8f0b89abf607b43836d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051007,
+            "locality_id":1310501839,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1310501839,
+    "wof:lastmodified":1537674708,
+    "wof:name":"Naoumfana",
+    "wof:parent_id":1092051007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.30343,
+    13.21257,
+    7.30343,
+    13.21257
+],
+  "geometry": {"coordinates":[7.30343,13.21257],"type":"Point"}
+}

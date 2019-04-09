@@ -1,0 +1,67 @@
+{
+  "id": 1293099213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.12463,13.44153,7.12463,13.44153",
+    "geom:latitude":13.44153,
+    "geom:longitude":7.12463,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Aderawa",
+    "gn:country_code":"NE",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448151,
+    "gn:latitude":13.44153,
+    "gn:longitude":7.12463,
+    "gn:modification_date":"2008-02-20",
+    "gn:name":"Ad\u00e9rawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448151
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"16637985c39abb0bdef5daa02df304f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051007,
+            "locality_id":1293099213,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1293099213,
+    "wof:lastmodified":1536848731,
+    "wof:name":"Aderawa",
+    "wof:parent_id":1092051007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.12463,
+    13.44153,
+    7.12463,
+    13.44153
+],
+  "geometry": {"coordinates":[7.12463,13.44153],"type":"Point"}
+}

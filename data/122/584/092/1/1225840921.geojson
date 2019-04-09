@@ -1,0 +1,72 @@
+{
+  "id": 1225840921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.73333,13.66503,1.73333,13.66503",
+    "geom:latitude":13.66503,
+    "geom:longitude":1.73333,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bamey Kouarey",
+    "gn:country_code":"NE",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447200,
+    "gn:latitude":13.66503,
+    "gn:longitude":1.73333,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Bamey Kouarey",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bamey Koir\u00e9",
+        "Bamey Koyr\u00e9",
+        "Bamey Kouarey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447200
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"ab471bdee11fefb34feab68a9c33fe20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1225840921,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1225840921,
+    "wof:lastmodified":1537674859,
+    "wof:name":"Bamey Kouarey",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.73333,
+    13.66503,
+    1.73333,
+    13.66503
+],
+  "geometry": {"coordinates":[1.73333,13.66503],"type":"Point"}
+}

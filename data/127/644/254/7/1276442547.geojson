@@ -1,0 +1,67 @@
+{
+  "id": 1276442547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.67751,13.93235,6.67751,13.93235",
+    "geom:latitude":13.93235,
+    "geom:longitude":6.67751,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Nagouida",
+    "gn:country_code":"NE",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6713461,
+    "gn:latitude":13.93235,
+    "gn:longitude":6.67751,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Nagouida",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6713461
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"62e67dfdaf7c5f6361a88e4b618f681b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1276442547,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1276442547,
+    "wof:lastmodified":1536630683,
+    "wof:name":"Nagouida",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.67751,
+    13.93235,
+    6.67751,
+    13.93235
+],
+  "geometry": {"coordinates":[6.67751,13.93235],"type":"Point"}
+}

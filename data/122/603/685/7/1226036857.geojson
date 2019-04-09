@@ -1,0 +1,67 @@
+{
+  "id": 1226036857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.75176,13.11965,8.75176,13.11965",
+    "geom:latitude":13.11965,
+    "geom:longitude":8.75176,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Jajaye Douna",
+    "gn:country_code":"NE",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6745923,
+    "gn:latitude":13.11965,
+    "gn:longitude":8.75176,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Jajay\u00e9 Douna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6745923
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"c09dc7c08156de6de055e32f4308a01a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051133,
+            "locality_id":1226036857,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1226036857,
+    "wof:lastmodified":1536737940,
+    "wof:name":"Jajaye Douna",
+    "wof:parent_id":1092051133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.75176,
+    13.11965,
+    8.75176,
+    13.11965
+],
+  "geometry": {"coordinates":[8.75176,13.11965],"type":"Point"}
+}

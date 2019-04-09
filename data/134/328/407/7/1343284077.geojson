@@ -1,0 +1,67 @@
+{
+  "id": 1343284077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.18078,14.33763,6.18078,14.33763",
+    "geom:latitude":14.33763,
+    "geom:longitude":6.18078,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sabongari Mareda",
+    "gn:country_code":"NE",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6849715,
+    "gn:latitude":14.33763,
+    "gn:longitude":6.18078,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Sabongari Mar\u00e9da",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6849715
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"7e814e39d0f3eeea47e5600fbea42230",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051515,
+            "locality_id":1343284077,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1343284077,
+    "wof:lastmodified":1537000126,
+    "wof:name":"Sabongari Mareda",
+    "wof:parent_id":1092051515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.18078,
+    14.33763,
+    6.18078,
+    14.33763
+],
+  "geometry": {"coordinates":[6.18078,14.33763],"type":"Point"}
+}

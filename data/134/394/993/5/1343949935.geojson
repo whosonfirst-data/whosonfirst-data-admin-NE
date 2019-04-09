@@ -1,0 +1,67 @@
+{
+  "id": 1343949935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.63961,15.10116,8.63961,15.10116",
+    "geom:latitude":15.10116,
+    "geom:longitude":8.63961,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ouantadak",
+    "gn:country_code":"NE",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6804660,
+    "gn:latitude":15.10116,
+    "gn:longitude":8.63961,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Ouantadak",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6804660
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"c85d09c950255eaad5c95c6adf1248f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1343949935,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1343949935,
+    "wof:lastmodified":1537033794,
+    "wof:name":"Ouantadak",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.63961,
+    15.10116,
+    8.63961,
+    15.10116
+],
+  "geometry": {"coordinates":[8.63961,15.10116],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209522827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.27035,12.1861,3.27035,12.1861",
+    "geom:latitude":12.1861,
+    "geom:longitude":3.27035,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tako Kwara",
+    "gn:country_code":"NE",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439303,
+    "gn:latitude":12.1861,
+    "gn:longitude":3.27035,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tako Kwara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Toullou",
+        "Tako-Koara",
+        "Tako Kwara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439303
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"563971306f3d679d66c318296f2adf48",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209522827
+        }
+    ],
+    "wof:id":1209522827,
+    "wof:lastmodified":1537674681,
+    "wof:name":"Tako Kwara",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.27035,
+    12.1861,
+    3.27035,
+    12.1861
+],
+  "geometry": {"coordinates":[3.27035,12.1861],"type":"Point"}
+}

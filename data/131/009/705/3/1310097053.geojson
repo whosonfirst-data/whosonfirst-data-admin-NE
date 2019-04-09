@@ -1,0 +1,67 @@
+{
+  "id": 1310097053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.35,14.0648,9.35,14.0648",
+    "geom:latitude":14.0648,
+    "geom:longitude":9.35,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Daoua Djaoura",
+    "gn:country_code":"NE",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6803698,
+    "gn:latitude":14.0648,
+    "gn:longitude":9.35,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Daoua Djaoura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6803698
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"b102735e74c40b9c47ad0256931a5cc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051411,
+            "locality_id":1310097053,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1310097053,
+    "wof:lastmodified":1537007992,
+    "wof:name":"Daoua Djaoura",
+    "wof:parent_id":1092051411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.35,
+    14.0648,
+    9.35,
+    14.0648
+],
+  "geometry": {"coordinates":[9.35,14.0648],"type":"Point"}
+}

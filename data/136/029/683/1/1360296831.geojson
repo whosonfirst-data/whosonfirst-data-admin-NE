@@ -1,0 +1,71 @@
+{
+  "id": 1360296831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.54864,12.56118,3.54864,12.56118",
+    "geom:latitude":12.56118,
+    "geom:longitude":3.54864,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Makieri",
+    "gn:country_code":"NE",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441409,
+    "gn:latitude":12.56118,
+    "gn:longitude":3.54864,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Maki\u00e9ri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maky\u00e9ri",
+        "Maki\u00e9ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092050969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441409
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"9fb06573920fe2910a6f22e2f97c4a3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092050969,
+            "locality_id":1360296831,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1360296831,
+    "wof:lastmodified":1537674722,
+    "wof:name":"Makieri",
+    "wof:parent_id":1092050969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.54864,
+    12.56118,
+    3.54864,
+    12.56118
+],
+  "geometry": {"coordinates":[3.54864,12.56118],"type":"Point"}
+}

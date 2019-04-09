@@ -1,0 +1,67 @@
+{
+  "id": 1259605453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.2954,15.1097,5.2954,15.1097",
+    "geom:latitude":15.1097,
+    "geom:longitude":5.2954,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bahu",
+    "gn:country_code":"NE",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6699585,
+    "gn:latitude":15.1097,
+    "gn:longitude":5.2954,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Bahu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6699585
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"2cc7030ddfec6ed39b51d4468f9466bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051609,
+            "locality_id":1259605453,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1259605453,
+    "wof:lastmodified":1536683129,
+    "wof:name":"Bahu",
+    "wof:parent_id":1092051609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.2954,
+    15.1097,
+    5.2954,
+    15.1097
+],
+  "geometry": {"coordinates":[5.2954,15.1097],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209599771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.9228,14.5478,3.9228,14.5478",
+    "geom:latitude":14.5478,
+    "geom:longitude":3.9228,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mado Biya",
+    "gn:country_code":"NE",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441508,
+    "gn:latitude":14.5478,
+    "gn:longitude":3.9228,
+    "gn:modification_date":"2008-01-29",
+    "gn:name":"Mado Biya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441508
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"66a456aeb0672dcf8e120ef4882dc8f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209599771
+        }
+    ],
+    "wof:id":1209599771,
+    "wof:lastmodified":1536282206,
+    "wof:name":"Mado Biya",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.9228,
+    14.5478,
+    3.9228,
+    14.5478
+],
+  "geometry": {"coordinates":[3.9228,14.5478],"type":"Point"}
+}

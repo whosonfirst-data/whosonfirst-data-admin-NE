@@ -1,0 +1,72 @@
+{
+  "id": 1310338271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.02992,13.49667,8.02992,13.49667",
+    "geom:latitude":13.49667,
+    "geom:longitude":8.02992,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Rafa",
+    "gn:country_code":"NE",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2440181,
+    "gn:latitude":13.49667,
+    "gn:longitude":8.02992,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Rafa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaffa",
+        "Raffa",
+        "Rafa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2440181
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"682f054f372b4f216a2cf1cddbae5885",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051197,
+            "locality_id":1310338271,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1310338271,
+    "wof:lastmodified":1537674700,
+    "wof:name":"Rafa",
+    "wof:parent_id":1092051197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.02992,
+    13.49667,
+    8.02992,
+    13.49667
+],
+  "geometry": {"coordinates":[8.02992,13.49667],"type":"Point"}
+}

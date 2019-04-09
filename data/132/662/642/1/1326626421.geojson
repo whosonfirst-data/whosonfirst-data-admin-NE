@@ -1,0 +1,71 @@
+{
+  "id": 1326626421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.7766,13.2954,2.7766,13.2954",
+    "geom:latitude":13.2954,
+    "geom:longitude":2.7766,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ahamandey Beri",
+    "gn:country_code":"NE",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2443426,
+    "gn:latitude":13.2954,
+    "gn:longitude":2.7766,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ahamandey B\u00e9ri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hanand\u00e9",
+        "Ahamandey B\u00e9ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2443426
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"86e44544d8f9097999972346f62cfb25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1326626421,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1326626421,
+    "wof:lastmodified":1537674766,
+    "wof:name":"Ahamandey Beri",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.7766,
+    13.2954,
+    2.7766,
+    13.2954
+],
+  "geometry": {"coordinates":[2.7766,13.2954],"type":"Point"}
+}

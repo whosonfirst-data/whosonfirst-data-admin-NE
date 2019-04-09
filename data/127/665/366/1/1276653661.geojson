@@ -1,0 +1,72 @@
+{
+  "id": 1276653661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.63986,13.48396,8.63986,13.48396",
+    "geom:latitude":13.48396,
+    "geom:longitude":8.63986,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ganawa Bougaje",
+    "gn:country_code":"NE",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6737637,
+    "gn:latitude":13.48396,
+    "gn:longitude":8.63986,
+    "gn:modification_date":"2016-07-18",
+    "gn:name":"Ganawa Bougaj\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zangon Bouta",
+        "Ganawa Bougaj\u00e9",
+        "Ganawa Bougage"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6737637
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"ebab83a70482010d15b983dcf3d213e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051165,
+            "locality_id":1276653661,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1276653661,
+    "wof:lastmodified":1537674885,
+    "wof:name":"Ganawa Bougaje",
+    "wof:parent_id":1092051165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.63986,
+    13.48396,
+    8.63986,
+    13.48396
+],
+  "geometry": {"coordinates":[8.63986,13.48396],"type":"Point"}
+}

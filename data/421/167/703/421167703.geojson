@@ -1,0 +1,136 @@
+{
+  "id": 421167703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.3689,13.1007,2.3689,13.1007",
+    "geom:latitude":13.1007,
+    "geom:longitude":2.3689,
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u064a"
+    ],
+    "name:cat_x_preferred":[
+        "Say"
+    ],
+    "name:deu_x_preferred":[
+        "Say"
+    ],
+    "name:dut_x_preferred":[
+        "Say"
+    ],
+    "name:eng_x_preferred":[
+        "Say"
+    ],
+    "name:fra_x_preferred":[
+        "Say"
+    ],
+    "name:fre_x_preferred":[
+        "Say"
+    ],
+    "name:ger_x_preferred":[
+        "Say"
+    ],
+    "name:ita_x_preferred":[
+        "Say"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bb\u30a4"
+    ],
+    "name:may_x_preferred":[
+        "Say"
+    ],
+    "name:msa_x_preferred":[
+        "Say"
+    ],
+    "name:nob_x_preferred":[
+        "Say"
+    ],
+    "name:nor_x_preferred":[
+        "Say"
+    ],
+    "name:pol_x_preferred":[
+        "Say"
+    ],
+    "name:ron_x_preferred":[
+        "Say"
+    ],
+    "name:rum_x_preferred":[
+        "Say"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u06d2\u060c \u0646\u0627\u0626\u062c\u0631"
+    ],
+    "qs:gn_country":"NE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2439812,
+    "qs:gn_pop":10387,
+    "qs:name":"Say",
+    "qs:name_adm0":"Niger",
+    "qs:name_adm1":"Tillaberi",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":140068,
+    "qs:woe_adm0":23424906,
+    "qs:woe_id":1382362,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":215,
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439812,
+        "gp:id":1382362,
+        "qs:id":140068,
+        "wd:id":"Q1003576",
+        "wk:page":"Say, Niger"
+    },
+    "wof:country":"NE",
+    "wof:created":1459008740,
+    "wof:geomhash":"72977e0558b4c228b47c80cf682cc707",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051103,
+            "locality_id":421167703,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":421167703,
+    "wof:lastmodified":1553816355,
+    "wof:name":"Say",
+    "wof:parent_id":1092051103,
+    "wof:placetype":"locality",
+    "wof:population":10387,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.3689,
+    13.1007,
+    2.3689,
+    13.1007
+],
+  "geometry": {"coordinates":[2.3689,13.1007],"type":"Point"}
+}

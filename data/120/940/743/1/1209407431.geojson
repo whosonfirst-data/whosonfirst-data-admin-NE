@@ -1,0 +1,61 @@
+{
+  "id": 1209407431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.8402,14.6108,5.8402,14.6108",
+    "geom:latitude":14.6108,
+    "geom:longitude":5.8402,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mansala Ketari",
+    "gn:country_code":"NE",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6679805,
+    "gn:latitude":14.6108,
+    "gn:longitude":5.8402,
+    "gn:modification_date":"2008-02-09",
+    "gn:name":"Mansala K\u00e9tari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6679805
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"0b5b3279a76feaad9ffbb05b6569ec1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209407431
+        }
+    ],
+    "wof:id":1209407431,
+    "wof:lastmodified":1536287949,
+    "wof:name":"Mansala Ketari",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.8402,
+    14.6108,
+    5.8402,
+    14.6108
+],
+  "geometry": {"coordinates":[5.8402,14.6108],"type":"Point"}
+}

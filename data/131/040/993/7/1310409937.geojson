@@ -1,0 +1,67 @@
+{
+  "id": 1310409937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.24528,17.17361,7.24528,17.17361",
+    "geom:latitude":17.17361,
+    "geom:longitude":7.24528,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"I-n-Jitane",
+    "gn:country_code":"NE",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6307461,
+    "gn:latitude":17.17361,
+    "gn:longitude":7.24528,
+    "gn:modification_date":"2006-12-03",
+    "gn:name":"I-n-Jitane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675273,
+        421182277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6307461
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"8a6b4d7a201f01f5d91bf7b01f14b245",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182277,
+            "locality_id":1310409937,
+            "region_id":85675273
+        }
+    ],
+    "wof:id":1310409937,
+    "wof:lastmodified":1537052600,
+    "wof:name":"I-n-Jitane",
+    "wof:parent_id":421182277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.24528,
+    17.17361,
+    7.24528,
+    17.17361
+],
+  "geometry": {"coordinates":[7.24528,17.17361],"type":"Point"}
+}

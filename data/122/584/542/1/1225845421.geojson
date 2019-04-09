@@ -1,0 +1,72 @@
+{
+  "id": 1225845421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.22375,13.28492,7.22375,13.28492",
+    "geom:latitude":13.28492,
+    "geom:longitude":7.22375,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Roubassaou",
+    "gn:country_code":"NE",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2440117,
+    "gn:latitude":13.28492,
+    "gn:longitude":7.22375,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Roubassaou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Roubasao",
+        "Roubassao",
+        "Roubassaou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2440117
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"7e5495ba69cd950f2f4cc4ceaae4c7ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051007,
+            "locality_id":1225845421,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1225845421,
+    "wof:lastmodified":1537674698,
+    "wof:name":"Roubassaou",
+    "wof:parent_id":1092051007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.22375,
+    13.28492,
+    7.22375,
+    13.28492
+],
+  "geometry": {"coordinates":[7.22375,13.28492],"type":"Point"}
+}

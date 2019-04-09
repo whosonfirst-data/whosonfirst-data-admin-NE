@@ -1,0 +1,67 @@
+{
+  "id": 1343969579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.8454,14.0555,3.8454,14.0555",
+    "geom:latitude":14.0555,
+    "geom:longitude":3.8454,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kourfe Yawa",
+    "gn:country_code":"NE",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441888,
+    "gn:latitude":14.0555,
+    "gn:longitude":3.8454,
+    "gn:modification_date":"2008-01-29",
+    "gn:name":"Kourf\u00e9 Yawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441888
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"273912cc712a25a143b8f13af37bf80f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051467,
+            "locality_id":1343969579,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1343969579,
+    "wof:lastmodified":1537006069,
+    "wof:name":"Kourfe Yawa",
+    "wof:parent_id":1092051467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.8454,
+    14.0555,
+    3.8454,
+    14.0555
+],
+  "geometry": {"coordinates":[3.8454,14.0555],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309718137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.66985,14.48572,7.66985,14.48572",
+    "geom:latitude":14.48572,
+    "geom:longitude":7.66985,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Madou Saboa",
+    "gn:country_code":"NE",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441502,
+    "gn:latitude":14.48572,
+    "gn:longitude":7.66985,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Madou Saboa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441502
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"ac93789d35f5408802a749c6ee2eb7c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1309718137,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1309718137,
+    "wof:lastmodified":1537055041,
+    "wof:name":"Madou Saboa",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.66985,
+    14.48572,
+    7.66985,
+    14.48572
+],
+  "geometry": {"coordinates":[7.66985,14.48572],"type":"Point"}
+}

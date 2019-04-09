@@ -1,0 +1,67 @@
+{
+  "id": 1259964129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.65491,14.9902,2.65491,14.9902",
+    "geom:latitude":14.9902,
+    "geom:longitude":2.65491,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bare",
+    "gn:country_code":"NE",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6827434,
+    "gn:latitude":14.9902,
+    "gn:longitude":2.65491,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Bar\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6827434
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"906c96a0c3d6c7c3bd207eda18746509",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051633,
+            "locality_id":1259964129,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1259964129,
+    "wof:lastmodified":1536663054,
+    "wof:name":"Bare",
+    "wof:parent_id":1092051633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.65491,
+    14.9902,
+    2.65491,
+    14.9902
+],
+  "geometry": {"coordinates":[2.65491,14.9902],"type":"Point"}
+}

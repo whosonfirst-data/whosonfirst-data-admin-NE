@@ -1,0 +1,72 @@
+{
+  "id": 1243256163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.58362,13.92733,5.58362,13.92733",
+    "geom:latitude":13.92733,
+    "geom:longitude":5.58362,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Guidan-Bahago",
+    "gn:country_code":"NE",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444014,
+    "gn:latitude":13.92733,
+    "gn:longitude":5.58362,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Guidan-Bahago",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gidan-Bahago",
+        "Kageji",
+        "Guidan-Bahago"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444014
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"1f8e633abbbd56f07c347bd53f589056",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051301,
+            "locality_id":1243256163,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1243256163,
+    "wof:lastmodified":1537674784,
+    "wof:name":"Guidan-Bahago",
+    "wof:parent_id":1092051301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.58362,
+    13.92733,
+    5.58362,
+    13.92733
+],
+  "geometry": {"coordinates":[5.58362,13.92733],"type":"Point"}
+}

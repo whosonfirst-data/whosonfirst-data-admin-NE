@@ -1,0 +1,67 @@
+{
+  "id": 1310607149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.0135,14.4423,8.0135,14.4423",
+    "geom:latitude":14.4423,
+    "geom:longitude":8.0135,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Rougoumnia",
+    "gn:country_code":"NE",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2440104,
+    "gn:latitude":14.4423,
+    "gn:longitude":8.0135,
+    "gn:modification_date":"2008-08-26",
+    "gn:name":"Rougoumnia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2440104
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"b30d3b3adcf9448106db9adff20c3b28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051435,
+            "locality_id":1310607149,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1310607149,
+    "wof:lastmodified":1536770760,
+    "wof:name":"Rougoumnia",
+    "wof:parent_id":1092051435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.0135,
+    14.4423,
+    8.0135,
+    14.4423
+],
+  "geometry": {"coordinates":[8.0135,14.4423],"type":"Point"}
+}

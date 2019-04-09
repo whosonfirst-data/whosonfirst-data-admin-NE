@@ -1,0 +1,67 @@
+{
+  "id": 1293495247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.71612,12.94232,2.71612,12.94232",
+    "geom:latitude":12.94232,
+    "geom:longitude":2.71612,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Balibali",
+    "gn:country_code":"NE",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447215,
+    "gn:latitude":12.94232,
+    "gn:longitude":2.71612,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Balibali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447215
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"ae805462ed26a5afb899a9111c01bf34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051075,
+            "locality_id":1293495247,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1293495247,
+    "wof:lastmodified":1536776401,
+    "wof:name":"Balibali",
+    "wof:parent_id":1092051075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.71612,
+    12.94232,
+    2.71612,
+    12.94232
+],
+  "geometry": {"coordinates":[2.71612,12.94232],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310316605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.02019,12.28842,3.02019,12.28842",
+    "geom:latitude":12.28842,
+    "geom:longitude":3.02019,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Larey",
+    "gn:country_code":"NE",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441697,
+    "gn:latitude":12.28842,
+    "gn:longitude":3.02019,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Larey",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lar\u00e8ye",
+        "Larey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441697
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"fafe64bf8b3afd9eb9e587c04d9ddddc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051041,
+            "locality_id":1310316605,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1310316605,
+    "wof:lastmodified":1537674728,
+    "wof:name":"Larey",
+    "wof:parent_id":1092051041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.02019,
+    12.28842,
+    3.02019,
+    12.28842
+],
+  "geometry": {"coordinates":[3.02019,12.28842],"type":"Point"}
+}

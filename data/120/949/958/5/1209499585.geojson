@@ -1,0 +1,61 @@
+{
+  "id": 1209499585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.25789,13.41973,1.25789,13.41973",
+    "geom:latitude":13.41973,
+    "geom:longitude":1.25789,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Maka",
+    "gn:country_code":"NE",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441438,
+    "gn:latitude":13.41973,
+    "gn:longitude":1.25789,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Maka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441438
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"8f611df6317b3e78c33209309225e758",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209499585
+        }
+    ],
+    "wof:id":1209499585,
+    "wof:lastmodified":1536285225,
+    "wof:name":"Maka",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.25789,
+    13.41973,
+    1.25789,
+    13.41973
+],
+  "geometry": {"coordinates":[1.25789,13.41973],"type":"Point"}
+}

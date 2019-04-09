@@ -1,0 +1,67 @@
+{
+  "id": 1276253089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.07331,13.31924,7.07331,13.31924",
+    "geom:latitude":13.31924,
+    "geom:longitude":7.07331,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Rougougoua",
+    "gn:country_code":"NE",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6718206,
+    "gn:latitude":13.31924,
+    "gn:longitude":7.07331,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Rougougoua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6718206
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"43926484c60a1b127801dd23d47afd4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051007,
+            "locality_id":1276253089,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1276253089,
+    "wof:lastmodified":1536885727,
+    "wof:name":"Rougougoua",
+    "wof:parent_id":1092051007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.07331,
+    13.31924,
+    7.07331,
+    13.31924
+],
+  "geometry": {"coordinates":[7.07331,13.31924],"type":"Point"}
+}

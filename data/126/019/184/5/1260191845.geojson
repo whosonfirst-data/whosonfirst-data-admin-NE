@@ -1,0 +1,67 @@
+{
+  "id": 1260191845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.1738,13.8867,11.1738,13.8867",
+    "geom:latitude":13.8867,
+    "geom:longitude":11.1738,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kouloum Bardou Gana",
+    "gn:country_code":"NE",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6819864,
+    "gn:latitude":13.8867,
+    "gn:longitude":11.1738,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Kouloum Bardou Gana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6819864
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"01afac2e18598a19dc7d397f187de036",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051363,
+            "locality_id":1260191845,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1260191845,
+    "wof:lastmodified":1536835349,
+    "wof:name":"Kouloum Bardou Gana",
+    "wof:parent_id":1092051363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.1738,
+    13.8867,
+    11.1738,
+    13.8867
+],
+  "geometry": {"coordinates":[11.1738,13.8867],"type":"Point"}
+}

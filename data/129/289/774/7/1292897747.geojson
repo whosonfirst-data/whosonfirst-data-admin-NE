@@ -1,0 +1,67 @@
+{
+  "id": 1292897747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.5029,14.5285,8.5029,14.5285",
+    "geom:latitude":14.5285,
+    "geom:longitude":8.5029,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Maychabarou",
+    "gn:country_code":"NE",
+    "gn:dem":489,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441168,
+    "gn:latitude":14.5285,
+    "gn:longitude":8.5029,
+    "gn:modification_date":"2008-08-26",
+    "gn:name":"Maychabarou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441168
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"a7ef997c5a9c3a98c57181da8e730a74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1292897747,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1292897747,
+    "wof:lastmodified":1536642426,
+    "wof:name":"Maychabarou",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.5029,
+    14.5285,
+    8.5029,
+    14.5285
+],
+  "geometry": {"coordinates":[8.5029,14.5285],"type":"Point"}
+}

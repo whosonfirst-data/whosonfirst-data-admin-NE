@@ -1,0 +1,67 @@
+{
+  "id": 1326936379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.41655,13.60958,6.41655,13.60958",
+    "geom:latitude":13.60958,
+    "geom:longitude":6.41655,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Souloulou",
+    "gn:country_code":"NE",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439577,
+    "gn:latitude":13.60958,
+    "gn:longitude":6.41655,
+    "gn:modification_date":"2008-02-08",
+    "gn:name":"Souloulou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439577
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"60113372c514cd67440eb83c93bf6360",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051229,
+            "locality_id":1326936379,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1326936379,
+    "wof:lastmodified":1536898713,
+    "wof:name":"Souloulou",
+    "wof:parent_id":1092051229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.41655,
+    13.60958,
+    6.41655,
+    13.60958
+],
+  "geometry": {"coordinates":[6.41655,13.60958],"type":"Point"}
+}

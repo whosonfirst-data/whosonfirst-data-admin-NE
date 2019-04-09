@@ -1,0 +1,67 @@
+{
+  "id": 1276465249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.8627,13.8806,9.8627,13.8806",
+    "geom:latitude":13.8806,
+    "geom:longitude":9.8627,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Madjia",
+    "gn:country_code":"NE",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6806764,
+    "gn:latitude":13.8806,
+    "gn:longitude":9.8627,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Madjia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6806764
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"a1ecb1427261decf617976681a46c744",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051753,
+            "locality_id":1276465249,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1276465249,
+    "wof:lastmodified":1537095897,
+    "wof:name":"Madjia",
+    "wof:parent_id":1092051753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8627,
+    13.8806,
+    9.8627,
+    13.8806
+],
+  "geometry": {"coordinates":[9.8627,13.8806],"type":"Point"}
+}

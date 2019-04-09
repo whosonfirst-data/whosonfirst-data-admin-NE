@@ -1,0 +1,67 @@
+{
+  "id": 1293768187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.84767,13.93164,0.84767,13.93164",
+    "geom:latitude":13.93164,
+    "geom:longitude":0.84767,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tilim",
+    "gn:country_code":"NE",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438681,
+    "gn:latitude":13.93164,
+    "gn:longitude":0.84767,
+    "gn:modification_date":"2008-08-18",
+    "gn:name":"Tilim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438681
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"7ff501de14be0feae422fa44b1ad0958",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051545,
+            "locality_id":1293768187,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1293768187,
+    "wof:lastmodified":1536878707,
+    "wof:name":"Tilim",
+    "wof:parent_id":1092051545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.84767,
+    13.93164,
+    0.84767,
+    13.93164
+],
+  "geometry": {"coordinates":[0.84767,13.93164],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260308141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.09373,13.99491,6.09373,13.99491",
+    "geom:latitude":13.99491,
+    "geom:longitude":6.09373,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Rouanzafi",
+    "gn:country_code":"NE",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2440119,
+    "gn:latitude":13.99491,
+    "gn:longitude":6.09373,
+    "gn:modification_date":"2008-02-06",
+    "gn:name":"Rouanzafi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2440119
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"b419e6b7e0260e86909be89df586ea2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051329,
+            "locality_id":1260308141,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1260308141,
+    "wof:lastmodified":1536678914,
+    "wof:name":"Rouanzafi",
+    "wof:parent_id":1092051329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.09373,
+    13.99491,
+    6.09373,
+    13.99491
+],
+  "geometry": {"coordinates":[6.09373,13.99491],"type":"Point"}
+}

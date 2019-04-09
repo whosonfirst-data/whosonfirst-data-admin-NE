@@ -1,0 +1,61 @@
+{
+  "id": 1209436235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.5143,13.35776,8.5143,13.35776",
+    "geom:latitude":13.35776,
+    "geom:longitude":8.5143,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Oun-wala",
+    "gn:country_code":"NE",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6745075,
+    "gn:latitude":13.35776,
+    "gn:longitude":8.5143,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Oun-w\u00e2l\u00e2",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6745075
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"34574c49e00b5b629b5263bf22c24cc5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209436235
+        }
+    ],
+    "wof:id":1209436235,
+    "wof:lastmodified":1536287096,
+    "wof:name":"Oun-wala",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.5143,
+    13.35776,
+    8.5143,
+    13.35776
+],
+  "geometry": {"coordinates":[8.5143,13.35776],"type":"Point"}
+}

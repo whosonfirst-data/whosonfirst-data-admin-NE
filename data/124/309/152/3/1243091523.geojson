@@ -1,0 +1,67 @@
+{
+  "id": 1243091523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.71765,13.92579,7.71765,13.92579",
+    "geom:latitude":13.92579,
+    "geom:longitude":7.71765,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Digaba",
+    "gn:country_code":"NE",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445700,
+    "gn:latitude":13.92579,
+    "gn:longitude":7.71765,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Digaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445700
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"182b6042b4b61c4a23a475543018e6f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051435,
+            "locality_id":1243091523,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1243091523,
+    "wof:lastmodified":1536819256,
+    "wof:name":"Digaba",
+    "wof:parent_id":1092051435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.71765,
+    13.92579,
+    7.71765,
+    13.92579
+],
+  "geometry": {"coordinates":[7.71765,13.92579],"type":"Point"}
+}

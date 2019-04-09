@@ -1,0 +1,67 @@
+{
+  "id": 1310427073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.91879,14.69703,7.91879,14.69703",
+    "geom:latitude":14.69703,
+    "geom:longitude":7.91879,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Torare",
+    "gn:country_code":"NE",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438413,
+    "gn:latitude":14.69703,
+    "gn:longitude":7.91879,
+    "gn:modification_date":"2008-08-21",
+    "gn:name":"Torar\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438413
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"0722bcd9cf1fe8bec29092078ed8e846",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1310427073,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1310427073,
+    "wof:lastmodified":1537028926,
+    "wof:name":"Torare",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.91879,
+    14.69703,
+    7.91879,
+    14.69703
+],
+  "geometry": {"coordinates":[7.91879,14.69703],"type":"Point"}
+}

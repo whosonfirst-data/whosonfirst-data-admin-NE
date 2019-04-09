@@ -1,0 +1,61 @@
+{
+  "id": 1209622781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.8895,13.0914,2.8895,13.0914",
+    "geom:latitude":13.0914,
+    "geom:longitude":2.8895,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Oule Bale",
+    "gn:country_code":"NE",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6858423,
+    "gn:latitude":13.0914,
+    "gn:longitude":2.8895,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Oul\u00e9 Bal\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6858423
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"3cf315fe5bcaab6174bec5f3d37abaf4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209622781
+        }
+    ],
+    "wof:id":1209622781,
+    "wof:lastmodified":1536281459,
+    "wof:name":"Oule Bale",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.8895,
+    13.0914,
+    2.8895,
+    13.0914
+],
+  "geometry": {"coordinates":[2.8895,13.0914],"type":"Point"}
+}

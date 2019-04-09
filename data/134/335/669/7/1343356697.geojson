@@ -1,0 +1,67 @@
+{
+  "id": 1343356697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.17116,13.66134,6.17116,13.66134",
+    "geom:latitude":13.66134,
+    "geom:longitude":6.17116,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Malahango",
+    "gn:country_code":"NE",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441403,
+    "gn:latitude":13.66134,
+    "gn:longitude":6.17116,
+    "gn:modification_date":"2008-02-07",
+    "gn:name":"Malahango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441403
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"de82ff9a1bb29098e05d4e7d60dfad19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051329,
+            "locality_id":1343356697,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1343356697,
+    "wof:lastmodified":1536895812,
+    "wof:name":"Malahango",
+    "wof:parent_id":1092051329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.17116,
+    13.66134,
+    6.17116,
+    13.66134
+],
+  "geometry": {"coordinates":[6.17116,13.66134],"type":"Point"}
+}

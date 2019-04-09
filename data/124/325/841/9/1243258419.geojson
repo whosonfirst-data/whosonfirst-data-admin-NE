@@ -1,0 +1,67 @@
+{
+  "id": 1243258419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.59747,14.44551,1.59747,14.44551",
+    "geom:latitude":14.44551,
+    "geom:longitude":1.59747,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Baya Abalgas",
+    "gn:country_code":"NE",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8523671,
+    "gn:latitude":14.44551,
+    "gn:longitude":1.59747,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Baya Abalgas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        890429081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8523671
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"6fb76d4205a7ac4afaf2234c85b41123",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":890429081,
+            "locality_id":1243258419,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1243258419,
+    "wof:lastmodified":1537073501,
+    "wof:name":"Baya Abalgas",
+    "wof:parent_id":890429081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.59747,
+    14.44551,
+    1.59747,
+    14.44551
+],
+  "geometry": {"coordinates":[1.59747,14.44551],"type":"Point"}
+}

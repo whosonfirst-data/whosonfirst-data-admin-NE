@@ -1,0 +1,71 @@
+{
+  "id": 1293410993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.11516,14.78919,8.11516,14.78919",
+    "geom:latitude":14.78919,
+    "geom:longitude":8.11516,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Janbague",
+    "gn:country_code":"NE",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442995,
+    "gn:latitude":14.78919,
+    "gn:longitude":8.11516,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Janbagu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Janbag\u00e9",
+        "Janbagu\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442995
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"8f7a257a9b53c660e7beffce8d750cf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1293410993,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1293410993,
+    "wof:lastmodified":1537674761,
+    "wof:name":"Janbague",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.11516,
+    14.78919,
+    8.11516,
+    14.78919
+],
+  "geometry": {"coordinates":[8.11516,14.78919],"type":"Point"}
+}

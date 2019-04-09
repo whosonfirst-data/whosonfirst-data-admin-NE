@@ -1,0 +1,71 @@
+{
+  "id": 1310299981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.68329,13.08512,1.68329,13.08512",
+    "geom:latitude":13.08512,
+    "geom:longitude":1.68329,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Heda Debere",
+    "gn:country_code":"NE",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2443411,
+    "gn:latitude":13.08512,
+    "gn:longitude":1.68329,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"H\u00e9da D\u00e9b\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "H\u00e9da",
+        "H\u00e9da D\u00e9b\u00e9r\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2443411
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"4090e604c88568d7a037d69606158f02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051103,
+            "locality_id":1310299981,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1310299981,
+    "wof:lastmodified":1537674765,
+    "wof:name":"Heda Debere",
+    "wof:parent_id":1092051103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.68329,
+    13.08512,
+    1.68329,
+    13.08512
+],
+  "geometry": {"coordinates":[1.68329,13.08512],"type":"Point"}
+}

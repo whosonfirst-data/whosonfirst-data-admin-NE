@@ -1,0 +1,72 @@
+{
+  "id": 1260086335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.83356,13.69376,7.83356,13.69376",
+    "geom:latitude":13.69376,
+    "geom:longitude":7.83356,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"May Guije",
+    "gn:country_code":"NE",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441118,
+    "gn:latitude":13.69376,
+    "gn:longitude":7.83356,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"May Guij\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maygiz\u00e9",
+        "Mayguiz\u00e9",
+        "May Guij\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441118
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"5f1643a74f88dfbef1ce12738eaa2f3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051389,
+            "locality_id":1260086335,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1260086335,
+    "wof:lastmodified":1537674715,
+    "wof:name":"May Guije",
+    "wof:parent_id":1092051389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.83356,
+    13.69376,
+    7.83356,
+    13.69376
+],
+  "geometry": {"coordinates":[7.83356,13.69376],"type":"Point"}
+}

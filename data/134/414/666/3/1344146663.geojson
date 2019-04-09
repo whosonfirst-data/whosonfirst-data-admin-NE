@@ -1,0 +1,67 @@
+{
+  "id": 1344146663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.82409,14.04806,2.82409,14.04806",
+    "geom:latitude":14.04806,
+    "geom:longitude":2.82409,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Dankoukou",
+    "gn:country_code":"NE",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446009,
+    "gn:latitude":14.04806,
+    "gn:longitude":2.82409,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Dankoukou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446009
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"d96b37df4f465542ee0367cde3866f4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051695,
+            "locality_id":1344146663,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1344146663,
+    "wof:lastmodified":1536751124,
+    "wof:name":"Dankoukou",
+    "wof:parent_id":1092051695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.82409,
+    14.04806,
+    2.82409,
+    14.04806
+],
+  "geometry": {"coordinates":[2.82409,14.04806],"type":"Point"}
+}

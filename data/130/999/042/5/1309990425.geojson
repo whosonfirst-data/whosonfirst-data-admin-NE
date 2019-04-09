@@ -1,0 +1,67 @@
+{
+  "id": 1309990425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.3985,14.3798,3.3985,14.3798",
+    "geom:latitude":14.3798,
+    "geom:longitude":3.3985,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Gari El Hadji Hadem",
+    "gn:country_code":"NE",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444671,
+    "gn:latitude":14.3798,
+    "gn:longitude":3.3985,
+    "gn:modification_date":"2008-01-29",
+    "gn:name":"Gari El Hadji Had\u00e8m",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444671
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"5379c3520270de5a03c8a0cdbbd513fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051695,
+            "locality_id":1309990425,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1309990425,
+    "wof:lastmodified":1536665058,
+    "wof:name":"Gari El Hadji Hadem",
+    "wof:parent_id":1092051695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.3985,
+    14.3798,
+    3.3985,
+    14.3798
+],
+  "geometry": {"coordinates":[3.3985,14.3798],"type":"Point"}
+}

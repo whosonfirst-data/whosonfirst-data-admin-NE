@@ -1,0 +1,61 @@
+{
+  "id": 1209216651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.0685,13.08863,4.0685,13.08863",
+    "geom:latitude":13.08863,
+    "geom:longitude":4.0685,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mayzabi",
+    "gn:country_code":"NE",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441009,
+    "gn:latitude":13.08863,
+    "gn:longitude":4.0685,
+    "gn:modification_date":"2009-03-27",
+    "gn:name":"Mayzabi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441009
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"2a39159bca6df3acca4d931ccbc0b5f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209216651
+        }
+    ],
+    "wof:id":1209216651,
+    "wof:lastmodified":1536294108,
+    "wof:name":"Mayzabi",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.0685,
+    13.08863,
+    4.0685,
+    13.08863
+],
+  "geometry": {"coordinates":[4.0685,13.08863],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309908983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.54979,13.30317,12.54979,13.30317",
+    "geom:latitude":13.30317,
+    "geom:longitude":12.54979,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Madori",
+    "gn:country_code":"NE",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6777931,
+    "gn:latitude":13.30317,
+    "gn:longitude":12.54979,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Madori",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6777931
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"72b9ab752908e0503e3fc8255a4131cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051245,
+            "locality_id":1309908983,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1309908983,
+    "wof:lastmodified":1536782820,
+    "wof:name":"Madori",
+    "wof:parent_id":1092051245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.54979,
+    13.30317,
+    12.54979,
+    13.30317
+],
+  "geometry": {"coordinates":[12.54979,13.30317],"type":"Point"}
+}

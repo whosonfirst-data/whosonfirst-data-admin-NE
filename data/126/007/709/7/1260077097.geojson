@@ -1,0 +1,67 @@
+{
+  "id": 1260077097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.11672,13.4036,10.11672,13.4036",
+    "geom:latitude":13.4036,
+    "geom:longitude":10.11672,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Lawandi",
+    "gn:country_code":"NE",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6750067,
+    "gn:latitude":13.4036,
+    "gn:longitude":10.11672,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Lawandi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6750067
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"baa4923fdd6fc9eaf079618f5e1676e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051753,
+            "locality_id":1260077097,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1260077097,
+    "wof:lastmodified":1536996499,
+    "wof:name":"Lawandi",
+    "wof:parent_id":1092051753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.11672,
+    13.4036,
+    10.11672,
+    13.4036
+],
+  "geometry": {"coordinates":[10.11672,13.4036],"type":"Point"}
+}

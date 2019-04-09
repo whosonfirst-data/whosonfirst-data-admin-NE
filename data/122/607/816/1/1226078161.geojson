@@ -1,0 +1,67 @@
+{
+  "id": 1226078161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.49573,14.62613,7.49573,14.62613",
+    "geom:latitude":14.62613,
+    "geom:longitude":7.49573,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dan Sarko",
+    "gn:country_code":"NE",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445953,
+    "gn:latitude":14.62613,
+    "gn:longitude":7.49573,
+    "gn:modification_date":"2008-08-21",
+    "gn:name":"Dan Sarko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445953
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"7760c563746a1333aaf4dbf50d944d81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1226078161,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1226078161,
+    "wof:lastmodified":1536678530,
+    "wof:name":"Dan Sarko",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.49573,
+    14.62613,
+    7.49573,
+    14.62613
+],
+  "geometry": {"coordinates":[7.49573,14.62613],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276219437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.2611,13.86951,6.2611,13.86951",
+    "geom:latitude":13.86951,
+    "geom:longitude":6.2611,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sataro",
+    "gn:country_code":"NE",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439820,
+    "gn:latitude":13.86951,
+    "gn:longitude":6.2611,
+    "gn:modification_date":"2008-02-07",
+    "gn:name":"Sataro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439820
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"e2da5d37ee86abfa9f0f8b15378ff906",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051329,
+            "locality_id":1276219437,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1276219437,
+    "wof:lastmodified":1536932336,
+    "wof:name":"Sataro",
+    "wof:parent_id":1092051329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.2611,
+    13.86951,
+    6.2611,
+    13.86951
+],
+  "geometry": {"coordinates":[6.2611,13.86951],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326736563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.92368,13.57767,6.92368,13.57767",
+    "geom:latitude":13.57767,
+    "geom:longitude":6.92368,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Chadadie",
+    "gn:country_code":"NE",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446438,
+    "gn:latitude":13.57767,
+    "gn:longitude":6.92368,
+    "gn:modification_date":"2008-02-11",
+    "gn:name":"Chadadi\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446438
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"7da96d11599786326cf34d006561f7b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051229,
+            "locality_id":1326736563,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1326736563,
+    "wof:lastmodified":1536689534,
+    "wof:name":"Chadadie",
+    "wof:parent_id":1092051229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.92368,
+    13.57767,
+    6.92368,
+    13.57767
+],
+  "geometry": {"coordinates":[6.92368,13.57767],"type":"Point"}
+}

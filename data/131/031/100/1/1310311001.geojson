@@ -1,0 +1,67 @@
+{
+  "id": 1310311001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.41856,14.42724,7.41856,14.42724",
+    "geom:latitude":14.42724,
+    "geom:longitude":7.41856,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Guidan Nomao",
+    "gn:country_code":"NE",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2443643,
+    "gn:latitude":14.42724,
+    "gn:longitude":7.41856,
+    "gn:modification_date":"2008-08-21",
+    "gn:name":"Guidan Nomao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2443643
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"daf3827bc80a1b53149a54bd3bc4b76a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051435,
+            "locality_id":1310311001,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1310311001,
+    "wof:lastmodified":1536700204,
+    "wof:name":"Guidan Nomao",
+    "wof:parent_id":1092051435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.41856,
+    14.42724,
+    7.41856,
+    14.42724
+],
+  "geometry": {"coordinates":[7.41856,14.42724],"type":"Point"}
+}

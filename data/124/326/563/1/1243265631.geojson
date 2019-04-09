@@ -1,0 +1,67 @@
+{
+  "id": 1243265631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.17165,12.60494,3.17165,12.60494",
+    "geom:latitude":12.60494,
+    "geom:longitude":3.17165,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Margouna",
+    "gn:country_code":"NE",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441258,
+    "gn:latitude":12.60494,
+    "gn:longitude":3.17165,
+    "gn:modification_date":"2009-03-16",
+    "gn:name":"Margouna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441258
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"bddae34c13de2c5e23a857ad406de968",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051041,
+            "locality_id":1243265631,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1243265631,
+    "wof:lastmodified":1537063391,
+    "wof:name":"Margouna",
+    "wof:parent_id":1092051041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.17165,
+    12.60494,
+    3.17165,
+    12.60494
+],
+  "geometry": {"coordinates":[3.17165,12.60494],"type":"Point"}
+}

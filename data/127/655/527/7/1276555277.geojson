@@ -1,0 +1,71 @@
+{
+  "id": 1276555277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.8676,13.366,2.8676,13.366",
+    "geom:latitude":13.366,
+    "geom:longitude":2.8676,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Komaguindi Beri",
+    "gn:country_code":"NE",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442179,
+    "gn:latitude":13.366,
+    "gn:longitude":2.8676,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Komaguindi B\u00e9ri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Konoguindi B\u00e9ri",
+        "Komaguindi B\u00e9ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442179
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"01c5f718ccdaca05bc6a1deb1f0d8a8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051075,
+            "locality_id":1276555277,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1276555277,
+    "wof:lastmodified":1537674743,
+    "wof:name":"Komaguindi Beri",
+    "wof:parent_id":1092051075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.8676,
+    13.366,
+    2.8676,
+    13.366
+],
+  "geometry": {"coordinates":[2.8676,13.366],"type":"Point"}
+}

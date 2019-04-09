@@ -1,0 +1,72 @@
+{
+  "id": 1310591841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.21667,13.81667,2.21667,13.81667",
+    "geom:latitude":13.81667,
+    "geom:longitude":2.21667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Boey Tondi",
+    "gn:cc2":"NE",
+    "gn:country_code":"NE",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446706,
+    "gn:latitude":13.81667,
+    "gn:longitude":2.21667,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Boey Tondi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boeye-Tondi",
+        "Boey Tondi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446706
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"364664dfebc3435bb39dfb9224114cb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1310591841,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1310591841,
+    "wof:lastmodified":1537674848,
+    "wof:name":"Boey Tondi",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.21667,
+    13.81667,
+    2.21667,
+    13.81667
+],
+  "geometry": {"coordinates":[2.21667,13.81667],"type":"Point"}
+}

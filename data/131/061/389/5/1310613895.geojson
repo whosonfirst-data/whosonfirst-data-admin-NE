@@ -1,0 +1,67 @@
+{
+  "id": 1310613895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.30644,14.33951,13.30644,14.33951",
+    "geom:latitude":14.33951,
+    "geom:longitude":13.30644,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kangouri",
+    "gn:country_code":"NE",
+    "gn:dem":286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6787062,
+    "gn:latitude":14.33951,
+    "gn:longitude":13.30644,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Kangouri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6787062
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"92237f0966b2fc3a98ab1b1abd423b35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051781,
+            "locality_id":1310613895,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1310613895,
+    "wof:lastmodified":1536760720,
+    "wof:name":"Kangouri",
+    "wof:parent_id":1092051781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.30644,
+    14.33951,
+    13.30644,
+    14.33951
+],
+  "geometry": {"coordinates":[13.30644,14.33951],"type":"Point"}
+}

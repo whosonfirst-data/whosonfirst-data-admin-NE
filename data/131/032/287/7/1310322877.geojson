@@ -1,0 +1,68 @@
+{
+  "id": 1310322877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.45,19.06667,8.45,19.06667",
+    "geom:latitude":19.06667,
+    "geom:longitude":8.45,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Afassa",
+    "gn:country_code":"NE",
+    "gn:dem":670,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448108,
+    "gn:latitude":19.06667,
+    "gn:longitude":8.45,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Afassa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675273,
+        1092051845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448108,
+        "wk:page":"Afassa"
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"2066ce92c74611aecdc5017e3121ab5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051845,
+            "locality_id":1310322877,
+            "region_id":85675273
+        }
+    ],
+    "wof:id":1310322877,
+    "wof:lastmodified":1537569969,
+    "wof:name":"Afassa",
+    "wof:parent_id":1092051845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.45,
+    19.06667,
+    8.45,
+    19.06667
+],
+  "geometry": {"coordinates":[8.45,19.06667],"type":"Point"}
+}

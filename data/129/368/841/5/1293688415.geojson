@@ -1,0 +1,71 @@
+{
+  "id": 1293688415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.60474,11.76546,3.60474,11.76546",
+    "geom:latitude":11.76546,
+    "geom:longitude":3.60474,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bani Zoumbou",
+    "gn:country_code":"NE",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447101,
+    "gn:latitude":11.76546,
+    "gn:longitude":3.60474,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bani Zoumbou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Birni-Zoumbou",
+        "Bani Zoumbou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092050969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447101
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"3533187e43f3e91e8c5dbca424c395ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092050969,
+            "locality_id":1293688415,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1293688415,
+    "wof:lastmodified":1537674856,
+    "wof:name":"Bani Zoumbou",
+    "wof:parent_id":1092050969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.60474,
+    11.76546,
+    3.60474,
+    11.76546
+],
+  "geometry": {"coordinates":[3.60474,11.76546],"type":"Point"}
+}

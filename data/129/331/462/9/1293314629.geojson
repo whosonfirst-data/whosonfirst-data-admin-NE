@@ -1,0 +1,67 @@
+{
+  "id": 1293314629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.13821,13.65361,6.13821,13.65361",
+    "geom:latitude":13.65361,
+    "geom:longitude":6.13821,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Guidan Ahmed",
+    "gn:country_code":"NE",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444090,
+    "gn:latitude":13.65361,
+    "gn:longitude":6.13821,
+    "gn:modification_date":"2008-02-11",
+    "gn:name":"Guidan Ahmed",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444090
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"f549acc7ec37eff789fb184b640ed54d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051329,
+            "locality_id":1293314629,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1293314629,
+    "wof:lastmodified":1537034788,
+    "wof:name":"Guidan Ahmed",
+    "wof:parent_id":1092051329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.13821,
+    13.65361,
+    6.13821,
+    13.65361
+],
+  "geometry": {"coordinates":[6.13821,13.65361],"type":"Point"}
+}

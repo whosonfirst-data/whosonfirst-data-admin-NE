@@ -1,0 +1,72 @@
+{
+  "id": 1276328951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.2438,13.7697,2.2438,13.7697",
+    "geom:latitude":13.7697,
+    "geom:longitude":2.2438,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Yete Kouara",
+    "gn:country_code":"NE",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437960,
+    "gn:latitude":13.7697,
+    "gn:longitude":2.2438,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Y\u00e9t\u00e9 Kouara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Y\u00e9t\u00e9-Koara",
+        "Y\u00e9t\u00e9 Kwara",
+        "Y\u00e9t\u00e9 Kouara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437960
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"f45f7c2e06380a0cb186b7dc0da9d9b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1276328951,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1276328951,
+    "wof:lastmodified":1537674652,
+    "wof:name":"Yete Kouara",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.2438,
+    13.7697,
+    2.2438,
+    13.7697
+],
+  "geometry": {"coordinates":[2.2438,13.7697],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209411201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.14,13.8962,2.14,13.8962",
+    "geom:latitude":13.8962,
+    "geom:longitude":2.14,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Boubourey Fandou",
+    "gn:country_code":"NE",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446596,
+    "gn:latitude":13.8962,
+    "gn:longitude":2.14,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Boubourey Fandou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boubour\u00e9 Fandou",
+        "Boubourey Fandou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446596
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"ebbb7bb758bade0771bc8b47ad3d9158",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209411201
+        }
+    ],
+    "wof:id":1209411201,
+    "wof:lastmodified":1537674845,
+    "wof:name":"Boubourey Fandou",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.14,
+    13.8962,
+    2.14,
+    13.8962
+],
+  "geometry": {"coordinates":[2.14,13.8962],"type":"Point"}
+}

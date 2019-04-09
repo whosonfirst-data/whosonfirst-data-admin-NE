@@ -1,0 +1,67 @@
+{
+  "id": 1343585301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.74364,14.50785,6.74364,14.50785",
+    "geom:latitude":14.50785,
+    "geom:longitude":6.74364,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Matatchaka",
+    "gn:country_code":"NE",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6849605,
+    "gn:latitude":14.50785,
+    "gn:longitude":6.74364,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Matatchaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6849605
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"a127085d1f4caee045d113635982eccb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1343585301,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1343585301,
+    "wof:lastmodified":1537060928,
+    "wof:name":"Matatchaka",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.74364,
+    14.50785,
+    6.74364,
+    14.50785
+],
+  "geometry": {"coordinates":[6.74364,14.50785],"type":"Point"}
+}

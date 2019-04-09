@@ -1,0 +1,67 @@
+{
+  "id": 1327141799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.76868,12.73237,3.76868,12.73237",
+    "geom:latitude":12.73237,
+    "geom:longitude":3.76868,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Koudourou",
+    "gn:country_code":"NE",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442015,
+    "gn:latitude":12.73237,
+    "gn:longitude":3.76868,
+    "gn:modification_date":"2009-03-17",
+    "gn:name":"Koudourou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092050969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442015
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"92e0acf52de3eb4b20ecfc33bb8881f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092050969,
+            "locality_id":1327141799,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1327141799,
+    "wof:lastmodified":1537096976,
+    "wof:name":"Koudourou",
+    "wof:parent_id":1092050969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.76868,
+    12.73237,
+    3.76868,
+    12.73237
+],
+  "geometry": {"coordinates":[3.76868,12.73237],"type":"Point"}
+}

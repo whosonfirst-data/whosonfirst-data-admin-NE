@@ -1,0 +1,67 @@
+{
+  "id": 1326733661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.11215,14.02842,11.11215,14.02842",
+    "geom:latitude":14.02842,
+    "geom:longitude":11.11215,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Seram",
+    "gn:country_code":"NE",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439775,
+    "gn:latitude":14.02842,
+    "gn:longitude":11.11215,
+    "gn:modification_date":"2008-04-09",
+    "gn:name":"S\u00e9ram",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439775
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"70026b5c0e09e30792e782984dffddfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051363,
+            "locality_id":1326733661,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1326733661,
+    "wof:lastmodified":1536693864,
+    "wof:name":"Seram",
+    "wof:parent_id":1092051363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.11215,
+    14.02842,
+    11.11215,
+    14.02842
+],
+  "geometry": {"coordinates":[11.11215,14.02842],"type":"Point"}
+}

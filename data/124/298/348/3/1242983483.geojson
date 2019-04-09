@@ -1,0 +1,67 @@
+{
+  "id": 1242983483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.64535,13.29218,12.64535,13.29218",
+    "geom:latitude":13.29218,
+    "geom:longitude":12.64535,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Marara",
+    "gn:country_code":"NE",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6777917,
+    "gn:latitude":13.29218,
+    "gn:longitude":12.64535,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Marara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6777917
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"913f04dc12832ba4796747c28025f093",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563985,
+            "locality_id":1242983483,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1242983483,
+    "wof:lastmodified":1536975431,
+    "wof:name":"Marara",
+    "wof:parent_id":1108563985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.64535,
+    13.29218,
+    12.64535,
+    13.29218
+],
+  "geometry": {"coordinates":[12.64535,13.29218],"type":"Point"}
+}

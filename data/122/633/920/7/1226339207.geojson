@@ -1,0 +1,72 @@
+{
+  "id": 1226339207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.15,14.4,1.15,14.4",
+    "geom:latitude":14.4,
+    "geom:longitude":1.15,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Farka",
+    "gn:cc2":"NE",
+    "gn:country_code":"NE",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445070,
+    "gn:latitude":14.4,
+    "gn:longitude":1.15,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Farka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Farca",
+        "Farka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        890429081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445070
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"529e43d637c4bd8106c264a669ab405d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":890429081,
+            "locality_id":1226339207,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1226339207,
+    "wof:lastmodified":1537674810,
+    "wof:name":"Farka",
+    "wof:parent_id":890429081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.15,
+    14.4,
+    1.15,
+    14.4
+],
+  "geometry": {"coordinates":[1.15,14.4],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209127317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.77612,15.03884,8.77612,15.03884",
+    "geom:latitude":15.03884,
+    "geom:longitude":8.77612,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tabonkor",
+    "gn:country_code":"NE",
+    "gn:dem":518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6804654,
+    "gn:latitude":15.03884,
+    "gn:longitude":8.77612,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Tabonkor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6804654
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"4ab765966a66f603cea8de8967251d97",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209127317
+        }
+    ],
+    "wof:id":1209127317,
+    "wof:lastmodified":1536296916,
+    "wof:name":"Tabonkor",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.77612,
+    15.03884,
+    8.77612,
+    15.03884
+],
+  "geometry": {"coordinates":[8.77612,15.03884],"type":"Point"}
+}

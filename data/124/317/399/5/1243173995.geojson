@@ -1,0 +1,71 @@
+{
+  "id": 1243173995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.504,13.2715,3.504,13.2715",
+    "geom:latitude":13.2715,
+    "geom:longitude":3.504,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Barwadeye",
+    "gn:country_code":"NE",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446977,
+    "gn:latitude":13.2715,
+    "gn:longitude":3.504,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Barwadeye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Barwadey",
+        "Barwadeye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446977
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"697e69837d5f73f094b71f734da22b36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051041,
+            "locality_id":1243173995,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1243173995,
+    "wof:lastmodified":1537674853,
+    "wof:name":"Barwadeye",
+    "wof:parent_id":1092051041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.504,
+    13.2715,
+    3.504,
+    13.2715
+],
+  "geometry": {"coordinates":[3.504,13.2715],"type":"Point"}
+}

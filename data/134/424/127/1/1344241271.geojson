@@ -1,0 +1,67 @@
+{
+  "id": 1344241271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.0681,13.7451,3.0681,13.7451",
+    "geom:latitude":13.7451,
+    "geom:longitude":3.0681,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bangario",
+    "gn:country_code":"NE",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447164,
+    "gn:latitude":13.7451,
+    "gn:longitude":3.0681,
+    "gn:modification_date":"2008-10-22",
+    "gn:name":"Bangario",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447164
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"ab1fcab1de32bb11b0af601a185a8da6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051695,
+            "locality_id":1344241271,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1344241271,
+    "wof:lastmodified":1536612208,
+    "wof:name":"Bangario",
+    "wof:parent_id":1092051695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.0681,
+    13.7451,
+    3.0681,
+    13.7451
+],
+  "geometry": {"coordinates":[3.0681,13.7451],"type":"Point"}
+}

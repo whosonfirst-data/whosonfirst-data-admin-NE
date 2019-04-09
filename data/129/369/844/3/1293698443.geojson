@@ -1,0 +1,72 @@
+{
+  "id": 1293698443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.10196,13.28629,3.10196,13.28629",
+    "geom:latitude":13.28629,
+    "geom:longitude":3.10196,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Garankadeye",
+    "gn:country_code":"NE",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444722,
+    "gn:latitude":13.28629,
+    "gn:longitude":3.10196,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Garankad\u00e8ye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Garankade\u00ef",
+        "Garankadey",
+        "Garankad\u00e8ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444722
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"80e0e1da4d689c65315cd8afa8c96c15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051273,
+            "locality_id":1293698443,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1293698443,
+    "wof:lastmodified":1537674802,
+    "wof:name":"Garankadeye",
+    "wof:parent_id":1092051273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.10196,
+    13.28629,
+    3.10196,
+    13.28629
+],
+  "geometry": {"coordinates":[3.10196,13.28629],"type":"Point"}
+}

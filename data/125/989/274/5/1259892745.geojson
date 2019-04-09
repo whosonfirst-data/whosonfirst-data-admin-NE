@@ -1,0 +1,71 @@
+{
+  "id": 1259892745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.99357,13.32452,11.99357,13.32452",
+    "geom:latitude":13.32452,
+    "geom:longitude":11.99357,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Forsali",
+    "gn:country_code":"NE",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6819406,
+    "gn:latitude":13.32452,
+    "gn:longitude":11.99357,
+    "gn:modification_date":"2015-02-23",
+    "gn:name":"Forsali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Foursari",
+        "Forsali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6819406
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"2bcef4fa8baf170afbd1d358aaee09f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051363,
+            "locality_id":1259892745,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1259892745,
+    "wof:lastmodified":1537674887,
+    "wof:name":"Forsali",
+    "wof:parent_id":1092051363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.99357,
+    13.32452,
+    11.99357,
+    13.32452
+],
+  "geometry": {"coordinates":[11.99357,13.32452],"type":"Point"}
+}

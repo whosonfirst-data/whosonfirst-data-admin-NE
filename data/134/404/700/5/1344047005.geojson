@@ -1,0 +1,67 @@
+{
+  "id": 1344047005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.2586,13.3473,2.2586,13.3473",
+    "geom:latitude":13.3473,
+    "geom:longitude":2.2586,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ndounga Saney",
+    "gn:country_code":"NE",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6858497,
+    "gn:latitude":13.3473,
+    "gn:longitude":2.2586,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Ndounga Saney",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6858497
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"42c618d8d177b9bcfee940658ed799f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1344047005,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1344047005,
+    "wof:lastmodified":1536894805,
+    "wof:name":"Ndounga Saney",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.2586,
+    13.3473,
+    2.2586,
+    13.3473
+],
+  "geometry": {"coordinates":[2.2586,13.3473],"type":"Point"}
+}

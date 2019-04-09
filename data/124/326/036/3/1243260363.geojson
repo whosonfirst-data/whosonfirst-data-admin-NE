@@ -1,0 +1,67 @@
+{
+  "id": 1243260363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.9705,14.2369,8.9705,14.2369",
+    "geom:latitude":14.2369,
+    "geom:longitude":8.9705,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Garin Barmadwa",
+    "gn:country_code":"NE",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444620,
+    "gn:latitude":14.2369,
+    "gn:longitude":8.9705,
+    "gn:modification_date":"2008-08-26",
+    "gn:name":"Garin Barmadwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444620
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"df479fc0eb91eb1a59de7d2b3de3aa64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051411,
+            "locality_id":1243260363,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1243260363,
+    "wof:lastmodified":1537070761,
+    "wof:name":"Garin Barmadwa",
+    "wof:parent_id":1092051411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.9705,
+    14.2369,
+    8.9705,
+    14.2369
+],
+  "geometry": {"coordinates":[8.9705,14.2369],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243296907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.1211,14.07715,7.1211,14.07715",
+    "geom:latitude":14.07715,
+    "geom:longitude":7.1211,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Touti Touti",
+    "gn:country_code":"NE",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438218,
+    "gn:latitude":14.07715,
+    "gn:longitude":7.1211,
+    "gn:modification_date":"2008-08-21",
+    "gn:name":"Touti Touti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438218
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"871a00389e87d23ee6b2d6c096b6ebb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1243296907,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1243296907,
+    "wof:lastmodified":1537020214,
+    "wof:name":"Touti Touti",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.1211,
+    14.07715,
+    7.1211,
+    14.07715
+],
+  "geometry": {"coordinates":[7.1211,14.07715],"type":"Point"}
+}

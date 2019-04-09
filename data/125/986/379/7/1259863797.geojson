@@ -1,0 +1,67 @@
+{
+  "id": 1259863797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.3726,13.2581,2.3726,13.2581",
+    "geom:latitude":13.2581,
+    "geom:longitude":2.3726,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Torso",
+    "gn:country_code":"NE",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6858461,
+    "gn:latitude":13.2581,
+    "gn:longitude":2.3726,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Torso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6858461
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"92ca6781b74917b5c6d9b918e13d2ac2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1259863797,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1259863797,
+    "wof:lastmodified":1536807295,
+    "wof:name":"Torso",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.3726,
+    13.2581,
+    2.3726,
+    13.2581
+],
+  "geometry": {"coordinates":[2.3726,13.2581],"type":"Point"}
+}

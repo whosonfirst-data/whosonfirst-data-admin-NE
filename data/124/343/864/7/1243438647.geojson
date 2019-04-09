@@ -1,0 +1,72 @@
+{
+  "id": 1243438647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.87726,12.74703,1.87726,12.74703",
+    "geom:latitude":12.74703,
+    "geom:longitude":1.87726,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tiela Doundoudie",
+    "gn:country_code":"NE",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438171,
+    "gn:latitude":12.74703,
+    "gn:longitude":1.87726,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Ti\u00e9la Doundoudi\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yantird\u00e9",
+        "Ty\u00e9loldoundoundi\u00e9",
+        "Ti\u00e9la Doundoudi\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438171
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"d9406987ee35dd231665f9f2c33d3b1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051103,
+            "locality_id":1243438647,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1243438647,
+    "wof:lastmodified":1537674658,
+    "wof:name":"Tiela Doundoudie",
+    "wof:parent_id":1092051103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.87726,
+    12.74703,
+    1.87726,
+    12.74703
+],
+  "geometry": {"coordinates":[1.87726,12.74703],"type":"Point"}
+}

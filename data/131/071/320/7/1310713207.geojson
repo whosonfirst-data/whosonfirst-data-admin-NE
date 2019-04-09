@@ -1,0 +1,67 @@
+{
+  "id": 1310713207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.91403,12.81414,2.91403,12.81414",
+    "geom:latitude":12.81414,
+    "geom:longitude":2.91403,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Souda",
+    "gn:country_code":"NE",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439601,
+    "gn:latitude":12.81414,
+    "gn:longitude":2.91403,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Souda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439601
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"ecbb246371dfaf2e3913363c0f2b9675",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051075,
+            "locality_id":1310713207,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1310713207,
+    "wof:lastmodified":1536614869,
+    "wof:name":"Souda",
+    "wof:parent_id":1092051075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.91403,
+    12.81414,
+    2.91403,
+    12.81414
+],
+  "geometry": {"coordinates":[2.91403,12.81414],"type":"Point"}
+}

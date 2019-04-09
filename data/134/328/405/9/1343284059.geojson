@@ -1,0 +1,67 @@
+{
+  "id": 1343284059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.19925,14.41715,6.19925,14.41715",
+    "geom:latitude":14.41715,
+    "geom:longitude":6.19925,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Pingirawa",
+    "gn:country_code":"NE",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6849709,
+    "gn:latitude":14.41715,
+    "gn:longitude":6.19925,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Pingirawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6849709
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"2648537af45fe21b05b5bba4a48a9256",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051515,
+            "locality_id":1343284059,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1343284059,
+    "wof:lastmodified":1537000151,
+    "wof:name":"Pingirawa",
+    "wof:parent_id":1092051515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.19925,
+    14.41715,
+    6.19925,
+    14.41715
+],
+  "geometry": {"coordinates":[6.19925,14.41715],"type":"Point"}
+}

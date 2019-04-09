@@ -1,0 +1,73 @@
+{
+  "id": 1226560999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.00804,13.74531,1.00804,13.74531",
+    "geom:latitude":13.74531,
+    "geom:longitude":1.00804,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Doulgou",
+    "gn:country_code":"NE",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445463,
+    "gn:latitude":13.74531,
+    "gn:longitude":1.00804,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Doulgou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dulgu",
+        "Doulg",
+        "Doulougou",
+        "Doulgou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445463
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"10f31a485b5fd4f196f37a76d55b3523",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051545,
+            "locality_id":1226560999,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1226560999,
+    "wof:lastmodified":1537674818,
+    "wof:name":"Doulgou",
+    "wof:parent_id":1092051545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.00804,
+    13.74531,
+    1.00804,
+    13.74531
+],
+  "geometry": {"coordinates":[1.00804,13.74531],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293134069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.15819,13.52808,7.15819,13.52808",
+    "geom:latitude":13.52808,
+    "geom:longitude":7.15819,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Namaroua",
+    "gn:country_code":"NE",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6712106,
+    "gn:latitude":13.52808,
+    "gn:longitude":7.15819,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Namaroua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6712106
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"6c54d6c913b06fc5048042fb654cd451",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051007,
+            "locality_id":1293134069,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1293134069,
+    "wof:lastmodified":1536799715,
+    "wof:name":"Namaroua",
+    "wof:parent_id":1092051007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.15819,
+    13.52808,
+    7.15819,
+    13.52808
+],
+  "geometry": {"coordinates":[7.15819,13.52808],"type":"Point"}
+}

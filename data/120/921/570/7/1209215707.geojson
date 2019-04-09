@@ -1,0 +1,65 @@
+{
+  "id": 1209215707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.79319,13.99487,7.79319,13.99487",
+    "geom:latitude":13.99487,
+    "geom:longitude":7.79319,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"I-n-Wala",
+    "gn:country_code":"NE",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438124,
+    "gn:latitude":13.99487,
+    "gn:longitude":7.79319,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"I-n-W\u00e2l\u00e2",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wala",
+        "I-n-W\u00e2l\u00e2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438124
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"452c0e20733c41e6eab275c2c3e192c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209215707
+        }
+    ],
+    "wof:id":1209215707,
+    "wof:lastmodified":1537674656,
+    "wof:name":"I-n-Wala",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.79319,
+    13.99487,
+    7.79319,
+    13.99487
+],
+  "geometry": {"coordinates":[7.79319,13.99487],"type":"Point"}
+}

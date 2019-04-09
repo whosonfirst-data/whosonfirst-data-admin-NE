@@ -1,0 +1,67 @@
+{
+  "id": 1344048951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.48698,13.28749,8.48698,13.28749",
+    "geom:latitude":13.28749,
+    "geom:longitude":8.48698,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Doundou",
+    "gn:country_code":"NE",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445441,
+    "gn:latitude":13.28749,
+    "gn:longitude":8.48698,
+    "gn:modification_date":"2008-04-04",
+    "gn:name":"Doundou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445441
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"1b61e40c105497d2e0f1956ab7577caa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051165,
+            "locality_id":1344048951,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1344048951,
+    "wof:lastmodified":1536891947,
+    "wof:name":"Doundou",
+    "wof:parent_id":1092051165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.48698,
+    13.28749,
+    8.48698,
+    13.28749
+],
+  "geometry": {"coordinates":[8.48698,13.28749],"type":"Point"}
+}

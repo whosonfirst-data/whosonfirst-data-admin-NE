@@ -1,0 +1,67 @@
+{
+  "id": 1276233879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.58831,14.46175,7.58831,14.46175",
+    "geom:latitude":14.46175,
+    "geom:longitude":7.58831,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Guidan Dan Dela",
+    "gn:country_code":"NE",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2443919,
+    "gn:latitude":14.46175,
+    "gn:longitude":7.58831,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Guidan Dan D\u00e9la",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2443919
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"3e88619fbde4cb963aa51d00f5b5d9e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1276233879,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1276233879,
+    "wof:lastmodified":1536912297,
+    "wof:name":"Guidan Dan Dela",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.58831,
+    14.46175,
+    7.58831,
+    14.46175
+],
+  "geometry": {"coordinates":[7.58831,14.46175],"type":"Point"}
+}

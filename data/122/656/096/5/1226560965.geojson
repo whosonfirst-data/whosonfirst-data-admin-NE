@@ -1,0 +1,72 @@
+{
+  "id": 1226560965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.939,13.6949,2.939,13.6949",
+    "geom:latitude":13.6949,
+    "geom:longitude":2.939,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Gao Tawey",
+    "gn:country_code":"NE",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444741,
+    "gn:latitude":13.6949,
+    "gn:longitude":2.939,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gao Tawey",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gaotaweye",
+        "Gaotaouey",
+        "Gao Tawey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444741
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"1ed87c99bdf73a8a38fad3cfbade63d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051695,
+            "locality_id":1226560965,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1226560965,
+    "wof:lastmodified":1537674803,
+    "wof:name":"Gao Tawey",
+    "wof:parent_id":1092051695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.939,
+    13.6949,
+    2.939,
+    13.6949
+],
+  "geometry": {"coordinates":[2.939,13.6949],"type":"Point"}
+}

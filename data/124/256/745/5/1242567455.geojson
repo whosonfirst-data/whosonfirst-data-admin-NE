@@ -1,0 +1,67 @@
+{
+  "id": 1242567455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.8821,14.3836,3.8821,14.3836",
+    "geom:latitude":14.3836,
+    "geom:longitude":3.8821,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Chinagaman",
+    "gn:country_code":"NE",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6698904,
+    "gn:latitude":14.3836,
+    "gn:longitude":3.8821,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Chinagaman",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6698904
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"05e6e0a337296b82fd20dbc41c9f1681",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051695,
+            "locality_id":1242567455,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1242567455,
+    "wof:lastmodified":1537075183,
+    "wof:name":"Chinagaman",
+    "wof:parent_id":1092051695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.8821,
+    14.3836,
+    3.8821,
+    14.3836
+],
+  "geometry": {"coordinates":[3.8821,14.3836],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1277070045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.01667,13.93333,2.01667,13.93333",
+    "geom:latitude":13.93333,
+    "geom:longitude":2.01667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Loley Tondi",
+    "gn:cc2":"NE",
+    "gn:country_code":"NE",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441616,
+    "gn:latitude":13.93333,
+    "gn:longitude":2.01667,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Loley Tondi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lolleitondi",
+        "Loleye-Tondi",
+        "Loley Tondi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441616
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"f3ed95ee794d49e7fa3330f92b3812dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051633,
+            "locality_id":1277070045,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1277070045,
+    "wof:lastmodified":1537674726,
+    "wof:name":"Loley Tondi",
+    "wof:parent_id":1092051633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.01667,
+    13.93333,
+    2.01667,
+    13.93333
+],
+  "geometry": {"coordinates":[2.01667,13.93333],"type":"Point"}
+}

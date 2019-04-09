@@ -1,0 +1,71 @@
+{
+  "id": 1293600839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.9342,13.3051,2.9342,13.3051",
+    "geom:latitude":13.3051,
+    "geom:longitude":2.9342,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Oude Seybou",
+    "gn:country_code":"NE",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2440287,
+    "gn:latitude":13.3051,
+    "gn:longitude":2.9342,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Oud\u00e9 Seybou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ound\u00e9 Sayoou",
+        "Oud\u00e9 Seybou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2440287
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"569d0820518f48b3c87aa66b7a5949cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051075,
+            "locality_id":1293600839,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1293600839,
+    "wof:lastmodified":1537674702,
+    "wof:name":"Oude Seybou",
+    "wof:parent_id":1092051075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.9342,
+    13.3051,
+    2.9342,
+    13.3051
+],
+  "geometry": {"coordinates":[2.9342,13.3051],"type":"Point"}
+}

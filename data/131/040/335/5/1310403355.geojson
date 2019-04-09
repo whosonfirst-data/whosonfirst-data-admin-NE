@@ -1,0 +1,72 @@
+{
+  "id": 1310403355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.01511,14.26569,6.01511,14.26569",
+    "geom:latitude":14.26569,
+    "geom:longitude":6.01511,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Madeta II",
+    "gn:country_code":"NE",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441516,
+    "gn:latitude":14.26569,
+    "gn:longitude":6.01511,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mad\u00e9ta II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Madatta",
+        "Madetta",
+        "Mad\u00e9ta II"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441516
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"096d9688664689df8d3c8e5937f9b593",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051515,
+            "locality_id":1310403355,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1310403355,
+    "wof:lastmodified":1537674724,
+    "wof:name":"Madeta II",
+    "wof:parent_id":1092051515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.01511,
+    14.26569,
+    6.01511,
+    14.26569
+],
+  "geometry": {"coordinates":[6.01511,14.26569],"type":"Point"}
+}

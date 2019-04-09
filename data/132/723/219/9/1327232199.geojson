@@ -1,0 +1,71 @@
+{
+  "id": 1327232199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.51771,13.4397,7.51771,13.4397",
+    "geom:latitude":13.4397,
+    "geom:longitude":7.51771,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Guidan Magaji",
+    "gn:country_code":"NE",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2443520,
+    "gn:latitude":13.4397,
+    "gn:longitude":7.51771,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Guidan Mag\u00e2j\u00ee",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guidna Magazi",
+        "Guidan Mag\u00e2j\u00ee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2443520
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"75403618aa20adefd09a093791d7c535",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051197,
+            "locality_id":1327232199,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1327232199,
+    "wof:lastmodified":1537674769,
+    "wof:name":"Guidan Magaji",
+    "wof:parent_id":1092051197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.51771,
+    13.4397,
+    7.51771,
+    13.4397
+],
+  "geometry": {"coordinates":[7.51771,13.4397],"type":"Point"}
+}

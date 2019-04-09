@@ -1,0 +1,68 @@
+{
+  "id": 1242870837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.5324,14.7698,8.5324,14.7698",
+    "geom:latitude":14.7698,
+    "geom:longitude":8.5324,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Yarda",
+    "gn:country_code":"NE",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438017,
+    "gn:latitude":14.7698,
+    "gn:longitude":8.5324,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Yarda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438017,
+        "wk:page":"Yarda"
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"bd028c169c0903bc132ddb0b712fcec2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1242870837,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1242870837,
+    "wof:lastmodified":1537569948,
+    "wof:name":"Yarda",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.5324,
+    14.7698,
+    8.5324,
+    14.7698
+],
+  "geometry": {"coordinates":[8.5324,14.7698],"type":"Point"}
+}

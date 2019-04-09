@@ -1,0 +1,67 @@
+{
+  "id": 1327437695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.1499,13.41539,8.1499,13.41539",
+    "geom:latitude":13.41539,
+    "geom:longitude":8.1499,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Maroussa",
+    "gn:country_code":"NE",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6726156,
+    "gn:latitude":13.41539,
+    "gn:longitude":8.1499,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Maroussa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6726156
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"8166f7c41bd5b1575e588b883b80e574",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051197,
+            "locality_id":1327437695,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1327437695,
+    "wof:lastmodified":1536673076,
+    "wof:name":"Maroussa",
+    "wof:parent_id":1092051197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.1499,
+    13.41539,
+    8.1499,
+    13.41539
+],
+  "geometry": {"coordinates":[8.1499,13.41539],"type":"Point"}
+}

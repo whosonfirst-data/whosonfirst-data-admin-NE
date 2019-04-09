@@ -1,0 +1,67 @@
+{
+  "id": 1293693095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.49487,14.04618,7.49487,14.04618",
+    "geom:latitude":14.04618,
+    "geom:longitude":7.49487,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Goumza",
+    "gn:country_code":"NE",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444260,
+    "gn:latitude":14.04618,
+    "gn:longitude":7.49487,
+    "gn:modification_date":"2008-08-21",
+    "gn:name":"Goumza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444260
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"a28014ccacbb2a6ab28771b86f3c6331",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051435,
+            "locality_id":1293693095,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1293693095,
+    "wof:lastmodified":1536987066,
+    "wof:name":"Goumza",
+    "wof:parent_id":1092051435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.49487,
+    14.04618,
+    7.49487,
+    14.04618
+],
+  "geometry": {"coordinates":[7.49487,14.04618],"type":"Point"}
+}

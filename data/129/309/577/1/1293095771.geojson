@@ -1,0 +1,67 @@
+{
+  "id": 1293095771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.839,14.6352,8.839,14.6352",
+    "geom:latitude":14.6352,
+    "geom:longitude":8.839,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kouloun Karki",
+    "gn:country_code":"NE",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441948,
+    "gn:latitude":14.6352,
+    "gn:longitude":8.839,
+    "gn:modification_date":"2008-08-26",
+    "gn:name":"Kouloun Karki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441948
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"5b5641722b275580ea10d719d3e4675a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1293095771,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1293095771,
+    "wof:lastmodified":1536853720,
+    "wof:name":"Kouloun Karki",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.839,
+    14.6352,
+    8.839,
+    14.6352
+],
+  "geometry": {"coordinates":[8.839,14.6352],"type":"Point"}
+}

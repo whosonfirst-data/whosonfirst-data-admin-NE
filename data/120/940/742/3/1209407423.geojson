@@ -1,0 +1,61 @@
+{
+  "id": 1209407423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.39405,14.05078,6.39405,14.05078",
+    "geom:latitude":14.05078,
+    "geom:longitude":6.39405,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Yanridji",
+    "gn:country_code":"NE",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6849993,
+    "gn:latitude":14.05078,
+    "gn:longitude":6.39405,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Yanridji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6849993
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"2fdc40d877e3078b9ab70d783baac2e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209407423
+        }
+    ],
+    "wof:id":1209407423,
+    "wof:lastmodified":1536287949,
+    "wof:name":"Yanridji",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.39405,
+    14.05078,
+    6.39405,
+    14.05078
+],
+  "geometry": {"coordinates":[6.39405,14.05078],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343774843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.53727,13.14415,12.53727,13.14415",
+    "geom:latitude":13.14415,
+    "geom:longitude":12.53727,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bangoro-Mirim",
+    "gn:country_code":"NE",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6778129,
+    "gn:latitude":13.14415,
+    "gn:longitude":12.53727,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Bangoro-Mirim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6778129
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"306ad8ffe1ec506bdabadabee8742c68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563985,
+            "locality_id":1343774843,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1343774843,
+    "wof:lastmodified":1536790540,
+    "wof:name":"Bangoro-Mirim",
+    "wof:parent_id":1108563985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.53727,
+    13.14415,
+    12.53727,
+    13.14415
+],
+  "geometry": {"coordinates":[12.53727,13.14415],"type":"Point"}
+}

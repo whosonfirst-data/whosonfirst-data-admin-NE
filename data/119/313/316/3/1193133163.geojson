@@ -1,0 +1,72 @@
+{
+  "id": 1193133163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.69103,13.76229,1.69103,13.76229",
+    "geom:latitude":13.76229,
+    "geom:longitude":1.69103,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Koyria",
+    "gn:country_code":"NE",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441816,
+    "gn:latitude":13.76229,
+    "gn:longitude":1.69103,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Koyria",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koira",
+        "Koirya",
+        "Koyria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        890429081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441816
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"b8d84d5edf5becbe0f0370b1e0efd039",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":890429081,
+            "locality_id":1193133163,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1193133163,
+    "wof:lastmodified":1537674733,
+    "wof:name":"Koyria",
+    "wof:parent_id":890429081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.69103,
+    13.76229,
+    1.69103,
+    13.76229
+],
+  "geometry": {"coordinates":[1.69103,13.76229],"type":"Point"}
+}

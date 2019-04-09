@@ -1,0 +1,76 @@
+{
+  "id": 421203367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.0909,13.5284,2.0909,13.5284",
+    "geom:latitude":13.5284,
+    "geom:longitude":2.0909,
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"NE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2438019,
+    "qs:gn_pop":0,
+    "qs:name":"Yantala",
+    "qs:name_adm0":"Niger",
+    "qs:name_adm1":"Niamey",
+    "qs:photos":6,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":6,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":231253,
+    "qs:woe_adm0":23424906,
+    "qs:woe_id":1383258,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675291,
+        421204117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438019,
+        "gp:id":1383258,
+        "qs:id":231253
+    },
+    "wof:country":"NE",
+    "wof:created":1459010148,
+    "wof:geomhash":"6f7d4582bae22f3f54a2513256c48a43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421204117,
+            "locality_id":421203367,
+            "region_id":85675291
+        }
+    ],
+    "wof:id":421203367,
+    "wof:lastmodified":1500017987,
+    "wof:name":"Yantala",
+    "wof:parent_id":421204117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.0909,
+    13.5284,
+    2.0909,
+    13.5284
+],
+  "geometry": {"coordinates":[2.0909,13.5284],"type":"Point"}
+}

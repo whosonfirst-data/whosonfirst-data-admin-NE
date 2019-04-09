@@ -1,0 +1,67 @@
+{
+  "id": 1293286901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.47961,13.73138,9.47961,13.73138",
+    "geom:latitude":13.73138,
+    "geom:longitude":9.47961,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bouara",
+    "gn:country_code":"NE",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6925145,
+    "gn:latitude":13.73138,
+    "gn:longitude":9.47961,
+    "gn:modification_date":"2009-01-07",
+    "gn:name":"Bouara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6925145
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"b6c5e7530e28025e49c7789b5b2a5bf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051411,
+            "locality_id":1293286901,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1293286901,
+    "wof:lastmodified":1537073138,
+    "wof:name":"Bouara",
+    "wof:parent_id":1092051411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.47961,
+    13.73138,
+    9.47961,
+    13.73138
+],
+  "geometry": {"coordinates":[9.47961,13.73138],"type":"Point"}
+}

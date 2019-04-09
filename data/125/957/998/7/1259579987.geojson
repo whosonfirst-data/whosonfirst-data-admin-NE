@@ -1,0 +1,71 @@
+{
+  "id": 1259579987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.8061,13.426,2.8061,13.426",
+    "geom:latitude":13.426,
+    "geom:longitude":2.8061,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Falanga",
+    "gn:country_code":"NE",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445160,
+    "gn:latitude":13.426,
+    "gn:longitude":2.8061,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Falanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Falenga",
+        "Falanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445160
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"cae42405f0662997d46971423c298563",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1259579987,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1259579987,
+    "wof:lastmodified":1537674813,
+    "wof:name":"Falanga",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.8061,
+    13.426,
+    2.8061,
+    13.426
+],
+  "geometry": {"coordinates":[2.8061,13.426],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1225851047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.53147,14.3757,6.53147,14.3757",
+    "geom:latitude":14.3757,
+    "geom:longitude":6.53147,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Guidan Aladji",
+    "gn:country_code":"NE",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6849317,
+    "gn:latitude":14.3757,
+    "gn:longitude":6.53147,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Guidan Aladji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6849317
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"c2d7b9c94668b5b97ba1194f3520a1b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1225851047,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1225851047,
+    "wof:lastmodified":1537005253,
+    "wof:name":"Guidan Aladji",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.53147,
+    14.3757,
+    6.53147,
+    14.3757
+],
+  "geometry": {"coordinates":[6.53147,14.3757],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209211657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.0783,13.169,9.0783,13.169",
+    "geom:latitude":13.169,
+    "geom:longitude":9.0783,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Koulema",
+    "gn:country_code":"NE",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6807000,
+    "gn:latitude":13.169,
+    "gn:longitude":9.0783,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Koulema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6807000
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"dcc1d9ecb726fe8556f5c892c092a1ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209211657
+        }
+    ],
+    "wof:id":1209211657,
+    "wof:lastmodified":1536294271,
+    "wof:name":"Koulema",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.0783,
+    13.169,
+    9.0783,
+    13.169
+],
+  "geometry": {"coordinates":[9.0783,13.169],"type":"Point"}
+}

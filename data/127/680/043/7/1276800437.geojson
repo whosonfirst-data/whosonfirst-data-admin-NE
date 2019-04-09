@@ -1,0 +1,67 @@
+{
+  "id": 1276800437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.36745,14.01561,7.36745,14.01561",
+    "geom:latitude":14.01561,
+    "geom:longitude":7.36745,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Guidan Ibrahim",
+    "gn:country_code":"NE",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2443835,
+    "gn:latitude":14.01561,
+    "gn:longitude":7.36745,
+    "gn:modification_date":"2008-08-21",
+    "gn:name":"Guidan Ibrahim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2443835
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"391678e220b07267603965185f3dcd76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051435,
+            "locality_id":1276800437,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1276800437,
+    "wof:lastmodified":1536649825,
+    "wof:name":"Guidan Ibrahim",
+    "wof:parent_id":1092051435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.36745,
+    14.01561,
+    7.36745,
+    14.01561
+],
+  "geometry": {"coordinates":[7.36745,14.01561],"type":"Point"}
+}

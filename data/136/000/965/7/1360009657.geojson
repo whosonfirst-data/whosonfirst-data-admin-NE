@@ -1,0 +1,67 @@
+{
+  "id": 1360009657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.6542,14.66889,6.6542,14.66889",
+    "geom:latitude":14.66889,
+    "geom:longitude":6.6542,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Guidan Arzirka",
+    "gn:country_code":"NE",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6849591,
+    "gn:latitude":14.66889,
+    "gn:longitude":6.6542,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Guidan Arzirka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6849591
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"6b6716060dfb419b1f67d086acbce04c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1360009657,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1360009657,
+    "wof:lastmodified":1537052259,
+    "wof:name":"Guidan Arzirka",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.6542,
+    14.66889,
+    6.6542,
+    14.66889
+],
+  "geometry": {"coordinates":[6.6542,14.66889],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259795397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.24527,12.1142,3.24527,12.1142",
+    "geom:latitude":12.1142,
+    "geom:longitude":3.24527,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Moyaze",
+    "gn:country_code":"NE",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2440825,
+    "gn:latitude":12.1142,
+    "gn:longitude":3.24527,
+    "gn:modification_date":"2009-02-18",
+    "gn:name":"Moyaz\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092050969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2440825
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"8e8ae8acb9fc950486a4586699f7bc1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092050969,
+            "locality_id":1259795397,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1259795397,
+    "wof:lastmodified":1536906209,
+    "wof:name":"Moyaze",
+    "wof:parent_id":1092050969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.24527,
+    12.1142,
+    3.24527,
+    12.1142
+],
+  "geometry": {"coordinates":[3.24527,12.1142],"type":"Point"}
+}

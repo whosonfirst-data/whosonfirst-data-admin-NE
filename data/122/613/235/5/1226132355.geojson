@@ -1,0 +1,72 @@
+{
+  "id": 1226132355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.03026,14.46028,2.03026,14.46028",
+    "geom:latitude":14.46028,
+    "geom:longitude":2.03026,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tondi Kiwindi",
+    "gn:country_code":"NE",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438443,
+    "gn:latitude":14.46028,
+    "gn:longitude":2.03026,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Tondi Kiwindi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tondikouendi",
+        "Tondikiouendi",
+        "Tondi Kiwindi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438443
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"31cde01bbc77711118be31d7d563ecbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051633,
+            "locality_id":1226132355,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1226132355,
+    "wof:lastmodified":1537674666,
+    "wof:name":"Tondi Kiwindi",
+    "wof:parent_id":1092051633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.03026,
+    14.46028,
+    2.03026,
+    14.46028
+],
+  "geometry": {"coordinates":[2.03026,14.46028],"type":"Point"}
+}

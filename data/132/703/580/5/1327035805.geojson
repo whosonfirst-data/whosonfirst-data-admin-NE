@@ -1,0 +1,67 @@
+{
+  "id": 1327035805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.87433,14.78545,6.87433,14.78545",
+    "geom:latitude":14.78545,
+    "geom:longitude":6.87433,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Guidan Dan Fati",
+    "gn:country_code":"NE",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6849391,
+    "gn:latitude":14.78545,
+    "gn:longitude":6.87433,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Guidan Dan Fati",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6849391
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"be998b097d1a23d4ac7ed85e10b0a15e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1327035805,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1327035805,
+    "wof:lastmodified":1536755515,
+    "wof:name":"Guidan Dan Fati",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.87433,
+    14.78545,
+    6.87433,
+    14.78545
+],
+  "geometry": {"coordinates":[6.87433,14.78545],"type":"Point"}
+}

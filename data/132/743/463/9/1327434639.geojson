@@ -1,0 +1,71 @@
+{
+  "id": 1327434639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.43302,14.34373,13.43302,14.34373",
+    "geom:latitude":14.34373,
+    "geom:longitude":13.43302,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ngoudo Boulam",
+    "gn:country_code":"NE",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6786976,
+    "gn:latitude":14.34373,
+    "gn:longitude":13.43302,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ngoudo Boulam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kouray\u00e9",
+        "Ngoudo Boulam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6786976
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"b6c91f20a47d4ee93a0a985ac31d7c5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051781,
+            "locality_id":1327434639,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1327434639,
+    "wof:lastmodified":1537674887,
+    "wof:name":"Ngoudo Boulam",
+    "wof:parent_id":1092051781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.43302,
+    14.34373,
+    13.43302,
+    14.34373
+],
+  "geometry": {"coordinates":[13.43302,14.34373],"type":"Point"}
+}

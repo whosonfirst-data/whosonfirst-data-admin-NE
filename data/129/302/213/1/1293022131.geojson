@@ -1,0 +1,67 @@
+{
+  "id": 1293022131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.82249,14.93051,8.82249,14.93051",
+    "geom:latitude":14.93051,
+    "geom:longitude":8.82249,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bakatchiraba",
+    "gn:country_code":"NE",
+    "gn:dem":523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447265,
+    "gn:latitude":14.93051,
+    "gn:longitude":8.82249,
+    "gn:modification_date":"2008-08-26",
+    "gn:name":"Bakatchiraba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447265
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"6b9f3ac397a5210fb4d90ef49fa2cb92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1293022131,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1293022131,
+    "wof:lastmodified":1536960909,
+    "wof:name":"Bakatchiraba",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.82249,
+    14.93051,
+    8.82249,
+    14.93051
+],
+  "geometry": {"coordinates":[8.82249,14.93051],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1276442357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.05,13.65,7.05,13.65",
+    "geom:latitude":13.65,
+    "geom:longitude":7.05,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Magagui",
+    "gn:cc2":"NE",
+    "gn:country_code":"NE",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441498,
+    "gn:latitude":13.65,
+    "gn:longitude":7.05,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Magagui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Magagi",
+        "Magagui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441498
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"7ac3bdfe81dbe23ad7ec2f907ea423ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051229,
+            "locality_id":1276442357,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1276442357,
+    "wof:lastmodified":1537674724,
+    "wof:name":"Magagui",
+    "wof:parent_id":1092051229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.05,
+    13.65,
+    7.05,
+    13.65
+],
+  "geometry": {"coordinates":[7.05,13.65],"type":"Point"}
+}

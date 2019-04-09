@@ -1,0 +1,67 @@
+{
+  "id": 1259901259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.70405,13.51056,8.70405,13.51056",
+    "geom:latitude":13.51056,
+    "geom:longitude":8.70405,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Katangou",
+    "gn:country_code":"NE",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6738659,
+    "gn:latitude":13.51056,
+    "gn:longitude":8.70405,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Katangou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6738659
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"9d63c4006f4026dbcf70743f31b6b67b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051411,
+            "locality_id":1259901259,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1259901259,
+    "wof:lastmodified":1536753564,
+    "wof:name":"Katangou",
+    "wof:parent_id":1092051411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.70405,
+    13.51056,
+    8.70405,
+    13.51056
+],
+  "geometry": {"coordinates":[8.70405,13.51056],"type":"Point"}
+}

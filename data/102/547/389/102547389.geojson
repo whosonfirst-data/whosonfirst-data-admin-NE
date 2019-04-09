@@ -1,0 +1,65 @@
+{
+  "id": 102547389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.17028,13.4817,2.17028,13.4817",
+    "geom:latitude":13.4817,
+    "geom:longitude":2.17028,
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"732",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424906,
+        "county_id":56055506,
+        "planet_id":1,
+        "state_id":20069994
+    },
+    "wof:belongsto":[
+        85632269,
+        85675291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515047,
+        "iata:code":"NIM",
+        "icao:code":"DRRN",
+        "oa:id":"2125",
+        "wd:id":"Q19406831"
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"a095e34eb3402a3ce6af2c0fc29f5569",
+    "wof:hierarchy":[
+        {
+            "campus_id":102547389,
+            "country_id":85632269,
+            "region_id":85675291
+        }
+    ],
+    "wof:id":102547389,
+    "wof:lastmodified":1543846097,
+    "wof:name":"Niamey Airport",
+    "wof:parent_id":85675291,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    2.17028,
+    13.4817,
+    2.17028,
+    13.4817
+],
+  "geometry": {"coordinates":[2.17028,13.4817],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242584945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.8771,13.3258,2.8771,13.3258",
+    "geom:latitude":13.3258,
+    "geom:longitude":2.8771,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tombo Djibo Baba",
+    "gn:country_code":"NE",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6858484,
+    "gn:latitude":13.3258,
+    "gn:longitude":2.8771,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Tombo Djibo Baba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6858484
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"a4d192b7ecc6144cb0a596be2fa2b5f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051075,
+            "locality_id":1242584945,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1242584945,
+    "wof:lastmodified":1537050843,
+    "wof:name":"Tombo Djibo Baba",
+    "wof:parent_id":1092051075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.8771,
+    13.3258,
+    2.8771,
+    13.3258
+],
+  "geometry": {"coordinates":[2.8771,13.3258],"type":"Point"}
+}

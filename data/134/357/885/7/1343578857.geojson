@@ -1,0 +1,71 @@
+{
+  "id": 1343578857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.2579,17.0352,8.2579,17.0352",
+    "geom:latitude":17.0352,
+    "geom:longitude":8.2579,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Atri",
+    "gn:country_code":"NE",
+    "gn:dem":534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447572,
+    "gn:latitude":17.0352,
+    "gn:longitude":8.2579,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Atri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arat\u00e8ne",
+        "Atri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675273,
+        421182277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447572
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"be272bd9e17529460881a53ce4bc16e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182277,
+            "locality_id":1343578857,
+            "region_id":85675273
+        }
+    ],
+    "wof:id":1343578857,
+    "wof:lastmodified":1537674866,
+    "wof:name":"Atri",
+    "wof:parent_id":421182277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.2579,
+    17.0352,
+    8.2579,
+    17.0352
+],
+  "geometry": {"coordinates":[8.2579,17.0352],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260207649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.31473,14.02703,7.31473,14.02703",
+    "geom:latitude":14.02703,
+    "geom:longitude":7.31473,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Alforma Bogwari",
+    "gn:country_code":"NE",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447902,
+    "gn:latitude":14.02703,
+    "gn:longitude":7.31473,
+    "gn:modification_date":"2008-08-21",
+    "gn:name":"Alforma Bogwari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447902
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"1ae7fd69895cedd11c3ac140a23874b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051435,
+            "locality_id":1260207649,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1260207649,
+    "wof:lastmodified":1536814220,
+    "wof:name":"Alforma Bogwari",
+    "wof:parent_id":1092051435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.31473,
+    14.02703,
+    7.31473,
+    14.02703
+],
+  "geometry": {"coordinates":[7.31473,14.02703],"type":"Point"}
+}

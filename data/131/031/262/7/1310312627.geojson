@@ -1,0 +1,71 @@
+{
+  "id": 1310312627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.17675,12.251,3.17675,12.251",
+    "geom:latitude":12.251,
+    "geom:longitude":3.17675,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Yelo Keyna",
+    "gn:country_code":"NE",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437988,
+    "gn:latitude":12.251,
+    "gn:longitude":3.17675,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Y\u00e9lo Keyna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yelo-Ka\u00efna",
+        "Y\u00e9lo Keyna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437988
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"f03e90fb3be5608b0116816303e37dc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051041,
+            "locality_id":1310312627,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1310312627,
+    "wof:lastmodified":1537674653,
+    "wof:name":"Yelo Keyna",
+    "wof:parent_id":1092051041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.17675,
+    12.251,
+    3.17675,
+    12.251
+],
+  "geometry": {"coordinates":[3.17675,12.251],"type":"Point"}
+}

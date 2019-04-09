@@ -1,0 +1,67 @@
+{
+  "id": 1343494119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.52753,13.74468,7.52753,13.74468",
+    "geom:latitude":13.74468,
+    "geom:longitude":7.52753,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Guidan Aja",
+    "gn:country_code":"NE",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6711172,
+    "gn:latitude":13.74468,
+    "gn:longitude":7.52753,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Guidan Aja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6711172
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"3c4650c9e214a04a8e6dcb7c7c77f3f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051435,
+            "locality_id":1343494119,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1343494119,
+    "wof:lastmodified":1536697873,
+    "wof:name":"Guidan Aja",
+    "wof:parent_id":1092051435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.52753,
+    13.74468,
+    7.52753,
+    13.74468
+],
+  "geometry": {"coordinates":[7.52753,13.74468],"type":"Point"}
+}

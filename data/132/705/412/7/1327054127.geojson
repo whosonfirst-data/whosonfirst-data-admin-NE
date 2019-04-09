@@ -1,0 +1,67 @@
+{
+  "id": 1327054127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.00953,13.43434,7.00953,13.43434",
+    "geom:latitude":13.43434,
+    "geom:longitude":7.00953,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mazadou Abdou",
+    "gn:country_code":"NE",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441002,
+    "gn:latitude":13.43434,
+    "gn:longitude":7.00953,
+    "gn:modification_date":"2008-02-20",
+    "gn:name":"Mazadou Abdou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441002
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"3ae6d4af4ff753ffed429e0c8267b706",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051007,
+            "locality_id":1327054127,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1327054127,
+    "wof:lastmodified":1536729427,
+    "wof:name":"Mazadou Abdou",
+    "wof:parent_id":1092051007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.00953,
+    13.43434,
+    7.00953,
+    13.43434
+],
+  "geometry": {"coordinates":[7.00953,13.43434],"type":"Point"}
+}

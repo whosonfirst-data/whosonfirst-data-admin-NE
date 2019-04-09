@@ -1,0 +1,67 @@
+{
+  "id": 1243068211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.23003,13.23387,8.23003,13.23387",
+    "geom:latitude":13.23387,
+    "geom:longitude":8.23003,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Rijia Boule",
+    "gn:country_code":"NE",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6726917,
+    "gn:latitude":13.23387,
+    "gn:longitude":8.23003,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Rijia Boule",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6726917
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"1317ebbbc1dd37288e4664c7ea227eb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051389,
+            "locality_id":1243068211,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1243068211,
+    "wof:lastmodified":1536852688,
+    "wof:name":"Rijia Boule",
+    "wof:parent_id":1092051389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.23003,
+    13.23387,
+    8.23003,
+    13.23387
+],
+  "geometry": {"coordinates":[8.23003,13.23387],"type":"Point"}
+}

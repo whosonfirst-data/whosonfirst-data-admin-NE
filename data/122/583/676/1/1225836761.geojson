@@ -1,0 +1,67 @@
+{
+  "id": 1225836761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.84225,14.19152,8.84225,14.19152",
+    "geom:latitude":14.19152,
+    "geom:longitude":8.84225,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Maybagari",
+    "gn:country_code":"NE",
+    "gn:dem":464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441176,
+    "gn:latitude":14.19152,
+    "gn:longitude":8.84225,
+    "gn:modification_date":"2008-08-26",
+    "gn:name":"Maybagari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441176
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"10081dc598cda03484a87dcf06884547",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1225836761,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1225836761,
+    "wof:lastmodified":1537025544,
+    "wof:name":"Maybagari",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.84225,
+    14.19152,
+    8.84225,
+    14.19152
+],
+  "geometry": {"coordinates":[8.84225,14.19152],"type":"Point"}
+}

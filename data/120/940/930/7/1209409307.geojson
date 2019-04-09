@@ -1,0 +1,61 @@
+{
+  "id": 1209409307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.69224,13.07599,8.69224,13.07599",
+    "geom:latitude":13.07599,
+    "geom:longitude":8.69224,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kourfoua",
+    "gn:country_code":"NE",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6745375,
+    "gn:latitude":13.07599,
+    "gn:longitude":8.69224,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kourfoua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6745375
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"99941c82352b02cf679a7fdc9f7de633",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209409307
+        }
+    ],
+    "wof:id":1209409307,
+    "wof:lastmodified":1536287892,
+    "wof:name":"Kourfoua",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.69224,
+    13.07599,
+    8.69224,
+    13.07599
+],
+  "geometry": {"coordinates":[8.69224,13.07599],"type":"Point"}
+}

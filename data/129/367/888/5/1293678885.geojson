@@ -1,0 +1,71 @@
+{
+  "id": 1293678885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.24939,14.57593,0.24939,14.57593",
+    "geom:latitude":14.57593,
+    "geom:longitude":0.24939,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Borobou",
+    "gn:country_code":"NE",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446631,
+    "gn:latitude":14.57593,
+    "gn:longitude":0.24939,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Borobou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Borobon",
+        "Borobou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446631
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"8bf23bc1ad6238a6beeab044a39c5363",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051545,
+            "locality_id":1293678885,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1293678885,
+    "wof:lastmodified":1537674846,
+    "wof:name":"Borobou",
+    "wof:parent_id":1092051545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.24939,
+    14.57593,
+    0.24939,
+    14.57593
+],
+  "geometry": {"coordinates":[0.24939,14.57593],"type":"Point"}
+}

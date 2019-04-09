@@ -1,0 +1,67 @@
+{
+  "id": 1276358339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.1851,15.0518,5.1851,15.0518",
+    "geom:latitude":15.0518,
+    "geom:longitude":5.1851,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Garin Mahe",
+    "gn:country_code":"NE",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6699612,
+    "gn:latitude":15.0518,
+    "gn:longitude":5.1851,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Garin Mah\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6699612
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"bc35368ab1b58ac7f1e9527955701c2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051609,
+            "locality_id":1276358339,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1276358339,
+    "wof:lastmodified":1536744766,
+    "wof:name":"Garin Mahe",
+    "wof:parent_id":1092051609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.1851,
+    15.0518,
+    5.1851,
+    15.0518
+],
+  "geometry": {"coordinates":[5.1851,15.0518],"type":"Point"}
+}

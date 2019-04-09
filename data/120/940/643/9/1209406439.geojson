@@ -1,0 +1,61 @@
+{
+  "id": 1209406439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.1478,14.7011,9.1478,14.7011",
+    "geom:latitude":14.7011,
+    "geom:longitude":9.1478,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Gamori",
+    "gn:country_code":"NE",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2596808,
+    "gn:latitude":14.7011,
+    "gn:longitude":9.1478,
+    "gn:modification_date":"2008-08-01",
+    "gn:name":"Gamori",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2596808
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"98d9215582b54a4e063a72103e5e5b55",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209406439
+        }
+    ],
+    "wof:id":1209406439,
+    "wof:lastmodified":1536287981,
+    "wof:name":"Gamori",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.1478,
+    14.7011,
+    9.1478,
+    14.7011
+],
+  "geometry": {"coordinates":[9.1478,14.7011],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310608541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.9695,12.83419,3.9695,12.83419",
+    "geom:latitude":12.83419,
+    "geom:longitude":3.9695,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kotolougui",
+    "gn:country_code":"NE",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442059,
+    "gn:latitude":12.83419,
+    "gn:longitude":3.9695,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kotolougui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kutuluji",
+        "Kotolougui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442059
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"edb921188c7df0f0dc55ebf3d56ac8df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051467,
+            "locality_id":1310608541,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1310608541,
+    "wof:lastmodified":1537674739,
+    "wof:name":"Kotolougui",
+    "wof:parent_id":1092051467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.9695,
+    12.83419,
+    3.9695,
+    12.83419
+],
+  "geometry": {"coordinates":[3.9695,12.83419],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226450167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.97894,12.96976,3.97894,12.96976",
+    "geom:latitude":12.96976,
+    "geom:longitude":3.97894,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Doumega",
+    "gn:country_code":"NE",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445449,
+    "gn:latitude":12.96976,
+    "gn:longitude":3.97894,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Doum\u00e9ga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dumega",
+        "Doum\u00e9ga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445449,
+        "wk:page":"Doumega"
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"9d5d7fbb8afc5e0da66a3ab2125b2f30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051467,
+            "locality_id":1226450167,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1226450167,
+    "wof:lastmodified":1537674817,
+    "wof:name":"Doumega",
+    "wof:parent_id":1092051467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.97894,
+    12.96976,
+    3.97894,
+    12.96976
+],
+  "geometry": {"coordinates":[3.97894,12.96976],"type":"Point"}
+}

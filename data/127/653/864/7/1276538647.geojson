@@ -1,0 +1,67 @@
+{
+  "id": 1276538647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.24669,14.39601,2.24669,14.39601",
+    "geom:latitude":14.39601,
+    "geom:longitude":2.24669,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Berey",
+    "gn:country_code":"NE",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6827311,
+    "gn:latitude":14.39601,
+    "gn:longitude":2.24669,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"B\u00e9rey",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6827311
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"23df31f7a5d330fd25a2e55be51bfeaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051633,
+            "locality_id":1276538647,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1276538647,
+    "wof:lastmodified":1537000099,
+    "wof:name":"Berey",
+    "wof:parent_id":1092051633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.24669,
+    14.39601,
+    2.24669,
+    14.39601
+],
+  "geometry": {"coordinates":[2.24669,14.39601],"type":"Point"}
+}

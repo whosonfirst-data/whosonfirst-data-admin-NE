@@ -1,0 +1,71 @@
+{
+  "id": 1259778001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.3785,13.0327,2.3785,13.0327",
+    "geom:latitude":13.0327,
+    "geom:longitude":2.3785,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Hama Dandi",
+    "gn:country_code":"NE",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6858407,
+    "gn:latitude":13.0327,
+    "gn:longitude":2.3785,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hama Dandi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sabon Soudji",
+        "Hama Dandi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6858407
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"47fbfa4bc0ae9e7780167d8186af7c6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051103,
+            "locality_id":1259778001,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1259778001,
+    "wof:lastmodified":1537674889,
+    "wof:name":"Hama Dandi",
+    "wof:parent_id":1092051103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.3785,
+    13.0327,
+    2.3785,
+    13.0327
+],
+  "geometry": {"coordinates":[2.3785,13.0327],"type":"Point"}
+}

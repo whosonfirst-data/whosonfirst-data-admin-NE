@@ -1,0 +1,71 @@
+{
+  "id": 1343842303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.75417,13.1242,1.75417,13.1242",
+    "geom:latitude":13.1242,
+    "geom:longitude":1.75417,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Dioga",
+    "gn:country_code":"NE",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445365,
+    "gn:latitude":13.1242,
+    "gn:longitude":1.75417,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Dioga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dyoga",
+        "Dioga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445365
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"ffcaa408a4da9bb5b37a5b30be5304ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051103,
+            "locality_id":1343842303,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1343842303,
+    "wof:lastmodified":1537674815,
+    "wof:name":"Dioga",
+    "wof:parent_id":1092051103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.75417,
+    13.1242,
+    1.75417,
+    13.1242
+],
+  "geometry": {"coordinates":[1.75417,13.1242],"type":"Point"}
+}

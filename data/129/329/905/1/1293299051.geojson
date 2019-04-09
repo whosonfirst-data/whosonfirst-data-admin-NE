@@ -1,0 +1,67 @@
+{
+  "id": 1293299051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.11513,13.89493,7.11513,13.89493",
+    "geom:latitude":13.89493,
+    "geom:longitude":7.11513,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Hali",
+    "gn:country_code":"NE",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6705008,
+    "gn:latitude":13.89493,
+    "gn:longitude":7.11513,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Hali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6705008
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"9ecfca8e0eea8d085dcb14520d17b2cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1293299051,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1293299051,
+    "wof:lastmodified":1537056172,
+    "wof:name":"Hali",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.11513,
+    13.89493,
+    7.11513,
+    13.89493
+],
+  "geometry": {"coordinates":[7.11513,13.89493],"type":"Point"}
+}

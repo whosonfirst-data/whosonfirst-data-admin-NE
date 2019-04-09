@@ -1,0 +1,71 @@
+{
+  "id": 1259577695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.67171,14.73008,7.67171,14.73008",
+    "geom:latitude":14.73008,
+    "geom:longitude":7.67171,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Masoui",
+    "gn:country_code":"NE",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441225,
+    "gn:latitude":14.73008,
+    "gn:longitude":7.67171,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Masoui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Massoui",
+        "Masoui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441225
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"d83658d2748a6da7e01f3f7f4575841d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1259577695,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1259577695,
+    "wof:lastmodified":1537674718,
+    "wof:name":"Masoui",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.67171,
+    14.73008,
+    7.67171,
+    14.73008
+],
+  "geometry": {"coordinates":[7.67171,14.73008],"type":"Point"}
+}

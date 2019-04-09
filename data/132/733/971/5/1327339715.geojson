@@ -1,0 +1,71 @@
+{
+  "id": 1327339715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.31393,14.14318,7.31393,14.14318",
+    "geom:latitude":14.14318,
+    "geom:longitude":7.31393,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Guidan Amani Ariwa",
+    "gn:country_code":"NE",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444066,
+    "gn:latitude":14.14318,
+    "gn:longitude":7.31393,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Guidan Amani Ariwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guidan Aman Ariwa",
+        "Guidan Amani Ariwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444066
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"1bffd642803fefbead34b9a79c88d8de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051435,
+            "locality_id":1327339715,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1327339715,
+    "wof:lastmodified":1537674786,
+    "wof:name":"Guidan Amani Ariwa",
+    "wof:parent_id":1092051435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.31393,
+    14.14318,
+    7.31393,
+    14.14318
+],
+  "geometry": {"coordinates":[7.31393,14.14318],"type":"Point"}
+}

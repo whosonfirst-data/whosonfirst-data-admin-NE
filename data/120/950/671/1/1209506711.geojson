@@ -1,0 +1,61 @@
+{
+  "id": 1209506711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.5777,13.8858,9.5777,13.8858",
+    "geom:latitude":13.8858,
+    "geom:longitude":9.5777,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kore May Lwa",
+    "gn:country_code":"NE",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6806771,
+    "gn:latitude":13.8858,
+    "gn:longitude":9.5777,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Kor\u00e9 May Lwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6806771
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"47b75bac3dc5a6803a19929658950d18",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209506711
+        }
+    ],
+    "wof:id":1209506711,
+    "wof:lastmodified":1536285012,
+    "wof:name":"Kore May Lwa",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.5777,
+    13.8858,
+    9.5777,
+    13.8858
+],
+  "geometry": {"coordinates":[9.5777,13.8858],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209612523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.1947,15.1676,5.1947,15.1676",
+    "geom:latitude":15.1676,
+    "geom:longitude":5.1947,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Abala",
+    "gn:country_code":"NE",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6699587,
+    "gn:latitude":15.1676,
+    "gn:longitude":5.1947,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Abala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6699587
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"1df9d4dd9b42daa79c8813747be376bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209612523
+        }
+    ],
+    "wof:id":1209612523,
+    "wof:lastmodified":1536281800,
+    "wof:name":"Abala",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.1947,
+    15.1676,
+    5.1947,
+    15.1676
+],
+  "geometry": {"coordinates":[5.1947,15.1676],"type":"Point"}
+}

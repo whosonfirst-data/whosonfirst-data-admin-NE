@@ -1,0 +1,71 @@
+{
+  "id": 1242779765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.40203,13.66044,3.40203,13.66044",
+    "geom:latitude":13.66044,
+    "geom:longitude":3.40203,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Guirigorou",
+    "gn:country_code":"NE",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2443479,
+    "gn:latitude":13.66044,
+    "gn:longitude":3.40203,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Guirigorou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Girigorou",
+        "Guirigorou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2443479
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"9dcfc6bf1652e70f4dff0f477781c708",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051273,
+            "locality_id":1242779765,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1242779765,
+    "wof:lastmodified":1537674767,
+    "wof:name":"Guirigorou",
+    "wof:parent_id":1092051273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.40203,
+    13.66044,
+    3.40203,
+    13.66044
+],
+  "geometry": {"coordinates":[3.40203,13.66044],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276682935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.02406,13.42161,7.02406,13.42161",
+    "geom:latitude":13.42161,
+    "geom:longitude":7.02406,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Garin Guizo",
+    "gn:country_code":"NE",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6718284,
+    "gn:latitude":13.42161,
+    "gn:longitude":7.02406,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Garin Guizo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6718284
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"7dfcc8802d5956e9939a7243c230851c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051007,
+            "locality_id":1276682935,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1276682935,
+    "wof:lastmodified":1536806998,
+    "wof:name":"Garin Guizo",
+    "wof:parent_id":1092051007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.02406,
+    13.42161,
+    7.02406,
+    13.42161
+],
+  "geometry": {"coordinates":[7.02406,13.42161],"type":"Point"}
+}

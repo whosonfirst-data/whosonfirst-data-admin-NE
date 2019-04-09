@@ -1,0 +1,73 @@
+{
+  "id": 1209723245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.96382,12.78935,2.96382,12.78935",
+    "geom:latitude":12.78935,
+    "geom:longitude":2.96382,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Debe Debe Zarma",
+    "gn:country_code":"NE",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445820,
+    "gn:latitude":12.78935,
+    "gn:longitude":2.96382,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"D\u00e9b\u00e9 D\u00e9b\u00e9 Zarma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dab\u00e9d\u00e9b\u00e9",
+        "D\u00e9b\u00e9 D\u00e9b\u00e9 Dyerma",
+        "D\u00e9b\u00e9 D\u00e9b\u00e9 Djerma",
+        "D\u00e9b\u00e9 D\u00e9b\u00e9 Zarma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445820
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"25fd5e7a8278e561ee11837d54441d2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051075,
+            "locality_id":1209723245,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1209723245,
+    "wof:lastmodified":1537674829,
+    "wof:name":"Debe Debe Zarma",
+    "wof:parent_id":1092051075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.96382,
+    12.78935,
+    2.96382,
+    12.78935
+],
+  "geometry": {"coordinates":[2.96382,12.78935],"type":"Point"}
+}

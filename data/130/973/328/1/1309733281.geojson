@@ -1,0 +1,71 @@
+{
+  "id": 1309733281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.52904,13.68066,8.52904,13.68066",
+    "geom:latitude":13.68066,
+    "geom:longitude":8.52904,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Takieta",
+    "gn:country_code":"NE",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439310,
+    "gn:latitude":13.68066,
+    "gn:longitude":8.52904,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Taki\u00e9ta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taki\u00e9ta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439310,
+        "wk:page":"Takieta"
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"384dfd7f8d3c98b720bcad9a99856ad6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051411,
+            "locality_id":1309733281,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1309733281,
+    "wof:lastmodified":1537674681,
+    "wof:name":"Takieta",
+    "wof:parent_id":1092051411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.52904,
+    13.68066,
+    8.52904,
+    13.68066
+],
+  "geometry": {"coordinates":[8.52904,13.68066],"type":"Point"}
+}

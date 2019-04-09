@@ -1,0 +1,67 @@
+{
+  "id": 1344054621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.42207,14.18223,6.42207,14.18223",
+    "geom:latitude":14.18223,
+    "geom:longitude":6.42207,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Guidan Maydawa",
+    "gn:country_code":"NE",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6849816,
+    "gn:latitude":14.18223,
+    "gn:longitude":6.42207,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Guidan Maydawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6849816
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"6da4e6f1e41abdc09c3f679a01aa506b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051329,
+            "locality_id":1344054621,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1344054621,
+    "wof:lastmodified":1536883448,
+    "wof:name":"Guidan Maydawa",
+    "wof:parent_id":1092051329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.42207,
+    14.18223,
+    6.42207,
+    14.18223
+],
+  "geometry": {"coordinates":[6.42207,14.18223],"type":"Point"}
+}

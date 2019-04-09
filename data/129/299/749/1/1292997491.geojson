@@ -1,0 +1,67 @@
+{
+  "id": 1292997491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.97065,13.97785,8.97065,13.97785",
+    "geom:latitude":13.97785,
+    "geom:longitude":8.97065,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Baban Toudou",
+    "gn:country_code":"NE",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447354,
+    "gn:latitude":13.97785,
+    "gn:longitude":8.97065,
+    "gn:modification_date":"2008-02-22",
+    "gn:name":"Baban Toudou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447354
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"2e7f95897ac0805e194b0b01506d1968",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051411,
+            "locality_id":1292997491,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1292997491,
+    "wof:lastmodified":1536995682,
+    "wof:name":"Baban Toudou",
+    "wof:parent_id":1092051411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.97065,
+    13.97785,
+    8.97065,
+    13.97785
+],
+  "geometry": {"coordinates":[8.97065,13.97785],"type":"Point"}
+}

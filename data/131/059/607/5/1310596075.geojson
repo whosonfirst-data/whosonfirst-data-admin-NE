@@ -1,0 +1,67 @@
+{
+  "id": 1310596075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.68629,14.67926,2.68629,14.67926",
+    "geom:latitude":14.67926,
+    "geom:longitude":2.68629,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Goula",
+    "gn:country_code":"NE",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444289,
+    "gn:latitude":14.67926,
+    "gn:longitude":2.68629,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Goula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444289
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"3f78b2e670d92c30fe730b54369264f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051633,
+            "locality_id":1310596075,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1310596075,
+    "wof:lastmodified":1536786792,
+    "wof:name":"Goula",
+    "wof:parent_id":1092051633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.68629,
+    14.67926,
+    2.68629,
+    14.67926
+],
+  "geometry": {"coordinates":[2.68629,14.67926],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310494193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.82,13.92,4.82,13.92",
+    "geom:latitude":13.92,
+    "geom:longitude":4.82,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Allela II Peulh",
+    "gn:country_code":"NE",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11203919,
+    "gn:latitude":13.92,
+    "gn:longitude":4.82,
+    "gn:modification_date":"2016-07-11",
+    "gn:name":"Allela II Peulh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11203919
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"85a498eb795e414b8627c2f41af029b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051301,
+            "locality_id":1310494193,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1310494193,
+    "wof:lastmodified":1536934002,
+    "wof:name":"Allela II Peulh",
+    "wof:parent_id":1092051301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.82,
+    13.92,
+    4.82,
+    13.92
+],
+  "geometry": {"coordinates":[4.82,13.92],"type":"Point"}
+}

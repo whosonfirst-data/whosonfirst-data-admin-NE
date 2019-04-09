@@ -1,0 +1,67 @@
+{
+  "id": 1326521719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.706,13.85278,10.706,13.85278",
+    "geom:latitude":13.85278,
+    "geom:longitude":10.706,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Karagou Tjere",
+    "gn:country_code":"NE",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6750335,
+    "gn:latitude":13.85278,
+    "gn:longitude":10.706,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Karagou Tj\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6750335
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"27f35b3130c2e0b181f6451dd2268eaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051753,
+            "locality_id":1326521719,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1326521719,
+    "wof:lastmodified":1536998497,
+    "wof:name":"Karagou Tjere",
+    "wof:parent_id":1092051753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.706,
+    13.85278,
+    10.706,
+    13.85278
+],
+  "geometry": {"coordinates":[10.706,13.85278],"type":"Point"}
+}

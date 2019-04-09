@@ -1,0 +1,67 @@
+{
+  "id": 1276895581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.73648,14.66024,7.73648,14.66024",
+    "geom:latitude":14.66024,
+    "geom:longitude":7.73648,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Guidan Bako",
+    "gn:country_code":"NE",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444010,
+    "gn:latitude":14.66024,
+    "gn:longitude":7.73648,
+    "gn:modification_date":"2008-08-21",
+    "gn:name":"Guidan Bako",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444010
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"6827cd245a404fe35ab9eb718fffd7d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1276895581,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1276895581,
+    "wof:lastmodified":1537019332,
+    "wof:name":"Guidan Bako",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.73648,
+    14.66024,
+    7.73648,
+    14.66024
+],
+  "geometry": {"coordinates":[7.73648,14.66024],"type":"Point"}
+}

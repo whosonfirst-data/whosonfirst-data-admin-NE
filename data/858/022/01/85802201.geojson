@@ -1,0 +1,112 @@
+{
+  "id": 85802201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":13395397.265188,
+    "geom:bbox":"2.114431,13.506919,2.114431,13.506919",
+    "geom:latitude":13.506919,
+    "geom:longitude":2.114431,
+    "iso:country":"NE",
+    "lbl:latitude":13.506919,
+    "lbl:longitude":2.114431,
+    "mps:latitude":13.491903,
+    "mps:longitude":2.113588,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:fra_x_colloquial":[
+        "Gaweye"
+    ],
+    "name:fra_x_preferred":[
+        "Gaw\u00e9ye"
+    ],
+    "name:unk_x_variant":[
+        "Gaw\u00e9ye"
+    ],
+    "qs:gn_adm0_cc":"NE",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2440485,
+    "qs:gn_nam_loc":"Niamey, Niamey, Niamey, NE",
+    "qs:gn_namadm1":"08",
+    "qs:gn_name":"Gaw\u00e9ye",
+    "qs:local_max":264,
+    "qs:local_sum":377,
+    "qs:localhoods":2,
+    "qs:name":"Gaw\u00e9ye",
+    "qs:name_adm0":"Niger",
+    "qs:name_adm1":"Niamey",
+    "qs:name_adm2":"Niamey",
+    "qs:name_local":"Niamey",
+    "qs:photo_max":36,
+    "qs:photo_sum":113,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":10,
+    "qs:woe_adm0":23424906,
+    "qs:woe_adm1":20069994,
+    "qs:woe_adm2":56055506,
+    "qs:woe_lau":0,
+    "qs:woe_local":1505949,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85675291,
+        102191573,
+        85632269,
+        421204117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2569130,
+        "gp:id":1379711,
+        "qs:id":1083578
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"2e54e8a859e8f84d1ad921cc2fedd14d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421204117,
+            "locality_id":-1,
+            "neighbourhood_id":85802201,
+            "region_id":85675291
+        }
+    ],
+    "wof:id":85802201,
+    "wof:lang":[
+        "fre"
+    ],
+    "wof:lastmodified":1534379385,
+    "wof:name":"Gaw\u00e9ye",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[
+        1126090759
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.114431,
+    13.506919,
+    2.114431,
+    13.506919
+],
+  "geometry": {"coordinates":[2.114431,13.506919],"type":"Point"}
+}

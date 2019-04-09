@@ -1,0 +1,67 @@
+{
+  "id": 1360309297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.51215,14.54775,7.51215,14.54775",
+    "geom:latitude":14.54775,
+    "geom:longitude":7.51215,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Samori",
+    "gn:country_code":"NE",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439912,
+    "gn:latitude":14.54775,
+    "gn:longitude":7.51215,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Samori",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439912
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"cf851da17d30b8c724117aca9f581099",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1360309297,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1360309297,
+    "wof:lastmodified":1536620088,
+    "wof:name":"Samori",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.51215,
+    14.54775,
+    7.51215,
+    14.54775
+],
+  "geometry": {"coordinates":[7.51215,14.54775],"type":"Point"}
+}

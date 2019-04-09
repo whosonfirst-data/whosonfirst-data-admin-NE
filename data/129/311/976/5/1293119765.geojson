@@ -1,0 +1,71 @@
+{
+  "id": 1293119765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.05722,14.60565,1.05722,14.60565",
+    "geom:latitude":14.60565,
+    "geom:longitude":1.05722,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kalabosse",
+    "gn:country_code":"NE",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444847,
+    "gn:latitude":14.60565,
+    "gn:longitude":1.05722,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Kalaboss\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kalaboss\u00e9",
+        "Gaigorou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        890429081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444847
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"5697085878b9f603c0a8706549fe9c8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":890429081,
+            "locality_id":1293119765,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1293119765,
+    "wof:lastmodified":1537674805,
+    "wof:name":"Kalabosse",
+    "wof:parent_id":890429081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.05722,
+    14.60565,
+    1.05722,
+    14.60565
+],
+  "geometry": {"coordinates":[1.05722,14.60565],"type":"Point"}
+}

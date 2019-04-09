@@ -1,0 +1,71 @@
+{
+  "id": 1276573593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.35273,14.7117,6.35273,14.7117",
+    "geom:latitude":14.7117,
+    "geom:longitude":6.35273,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mitisanan",
+    "gn:country_code":"NE",
+    "gn:dem":425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2440918,
+    "gn:latitude":14.7117,
+    "gn:longitude":6.35273,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mitisanan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mitissaha",
+        "Mitisanan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2440918
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"f1e6951b2ff44c651e785fef519a9449",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051577,
+            "locality_id":1276573593,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1276573593,
+    "wof:lastmodified":1537674711,
+    "wof:name":"Mitisanan",
+    "wof:parent_id":1092051577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.35273,
+    14.7117,
+    6.35273,
+    14.7117
+],
+  "geometry": {"coordinates":[6.35273,14.7117],"type":"Point"}
+}

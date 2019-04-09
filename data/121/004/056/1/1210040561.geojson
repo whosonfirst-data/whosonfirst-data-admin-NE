@@ -1,0 +1,67 @@
+{
+  "id": 1210040561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.62698,14.63543,6.62698,14.63543",
+    "geom:latitude":14.63543,
+    "geom:longitude":6.62698,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Garin Kane",
+    "gn:country_code":"NE",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6849587,
+    "gn:latitude":14.63543,
+    "gn:longitude":6.62698,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Garin Kan\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6849587
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"aced4d26ab3d563479723bd2d0a8f763",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1210040561,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1210040561,
+    "wof:lastmodified":1536384335,
+    "wof:name":"Garin Kane",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.62698,
+    14.63543,
+    6.62698,
+    14.63543
+],
+  "geometry": {"coordinates":[6.62698,14.63543],"type":"Point"}
+}

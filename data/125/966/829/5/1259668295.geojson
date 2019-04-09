@@ -1,0 +1,72 @@
+{
+  "id": 1259668295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.27886,14.43511,1.27886,14.43511",
+    "geom:latitude":14.43511,
+    "geom:longitude":1.27886,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Dougou Saro",
+    "gn:country_code":"NE",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445474,
+    "gn:latitude":14.43511,
+    "gn:longitude":1.27886,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Dougou Saro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Doukou",
+        "Dougou Saro",
+        "Dougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        890429081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445474
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"7bf1ca9e16c07f8e1942fab5b77f108c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":890429081,
+            "locality_id":1259668295,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1259668295,
+    "wof:lastmodified":1537674818,
+    "wof:name":"Dougou Saro",
+    "wof:parent_id":890429081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.27886,
+    14.43511,
+    1.27886,
+    14.43511
+],
+  "geometry": {"coordinates":[1.27886,14.43511],"type":"Point"}
+}

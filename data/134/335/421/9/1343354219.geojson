@@ -1,0 +1,67 @@
+{
+  "id": 1343354219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.77264,14.3118,4.77264,14.3118",
+    "geom:latitude":14.3118,
+    "geom:longitude":4.77264,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sabongari",
+    "gn:country_code":"NE",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6783505,
+    "gn:latitude":14.3118,
+    "gn:longitude":4.77264,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Sabongari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6783505
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"7a10b0d7662e63c1ffec4d2f4d80fdc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051485,
+            "locality_id":1343354219,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1343354219,
+    "wof:lastmodified":1536899591,
+    "wof:name":"Sabongari",
+    "wof:parent_id":1092051485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.77264,
+    14.3118,
+    4.77264,
+    14.3118
+],
+  "geometry": {"coordinates":[4.77264,14.3118],"type":"Point"}
+}

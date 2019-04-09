@@ -1,0 +1,72 @@
+{
+  "id": 1209823061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.89712,12.40834,2.89712,12.40834",
+    "geom:latitude":12.40834,
+    "geom:longitude":2.89712,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ganguey",
+    "gn:country_code":"NE",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444758,
+    "gn:latitude":12.40834,
+    "gn:longitude":2.89712,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Gangu\u00e8y",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gang\u00e8y",
+        "Gongaye",
+        "Gangu\u00e8y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444758
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"6ec0ee53aa439eab570b8323de09c53b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051075,
+            "locality_id":1209823061,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1209823061,
+    "wof:lastmodified":1537674803,
+    "wof:name":"Ganguey",
+    "wof:parent_id":1092051075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.89712,
+    12.40834,
+    2.89712,
+    12.40834
+],
+  "geometry": {"coordinates":[2.89712,12.40834],"type":"Point"}
+}

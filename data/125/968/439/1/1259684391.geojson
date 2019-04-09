@@ -1,0 +1,67 @@
+{
+  "id": 1259684391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.82545,13.92462,6.82545,13.92462",
+    "geom:latitude":13.92462,
+    "geom:longitude":6.82545,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Garin Boy",
+    "gn:country_code":"NE",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6716155,
+    "gn:latitude":13.92462,
+    "gn:longitude":6.82545,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Garin Boy",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6716155
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"bab5ef5a9ea401a6f4e456b9867901ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1259684391,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1259684391,
+    "wof:lastmodified":1537062913,
+    "wof:name":"Garin Boy",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.82545,
+    13.92462,
+    6.82545,
+    13.92462
+],
+  "geometry": {"coordinates":[6.82545,13.92462],"type":"Point"}
+}

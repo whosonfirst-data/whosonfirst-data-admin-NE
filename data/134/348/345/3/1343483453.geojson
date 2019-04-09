@@ -1,0 +1,67 @@
+{
+  "id": 1343483453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.2725,14.47339,6.2725,14.47339",
+    "geom:latitude":14.47339,
+    "geom:longitude":6.2725,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Guidan Alasen",
+    "gn:country_code":"NE",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6849697,
+    "gn:latitude":14.47339,
+    "gn:longitude":6.2725,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Guidan Alas\u00e9n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6849697
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"66d614d5f7d4f52a9e16fa3a794645ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051515,
+            "locality_id":1343483453,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1343483453,
+    "wof:lastmodified":1536713294,
+    "wof:name":"Guidan Alasen",
+    "wof:parent_id":1092051515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.2725,
+    14.47339,
+    6.2725,
+    14.47339
+],
+  "geometry": {"coordinates":[6.2725,14.47339],"type":"Point"}
+}

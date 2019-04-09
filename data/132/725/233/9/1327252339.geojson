@@ -1,0 +1,67 @@
+{
+  "id": 1327252339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.90475,14.75273,0.90475,14.75273",
+    "geom:latitude":14.75273,
+    "geom:longitude":0.90475,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Galame",
+    "gn:country_code":"NE",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444830,
+    "gn:latitude":14.75273,
+    "gn:longitude":0.90475,
+    "gn:modification_date":"2008-10-21",
+    "gn:name":"Galam\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        890429081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444830
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"7384aff6542fc2478aaafa6b3645b4cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":890429081,
+            "locality_id":1327252339,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1327252339,
+    "wof:lastmodified":1536941407,
+    "wof:name":"Galame",
+    "wof:parent_id":890429081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.90475,
+    14.75273,
+    0.90475,
+    14.75273
+],
+  "geometry": {"coordinates":[0.90475,14.75273],"type":"Point"}
+}

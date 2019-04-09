@@ -1,0 +1,67 @@
+{
+  "id": 1293095559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.0658,13.40913,10.0658,13.40913",
+    "geom:latitude":13.40913,
+    "geom:longitude":10.0658,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zgao",
+    "gn:country_code":"NE",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6750121,
+    "gn:latitude":13.40913,
+    "gn:longitude":10.0658,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Zgao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6750121
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"d72b75301969da75a6bc6d53e3f6aa56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051753,
+            "locality_id":1293095559,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1293095559,
+    "wof:lastmodified":1536854023,
+    "wof:name":"Zgao",
+    "wof:parent_id":1092051753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0658,
+    13.40913,
+    10.0658,
+    13.40913
+],
+  "geometry": {"coordinates":[10.0658,13.40913],"type":"Point"}
+}

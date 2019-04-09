@@ -1,0 +1,67 @@
+{
+  "id": 1276466115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.446,14.703,5.446,14.703",
+    "geom:latitude":14.703,
+    "geom:longitude":5.446,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tchaba Magizo",
+    "gn:country_code":"NE",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6679140,
+    "gn:latitude":14.703,
+    "gn:longitude":5.446,
+    "gn:modification_date":"2008-02-09",
+    "gn:name":"Tchaba Magizo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6679140
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"660fa1ec7520455daa8960f23dbd3552",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051609,
+            "locality_id":1276466115,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1276466115,
+    "wof:lastmodified":1537094756,
+    "wof:name":"Tchaba Magizo",
+    "wof:parent_id":1092051609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.446,
+    14.703,
+    5.446,
+    14.703
+],
+  "geometry": {"coordinates":[5.446,14.703],"type":"Point"}
+}

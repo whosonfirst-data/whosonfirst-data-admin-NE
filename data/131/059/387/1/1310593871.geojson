@@ -1,0 +1,67 @@
+{
+  "id": 1310593871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.0358,15.0286,5.0358,15.0286",
+    "geom:latitude":15.0286,
+    "geom:longitude":5.0358,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Doutyi",
+    "gn:country_code":"NE",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6699604,
+    "gn:latitude":15.0286,
+    "gn:longitude":5.0358,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Doutyi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6699604
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"65b00c5233f1aa4533ff0b42e3e586e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051609,
+            "locality_id":1310593871,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1310593871,
+    "wof:lastmodified":1536789911,
+    "wof:name":"Doutyi",
+    "wof:parent_id":1092051609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.0358,
+    15.0286,
+    5.0358,
+    15.0286
+],
+  "geometry": {"coordinates":[5.0358,15.0286],"type":"Point"}
+}

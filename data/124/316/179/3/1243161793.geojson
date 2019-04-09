@@ -1,0 +1,71 @@
+{
+  "id": 1243161793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.74479,14.49639,2.74479,14.49639",
+    "geom:latitude":14.49639,
+    "geom:longitude":2.74479,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bangou Koarey",
+    "gn:country_code":"NE",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447147,
+    "gn:latitude":14.49639,
+    "gn:longitude":2.74479,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Bangou Koar\u00e8y",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bangou Kwarey",
+        "Bangou Koar\u00e8y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447147
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"4ae341fd43a6914cd5cc8ccca3bf357f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051633,
+            "locality_id":1243161793,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1243161793,
+    "wof:lastmodified":1537674857,
+    "wof:name":"Bangou Koarey",
+    "wof:parent_id":1092051633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.74479,
+    14.49639,
+    2.74479,
+    14.49639
+],
+  "geometry": {"coordinates":[2.74479,14.49639],"type":"Point"}
+}

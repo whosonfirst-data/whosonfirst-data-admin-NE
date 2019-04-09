@@ -1,0 +1,72 @@
+{
+  "id": 1226651849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.27676,13.6024,7.27676,13.6024",
+    "geom:latitude":13.6024,
+    "geom:longitude":7.27676,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Serkin Hatchi",
+    "gn:country_code":"NE",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439770,
+    "gn:latitude":13.6024,
+    "gn:longitude":7.27676,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Serkin Hatchi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Serki Atchin",
+        "S\u00e8rki Atchi",
+        "Serkin Hatchi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439770
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"df1144085fc3f5c7ae948b1cd4d65628",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051229,
+            "locality_id":1226651849,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1226651849,
+    "wof:lastmodified":1537674690,
+    "wof:name":"Serkin Hatchi",
+    "wof:parent_id":1092051229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.27676,
+    13.6024,
+    7.27676,
+    13.6024
+],
+  "geometry": {"coordinates":[7.27676,13.6024],"type":"Point"}
+}

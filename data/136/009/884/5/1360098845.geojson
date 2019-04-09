@@ -1,0 +1,67 @@
+{
+  "id": 1360098845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.89205,18.85266,12.89205,18.85266",
+    "geom:latitude":18.85266,
+    "geom:longitude":12.89205,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Goubdoudou",
+    "gn:country_code":"NE",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7060950,
+    "gn:latitude":18.85266,
+    "gn:longitude":12.89205,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Goubdoudou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675273,
+        1092051881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7060950
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"6b14a8b0f7060e047edeac7b2e9322b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051881,
+            "locality_id":1360098845,
+            "region_id":85675273
+        }
+    ],
+    "wof:id":1360098845,
+    "wof:lastmodified":1536926407,
+    "wof:name":"Goubdoudou",
+    "wof:parent_id":1092051881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.89205,
+    18.85266,
+    12.89205,
+    18.85266
+],
+  "geometry": {"coordinates":[12.89205,18.85266],"type":"Point"}
+}

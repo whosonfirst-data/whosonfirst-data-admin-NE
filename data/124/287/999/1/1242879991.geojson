@@ -1,0 +1,67 @@
+{
+  "id": 1242879991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.70729,13.6225,6.70729,13.6225",
+    "geom:latitude":13.6225,
+    "geom:longitude":6.70729,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Banibie",
+    "gn:country_code":"NE",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447131,
+    "gn:latitude":13.6225,
+    "gn:longitude":6.70729,
+    "gn:modification_date":"2008-02-11",
+    "gn:name":"Banibi\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447131
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"8e71e485f3a6df6962d7770313a528de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051229,
+            "locality_id":1242879991,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1242879991,
+    "wof:lastmodified":1536626226,
+    "wof:name":"Banibie",
+    "wof:parent_id":1092051229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.70729,
+    13.6225,
+    6.70729,
+    13.6225
+],
+  "geometry": {"coordinates":[6.70729,13.6225],"type":"Point"}
+}

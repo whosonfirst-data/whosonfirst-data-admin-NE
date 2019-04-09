@@ -1,0 +1,67 @@
+{
+  "id": 1226637661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.5483,13.50346,8.5483,13.50346",
+    "geom:latitude":13.50346,
+    "geom:longitude":8.5483,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zangounan Ichirnawa",
+    "gn:country_code":"NE",
+    "gn:dem":441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6736522,
+    "gn:latitude":13.50346,
+    "gn:longitude":8.5483,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Zangounan Ichirnawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6736522
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"8629bde11654b34bcbb424ac93d8fcba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051165,
+            "locality_id":1226637661,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1226637661,
+    "wof:lastmodified":1536870019,
+    "wof:name":"Zangounan Ichirnawa",
+    "wof:parent_id":1092051165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.5483,
+    13.50346,
+    8.5483,
+    13.50346
+],
+  "geometry": {"coordinates":[8.5483,13.50346],"type":"Point"}
+}

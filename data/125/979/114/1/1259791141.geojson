@@ -1,0 +1,67 @@
+{
+  "id": 1259791141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.41963,12.85444,3.41963,12.85444",
+    "geom:latitude":12.85444,
+    "geom:longitude":3.41963,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Zimba Maroumfa",
+    "gn:country_code":"NE",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437799,
+    "gn:latitude":12.85444,
+    "gn:longitude":3.41963,
+    "gn:modification_date":"2009-02-17",
+    "gn:name":"Zimba Maroumfa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437799
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"6c5d4137bf4373923c8408477f319c7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051041,
+            "locality_id":1259791141,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1259791141,
+    "wof:lastmodified":1536912478,
+    "wof:name":"Zimba Maroumfa",
+    "wof:parent_id":1092051041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.41963,
+    12.85444,
+    3.41963,
+    12.85444
+],
+  "geometry": {"coordinates":[3.41963,12.85444],"type":"Point"}
+}

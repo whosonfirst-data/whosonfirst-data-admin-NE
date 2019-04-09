@@ -1,0 +1,65 @@
+{
+  "id": 1209304313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.9448,14.4475,3.9448,14.4475",
+    "geom:latitude":14.4475,
+    "geom:longitude":3.9448,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Rwafi",
+    "gn:country_code":"NE",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2440085,
+    "gn:latitude":14.4475,
+    "gn:longitude":3.9448,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Rwafi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rouafi",
+        "Rwafi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2440085
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"9eee855df43ea179f45230ea778102dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209304313
+        }
+    ],
+    "wof:id":1209304313,
+    "wof:lastmodified":1537674698,
+    "wof:name":"Rwafi",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.9448,
+    14.4475,
+    3.9448,
+    14.4475
+],
+  "geometry": {"coordinates":[3.9448,14.4475],"type":"Point"}
+}

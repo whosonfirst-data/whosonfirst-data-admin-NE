@@ -1,0 +1,67 @@
+{
+  "id": 1310228879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.74989,13.25924,6.74989,13.25924",
+    "geom:latitude":13.25924,
+    "geom:longitude":6.74989,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Serkin Abzin Saboa",
+    "gn:country_code":"NE",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439768,
+    "gn:latitude":13.25924,
+    "gn:longitude":6.74989,
+    "gn:modification_date":"2008-02-08",
+    "gn:name":"S\u00e8rkin Abzin Saboa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439768
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"025fdddae6b449912f1d20576d0dd545",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051229,
+            "locality_id":1310228879,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1310228879,
+    "wof:lastmodified":1536817715,
+    "wof:name":"Serkin Abzin Saboa",
+    "wof:parent_id":1092051229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.74989,
+    13.25924,
+    6.74989,
+    13.25924
+],
+  "geometry": {"coordinates":[6.74989,13.25924],"type":"Point"}
+}

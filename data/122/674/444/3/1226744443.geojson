@@ -1,0 +1,67 @@
+{
+  "id": 1226744443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.69327,13.46566,8.69327,13.46566",
+    "geom:latitude":13.46566,
+    "geom:longitude":8.69327,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Taramni Bougaje",
+    "gn:country_code":"NE",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6737258,
+    "gn:latitude":13.46566,
+    "gn:longitude":8.69327,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Taramni Bougaj\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6737258
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"60ab141e16842ed2589f763c10d3e4ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051165,
+            "locality_id":1226744443,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1226744443,
+    "wof:lastmodified":1536717741,
+    "wof:name":"Taramni Bougaje",
+    "wof:parent_id":1092051165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.69327,
+    13.46566,
+    8.69327,
+    13.46566
+],
+  "geometry": {"coordinates":[8.69327,13.46566],"type":"Point"}
+}

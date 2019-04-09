@@ -1,0 +1,71 @@
+{
+  "id": 1277068629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.11176,14.51224,8.11176,14.51224",
+    "geom:latitude":14.51224,
+    "geom:longitude":8.11176,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Foura Girke",
+    "gn:country_code":"NE",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444916,
+    "gn:latitude":14.51224,
+    "gn:longitude":8.11176,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Foura Girk\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Foura Guirk\u00e9",
+        "Foura Girk\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444916
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"5865ac6022ebeb15eb7e136a511150c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1277068629,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1277068629,
+    "wof:lastmodified":1537674806,
+    "wof:name":"Foura Girke",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.11176,
+    14.51224,
+    8.11176,
+    14.51224
+],
+  "geometry": {"coordinates":[8.11176,14.51224],"type":"Point"}
+}

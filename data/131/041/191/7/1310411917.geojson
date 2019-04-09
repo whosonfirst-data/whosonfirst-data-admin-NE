@@ -1,0 +1,67 @@
+{
+  "id": 1310411917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.39847,13.16872,7.39847,13.16872",
+    "geom:latitude":13.16872,
+    "geom:longitude":7.39847,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Zigahi",
+    "gn:country_code":"NE",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6721674,
+    "gn:latitude":13.16872,
+    "gn:longitude":7.39847,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Zigahi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6721674
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"875f9b4438b90b940e598f5513508e83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051007,
+            "locality_id":1310411917,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1310411917,
+    "wof:lastmodified":1537049882,
+    "wof:name":"Zigahi",
+    "wof:parent_id":1092051007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.39847,
+    13.16872,
+    7.39847,
+    13.16872
+],
+  "geometry": {"coordinates":[7.39847,13.16872],"type":"Point"}
+}

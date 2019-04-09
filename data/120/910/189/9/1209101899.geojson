@@ -1,0 +1,65 @@
+{
+  "id": 1209101899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.25653,14.02151,2.25653,14.02151",
+    "geom:latitude":14.02151,
+    "geom:longitude":2.25653,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kaoura",
+    "gn:country_code":"NE",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442673,
+    "gn:latitude":14.02151,
+    "gn:longitude":2.25653,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Kaoura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koara",
+        "Kaoura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442673
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"a8b987b691ccf1d3ec3b95265a0c498c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209101899
+        }
+    ],
+    "wof:id":1209101899,
+    "wof:lastmodified":1537674755,
+    "wof:name":"Kaoura",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.25653,
+    14.02151,
+    2.25653,
+    14.02151
+],
+  "geometry": {"coordinates":[2.25653,14.02151],"type":"Point"}
+}

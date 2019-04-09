@@ -1,0 +1,67 @@
+{
+  "id": 1260087667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.1711,13.242,3.1711,13.242",
+    "geom:latitude":13.242,
+    "geom:longitude":3.1711,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Barma",
+    "gn:country_code":"NE",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446987,
+    "gn:latitude":13.242,
+    "gn:longitude":3.1711,
+    "gn:modification_date":"2008-10-22",
+    "gn:name":"Barma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446987
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"24a9aba1682a5890b182a5d9eb85eb6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051041,
+            "locality_id":1260087667,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1260087667,
+    "wof:lastmodified":1536981232,
+    "wof:name":"Barma",
+    "wof:parent_id":1092051041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.1711,
+    13.242,
+    3.1711,
+    13.242
+],
+  "geometry": {"coordinates":[3.1711,13.242],"type":"Point"}
+}

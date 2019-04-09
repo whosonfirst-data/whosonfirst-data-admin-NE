@@ -1,0 +1,67 @@
+{
+  "id": 1327134703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.32201,14.35846,7.32201,14.35846",
+    "geom:latitude":14.35846,
+    "geom:longitude":7.32201,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dan Malam",
+    "gn:country_code":"NE",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445990,
+    "gn:latitude":14.35846,
+    "gn:longitude":7.32201,
+    "gn:modification_date":"2008-08-21",
+    "gn:name":"Dan Malam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445990
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"8aa3a3aea0dc68372b4df95584743bbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051435,
+            "locality_id":1327134703,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1327134703,
+    "wof:lastmodified":1536610163,
+    "wof:name":"Dan Malam",
+    "wof:parent_id":1092051435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.32201,
+    14.35846,
+    7.32201,
+    14.35846
+],
+  "geometry": {"coordinates":[7.32201,14.35846],"type":"Point"}
+}

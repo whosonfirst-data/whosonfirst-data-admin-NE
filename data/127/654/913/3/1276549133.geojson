@@ -1,0 +1,71 @@
+{
+  "id": 1276549133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.27861,12.78082,3.27861,12.78082",
+    "geom:latitude":12.78082,
+    "geom:longitude":3.27861,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Moro Dey",
+    "gn:country_code":"NE",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6968094,
+    "gn:latitude":12.78082,
+    "gn:longitude":3.27861,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Moro Dey",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Moro-D\u00e8ye",
+        "Moro Dey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6968094
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"6d3ff4a861f398e918b1a049aa0a317c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051041,
+            "locality_id":1276549133,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1276549133,
+    "wof:lastmodified":1537674890,
+    "wof:name":"Moro Dey",
+    "wof:parent_id":1092051041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.27861,
+    12.78082,
+    3.27861,
+    12.78082
+],
+  "geometry": {"coordinates":[3.27861,12.78082],"type":"Point"}
+}

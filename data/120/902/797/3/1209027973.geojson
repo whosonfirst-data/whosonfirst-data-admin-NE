@@ -1,0 +1,65 @@
+{
+  "id": 1209027973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.4728,14.4336,8.4728,14.4336",
+    "geom:latitude":14.4336,
+    "geom:longitude":8.4728,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Rijya Mato",
+    "gn:country_code":"NE",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2440141,
+    "gn:latitude":14.4336,
+    "gn:longitude":8.4728,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Rijya Mato",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rijia Mato",
+        "Rijya Mato"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2440141
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"971ece792bd96fdf2e6bcb6975bacae6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209027973
+        }
+    ],
+    "wof:id":1209027973,
+    "wof:lastmodified":1537674699,
+    "wof:name":"Rijya Mato",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4728,
+    14.4336,
+    8.4728,
+    14.4336
+],
+  "geometry": {"coordinates":[8.4728,14.4336],"type":"Point"}
+}

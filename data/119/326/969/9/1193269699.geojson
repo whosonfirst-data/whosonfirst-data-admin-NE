@@ -1,0 +1,72 @@
+{
+  "id": 1193269699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.99069,12.8347,8.99069,12.8347",
+    "geom:latitude":12.8347,
+    "geom:longitude":8.99069,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Angoual Dachi",
+    "gn:country_code":"NE",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447708,
+    "gn:latitude":12.8347,
+    "gn:longitude":8.99069,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Angoual Dachi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Angoal Dachi",
+        "Ungua Dashi",
+        "Angoual Dachi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675429,
+        1108563103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447708
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"a3a7191c06b0f396ae619cdbdd8ce73c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563103,
+            "locality_id":1193269699,
+            "region_id":85675429
+        }
+    ],
+    "wof:id":1193269699,
+    "wof:lastmodified":1537674868,
+    "wof:name":"Angoual Dachi",
+    "wof:parent_id":1108563103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.99069,
+    12.8347,
+    8.99069,
+    12.8347
+],
+  "geometry": {"coordinates":[8.99069,12.8347],"type":"Point"}
+}

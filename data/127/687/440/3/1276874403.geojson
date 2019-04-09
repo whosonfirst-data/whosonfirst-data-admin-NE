@@ -1,0 +1,71 @@
+{
+  "id": 1276874403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.48569,12.84583,3.48569,12.84583",
+    "geom:latitude":12.84583,
+    "geom:longitude":3.48569,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ima Dey",
+    "gn:country_code":"NE",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2443290,
+    "gn:latitude":12.84583,
+    "gn:longitude":3.48569,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ima Dey",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ima-D\u00e8ye",
+        "Ima Dey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2443290
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"89ce4db58f2f0af5645a6a048db2a1b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051041,
+            "locality_id":1276874403,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1276874403,
+    "wof:lastmodified":1537674764,
+    "wof:name":"Ima Dey",
+    "wof:parent_id":1092051041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.48569,
+    12.84583,
+    3.48569,
+    12.84583
+],
+  "geometry": {"coordinates":[3.48569,12.84583],"type":"Point"}
+}

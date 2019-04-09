@@ -1,0 +1,71 @@
+{
+  "id": 1293680805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.76296,14.34018,8.76296,14.34018",
+    "geom:latitude":14.34018,
+    "geom:longitude":8.76296,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Rege Gaya",
+    "gn:country_code":"NE",
+    "gn:dem":471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2440159,
+    "gn:latitude":14.34018,
+    "gn:longitude":8.76296,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"R\u00e9g\u00e9 Gaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "R\u00e9gu\u00e9 Gaya",
+        "R\u00e9g\u00e9 Gaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2440159
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"a9cf3906ee230d93060f04038f84b152",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1293680805,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1293680805,
+    "wof:lastmodified":1537674700,
+    "wof:name":"Rege Gaya",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.76296,
+    14.34018,
+    8.76296,
+    14.34018
+],
+  "geometry": {"coordinates":[8.76296,14.34018],"type":"Point"}
+}

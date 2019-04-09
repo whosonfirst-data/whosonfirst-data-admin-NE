@@ -1,0 +1,78 @@
+{
+  "id": 1327445425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.64444,17.4175,6.64444,17.4175",
+    "geom:latitude":17.4175,
+    "geom:longitude":6.64444,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Teguidda I-n-Tessoum",
+    "gn:country_code":"NE",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438914,
+    "gn:latitude":17.4175,
+    "gn:longitude":6.64444,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Teguidda I-n-Tessoum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tedjidda-n-Tesemt",
+        "Teguidda-n-Tessoum",
+        "Teguidda i-n-Tessoum",
+        "Tegiddan Tesemt",
+        "Teguidda-n-Tisemt",
+        "Teguiddan Tessoum",
+        "Teguidda-n-Tessoumt",
+        "Teguidda I-n-Tessoum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675273,
+        421182277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438914,
+        "wk:page":"Tegguiada_In_Tessoum"
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"957ef6327a409f3857f5f526fa8a348b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182277,
+            "locality_id":1327445425,
+            "region_id":85675273
+        }
+    ],
+    "wof:id":1327445425,
+    "wof:lastmodified":1537674674,
+    "wof:name":"Teguidda I-n-Tessoum",
+    "wof:parent_id":421182277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.64444,
+    17.4175,
+    6.64444,
+    17.4175
+],
+  "geometry": {"coordinates":[6.64444,17.4175],"type":"Point"}
+}

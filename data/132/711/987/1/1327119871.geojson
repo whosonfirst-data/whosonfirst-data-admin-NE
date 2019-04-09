@@ -1,0 +1,74 @@
+{
+  "id": 1327119871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.16667,13.68333,2.16667,13.68333",
+    "geom:latitude":13.68333,
+    "geom:longitude":2.16667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Bourouboure Kabe Keyna",
+    "gn:cc2":"NE",
+    "gn:country_code":"NE",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446481,
+    "gn:latitude":13.68333,
+    "gn:longitude":2.16667,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Bouroubour\u00e9 Kab\u00e9 Keyna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bouroubour\u00e9-Kab\u00e9-Ka\u00efna",
+        "Bouroubouroulkab\u00e9",
+        "Bouroukab\u00e9 Keyna",
+        "Bouroubour\u00e9 Kab\u00e9 Keyna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446481
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"e2d2a847f6e7969d96259c68bc4f8387",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1327119871,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1327119871,
+    "wof:lastmodified":1537674842,
+    "wof:name":"Bourouboure Kabe Keyna",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.16667,
+    13.68333,
+    2.16667,
+    13.68333
+],
+  "geometry": {"coordinates":[2.16667,13.68333],"type":"Point"}
+}

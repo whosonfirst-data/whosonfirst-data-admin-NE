@@ -1,0 +1,67 @@
+{
+  "id": 1327158301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.16718,13.98337,7.16718,13.98337",
+    "geom:latitude":13.98337,
+    "geom:longitude":7.16718,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ido Gaetchi",
+    "gn:country_code":"NE",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6705037,
+    "gn:latitude":13.98337,
+    "gn:longitude":7.16718,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Ido Ga\u00e9tchi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6705037
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"0ea24630f17aaa7ca21fa84ab9654541",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1327158301,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1327158301,
+    "wof:lastmodified":1537073525,
+    "wof:name":"Ido Gaetchi",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.16718,
+    13.98337,
+    7.16718,
+    13.98337
+],
+  "geometry": {"coordinates":[7.16718,13.98337],"type":"Point"}
+}

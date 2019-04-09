@@ -1,0 +1,67 @@
+{
+  "id": 1310402643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.23556,13.43444,2.23556,13.43444",
+    "geom:latitude":13.43444,
+    "geom:longitude":2.23556,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Sorey",
+    "gn:country_code":"NE",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439618,
+    "gn:latitude":13.43444,
+    "gn:longitude":2.23556,
+    "gn:modification_date":"1995-11-22",
+    "gn:name":"Sorey",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439618
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"0ff4d4136bd4c8e26709ef467e1a2925",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1310402643,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1310402643,
+    "wof:lastmodified":1537062629,
+    "wof:name":"Sorey",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.23556,
+    13.43444,
+    2.23556,
+    13.43444
+],
+  "geometry": {"coordinates":[2.23556,13.43444],"type":"Point"}
+}

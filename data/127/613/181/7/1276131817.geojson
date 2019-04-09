@@ -1,0 +1,67 @@
+{
+  "id": 1276131817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.24957,14.37904,13.24957,14.37904",
+    "geom:latitude":14.37904,
+    "geom:longitude":13.24957,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mandara",
+    "gn:country_code":"NE",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441335,
+    "gn:latitude":14.37904,
+    "gn:longitude":13.24957,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Mandara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441335
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"dfc5c043ceaefff778b1e927c9362261",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051781,
+            "locality_id":1276131817,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1276131817,
+    "wof:lastmodified":1537046638,
+    "wof:name":"Mandara",
+    "wof:parent_id":1092051781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.24957,
+    14.37904,
+    13.24957,
+    14.37904
+],
+  "geometry": {"coordinates":[13.24957,14.37904],"type":"Point"}
+}

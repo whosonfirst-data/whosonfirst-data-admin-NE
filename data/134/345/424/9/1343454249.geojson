@@ -1,0 +1,67 @@
+{
+  "id": 1343454249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.14806,13.48333,2.14806,13.48333",
+    "geom:latitude":13.48333,
+    "geom:longitude":2.14806,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Saga Kourtey",
+    "gn:country_code":"NE",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2569009,
+    "gn:latitude":13.48333,
+    "gn:longitude":2.14806,
+    "gn:modification_date":"1995-11-22",
+    "gn:name":"Saga Kourtey",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675291,
+        421204117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2569009
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"44e81eefaaa0a5b54c6c4834cdfc0983",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421204117,
+            "locality_id":1343454249,
+            "region_id":85675291
+        }
+    ],
+    "wof:id":1343454249,
+    "wof:lastmodified":1536755226,
+    "wof:name":"Saga Kourtey",
+    "wof:parent_id":421204117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.14806,
+    13.48333,
+    2.14806,
+    13.48333
+],
+  "geometry": {"coordinates":[2.14806,13.48333],"type":"Point"}
+}

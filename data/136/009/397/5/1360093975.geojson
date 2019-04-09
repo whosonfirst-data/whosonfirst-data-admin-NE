@@ -1,0 +1,67 @@
+{
+  "id": 1360093975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.3994,13.6981,11.3994,13.6981",
+    "geom:latitude":13.6981,
+    "geom:longitude":11.3994,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Koseiri",
+    "gn:country_code":"NE",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6819701,
+    "gn:latitude":13.6981,
+    "gn:longitude":11.3994,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Kos\u00e9iri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6819701
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"ff40330fc94febd3f7a463f2615078e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051363,
+            "locality_id":1360093975,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1360093975,
+    "wof:lastmodified":1536933512,
+    "wof:name":"Koseiri",
+    "wof:parent_id":1092051363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.3994,
+    13.6981,
+    11.3994,
+    13.6981
+],
+  "geometry": {"coordinates":[11.3994,13.6981],"type":"Point"}
+}

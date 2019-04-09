@@ -1,0 +1,67 @@
+{
+  "id": 1327237421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.69169,14.19634,7.69169,14.19634",
+    "geom:latitude":14.19634,
+    "geom:longitude":7.69169,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tagaza",
+    "gn:country_code":"NE",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439417,
+    "gn:latitude":14.19634,
+    "gn:longitude":7.69169,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Tagaza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439417
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"7f9672470acf63b61a425ffcc53b449e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051435,
+            "locality_id":1327237421,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1327237421,
+    "wof:lastmodified":1536962141,
+    "wof:name":"Tagaza",
+    "wof:parent_id":1092051435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.69169,
+    14.19634,
+    7.69169,
+    14.19634
+],
+  "geometry": {"coordinates":[7.69169,14.19634],"type":"Point"}
+}

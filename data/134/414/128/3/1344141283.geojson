@@ -1,0 +1,71 @@
+{
+  "id": 1344141283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.03033,13.96468,2.03033,13.96468",
+    "geom:latitude":13.96468,
+    "geom:longitude":2.03033,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tondi Mekirey",
+    "gn:country_code":"NE",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438434,
+    "gn:latitude":13.96468,
+    "gn:longitude":2.03033,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tondi M\u00e8kirey",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tondimerkireye",
+        "Tondi M\u00e8kirey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438434
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"52d4865aac1b1c7b2275e4d7ced18cb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051633,
+            "locality_id":1344141283,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1344141283,
+    "wof:lastmodified":1537674666,
+    "wof:name":"Tondi Mekirey",
+    "wof:parent_id":1092051633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.03033,
+    13.96468,
+    2.03033,
+    13.96468
+],
+  "geometry": {"coordinates":[2.03033,13.96468],"type":"Point"}
+}

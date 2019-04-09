@@ -1,0 +1,71 @@
+{
+  "id": 1327135261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.41238,13.60743,7.41238,13.60743",
+    "geom:latitude":13.60743,
+    "geom:longitude":7.41238,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sae Sofoua",
+    "gn:country_code":"NE",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2440023,
+    "gn:latitude":13.60743,
+    "gn:longitude":7.41238,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sa\u00e9 Sofoua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sa\u00e9 Sofoa",
+        "Sa\u00e9 Sofoua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2440023
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"f4ba2399dadcdc6826377550b6772543",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051229,
+            "locality_id":1327135261,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1327135261,
+    "wof:lastmodified":1537674696,
+    "wof:name":"Sae Sofoua",
+    "wof:parent_id":1092051229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.41238,
+    13.60743,
+    7.41238,
+    13.60743
+],
+  "geometry": {"coordinates":[7.41238,13.60743],"type":"Point"}
+}

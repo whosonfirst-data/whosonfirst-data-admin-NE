@@ -1,0 +1,61 @@
+{
+  "id": 1209107087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.16677,13.67749,7.16677,13.67749",
+    "geom:latitude":13.67749,
+    "geom:longitude":7.16677,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Guidan Zagui",
+    "gn:country_code":"NE",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6713438,
+    "gn:latitude":13.67749,
+    "gn:longitude":7.16677,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Guidan Zagui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6713438
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"1360e201b643b95e11f8a1405455f184",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209107087
+        }
+    ],
+    "wof:id":1209107087,
+    "wof:lastmodified":1536297533,
+    "wof:name":"Guidan Zagui",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.16677,
+    13.67749,
+    7.16677,
+    13.67749
+],
+  "geometry": {"coordinates":[7.16677,13.67749],"type":"Point"}
+}

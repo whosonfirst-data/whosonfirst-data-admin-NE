@@ -1,0 +1,67 @@
+{
+  "id": 1242674635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.55638,13.31831,8.55638,13.31831",
+    "geom:latitude":13.31831,
+    "geom:longitude":8.55638,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dare",
+    "gn:country_code":"NE",
+    "gn:dem":455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6745083,
+    "gn:latitude":13.31831,
+    "gn:longitude":8.55638,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Dar\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6745083
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"aafa2d9d68e3a4b2db4b1c3cd5d9b608",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051165,
+            "locality_id":1242674635,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1242674635,
+    "wof:lastmodified":1536924759,
+    "wof:name":"Dare",
+    "wof:parent_id":1092051165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.55638,
+    13.31831,
+    8.55638,
+    13.31831
+],
+  "geometry": {"coordinates":[8.55638,13.31831],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343954785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.2829,13.097,2.2829,13.097",
+    "geom:latitude":13.097,
+    "geom:longitude":2.2829,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Feto Banoy",
+    "gn:country_code":"NE",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445015,
+    "gn:latitude":13.097,
+    "gn:longitude":2.2829,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"F\u00e9to Banoy",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fetobano\u00ef",
+        "F\u00e9tobanoye",
+        "Fatabanoye",
+        "F\u00e9to Banoy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445015
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"52d8355b00bdf34bcba0344c9670f7d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051103,
+            "locality_id":1343954785,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1343954785,
+    "wof:lastmodified":1537674809,
+    "wof:name":"Feto Banoy",
+    "wof:parent_id":1092051103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.2829,
+    13.097,
+    2.2829,
+    13.097
+],
+  "geometry": {"coordinates":[2.2829,13.097],"type":"Point"}
+}

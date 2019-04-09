@@ -1,0 +1,78 @@
+{
+  "id": 1210025909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.89764,19.36464,12.89764,19.36464",
+    "geom:latitude":19.36464,
+    "geom:longitude":12.89764,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Aney",
+    "gn:country_code":"NE",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447744,
+    "gn:latitude":19.36464,
+    "gn:longitude":12.89764,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Aney",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Aney"
+    ],
+    "name:fra_x_variant":[
+        "Anaye",
+        "Anay"
+    ],
+    "name:und_x_variant":[
+        "Anaye",
+        "Anay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675273,
+        1092051881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447744
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"a93ad410fda62b09e7770789cfd66c73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051881,
+            "locality_id":1210025909,
+            "region_id":85675273
+        }
+    ],
+    "wof:id":1210025909,
+    "wof:lastmodified":1537674868,
+    "wof:name":"Aney",
+    "wof:parent_id":1092051881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.89764,
+    19.36464,
+    12.89764,
+    19.36464
+],
+  "geometry": {"coordinates":[12.89764,19.36464],"type":"Point"}
+}

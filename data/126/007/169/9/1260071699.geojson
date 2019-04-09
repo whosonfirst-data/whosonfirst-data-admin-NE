@@ -1,0 +1,67 @@
+{
+  "id": 1260071699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.83485,13.85649,8.83485,13.85649",
+    "geom:latitude":13.85649,
+    "geom:longitude":8.83485,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dakouma Bitiriri",
+    "gn:country_code":"NE",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6734714,
+    "gn:latitude":13.85649,
+    "gn:longitude":8.83485,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Dakouma Bitiriri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6734714
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"d7efc0adcf7154c72eeb23c14db56f97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051411,
+            "locality_id":1260071699,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1260071699,
+    "wof:lastmodified":1537004290,
+    "wof:name":"Dakouma Bitiriri",
+    "wof:parent_id":1092051411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.83485,
+    13.85649,
+    8.83485,
+    13.85649
+],
+  "geometry": {"coordinates":[8.83485,13.85649],"type":"Point"}
+}

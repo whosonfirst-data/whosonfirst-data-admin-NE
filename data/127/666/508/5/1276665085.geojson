@@ -1,0 +1,71 @@
+{
+  "id": 1276665085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.46525,12.25044,3.46525,12.25044",
+    "geom:latitude":12.25044,
+    "geom:longitude":3.46525,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Berba",
+    "gn:country_code":"NE",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447020,
+    "gn:latitude":12.25044,
+    "gn:longitude":3.46525,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Berba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Barba",
+        "Berba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092050969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447020
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"179fd5c57c93e797ee92ae5ffb534c48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092050969,
+            "locality_id":1276665085,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1276665085,
+    "wof:lastmodified":1537674854,
+    "wof:name":"Berba",
+    "wof:parent_id":1092050969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.46525,
+    12.25044,
+    3.46525,
+    12.25044
+],
+  "geometry": {"coordinates":[3.46525,12.25044],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243444163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.3187,15.0353,3.3187,15.0353",
+    "geom:latitude":15.0353,
+    "geom:longitude":3.3187,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Gerin Djinba",
+    "gn:country_code":"NE",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444154,
+    "gn:latitude":15.0353,
+    "gn:longitude":3.3187,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"G\u00e9rin Djinba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gu\u00e9rin Djinba",
+        "G\u00e9rin Djinba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444154
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"769bb84debc80ab08f9e1256f616ac26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051695,
+            "locality_id":1243444163,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1243444163,
+    "wof:lastmodified":1537674789,
+    "wof:name":"Gerin Djinba",
+    "wof:parent_id":1092051695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.3187,
+    15.0353,
+    3.3187,
+    15.0353
+],
+  "geometry": {"coordinates":[3.3187,15.0353],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243466069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.2421,13.57,3.2421,13.57",
+    "geom:latitude":13.57,
+    "geom:longitude":3.2421,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Loulou-Koara",
+    "gn:country_code":"NE",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441559,
+    "gn:latitude":13.57,
+    "gn:longitude":3.2421,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Loulou-Koara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Loulou Kwara",
+        "Loulou-Koara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441559
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"bb18a6761cd0de645883750a8cc2e4cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051273,
+            "locality_id":1243466069,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1243466069,
+    "wof:lastmodified":1537674725,
+    "wof:name":"Loulou-Koara",
+    "wof:parent_id":1092051273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.2421,
+    13.57,
+    3.2421,
+    13.57
+],
+  "geometry": {"coordinates":[3.2421,13.57],"type":"Point"}
+}

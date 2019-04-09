@@ -1,0 +1,71 @@
+{
+  "id": 1260077891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.82288,13.87457,5.82288,13.87457",
+    "geom:latitude":13.87457,
+    "geom:longitude":5.82288,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Zoukout",
+    "gn:country_code":"NE",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437762,
+    "gn:latitude":13.87457,
+    "gn:longitude":5.82288,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zoukout",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zoukoui",
+        "Zoukout"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437762
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"18dfa8a41f5ec3c7eb32cfd5330922ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051329,
+            "locality_id":1260077891,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1260077891,
+    "wof:lastmodified":1537674648,
+    "wof:name":"Zoukout",
+    "wof:parent_id":1092051329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.82288,
+    13.87457,
+    5.82288,
+    13.87457
+],
+  "geometry": {"coordinates":[5.82288,13.87457],"type":"Point"}
+}

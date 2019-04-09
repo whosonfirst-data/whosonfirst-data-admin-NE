@@ -1,0 +1,71 @@
+{
+  "id": 1343545549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.08239,14.55213,1.08239,14.55213",
+    "geom:latitude":14.55213,
+    "geom:longitude":1.08239,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Famale",
+    "gn:country_code":"NE",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445142,
+    "gn:latitude":14.55213,
+    "gn:longitude":1.08239,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Famal\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fam\u00e9l\u00e9",
+        "Famal\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        890429081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445142
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"275ef647a4798b9151518dcad5904ae1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":890429081,
+            "locality_id":1343545549,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1343545549,
+    "wof:lastmodified":1537674812,
+    "wof:name":"Famale",
+    "wof:parent_id":890429081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.08239,
+    14.55213,
+    1.08239,
+    14.55213
+],
+  "geometry": {"coordinates":[1.08239,14.55213],"type":"Point"}
+}

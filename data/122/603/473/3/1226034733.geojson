@@ -1,0 +1,72 @@
+{
+  "id": 1226034733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.10629,14.5259,1.10629,14.5259",
+    "geom:latitude":14.5259,
+    "geom:longitude":1.10629,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Dessa",
+    "gn:country_code":"NE",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445771,
+    "gn:latitude":14.5259,
+    "gn:longitude":1.10629,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"D\u00e9ssa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Desa",
+        "D\u00e9ssa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        890429081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445771,
+        "wk:page":"Dessa%2C_Niger"
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"8891955ea9178d118dc04341dd3a131f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":890429081,
+            "locality_id":1226034733,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1226034733,
+    "wof:lastmodified":1537674827,
+    "wof:name":"Dessa",
+    "wof:parent_id":890429081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.10629,
+    14.5259,
+    1.10629,
+    14.5259
+],
+  "geometry": {"coordinates":[1.10629,14.5259],"type":"Point"}
+}

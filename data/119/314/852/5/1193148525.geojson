@@ -1,0 +1,67 @@
+{
+  "id": 1193148525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.46,12.84,3.46,12.84",
+    "geom:latitude":12.84,
+    "geom:longitude":3.46,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kobodey Tessa",
+    "gn:country_code":"NE",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11239147,
+    "gn:latitude":12.84,
+    "gn:longitude":3.46,
+    "gn:modification_date":"2016-09-05",
+    "gn:name":"Kobodey Tessa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11239147
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"2852bc102055190aa90bbe7d4ec13ae2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051041,
+            "locality_id":1193148525,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1193148525,
+    "wof:lastmodified":1536380803,
+    "wof:name":"Kobodey Tessa",
+    "wof:parent_id":1092051041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.46,
+    12.84,
+    3.46,
+    12.84
+],
+  "geometry": {"coordinates":[3.46,12.84],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209298935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.20785,12.93297,2.20785,12.93297",
+    "geom:latitude":12.93297,
+    "geom:longitude":2.20785,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Dounguel",
+    "gn:country_code":"NE",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445427,
+    "gn:latitude":12.93297,
+    "gn:longitude":2.20785,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Dounguel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Doungel",
+        "Dounguel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445427
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"1cd18da7cf393e259b1871947130ccd3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209298935
+        }
+    ],
+    "wof:id":1209298935,
+    "wof:lastmodified":1537674817,
+    "wof:name":"Dounguel",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.20785,
+    12.93297,
+    2.20785,
+    12.93297
+],
+  "geometry": {"coordinates":[2.20785,12.93297],"type":"Point"}
+}

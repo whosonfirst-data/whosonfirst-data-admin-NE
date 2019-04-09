@@ -1,0 +1,61 @@
+{
+  "id": 1209107069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.30492,14.18732,8.30492,14.18732",
+    "geom:latitude":14.18732,
+    "geom:longitude":8.30492,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Maysountchya",
+    "gn:country_code":"NE",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441025,
+    "gn:latitude":14.18732,
+    "gn:longitude":8.30492,
+    "gn:modification_date":"2008-08-26",
+    "gn:name":"Maysountchya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441025
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"039db321cd5721936d8ca62dacb804a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209107069
+        }
+    ],
+    "wof:id":1209107069,
+    "wof:lastmodified":1536297533,
+    "wof:name":"Maysountchya",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.30492,
+    14.18732,
+    8.30492,
+    14.18732
+],
+  "geometry": {"coordinates":[8.30492,14.18732],"type":"Point"}
+}

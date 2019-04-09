@@ -1,0 +1,72 @@
+{
+  "id": 1276879183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.09485,13.67969,7.09485,13.67969",
+    "geom:latitude":13.67969,
+    "geom:longitude":7.09485,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Guidan Ara",
+    "gn:country_code":"NE",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444045,
+    "gn:latitude":13.67969,
+    "gn:longitude":7.09485,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Guidan Ara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gidan Ara Gigal\u00e9",
+        "Guidan Ara Guigal\u00e9",
+        "Guidan Ara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444045
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"de644ec5a001b3548337731a63d67882",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051229,
+            "locality_id":1276879183,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1276879183,
+    "wof:lastmodified":1537674786,
+    "wof:name":"Guidan Ara",
+    "wof:parent_id":1092051229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.09485,
+    13.67969,
+    7.09485,
+    13.67969
+],
+  "geometry": {"coordinates":[7.09485,13.67969],"type":"Point"}
+}

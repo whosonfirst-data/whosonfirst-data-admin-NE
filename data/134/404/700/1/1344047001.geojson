@@ -1,0 +1,72 @@
+{
+  "id": 1344047001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.53117,14.76829,0.53117,14.76829",
+    "geom:latitude":14.76829,
+    "geom:longitude":0.53117,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Oueze Bangou",
+    "gn:country_code":"NE",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446619,
+    "gn:latitude":14.76829,
+    "gn:longitude":0.53117,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ou\u00e9z\u00e9 Bangou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouoss\u00e9bangou",
+        "Boss\u00e9 Bangou",
+        "Ou\u00e9z\u00e9 Bangou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446619
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"5cf24abcea0ffd275c41d65100449887",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051545,
+            "locality_id":1344047001,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1344047001,
+    "wof:lastmodified":1537674846,
+    "wof:name":"Oueze Bangou",
+    "wof:parent_id":1092051545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.53117,
+    14.76829,
+    0.53117,
+    14.76829
+],
+  "geometry": {"coordinates":[0.53117,14.76829],"type":"Point"}
+}

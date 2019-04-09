@@ -1,0 +1,67 @@
+{
+  "id": 1310703819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.091,13.21323,4.091,13.21323",
+    "geom:latitude":13.21323,
+    "geom:longitude":4.091,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tapkin Kaoura",
+    "gn:country_code":"NE",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7007339,
+    "gn:latitude":13.21323,
+    "gn:longitude":4.091,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Tapkin Kaoura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7007339
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"0ea00d9643de813c5d05a732537d2729",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051467,
+            "locality_id":1310703819,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1310703819,
+    "wof:lastmodified":1536629062,
+    "wof:name":"Tapkin Kaoura",
+    "wof:parent_id":1092051467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.091,
+    13.21323,
+    4.091,
+    13.21323
+],
+  "geometry": {"coordinates":[4.091,13.21323],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343361007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.8358,14.066,3.8358,14.066",
+    "geom:latitude":14.066,
+    "geom:longitude":3.8358,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kwase",
+    "gn:country_code":"NE",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441774,
+    "gn:latitude":14.066,
+    "gn:longitude":3.8358,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kwas\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kwass\u00e9",
+        "Kwas\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441774
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"8004d9cd1e76eaa6bb1cb92e9909004a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051467,
+            "locality_id":1343361007,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1343361007,
+    "wof:lastmodified":1537674731,
+    "wof:name":"Kwase",
+    "wof:parent_id":1092051467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.8358,
+    14.066,
+    3.8358,
+    14.066
+],
+  "geometry": {"coordinates":[3.8358,14.066],"type":"Point"}
+}

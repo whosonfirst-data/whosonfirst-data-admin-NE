@@ -1,0 +1,72 @@
+{
+  "id": 1260375153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.4615,13.5433,2.4615,13.5433",
+    "geom:latitude":13.5433,
+    "geom:longitude":2.4615,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Falinke Beri",
+    "gn:country_code":"NE",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445151,
+    "gn:latitude":13.5433,
+    "gn:longitude":2.4615,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Falink\u00e9 B\u00e9ri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Falink\u00e9",
+        "Foulank\u00e9",
+        "Falink\u00e9 B\u00e9ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445151
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"a46d4086410a883f71790ffc0741a4e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1260375153,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1260375153,
+    "wof:lastmodified":1537674812,
+    "wof:name":"Falinke Beri",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.4615,
+    13.5433,
+    2.4615,
+    13.5433
+],
+  "geometry": {"coordinates":[2.4615,13.5433],"type":"Point"}
+}

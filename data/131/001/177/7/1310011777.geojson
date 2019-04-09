@@ -1,0 +1,67 @@
+{
+  "id": 1310011777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.03715,14.01983,7.03715,14.01983",
+    "geom:latitude":14.01983,
+    "geom:longitude":7.03715,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Louga-Arou",
+    "gn:country_code":"NE",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441583,
+    "gn:latitude":14.01983,
+    "gn:longitude":7.03715,
+    "gn:modification_date":"2008-08-21",
+    "gn:name":"Louga-Arou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441583
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"5bdda3dea1bcbb2c7b3b868d3af2a539",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1310011777,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1310011777,
+    "wof:lastmodified":1536632792,
+    "wof:name":"Louga-Arou",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.03715,
+    14.01983,
+    7.03715,
+    14.01983
+],
+  "geometry": {"coordinates":[7.03715,14.01983],"type":"Point"}
+}

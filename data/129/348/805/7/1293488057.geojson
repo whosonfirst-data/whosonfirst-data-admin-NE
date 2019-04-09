@@ -1,0 +1,71 @@
+{
+  "id": 1293488057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.70674,13.38291,7.70674,13.38291",
+    "geom:latitude":13.38291,
+    "geom:longitude":7.70674,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Samia Bakoy",
+    "gn:country_code":"NE",
+    "gn:dem":464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439915,
+    "gn:latitude":13.38291,
+    "gn:longitude":7.70674,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Samia Bakoy",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sami Bokoy",
+        "Samia Bakoy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439915
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"7518f4758305ace376ac70b05e3b8dbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051197,
+            "locality_id":1293488057,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1293488057,
+    "wof:lastmodified":1537674693,
+    "wof:name":"Samia Bakoy",
+    "wof:parent_id":1092051197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.70674,
+    13.38291,
+    7.70674,
+    13.38291
+],
+  "geometry": {"coordinates":[7.70674,13.38291],"type":"Point"}
+}

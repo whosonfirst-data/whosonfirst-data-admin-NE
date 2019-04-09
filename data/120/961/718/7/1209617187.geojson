@@ -1,0 +1,61 @@
+{
+  "id": 1209617187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.29326,13.59995,4.29326,13.59995",
+    "geom:latitude":13.59995,
+    "geom:longitude":4.29326,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Gauro",
+    "gn:country_code":"NE",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7007130,
+    "gn:latitude":13.59995,
+    "gn:longitude":4.29326,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Gauro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7007130
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"e236fc15b06f74c590696e65dcb9e144",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209617187
+        }
+    ],
+    "wof:id":1209617187,
+    "wof:lastmodified":1536281648,
+    "wof:name":"Gauro",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.29326,
+    13.59995,
+    4.29326,
+    13.59995
+],
+  "geometry": {"coordinates":[4.29326,13.59995],"type":"Point"}
+}

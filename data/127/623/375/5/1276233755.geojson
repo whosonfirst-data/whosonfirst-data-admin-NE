@@ -1,0 +1,67 @@
+{
+  "id": 1276233755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.6242,14.27307,7.6242,14.27307",
+    "geom:latitude":14.27307,
+    "geom:longitude":7.6242,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Lahe",
+    "gn:country_code":"NE",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441723,
+    "gn:latitude":14.27307,
+    "gn:longitude":7.6242,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Lah\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441723
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"f60b208c114da07a7b15d8bf7304ebe5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051435,
+            "locality_id":1276233755,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1276233755,
+    "wof:lastmodified":1536912485,
+    "wof:name":"Lahe",
+    "wof:parent_id":1092051435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.6242,
+    14.27307,
+    7.6242,
+    14.27307
+],
+  "geometry": {"coordinates":[7.6242,14.27307],"type":"Point"}
+}

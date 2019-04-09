@@ -1,0 +1,67 @@
+{
+  "id": 1309712767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.6,13.61568,7.6,13.61568",
+    "geom:latitude":13.61568,
+    "geom:longitude":7.6,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mouri Dan Ladi",
+    "gn:country_code":"NE",
+    "gn:dem":425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2440844,
+    "gn:latitude":13.61568,
+    "gn:longitude":7.6,
+    "gn:modification_date":"2008-02-27",
+    "gn:name":"Mouri Dan L\u00e2di",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2440844
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"a0f6def923c2b1103a8a27fa7e65326d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051197,
+            "locality_id":1309712767,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1309712767,
+    "wof:lastmodified":1537062461,
+    "wof:name":"Mouri Dan Ladi",
+    "wof:parent_id":1092051197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.6,
+    13.61568,
+    7.6,
+    13.61568
+],
+  "geometry": {"coordinates":[7.6,13.61568],"type":"Point"}
+}

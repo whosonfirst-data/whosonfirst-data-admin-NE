@@ -1,0 +1,67 @@
+{
+  "id": 1327233507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.9473,13.7651,3.9473,13.7651",
+    "geom:latitude":13.7651,
+    "geom:longitude":3.9473,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Garanga",
+    "gn:country_code":"NE",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444723,
+    "gn:latitude":13.7651,
+    "gn:longitude":3.9473,
+    "gn:modification_date":"2008-10-22",
+    "gn:name":"Garanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444723
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"8e61d3ed27bfb141e0eec2680e75160b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051467,
+            "locality_id":1327233507,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1327233507,
+    "wof:lastmodified":1536967677,
+    "wof:name":"Garanga",
+    "wof:parent_id":1092051467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.9473,
+    13.7651,
+    3.9473,
+    13.7651
+],
+  "geometry": {"coordinates":[3.9473,13.7651],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276532801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.86038,14.58834,1.86038,14.58834",
+    "geom:latitude":14.58834,
+    "geom:longitude":1.86038,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Dogo Koira",
+    "gn:country_code":"NE",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445564,
+    "gn:latitude":14.58834,
+    "gn:longitude":1.86038,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Dogo Koira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dogo Koyra",
+        "Dogo Koira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445564
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"accd4f2890d1f65c6a3c5a37f40537c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051633,
+            "locality_id":1276532801,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1276532801,
+    "wof:lastmodified":1537674820,
+    "wof:name":"Dogo Koira",
+    "wof:parent_id":1092051633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.86038,
+    14.58834,
+    1.86038,
+    14.58834
+],
+  "geometry": {"coordinates":[1.86038,14.58834],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309809497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.13303,13.71635,7.13303,13.71635",
+    "geom:latitude":13.71635,
+    "geom:longitude":7.13303,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Garin Dan Bay",
+    "gn:country_code":"NE",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6713357,
+    "gn:latitude":13.71635,
+    "gn:longitude":7.13303,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Garin Dan Bay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6713357
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"1918c4d20f47835552d9bd5870fdbbbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051229,
+            "locality_id":1309809497,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1309809497,
+    "wof:lastmodified":1536926365,
+    "wof:name":"Garin Dan Bay",
+    "wof:parent_id":1092051229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.13303,
+    13.71635,
+    7.13303,
+    13.71635
+],
+  "geometry": {"coordinates":[7.13303,13.71635],"type":"Point"}
+}

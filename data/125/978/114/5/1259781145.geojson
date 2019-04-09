@@ -1,0 +1,67 @@
+{
+  "id": 1259781145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.42618,14.34295,6.42618,14.34295",
+    "geom:latitude":14.34295,
+    "geom:longitude":6.42618,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Guidan Ousman",
+    "gn:country_code":"NE",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6849678,
+    "gn:latitude":14.34295,
+    "gn:longitude":6.42618,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Guidan Ousman",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6849678
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"4510a0e1b98c88d856d4c047faff64a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051515,
+            "locality_id":1259781145,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1259781145,
+    "wof:lastmodified":1536927275,
+    "wof:name":"Guidan Ousman",
+    "wof:parent_id":1092051515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.42618,
+    14.34295,
+    6.42618,
+    14.34295
+],
+  "geometry": {"coordinates":[6.42618,14.34295],"type":"Point"}
+}

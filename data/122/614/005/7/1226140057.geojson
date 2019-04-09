@@ -1,0 +1,71 @@
+{
+  "id": 1226140057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.0517,13.5069,2.0517,13.5069",
+    "geom:latitude":13.5069,
+    "geom:longitude":2.0517,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kourtere",
+    "gn:country_code":"NE",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441842,
+    "gn:latitude":13.5069,
+    "gn:longitude":2.0517,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kourt\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kout\u00e9r\u00e9",
+        "Kourt\u00e9r\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675291,
+        421204117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441842
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"e670525f224e94ab3e63c35517c6cfe5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421204117,
+            "locality_id":1226140057,
+            "region_id":85675291
+        }
+    ],
+    "wof:id":1226140057,
+    "wof:lastmodified":1537674734,
+    "wof:name":"Kourtere",
+    "wof:parent_id":421204117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.0517,
+    13.5069,
+    2.0517,
+    13.5069
+],
+  "geometry": {"coordinates":[2.0517,13.5069],"type":"Point"}
+}

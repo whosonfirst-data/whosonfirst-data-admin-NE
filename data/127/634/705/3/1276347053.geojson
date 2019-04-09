@@ -1,0 +1,71 @@
+{
+  "id": 1276347053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.61103,12.51681,3.61103,12.51681",
+    "geom:latitude":12.51681,
+    "geom:longitude":3.61103,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Touloumboulou",
+    "gn:country_code":"NE",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438314,
+    "gn:latitude":12.51681,
+    "gn:longitude":3.61103,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Touloumboulou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dan Kalgo",
+        "Touloumboulou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092050969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438314
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"475ba1cbfd7a24f438ecec45c433e987",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092050969,
+            "locality_id":1276347053,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1276347053,
+    "wof:lastmodified":1537674662,
+    "wof:name":"Touloumboulou",
+    "wof:parent_id":1092050969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.61103,
+    12.51681,
+    3.61103,
+    12.51681
+],
+  "geometry": {"coordinates":[3.61103,12.51681],"type":"Point"}
+}

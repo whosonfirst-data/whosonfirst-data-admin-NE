@@ -1,0 +1,73 @@
+{
+  "id": 1243283781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.16667,14.53333,2.16667,14.53333",
+    "geom:latitude":14.53333,
+    "geom:longitude":2.16667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kabey Koungo",
+    "gn:cc2":"NE",
+    "gn:country_code":"NE",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442931,
+    "gn:latitude":14.53333,
+    "gn:longitude":2.16667,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Kabey Koungo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kabe\u00ef Koungo",
+        "Kobe\u00ef Koungo",
+        "Kabey Koungo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442931
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"3021d88f315de4c9362d73037e5c6bf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051633,
+            "locality_id":1243283781,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1243283781,
+    "wof:lastmodified":1537674760,
+    "wof:name":"Kabey Koungo",
+    "wof:parent_id":1092051633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.16667,
+    14.53333,
+    2.16667,
+    14.53333
+],
+  "geometry": {"coordinates":[2.16667,14.53333],"type":"Point"}
+}

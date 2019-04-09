@@ -1,0 +1,67 @@
+{
+  "id": 1310208247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.7071,13.53008,10.7071,13.53008",
+    "geom:latitude":13.53008,
+    "geom:longitude":10.7071,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Garin Kandira",
+    "gn:country_code":"NE",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6750357,
+    "gn:latitude":13.53008,
+    "gn:longitude":10.7071,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Garin Kandira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6750357
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"c8042b1441970efb28a24e634756e087",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051363,
+            "locality_id":1310208247,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1310208247,
+    "wof:lastmodified":1536847177,
+    "wof:name":"Garin Kandira",
+    "wof:parent_id":1092051363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.7071,
+    13.53008,
+    10.7071,
+    13.53008
+],
+  "geometry": {"coordinates":[10.7071,13.53008],"type":"Point"}
+}

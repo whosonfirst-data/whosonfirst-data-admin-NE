@@ -1,0 +1,71 @@
+{
+  "id": 1293099141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.58794,14.14349,7.58794,14.14349",
+    "geom:latitude":14.14349,
+    "geom:longitude":7.58794,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Batchyeri",
+    "gn:country_code":"NE",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446959,
+    "gn:latitude":14.14349,
+    "gn:longitude":7.58794,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Batchy\u00e9ri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Batchi\u00e9ri",
+        "Batchy\u00e9ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446959
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"c2fb94f8b315949a9bf86fe8b072f8ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051435,
+            "locality_id":1293099141,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1293099141,
+    "wof:lastmodified":1537674852,
+    "wof:name":"Batchyeri",
+    "wof:parent_id":1092051435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.58794,
+    14.14349,
+    7.58794,
+    14.14349
+],
+  "geometry": {"coordinates":[7.58794,14.14349],"type":"Point"}
+}

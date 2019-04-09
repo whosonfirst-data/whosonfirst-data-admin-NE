@@ -1,0 +1,71 @@
+{
+  "id": 1310194727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.6894,13.4803,2.6894,13.4803",
+    "geom:latitude":13.4803,
+    "geom:longitude":2.6894,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Yerima Dey",
+    "gn:country_code":"NE",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437968,
+    "gn:latitude":13.4803,
+    "gn:longitude":2.6894,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Y\u00e9rima Dey",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Y\u00e9rimadeye",
+        "Y\u00e9rima Dey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437968
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"eb13fa73deab8304c940c462bf718a5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1310194727,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1310194727,
+    "wof:lastmodified":1537674652,
+    "wof:name":"Yerima Dey",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6894,
+    13.4803,
+    2.6894,
+    13.4803
+],
+  "geometry": {"coordinates":[2.6894,13.4803],"type":"Point"}
+}

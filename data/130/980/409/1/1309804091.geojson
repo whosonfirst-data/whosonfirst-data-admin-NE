@@ -1,0 +1,67 @@
+{
+  "id": 1309804091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.8484,13.34003,6.8484,13.34003",
+    "geom:latitude":13.34003,
+    "geom:longitude":6.8484,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tajouka",
+    "gn:country_code":"NE",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439364,
+    "gn:latitude":13.34003,
+    "gn:longitude":6.8484,
+    "gn:modification_date":"2008-03-06",
+    "gn:name":"Tajouka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439364
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"488564a58e8f9b8c2ed211d3a43bc82e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051007,
+            "locality_id":1309804091,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1309804091,
+    "wof:lastmodified":1536934260,
+    "wof:name":"Tajouka",
+    "wof:parent_id":1092051007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.8484,
+    13.34003,
+    6.8484,
+    13.34003
+],
+  "geometry": {"coordinates":[6.8484,13.34003],"type":"Point"}
+}

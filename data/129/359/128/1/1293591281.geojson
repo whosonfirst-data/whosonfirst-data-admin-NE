@@ -1,0 +1,71 @@
+{
+  "id": 1293591281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.3862,13.7486,3.3862,13.7486",
+    "geom:latitude":13.7486,
+    "geom:longitude":3.3862,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kokire-Gounizedeye",
+    "gn:country_code":"NE",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442290,
+    "gn:latitude":13.7486,
+    "gn:longitude":3.3862,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kokir\u00e9-Gouniz\u00e9d\u00e8ye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kokir\u00e9 Gouniz\u00e9 Dey",
+        "Kokir\u00e9-Gouniz\u00e9d\u00e8ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442290
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"a6459c55143d5c174b4f566f1706cfce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051273,
+            "locality_id":1293591281,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1293591281,
+    "wof:lastmodified":1537674746,
+    "wof:name":"Kokire-Gounizedeye",
+    "wof:parent_id":1092051273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.3862,
+    13.7486,
+    3.3862,
+    13.7486
+],
+  "geometry": {"coordinates":[3.3862,13.7486],"type":"Point"}
+}

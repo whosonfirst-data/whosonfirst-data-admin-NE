@@ -1,0 +1,71 @@
+{
+  "id": 1226638535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.20471,14.64417,6.20471,14.64417",
+    "geom:latitude":14.64417,
+    "geom:longitude":6.20471,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sanhala",
+    "gn:country_code":"NE",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439997,
+    "gn:latitude":14.64417,
+    "gn:longitude":6.20471,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sanhala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sahalla",
+        "Sanhala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439997
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"728cf1aa953de050fcfd03a946c76aae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051515,
+            "locality_id":1226638535,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1226638535,
+    "wof:lastmodified":1537674695,
+    "wof:name":"Sanhala",
+    "wof:parent_id":1092051515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.20471,
+    14.64417,
+    6.20471,
+    14.64417
+],
+  "geometry": {"coordinates":[6.20471,14.64417],"type":"Point"}
+}

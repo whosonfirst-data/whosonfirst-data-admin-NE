@@ -1,0 +1,61 @@
+{
+  "id": 1209015985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.94311,12.71172,2.94311,12.71172",
+    "geom:latitude":12.71172,
+    "geom:longitude":2.94311,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Toudounou",
+    "gn:country_code":"NE",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438352,
+    "gn:latitude":12.71172,
+    "gn:longitude":2.94311,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Toudounou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438352
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"bb31739b8f2fc1797ef1ec12f43da61d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209015985
+        }
+    ],
+    "wof:id":1209015985,
+    "wof:lastmodified":1536300298,
+    "wof:name":"Toudounou",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.94311,
+    12.71172,
+    2.94311,
+    12.71172
+],
+  "geometry": {"coordinates":[2.94311,12.71172],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327155627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.9536,13.65708,8.9536,13.65708",
+    "geom:latitude":13.65708,
+    "geom:longitude":8.9536,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Gogo",
+    "gn:country_code":"NE",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444434,
+    "gn:latitude":13.65708,
+    "gn:longitude":8.9536,
+    "gn:modification_date":"2008-04-04",
+    "gn:name":"Gogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444434
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"1937f771e8f3e7f5e21b49bcf3f0d677",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051411,
+            "locality_id":1327155627,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1327155627,
+    "wof:lastmodified":1537077368,
+    "wof:name":"Gogo",
+    "wof:parent_id":1092051411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.9536,
+    13.65708,
+    8.9536,
+    13.65708
+],
+  "geometry": {"coordinates":[8.9536,13.65708],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209621149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.87698,13.84783,6.87698,13.84783",
+    "geom:latitude":13.84783,
+    "geom:longitude":6.87698,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kire",
+    "gn:country_code":"NE",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6712268,
+    "gn:latitude":13.84783,
+    "gn:longitude":6.87698,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Kir\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6712268
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"e50bb8731e3a3c1c98c017be0e710e35",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209621149
+        }
+    ],
+    "wof:id":1209621149,
+    "wof:lastmodified":1536281513,
+    "wof:name":"Kire",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.8769800000000005,
+    13.847829999999998,
+    6.8769800000000005,
+    13.847829999999998
+],
+  "geometry": {"coordinates":[6.87698,13.84783],"type":"Point"}
+}

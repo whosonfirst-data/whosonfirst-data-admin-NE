@@ -1,0 +1,71 @@
+{
+  "id": 1259489293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.5536,13.34571,7.5536,13.34571",
+    "geom:latitude":13.34571,
+    "geom:longitude":7.5536,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Chayin Banza",
+    "gn:country_code":"NE",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446409,
+    "gn:latitude":13.34571,
+    "gn:longitude":7.5536,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Chay\u00efn Banza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chayn Banza",
+        "Chay\u00efn Banza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446409
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"89fd4f1a7f3d1b5ece4c3d5fcccea0c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051007,
+            "locality_id":1259489293,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1259489293,
+    "wof:lastmodified":1537674841,
+    "wof:name":"Chayin Banza",
+    "wof:parent_id":1092051007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.5536,
+    13.34571,
+    7.5536,
+    13.34571
+],
+  "geometry": {"coordinates":[7.5536,13.34571],"type":"Point"}
+}

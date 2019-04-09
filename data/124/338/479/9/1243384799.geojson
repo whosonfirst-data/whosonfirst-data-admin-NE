@@ -1,0 +1,67 @@
+{
+  "id": 1243384799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.8993,13.56858,8.8993,13.56858",
+    "geom:latitude":13.56858,
+    "geom:longitude":8.8993,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zangon Tambari",
+    "gn:country_code":"NE",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6731666,
+    "gn:latitude":13.56858,
+    "gn:longitude":8.8993,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Zangon Tambari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6731666
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"ce67371cefc17cdff1bd3a6c9e0427cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051411,
+            "locality_id":1243384799,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1243384799,
+    "wof:lastmodified":1536894277,
+    "wof:name":"Zangon Tambari",
+    "wof:parent_id":1092051411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.8993,
+    13.56858,
+    8.8993,
+    13.56858
+],
+  "geometry": {"coordinates":[8.8993,13.56858],"type":"Point"}
+}

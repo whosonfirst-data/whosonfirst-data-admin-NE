@@ -1,0 +1,67 @@
+{
+  "id": 1327228383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.26811,13.42762,10.26811,13.42762",
+    "geom:latitude":13.42762,
+    "geom:longitude":10.26811,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Aryomari",
+    "gn:country_code":"NE",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6750158,
+    "gn:latitude":13.42762,
+    "gn:longitude":10.26811,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Aryomari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6750158
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"39cc80c39de58babfb3087f349b6b275",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051753,
+            "locality_id":1327228383,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1327228383,
+    "wof:lastmodified":1536974936,
+    "wof:name":"Aryomari",
+    "wof:parent_id":1092051753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.26811,
+    13.42762,
+    10.26811,
+    13.42762
+],
+  "geometry": {"coordinates":[10.26811,13.42762],"type":"Point"}
+}

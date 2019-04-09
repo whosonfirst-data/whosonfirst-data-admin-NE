@@ -1,0 +1,67 @@
+{
+  "id": 1276657755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.2581,13.34622,7.2581,13.34622",
+    "geom:latitude":13.34622,
+    "geom:longitude":7.2581,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sabon Gari",
+    "gn:country_code":"NE",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2440052,
+    "gn:latitude":13.34622,
+    "gn:longitude":7.2581,
+    "gn:modification_date":"2008-02-25",
+    "gn:name":"Sabon Gari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2440052
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"76ac0ed0da76c76ff0053895e35662ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051007,
+            "locality_id":1276657755,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1276657755,
+    "wof:lastmodified":1536839984,
+    "wof:name":"Sabon Gari",
+    "wof:parent_id":1092051007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.2581,
+    13.34622,
+    7.2581,
+    13.34622
+],
+  "geometry": {"coordinates":[7.2581,13.34622],"type":"Point"}
+}

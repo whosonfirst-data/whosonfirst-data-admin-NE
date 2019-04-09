@@ -1,0 +1,73 @@
+{
+  "id": 1276645825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.3975,13.0646,2.3975,13.0646",
+    "geom:latitude":13.0646,
+    "geom:longitude":2.3975,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Manga Kouara",
+    "gn:country_code":"NE",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438323,
+    "gn:latitude":13.0646,
+    "gn:longitude":2.3975,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Manga Kouara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Touloueye-Ka\u00efna",
+        "Toulouey Keyna",
+        "Toulouey Ka\u00efna",
+        "Manga Kouara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438323
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"351de4ad6b8860e949f03e1bb1e1b910",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1276645825,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1276645825,
+    "wof:lastmodified":1537674663,
+    "wof:name":"Manga Kouara",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.3975,
+    13.0646,
+    2.3975,
+    13.0646
+],
+  "geometry": {"coordinates":[2.3975,13.0646],"type":"Point"}
+}

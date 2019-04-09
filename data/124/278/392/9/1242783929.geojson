@@ -1,0 +1,67 @@
+{
+  "id": 1242783929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.86284,14.14771,7.86284,14.14771",
+    "geom:latitude":14.14771,
+    "geom:longitude":7.86284,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dan Ila",
+    "gn:country_code":"NE",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446060,
+    "gn:latitude":14.14771,
+    "gn:longitude":7.86284,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Dan Ila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446060
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"85767ae5a26407ee4b184911c1a1c31b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051435,
+            "locality_id":1242783929,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1242783929,
+    "wof:lastmodified":1536766837,
+    "wof:name":"Dan Ila",
+    "wof:parent_id":1092051435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.86284,
+    14.14771,
+    7.86284,
+    14.14771
+],
+  "geometry": {"coordinates":[7.86284,14.14771],"type":"Point"}
+}

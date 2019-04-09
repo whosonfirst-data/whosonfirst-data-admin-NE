@@ -1,0 +1,72 @@
+{
+  "id": 1259388587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.30169,13.44612,7.30169,13.44612",
+    "geom:latitude":13.44612,
+    "geom:longitude":7.30169,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dan Gajere",
+    "gn:country_code":"NE",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446113,
+    "gn:latitude":13.44612,
+    "gn:longitude":7.30169,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dan Gaj\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dan Gag\u00e9r\u00e9",
+        "Dan Gagu\u00e9r\u00e9",
+        "Dan Gaj\u00e9r\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446113
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"cfc9b8789e9697b7a756c50b045b3c09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051007,
+            "locality_id":1259388587,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1259388587,
+    "wof:lastmodified":1537674834,
+    "wof:name":"Dan Gajere",
+    "wof:parent_id":1092051007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.30169,
+    13.44612,
+    7.30169,
+    13.44612
+],
+  "geometry": {"coordinates":[7.30169,13.44612],"type":"Point"}
+}

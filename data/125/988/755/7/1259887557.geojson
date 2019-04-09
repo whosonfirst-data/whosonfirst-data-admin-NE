@@ -1,0 +1,71 @@
+{
+  "id": 1259887557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.12749,12.96878,3.12749,12.96878",
+    "geom:latitude":12.96878,
+    "geom:longitude":3.12749,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tianbanga",
+    "gn:country_code":"NE",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438793,
+    "gn:latitude":12.96878,
+    "gn:longitude":3.12749,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tianbanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tabanga",
+        "Tianbanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438793
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"719536d0ebb8649fa479e28dc23c4f39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051041,
+            "locality_id":1259887557,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1259887557,
+    "wof:lastmodified":1537674672,
+    "wof:name":"Tianbanga",
+    "wof:parent_id":1092051041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.12749,
+    12.96878,
+    3.12749,
+    12.96878
+],
+  "geometry": {"coordinates":[3.12749,12.96878],"type":"Point"}
+}

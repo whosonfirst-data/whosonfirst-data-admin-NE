@@ -1,0 +1,67 @@
+{
+  "id": 1293134003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.76054,13.99459,7.76054,13.99459",
+    "geom:latitude":13.99459,
+    "geom:longitude":7.76054,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Guidan Yerima Sania",
+    "gn:country_code":"NE",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6708462,
+    "gn:latitude":13.99459,
+    "gn:longitude":7.76054,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Guidan Y\u00e9rima Sania",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6708462
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"2a92472133ce3c8543486fbd7d54dd6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051435,
+            "locality_id":1293134003,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1293134003,
+    "wof:lastmodified":1536799812,
+    "wof:name":"Guidan Yerima Sania",
+    "wof:parent_id":1092051435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.76054,
+    13.99459,
+    7.76054,
+    13.99459
+],
+  "geometry": {"coordinates":[7.76054,13.99459],"type":"Point"}
+}

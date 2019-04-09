@@ -1,0 +1,67 @@
+{
+  "id": 1360085185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.56645,14.54122,6.56645,14.54122",
+    "geom:latitude":14.54122,
+    "geom:longitude":6.56645,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Toubandawa",
+    "gn:country_code":"NE",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6849569,
+    "gn:latitude":14.54122,
+    "gn:longitude":6.56645,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Toubandawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6849569
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"040da0cca9c8ab35822e82396a9df968",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1360085185,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1360085185,
+    "wof:lastmodified":1536945939,
+    "wof:name":"Toubandawa",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.56645,
+    14.54122,
+    6.56645,
+    14.54122
+],
+  "geometry": {"coordinates":[6.56645,14.54122],"type":"Point"}
+}

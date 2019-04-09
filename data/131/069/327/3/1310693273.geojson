@@ -1,0 +1,67 @@
+{
+  "id": 1310693273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.64091,14.68359,7.64091,14.68359",
+    "geom:latitude":14.68359,
+    "geom:longitude":7.64091,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Guidan Chebkao",
+    "gn:country_code":"NE",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2443933,
+    "gn:latitude":14.68359,
+    "gn:longitude":7.64091,
+    "gn:modification_date":"2008-08-21",
+    "gn:name":"Guidan Ch\u00e8bkao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2443933
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"aa2f32b0f0fbade23024eb9699d9cf9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1310693273,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1310693273,
+    "wof:lastmodified":1536645532,
+    "wof:name":"Guidan Chebkao",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.64091,
+    14.68359,
+    7.64091,
+    14.68359
+],
+  "geometry": {"coordinates":[7.64091,14.68359],"type":"Point"}
+}

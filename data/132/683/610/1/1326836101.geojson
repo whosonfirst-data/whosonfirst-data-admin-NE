@@ -1,0 +1,67 @@
+{
+  "id": 1326836101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.43107,14.04774,7.43107,14.04774",
+    "geom:latitude":14.04774,
+    "geom:longitude":7.43107,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kagoum",
+    "gn:country_code":"NE",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442865,
+    "gn:latitude":14.04774,
+    "gn:longitude":7.43107,
+    "gn:modification_date":"2008-08-21",
+    "gn:name":"Kagoum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442865
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"9f562f26f6e7d6b65f89a45257c3bc4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051435,
+            "locality_id":1326836101,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1326836101,
+    "wof:lastmodified":1537041411,
+    "wof:name":"Kagoum",
+    "wof:parent_id":1092051435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.43107,
+    14.04774,
+    7.43107,
+    14.04774
+],
+  "geometry": {"coordinates":[7.43107,14.04774],"type":"Point"}
+}

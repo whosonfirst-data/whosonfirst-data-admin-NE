@@ -1,0 +1,67 @@
+{
+  "id": 1310486147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.6084,13.79831,1.6084,13.79831",
+    "geom:latitude":13.79831,
+    "geom:longitude":1.6084,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Leyni",
+    "gn:country_code":"NE",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441660,
+    "gn:latitude":13.79831,
+    "gn:longitude":1.6084,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Leyni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        890429081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441660
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"7cd8bac5b08a06b834f0186a44e4830c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":890429081,
+            "locality_id":1310486147,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1310486147,
+    "wof:lastmodified":1536945299,
+    "wof:name":"Leyni",
+    "wof:parent_id":890429081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.6084,
+    13.79831,
+    1.6084,
+    13.79831
+],
+  "geometry": {"coordinates":[1.6084,13.79831],"type":"Point"}
+}

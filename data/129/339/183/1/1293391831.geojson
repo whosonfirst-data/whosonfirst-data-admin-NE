@@ -1,0 +1,71 @@
+{
+  "id": 1293391831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.84932,12.96423,2.84932,12.96423",
+    "geom:latitude":12.96423,
+    "geom:longitude":2.84932,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Goberi Goubey",
+    "gn:country_code":"NE",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444453,
+    "gn:latitude":12.96423,
+    "gn:longitude":2.84932,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Gob\u00e9ri Goubey",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gob\u00e9ri Goubey",
+        "Gob\u00e9ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444453
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"1b919c650d1e9997b15ad066452ef4d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051075,
+            "locality_id":1293391831,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1293391831,
+    "wof:lastmodified":1537674797,
+    "wof:name":"Goberi Goubey",
+    "wof:parent_id":1092051075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.84932,
+    12.96423,
+    2.84932,
+    12.96423
+],
+  "geometry": {"coordinates":[2.84932,12.96423],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242974055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.3,14.36667,13.3,14.36667",
+    "geom:latitude":14.36667,
+    "geom:longitude":13.3,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Fourdirom",
+    "gn:country_code":"NE",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444914,
+    "gn:latitude":14.36667,
+    "gn:longitude":13.3,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Fourdirom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444914
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"5f6b9b152fd092083c24ad7eac5cdc91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051781,
+            "locality_id":1242974055,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1242974055,
+    "wof:lastmodified":1536988740,
+    "wof:name":"Fourdirom",
+    "wof:parent_id":1092051781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.3,
+    14.36667,
+    13.3,
+    14.36667
+],
+  "geometry": {"coordinates":[13.3,14.36667],"type":"Point"}
+}

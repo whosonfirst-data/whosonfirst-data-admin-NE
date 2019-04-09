@@ -1,0 +1,67 @@
+{
+  "id": 1260275051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.4467,14.0938,9.4467,14.0938",
+    "geom:latitude":14.0938,
+    "geom:longitude":9.4467,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ouarek",
+    "gn:country_code":"NE",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6803733,
+    "gn:latitude":14.0938,
+    "gn:longitude":9.4467,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Ouar\u00e8k",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6803733
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"8edf3241c6f5cb74547faf412bab78fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051411,
+            "locality_id":1260275051,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1260275051,
+    "wof:lastmodified":1536723621,
+    "wof:name":"Ouarek",
+    "wof:parent_id":1092051411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.4467,
+    14.0938,
+    9.4467,
+    14.0938
+],
+  "geometry": {"coordinates":[9.4467,14.0938],"type":"Point"}
+}

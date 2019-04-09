@@ -1,0 +1,71 @@
+{
+  "id": 1226334769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.20742,13.7762,5.20742,13.7762",
+    "geom:latitude":13.7762,
+    "geom:longitude":5.20742,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Masalata",
+    "gn:country_code":"NE",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441234,
+    "gn:latitude":13.7762,
+    "gn:longitude":5.20742,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Masalata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Massalata",
+        "Masalata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441234
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"faddc5043d77b9467a76b10dab5bb11d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051301,
+            "locality_id":1226334769,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1226334769,
+    "wof:lastmodified":1537674718,
+    "wof:name":"Masalata",
+    "wof:parent_id":1092051301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.20742,
+    13.7762,
+    5.20742,
+    13.7762
+],
+  "geometry": {"coordinates":[5.20742,13.7762],"type":"Point"}
+}

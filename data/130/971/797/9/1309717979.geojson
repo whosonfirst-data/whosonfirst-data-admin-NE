@@ -1,0 +1,67 @@
+{
+  "id": 1309717979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.48792,13.71175,6.48792,13.71175",
+    "geom:latitude":13.71175,
+    "geom:longitude":6.48792,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sarkaki",
+    "gn:country_code":"NE",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439833,
+    "gn:latitude":13.71175,
+    "gn:longitude":6.48792,
+    "gn:modification_date":"2008-02-07",
+    "gn:name":"Sarkaki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439833
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"0022f57cf297e92aa38495c238b55f78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051229,
+            "locality_id":1309717979,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1309717979,
+    "wof:lastmodified":1537055259,
+    "wof:name":"Sarkaki",
+    "wof:parent_id":1092051229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.48792,
+    13.71175,
+    6.48792,
+    13.71175
+],
+  "geometry": {"coordinates":[6.48792,13.71175],"type":"Point"}
+}

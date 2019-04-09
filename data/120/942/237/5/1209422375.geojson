@@ -1,0 +1,61 @@
+{
+  "id": 1209422375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.0983,13.0463,3.0983,13.0463",
+    "geom:latitude":13.0463,
+    "geom:longitude":3.0983,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Takamargou",
+    "gn:country_code":"NE",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439347,
+    "gn:latitude":13.0463,
+    "gn:longitude":3.0983,
+    "gn:modification_date":"2008-10-22",
+    "gn:name":"Takamargou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439347
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"1fd75fe7b1cd3837b4dfeed3cbb79dda",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209422375
+        }
+    ],
+    "wof:id":1209422375,
+    "wof:lastmodified":1536287488,
+    "wof:name":"Takamargou",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.0983,
+    13.0463,
+    3.0983,
+    13.0463
+],
+  "geometry": {"coordinates":[3.0983,13.0463],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310127157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.68826,13.84033,8.68826,13.84033",
+    "geom:latitude":13.84033,
+    "geom:longitude":8.68826,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Doutchin Dila",
+    "gn:country_code":"NE",
+    "gn:dem":495,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6733856,
+    "gn:latitude":13.84033,
+    "gn:longitude":8.68826,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Doutchin Dila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6733856
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"fb0a90a2cd08c0de1afc0880a6538ddd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051411,
+            "locality_id":1310127157,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1310127157,
+    "wof:lastmodified":1536965107,
+    "wof:name":"Doutchin Dila",
+    "wof:parent_id":1092051411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.68826,
+    13.84033,
+    8.68826,
+    13.84033
+],
+  "geometry": {"coordinates":[8.68826,13.84033],"type":"Point"}
+}

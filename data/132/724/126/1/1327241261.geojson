@@ -1,0 +1,67 @@
+{
+  "id": 1327241261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.45556,16.87,7.45556,16.87",
+    "geom:latitude":16.87,
+    "geom:longitude":7.45556,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Assaouas",
+    "gn:country_code":"NE",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2596705,
+    "gn:latitude":16.87,
+    "gn:longitude":7.45556,
+    "gn:modification_date":"2003-07-31",
+    "gn:name":"Assaouas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675273,
+        421182277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2596705
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"6cbf8915319af817cfaa58fba1d4804f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182277,
+            "locality_id":1327241261,
+            "region_id":85675273
+        }
+    ],
+    "wof:id":1327241261,
+    "wof:lastmodified":1536956704,
+    "wof:name":"Assaouas",
+    "wof:parent_id":421182277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.45556,
+    16.87,
+    7.45556,
+    16.87
+],
+  "geometry": {"coordinates":[7.45556,16.87],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276239875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.4977,13.4061,3.4977,13.4061",
+    "geom:latitude":13.4061,
+    "geom:longitude":3.4977,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Goubeye-Koara",
+    "gn:country_code":"NE",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444311,
+    "gn:latitude":13.4061,
+    "gn:longitude":3.4977,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Goubeye-Koara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Goubey Kwara",
+        "Goubeye-Koara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444311
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"e1185473698a6c37f8ec0fb5130a3068",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051041,
+            "locality_id":1276239875,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1276239875,
+    "wof:lastmodified":1537674793,
+    "wof:name":"Goubeye-Koara",
+    "wof:parent_id":1092051041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.4977,
+    13.4061,
+    3.4977,
+    13.4061
+],
+  "geometry": {"coordinates":[3.4977,13.4061],"type":"Point"}
+}

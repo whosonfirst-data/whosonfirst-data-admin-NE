@@ -1,0 +1,67 @@
+{
+  "id": 1276880671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.36516,12.64315,3.36516,12.64315",
+    "geom:latitude":12.64315,
+    "geom:longitude":3.36516,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Gorou",
+    "gn:country_code":"NE",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444359,
+    "gn:latitude":12.64315,
+    "gn:longitude":3.36516,
+    "gn:modification_date":"2009-01-26",
+    "gn:name":"Gorou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444359
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"c557ac4700be3c8e4888ebd01d8b8b6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051041,
+            "locality_id":1276880671,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1276880671,
+    "wof:lastmodified":1537038353,
+    "wof:name":"Gorou",
+    "wof:parent_id":1092051041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.36516,
+    12.64315,
+    3.36516,
+    12.64315
+],
+  "geometry": {"coordinates":[3.36516,12.64315],"type":"Point"}
+}

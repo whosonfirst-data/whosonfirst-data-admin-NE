@@ -1,0 +1,67 @@
+{
+  "id": 1360309351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.3098,14.2445,8.3098,14.2445",
+    "geom:latitude":14.2445,
+    "geom:longitude":8.3098,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Take Take",
+    "gn:country_code":"NE",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439311,
+    "gn:latitude":14.2445,
+    "gn:longitude":8.3098,
+    "gn:modification_date":"2008-08-26",
+    "gn:name":"Tak\u00e9 Tak\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439311
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"1572337c34fe20fe1cf8ef62ee3c3ad1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051389,
+            "locality_id":1360309351,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1360309351,
+    "wof:lastmodified":1536620007,
+    "wof:name":"Take Take",
+    "wof:parent_id":1092051389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.3098,
+    14.2445,
+    8.3098,
+    14.2445
+],
+  "geometry": {"coordinates":[8.3098,14.2445],"type":"Point"}
+}

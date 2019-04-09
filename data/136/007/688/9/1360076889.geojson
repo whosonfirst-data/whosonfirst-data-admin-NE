@@ -1,0 +1,67 @@
+{
+  "id": 1360076889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.81217,13.11713,8.81217,13.11713",
+    "geom:latitude":13.11713,
+    "geom:longitude":8.81217,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sawaya Saboua",
+    "gn:country_code":"NE",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6745955,
+    "gn:latitude":13.11713,
+    "gn:longitude":8.81217,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Sawaya Saboua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6745955
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"5487ad1f51bac333826d81afc247e54e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051133,
+            "locality_id":1360076889,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1360076889,
+    "wof:lastmodified":1536957570,
+    "wof:name":"Sawaya Saboua",
+    "wof:parent_id":1092051133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.81217,
+    13.11713,
+    8.81217,
+    13.11713
+],
+  "geometry": {"coordinates":[8.81217,13.11713],"type":"Point"}
+}

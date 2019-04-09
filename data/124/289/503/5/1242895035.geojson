@@ -1,0 +1,67 @@
+{
+  "id": 1242895035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.96709,13.65118,8.96709,13.65118",
+    "geom:latitude":13.65118,
+    "geom:longitude":8.96709,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dan Chamoua B.",
+    "gn:country_code":"NE",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6731685,
+    "gn:latitude":13.65118,
+    "gn:longitude":8.96709,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Dan Chamoua B.",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6731685
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"6f7945026075d56246c28ceb40a1e98e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051411,
+            "locality_id":1242895035,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1242895035,
+    "wof:lastmodified":1536603397,
+    "wof:name":"Dan Chamoua B.",
+    "wof:parent_id":1092051411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.96709,
+    13.65118,
+    8.96709,
+    13.65118
+],
+  "geometry": {"coordinates":[8.96709,13.65118],"type":"Point"}
+}

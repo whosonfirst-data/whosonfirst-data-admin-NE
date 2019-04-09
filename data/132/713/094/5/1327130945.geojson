@@ -1,0 +1,71 @@
+{
+  "id": 1327130945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.84039,13.51109,8.84039,13.51109",
+    "geom:latitude":13.51109,
+    "geom:longitude":8.84039,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sabon Gari",
+    "gn:country_code":"NE",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6739369,
+    "gn:latitude":13.51109,
+    "gn:longitude":8.84039,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sabon Gari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Manda Manda",
+        "Sabon Gari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6739369
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"540bd6a423efc0602f3935c17497a1ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051411,
+            "locality_id":1327130945,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1327130945,
+    "wof:lastmodified":1537674885,
+    "wof:name":"Sabon Gari",
+    "wof:parent_id":1092051411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.84039,
+    13.51109,
+    8.84039,
+    13.51109
+],
+  "geometry": {"coordinates":[8.84039,13.51109],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243566109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.96323,12.94548,2.96323,12.94548",
+    "geom:latitude":12.94548,
+    "geom:longitude":2.96323,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sosso Bangou",
+    "gn:country_code":"NE",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439830,
+    "gn:latitude":12.94548,
+    "gn:longitude":2.96323,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Sosso Bangou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sasabangou",
+        "Sassabangou",
+        "Sosso Bangou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439830
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"0b286c25b06dd10f8224cc1f1d5157ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051075,
+            "locality_id":1243566109,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1243566109,
+    "wof:lastmodified":1537674692,
+    "wof:name":"Sosso Bangou",
+    "wof:parent_id":1092051075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.96323,
+    12.94548,
+    2.96323,
+    12.94548
+],
+  "geometry": {"coordinates":[2.96323,12.94548],"type":"Point"}
+}

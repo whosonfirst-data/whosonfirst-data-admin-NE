@@ -1,0 +1,72 @@
+{
+  "id": 1310495981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.33022,14.23916,1.33022,14.23916",
+    "geom:latitude":14.23916,
+    "geom:longitude":1.33022,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Sinder",
+    "gn:country_code":"NE",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439705,
+    "gn:latitude":14.23916,
+    "gn:longitude":1.33022,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Sind\u00e8r",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zinder",
+        "Sind\u00e8r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439705,
+        "wk:page":"Sinder"
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"9e639c368bc391752d3b22596ebf40bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051545,
+            "locality_id":1310495981,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1310495981,
+    "wof:lastmodified":1537674689,
+    "wof:name":"Sinder",
+    "wof:parent_id":1092051545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.33022,
+    14.23916,
+    1.33022,
+    14.23916
+],
+  "geometry": {"coordinates":[1.33022,14.23916],"type":"Point"}
+}

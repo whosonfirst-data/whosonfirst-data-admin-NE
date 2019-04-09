@@ -1,0 +1,67 @@
+{
+  "id": 1276118295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.16423,14.3902,7.16423,14.3902",
+    "geom:latitude":14.3902,
+    "geom:longitude":7.16423,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mayaga",
+    "gn:country_code":"NE",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441195,
+    "gn:latitude":14.3902,
+    "gn:longitude":7.16423,
+    "gn:modification_date":"2008-08-21",
+    "gn:name":"Mayaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441195
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"ba0b9ffa5239e8d500d680797b06d6eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1276118295,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1276118295,
+    "wof:lastmodified":1537063931,
+    "wof:name":"Mayaga",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.16423,
+    14.3902,
+    7.16423,
+    14.3902
+],
+  "geometry": {"coordinates":[7.16423,14.3902],"type":"Point"}
+}

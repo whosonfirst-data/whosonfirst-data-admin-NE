@@ -1,0 +1,74 @@
+{
+  "id": 1343979347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.2348,14.7071,8.2348,14.7071",
+    "geom:latitude":14.7071,
+    "geom:longitude":8.2348,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Samia",
+    "gn:country_code":"NE",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439923,
+    "gn:latitude":14.7071,
+    "gn:longitude":8.2348,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Samia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Inisamiya",
+        "In Samia",
+        "Tsamia",
+        "Samia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439923,
+        "wk:page":"Samia%2C_Niger"
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"85990d9c640fb474deb23f1aa5cdbf9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1343979347,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1343979347,
+    "wof:lastmodified":1537674693,
+    "wof:name":"Samia",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.2348,
+    14.7071,
+    8.2348,
+    14.7071
+],
+  "geometry": {"coordinates":[8.2348,14.7071],"type":"Point"}
+}

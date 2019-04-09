@@ -1,0 +1,67 @@
+{
+  "id": 1276983597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.16264,13.53652,11.16264,13.53652",
+    "geom:latitude":13.53652,
+    "geom:longitude":11.16264,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Maydingari",
+    "gn:country_code":"NE",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6819553,
+    "gn:latitude":13.53652,
+    "gn:longitude":11.16264,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Maydingari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6819553
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"9008ae72a4cad88ad76cae28dce1f4f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051363,
+            "locality_id":1276983597,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1276983597,
+    "wof:lastmodified":1536902265,
+    "wof:name":"Maydingari",
+    "wof:parent_id":1092051363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.16264,
+    13.53652,
+    11.16264,
+    13.53652
+],
+  "geometry": {"coordinates":[11.16264,13.53652],"type":"Point"}
+}

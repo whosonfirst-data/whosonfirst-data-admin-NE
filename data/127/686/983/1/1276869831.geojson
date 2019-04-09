@@ -1,0 +1,67 @@
+{
+  "id": 1276869831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.1223,14.0165,5.1223,14.0165",
+    "geom:latitude":14.0165,
+    "geom:longitude":5.1223,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tyouhlou Tyouhlou",
+    "gn:country_code":"NE",
+    "gn:dem":286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6679491,
+    "gn:latitude":14.0165,
+    "gn:longitude":5.1223,
+    "gn:modification_date":"2008-02-09",
+    "gn:name":"Tyouhlou Tyouhlou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6679491
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"b43309af6f22d18134b34c19cc1dff28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051301,
+            "locality_id":1276869831,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1276869831,
+    "wof:lastmodified":1537052420,
+    "wof:name":"Tyouhlou Tyouhlou",
+    "wof:parent_id":1092051301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.1223,
+    14.0165,
+    5.1223,
+    14.0165
+],
+  "geometry": {"coordinates":[5.1223,14.0165],"type":"Point"}
+}

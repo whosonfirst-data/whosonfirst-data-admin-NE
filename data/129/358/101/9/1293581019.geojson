@@ -1,0 +1,67 @@
+{
+  "id": 1293581019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.9502,13.2616,9.9502,13.2616",
+    "geom:latitude":13.2616,
+    "geom:longitude":9.9502,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Galdi Mari",
+    "gn:country_code":"NE",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6806695,
+    "gn:latitude":13.2616,
+    "gn:longitude":9.9502,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Galdi Mari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6806695
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"755005107ea26993752a001ec37da1fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051753,
+            "locality_id":1293581019,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1293581019,
+    "wof:lastmodified":1536652191,
+    "wof:name":"Galdi Mari",
+    "wof:parent_id":1092051753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9502,
+    13.2616,
+    9.9502,
+    13.2616
+],
+  "geometry": {"coordinates":[9.9502,13.2616],"type":"Point"}
+}

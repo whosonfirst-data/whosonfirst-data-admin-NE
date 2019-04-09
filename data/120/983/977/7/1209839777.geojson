@@ -1,0 +1,67 @@
+{
+  "id": 1209839777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.60395,13.60877,7.60395,13.60877",
+    "geom:latitude":13.60877,
+    "geom:longitude":7.60395,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tabkin Mouri",
+    "gn:country_code":"NE",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6723059,
+    "gn:latitude":13.60877,
+    "gn:longitude":7.60395,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Tabkin Mouri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6723059
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"d70fbc929e4de82dbf4c5b31833b7fb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051197,
+            "locality_id":1209839777,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1209839777,
+    "wof:lastmodified":1536393243,
+    "wof:name":"Tabkin Mouri",
+    "wof:parent_id":1092051197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.60395,
+    13.60877,
+    7.60395,
+    13.60877
+],
+  "geometry": {"coordinates":[7.60395,13.60877],"type":"Point"}
+}

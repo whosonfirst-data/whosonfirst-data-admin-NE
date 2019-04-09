@@ -1,0 +1,71 @@
+{
+  "id": 1259377817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.66295,13.78656,1.66295,13.78656",
+    "geom:latitude":13.78656,
+    "geom:longitude":1.66295,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Koyria Tegui",
+    "gn:country_code":"NE",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441795,
+    "gn:latitude":13.78656,
+    "gn:longitude":1.66295,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Koyria T\u00e9gui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kwara Tagui",
+        "Koyria T\u00e9gui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        890429081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441795
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"2635afc7e8c67b05c189b94d3b8686e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":890429081,
+            "locality_id":1259377817,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1259377817,
+    "wof:lastmodified":1537674732,
+    "wof:name":"Koyria Tegui",
+    "wof:parent_id":890429081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.66295,
+    13.78656,
+    1.66295,
+    13.78656
+],
+  "geometry": {"coordinates":[1.66295,13.78656],"type":"Point"}
+}

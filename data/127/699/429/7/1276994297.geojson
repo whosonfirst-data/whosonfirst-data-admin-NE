@@ -1,0 +1,67 @@
+{
+  "id": 1276994297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.09949,13.57219,12.09949,13.57219",
+    "geom:latitude":13.57219,
+    "geom:longitude":12.09949,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ngorgalo",
+    "gn:country_code":"NE",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6776884,
+    "gn:latitude":13.57219,
+    "gn:longitude":12.09949,
+    "gn:modification_date":"2013-03-06",
+    "gn:name":"Ngorgalo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6776884
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"843b9ce035229e5b4955e47d8f54367c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051363,
+            "locality_id":1276994297,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1276994297,
+    "wof:lastmodified":1536887179,
+    "wof:name":"Ngorgalo",
+    "wof:parent_id":1092051363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.09949,
+    13.57219,
+    12.09949,
+    13.57219
+],
+  "geometry": {"coordinates":[12.09949,13.57219],"type":"Point"}
+}

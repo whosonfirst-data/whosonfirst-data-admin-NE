@@ -1,0 +1,71 @@
+{
+  "id": 1242881779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.93516,12.91395,2.93516,12.91395",
+    "geom:latitude":12.91395,
+    "geom:longitude":2.93516,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Were Guietamey Zarma",
+    "gn:country_code":"NE",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8420337,
+    "gn:latitude":12.91395,
+    "gn:longitude":2.93516,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"W\u00e9r\u00e9 Gui\u00e9tamey Zarma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "W\u00e9r\u00e9 Gui\u00e9tamey Zarma",
+        "Doubangou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8420337
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"d41649554f9d77e7b7cfb8e3842639c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051075,
+            "locality_id":1242881779,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1242881779,
+    "wof:lastmodified":1537674895,
+    "wof:name":"Were Guietamey Zarma",
+    "wof:parent_id":1092051075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.93516,
+    12.91395,
+    2.93516,
+    12.91395
+],
+  "geometry": {"coordinates":[2.93516,12.91395],"type":"Point"}
+}

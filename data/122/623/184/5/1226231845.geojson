@@ -1,0 +1,67 @@
+{
+  "id": 1226231845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.03495,14.81003,2.03495,14.81003",
+    "geom:latitude":14.81003,
+    "geom:longitude":2.03495,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Yobangou",
+    "gn:country_code":"NE",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6827416,
+    "gn:latitude":14.81003,
+    "gn:longitude":2.03495,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Yobangou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6827416
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"1fc24d741df5d1cfefb3ce9415908982",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051633,
+            "locality_id":1226231845,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1226231845,
+    "wof:lastmodified":1536953780,
+    "wof:name":"Yobangou",
+    "wof:parent_id":1092051633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.03495,
+    14.81003,
+    2.03495,
+    14.81003
+],
+  "geometry": {"coordinates":[2.03495,14.81003],"type":"Point"}
+}

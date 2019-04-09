@@ -1,0 +1,67 @@
+{
+  "id": 1343965651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.88552,12.61606,2.88552,12.61606",
+    "geom:latitude":12.61606,
+    "geom:longitude":2.88552,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bouringa",
+    "gn:country_code":"NE",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446489,
+    "gn:latitude":12.61606,
+    "gn:longitude":2.88552,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Bouringa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446489
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"f90f3326842d323c0b57c0610471a762",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051075,
+            "locality_id":1343965651,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1343965651,
+    "wof:lastmodified":1537011680,
+    "wof:name":"Bouringa",
+    "wof:parent_id":1092051075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.88552,
+    12.61606,
+    2.88552,
+    12.61606
+],
+  "geometry": {"coordinates":[2.88552,12.61606],"type":"Point"}
+}

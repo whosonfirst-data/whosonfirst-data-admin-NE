@@ -1,0 +1,71 @@
+{
+  "id": 1293099263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.54531,14.44937,6.54531,14.44937",
+    "geom:latitude":14.44937,
+    "geom:longitude":6.54531,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ginda",
+    "gn:country_code":"NE",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2443493,
+    "gn:latitude":14.44937,
+    "gn:longitude":6.54531,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ginda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guindaraoua",
+        "Ginda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2443493
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"8d77678ca0138f94c8c770ca4a8aabd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1293099263,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1293099263,
+    "wof:lastmodified":1537674768,
+    "wof:name":"Ginda",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.54531,
+    14.44937,
+    6.54531,
+    14.44937
+],
+  "geometry": {"coordinates":[6.54531,14.44937],"type":"Point"}
+}

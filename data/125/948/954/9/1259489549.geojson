@@ -1,0 +1,72 @@
+{
+  "id": 1259489549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.51766,13.78928,7.51766,13.78928",
+    "geom:latitude":13.78928,
+    "geom:longitude":7.51766,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Guidan Sono Sofoua",
+    "gn:country_code":"NE",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2443591,
+    "gn:latitude":13.78928,
+    "gn:longitude":7.51766,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Guidan Sono Sofoua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gidan Sono",
+        "Guidan Sono",
+        "Guidan Sono Sofoua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2443591
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"c9c41fe86069d9cfa2e2f49b42bde5c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051435,
+            "locality_id":1259489549,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1259489549,
+    "wof:lastmodified":1537674772,
+    "wof:name":"Guidan Sono Sofoua",
+    "wof:parent_id":1092051435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.51766,
+    13.78928,
+    7.51766,
+    13.78928
+],
+  "geometry": {"coordinates":[7.51766,13.78928],"type":"Point"}
+}

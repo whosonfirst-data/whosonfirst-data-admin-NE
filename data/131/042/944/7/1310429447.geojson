@@ -1,0 +1,67 @@
+{
+  "id": 1310429447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.62124,14.18091,6.62124,14.18091",
+    "geom:latitude":14.18091,
+    "geom:longitude":6.62124,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Garin Bara",
+    "gn:country_code":"NE",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6849880,
+    "gn:latitude":14.18091,
+    "gn:longitude":6.62124,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Garin Bara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6849880
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"8c86d9186adb03198ec4ba947f2827df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1310429447,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1310429447,
+    "wof:lastmodified":1537025546,
+    "wof:name":"Garin Bara",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.62124,
+    14.18091,
+    6.62124,
+    14.18091
+],
+  "geometry": {"coordinates":[6.62124,14.18091],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327442837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.89764,12.72174,3.89764,12.72174",
+    "geom:latitude":12.72174,
+    "geom:longitude":3.89764,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Balgari",
+    "gn:country_code":"NE",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447221,
+    "gn:latitude":12.72174,
+    "gn:longitude":3.89764,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Balgari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Belegari",
+        "Balgari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675447,
+        1108563027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447221
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"dc66cebe85b7165192ff534254c8a03b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563027,
+            "locality_id":1327442837,
+            "region_id":85675447
+        }
+    ],
+    "wof:id":1327442837,
+    "wof:lastmodified":1537674859,
+    "wof:name":"Balgari",
+    "wof:parent_id":1108563027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.89764,
+    12.72174,
+    3.89764,
+    12.72174
+],
+  "geometry": {"coordinates":[3.89764,12.72174],"type":"Point"}
+}

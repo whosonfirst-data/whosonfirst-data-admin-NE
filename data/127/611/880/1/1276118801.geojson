@@ -1,0 +1,67 @@
+{
+  "id": 1276118801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.67428,14.45386,6.67428,14.45386",
+    "geom:latitude":14.45386,
+    "geom:longitude":6.67428,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Labo Dan Salao",
+    "gn:country_code":"NE",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6849289,
+    "gn:latitude":14.45386,
+    "gn:longitude":6.67428,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Labo Dan Salao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6849289
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"d52b3e36a112757d0431093eaf83d1e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1276118801,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1276118801,
+    "wof:lastmodified":1537063284,
+    "wof:name":"Labo Dan Salao",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.67428,
+    14.45386,
+    6.67428,
+    14.45386
+],
+  "geometry": {"coordinates":[6.67428,14.45386],"type":"Point"}
+}

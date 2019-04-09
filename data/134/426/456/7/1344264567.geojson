@@ -1,0 +1,67 @@
+{
+  "id": 1344264567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.5712,12.09889,3.5712,12.09889",
+    "geom:latitude":12.09889,
+    "geom:longitude":3.5712,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Malankadi",
+    "gn:country_code":"NE",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441377,
+    "gn:latitude":12.09889,
+    "gn:longitude":3.5712,
+    "gn:modification_date":"2009-02-17",
+    "gn:name":"Malankadi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092050969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441377
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"13b9bbc5bb1f581eb02381552328c5e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092050969,
+            "locality_id":1344264567,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1344264567,
+    "wof:lastmodified":1537075074,
+    "wof:name":"Malankadi",
+    "wof:parent_id":1092050969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.5712,
+    12.09889,
+    3.5712,
+    12.09889
+],
+  "geometry": {"coordinates":[3.5712,12.09889],"type":"Point"}
+}

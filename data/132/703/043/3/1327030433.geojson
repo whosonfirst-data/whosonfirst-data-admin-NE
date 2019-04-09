@@ -1,0 +1,71 @@
+{
+  "id": 1327030433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.93181,13.38401,7.93181,13.38401",
+    "geom:latitude":13.38401,
+    "geom:longitude":7.93181,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ya-da-gammo",
+    "gn:country_code":"NE",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438058,
+    "gn:latitude":13.38401,
+    "gn:longitude":7.93181,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Y\u00e2-da-gammo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yadagamo",
+        "Y\u00e2-da-gammo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438058
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"aaf931b308c570ff0767b673d17f9aa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051197,
+            "locality_id":1327030433,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1327030433,
+    "wof:lastmodified":1537674655,
+    "wof:name":"Ya-da-gammo",
+    "wof:parent_id":1092051197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.93181,
+    13.38401,
+    7.93181,
+    13.38401
+],
+  "geometry": {"coordinates":[7.93181,13.38401],"type":"Point"}
+}

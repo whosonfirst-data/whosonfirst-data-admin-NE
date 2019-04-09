@@ -1,0 +1,71 @@
+{
+  "id": 1360287321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.25982,12.89834,3.25982,12.89834",
+    "geom:latitude":12.89834,
+    "geom:longitude":3.25982,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Banikoubey",
+    "gn:country_code":"NE",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447110,
+    "gn:latitude":12.89834,
+    "gn:longitude":3.25982,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Banikoubey",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Banikoub\u00e8ye",
+        "Banikoubey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447110
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"fba1ce68f9acc0c7e525be32b740cfbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051041,
+            "locality_id":1360287321,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1360287321,
+    "wof:lastmodified":1537674856,
+    "wof:name":"Banikoubey",
+    "wof:parent_id":1092051041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.25982,
+    12.89834,
+    3.25982,
+    12.89834
+],
+  "geometry": {"coordinates":[3.25982,12.89834],"type":"Point"}
+}

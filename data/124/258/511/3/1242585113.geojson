@@ -1,0 +1,72 @@
+{
+  "id": 1242585113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.9342,13.0161,2.9342,13.0161",
+    "geom:latitude":13.0161,
+    "geom:longitude":2.9342,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kara",
+    "gn:country_code":"NE",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442665,
+    "gn:latitude":13.0161,
+    "gn:longitude":2.9342,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karra",
+        "Karda",
+        "Kara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442665
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"98e1e0b299e21f321079ab9f7d1b4126",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051075,
+            "locality_id":1242585113,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1242585113,
+    "wof:lastmodified":1537674754,
+    "wof:name":"Kara",
+    "wof:parent_id":1092051075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.9342,
+    13.0161,
+    2.9342,
+    13.0161
+],
+  "geometry": {"coordinates":[2.9342,13.0161],"type":"Point"}
+}

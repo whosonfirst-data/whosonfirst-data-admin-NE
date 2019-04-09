@@ -1,0 +1,73 @@
+{
+  "id": 1310326421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.96802,15.04523,8.96802,15.04523",
+    "geom:latitude":15.04523,
+    "geom:longitude":8.96802,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ganmaram",
+    "gn:country_code":"NE",
+    "gn:dem":510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444795,
+    "gn:latitude":15.04523,
+    "gn:longitude":8.96802,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ganmaram",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oamram",
+        "Gamran",
+        "Gamram",
+        "Ganmaram"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444795
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"cb8205cb9033267c60fa73e5551094c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1310326421,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1310326421,
+    "wof:lastmodified":1537674804,
+    "wof:name":"Ganmaram",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.96802,
+    15.04523,
+    8.96802,
+    15.04523
+],
+  "geometry": {"coordinates":[8.96802,15.04523],"type":"Point"}
+}

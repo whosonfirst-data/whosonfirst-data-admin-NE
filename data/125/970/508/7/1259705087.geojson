@@ -1,0 +1,67 @@
+{
+  "id": 1259705087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.0581,14.0319,10.0581,14.0319",
+    "geom:latitude":14.0319,
+    "geom:longitude":10.0581,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ouadja",
+    "gn:country_code":"NE",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6848304,
+    "gn:latitude":14.0319,
+    "gn:longitude":10.0581,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Ouadja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6848304
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"92e4dabca7e774b261bdc4cea9e5c47f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051753,
+            "locality_id":1259705087,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1259705087,
+    "wof:lastmodified":1537034509,
+    "wof:name":"Ouadja",
+    "wof:parent_id":1092051753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0581,
+    14.0319,
+    10.0581,
+    14.0319
+],
+  "geometry": {"coordinates":[10.0581,14.0319],"type":"Point"}
+}

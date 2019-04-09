@@ -1,0 +1,71 @@
+{
+  "id": 1226143249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.09889,13.61404,7.09889,13.61404",
+    "geom:latitude":13.61404,
+    "geom:longitude":7.09889,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ouban Dawaki",
+    "gn:country_code":"NE",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2440333,
+    "gn:latitude":13.61404,
+    "gn:longitude":7.09889,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ouban Daw\u00e2k\u00ee",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oubandawaki Alfacha",
+        "Ouban Daw\u00e2k\u00ee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2440333
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"87d331c71679426d5203357b5fba93e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051229,
+            "locality_id":1226143249,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1226143249,
+    "wof:lastmodified":1537674703,
+    "wof:name":"Ouban Dawaki",
+    "wof:parent_id":1092051229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.09889,
+    13.61404,
+    7.09889,
+    13.61404
+],
+  "geometry": {"coordinates":[7.09889,13.61404],"type":"Point"}
+}

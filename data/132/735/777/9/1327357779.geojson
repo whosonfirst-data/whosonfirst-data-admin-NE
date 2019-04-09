@@ -1,0 +1,71 @@
+{
+  "id": 1327357779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.04447,13.63935,7.04447,13.63935",
+    "geom:latitude":13.63935,
+    "geom:longitude":7.04447,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Taka Lafia",
+    "gn:country_code":"NE",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439351,
+    "gn:latitude":13.63935,
+    "gn:longitude":7.04447,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Taka Lafia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taka Lafiya",
+        "Taka Lafia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439351
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"9ec4ce2a14d623127269b4966c96703d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051229,
+            "locality_id":1327357779,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1327357779,
+    "wof:lastmodified":1537674682,
+    "wof:name":"Taka Lafia",
+    "wof:parent_id":1092051229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.04447,
+    13.63935,
+    7.04447,
+    13.63935
+],
+  "geometry": {"coordinates":[7.04447,13.63935],"type":"Point"}
+}

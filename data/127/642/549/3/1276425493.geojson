@@ -1,0 +1,72 @@
+{
+  "id": 1276425493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.37761,13.78818,1.37761,13.78818",
+    "geom:latitude":13.78818,
+    "geom:longitude":1.37761,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Dindiel",
+    "gn:country_code":"NE",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446789,
+    "gn:latitude":13.78818,
+    "gn:longitude":1.37761,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Dindiel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wali Kouara",
+        "Binguel",
+        "Dindiel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446789
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"8b5a62e0281b0c46be7259a0ef208d54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051545,
+            "locality_id":1276425493,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1276425493,
+    "wof:lastmodified":1537674850,
+    "wof:name":"Dindiel",
+    "wof:parent_id":1092051545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.37761,
+    13.78818,
+    1.37761,
+    13.78818
+],
+  "geometry": {"coordinates":[1.37761,13.78818],"type":"Point"}
+}

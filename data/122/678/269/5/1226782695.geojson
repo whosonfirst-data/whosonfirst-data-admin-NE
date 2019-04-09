@@ -1,0 +1,71 @@
+{
+  "id": 1226782695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.3186,14.73071,7.3186,14.73071",
+    "geom:latitude":14.73071,
+    "geom:longitude":7.3186,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Guidan Wagui",
+    "gn:country_code":"NE",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2443553,
+    "gn:latitude":14.73071,
+    "gn:longitude":7.3186,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Guidan Wagui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guidan Wagi",
+        "Guidan Wagui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2443553
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"796b111b24b64659fb753d291827b163",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1226782695,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1226782695,
+    "wof:lastmodified":1537674771,
+    "wof:name":"Guidan Wagui",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.3186,
+    14.73071,
+    7.3186,
+    14.73071
+],
+  "geometry": {"coordinates":[7.3186,14.73071],"type":"Point"}
+}

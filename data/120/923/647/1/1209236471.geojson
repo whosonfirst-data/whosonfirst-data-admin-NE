@@ -1,0 +1,61 @@
+{
+  "id": 1209236471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.20851,14.36191,6.20851,14.36191",
+    "geom:latitude":14.36191,
+    "geom:longitude":6.20851,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kodemeo",
+    "gn:country_code":"NE",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6849713,
+    "gn:latitude":14.36191,
+    "gn:longitude":6.20851,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Kod\u00e9m\u00e9o",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6849713
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"bcc4506f12920e9a36b984e77a7ee34c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209236471
+        }
+    ],
+    "wof:id":1209236471,
+    "wof:lastmodified":1536293463,
+    "wof:name":"Kodemeo",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.20851,
+    14.36191,
+    6.20851,
+    14.36191
+],
+  "geometry": {"coordinates":[6.20851,14.36191],"type":"Point"}
+}

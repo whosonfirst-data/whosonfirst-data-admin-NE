@@ -1,0 +1,67 @@
+{
+  "id": 1260277935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.8382,13.8315,2.8382,13.8315",
+    "geom:latitude":13.8315,
+    "geom:longitude":2.8382,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Malaoualaouene",
+    "gn:country_code":"NE",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6858600,
+    "gn:latitude":13.8315,
+    "gn:longitude":2.8382,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Malaoualaouene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6858600
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"ec336a394000d3b31bdf7a0f2e3e0d99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051695,
+            "locality_id":1260277935,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1260277935,
+    "wof:lastmodified":1536719753,
+    "wof:name":"Malaoualaouene",
+    "wof:parent_id":1092051695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.8382,
+    13.8315,
+    2.8382,
+    13.8315
+],
+  "geometry": {"coordinates":[2.8382,13.8315],"type":"Point"}
+}

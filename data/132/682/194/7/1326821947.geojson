@@ -1,0 +1,72 @@
+{
+  "id": 1326821947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.22925,13.55981,9.22925,13.55981",
+    "geom:latitude":13.55981,
+    "geom:longitude":9.22925,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Baoure",
+    "gn:country_code":"NE",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447050,
+    "gn:latitude":13.55981,
+    "gn:longitude":9.22925,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Baour\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baur\u00e9",
+        "Boour\u00e9",
+        "Baour\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447050
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"bed15fe03f2b5a8b47d715b4a82c3995",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051411,
+            "locality_id":1326821947,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1326821947,
+    "wof:lastmodified":1537674855,
+    "wof:name":"Baoure",
+    "wof:parent_id":1092051411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.22925,
+    13.55981,
+    9.22925,
+    13.55981
+],
+  "geometry": {"coordinates":[9.22925,13.55981],"type":"Point"}
+}

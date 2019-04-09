@@ -1,0 +1,71 @@
+{
+  "id": 1343273521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.77197,13.08154,2.77197,13.08154",
+    "geom:latitude":13.08154,
+    "geom:longitude":2.77197,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Poullo Bossadji",
+    "gn:country_code":"NE",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2440190,
+    "gn:latitude":13.08154,
+    "gn:longitude":2.77197,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Poullo Bossadji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Poulo Bossadji",
+        "Poullo Bossadji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2440190
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"bd0aa4c22b76ef40729fbca0f0642283",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051075,
+            "locality_id":1343273521,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1343273521,
+    "wof:lastmodified":1537674700,
+    "wof:name":"Poullo Bossadji",
+    "wof:parent_id":1092051075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.77197,
+    13.08154,
+    2.77197,
+    13.08154
+],
+  "geometry": {"coordinates":[2.77197,13.08154],"type":"Point"}
+}

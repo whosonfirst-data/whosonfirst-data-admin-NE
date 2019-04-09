@@ -1,0 +1,71 @@
+{
+  "id": 1343269409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.1119,13.5026,3.1119,13.5026",
+    "geom:latitude":13.5026,
+    "geom:longitude":3.1119,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kaleydeyeberi",
+    "gn:country_code":"NE",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442821,
+    "gn:latitude":13.5026,
+    "gn:longitude":3.1119,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kaleyd\u00e9y\u00e9b\u00e9ri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaleydey B\u00e9ri",
+        "Kaleyd\u00e9y\u00e9b\u00e9ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442821
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"7c96744731b27bbd9109709857029573",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051273,
+            "locality_id":1343269409,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1343269409,
+    "wof:lastmodified":1537674758,
+    "wof:name":"Kaleydeyeberi",
+    "wof:parent_id":1092051273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.1119,
+    13.5026,
+    3.1119,
+    13.5026
+],
+  "geometry": {"coordinates":[3.1119,13.5026],"type":"Point"}
+}

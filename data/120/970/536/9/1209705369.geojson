@@ -1,0 +1,72 @@
+{
+  "id": 1209705369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.7904,13.4493,2.7904,13.4493",
+    "geom:latitude":13.4493,
+    "geom:longitude":2.7904,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Dey Tegui",
+    "gn:country_code":"NE",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445761,
+    "gn:latitude":13.4493,
+    "gn:longitude":2.7904,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dey T\u00e9gui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u00e9yetagui",
+        "Dey Tagui",
+        "Dey T\u00e9gui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445761
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"26087c2929311623c68c8b259bca6e85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1209705369,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1209705369,
+    "wof:lastmodified":1537674827,
+    "wof:name":"Dey Tegui",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.7904,
+    13.4493,
+    2.7904,
+    13.4493
+],
+  "geometry": {"coordinates":[2.7904,13.4493],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1193143193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.52746,13.6252,6.52746,13.6252",
+    "geom:latitude":13.6252,
+    "geom:longitude":6.52746,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Touringoukou",
+    "gn:country_code":"NE",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438233,
+    "gn:latitude":13.6252,
+    "gn:longitude":6.52746,
+    "gn:modification_date":"2008-02-08",
+    "gn:name":"Touringoukou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438233
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"762d8062adfdf2422c0152a6fd08202e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051229,
+            "locality_id":1193143193,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1193143193,
+    "wof:lastmodified":1536364478,
+    "wof:name":"Touringoukou",
+    "wof:parent_id":1092051229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.52746,
+    13.6252,
+    6.52746,
+    13.6252
+],
+  "geometry": {"coordinates":[6.52746,13.6252],"type":"Point"}
+}

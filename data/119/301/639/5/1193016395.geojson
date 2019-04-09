@@ -1,0 +1,71 @@
+{
+  "id": 1193016395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.53561,13.98547,7.53561,13.98547",
+    "geom:latitude":13.98547,
+    "geom:longitude":7.53561,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kouminia",
+    "gn:country_code":"NE",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442781,
+    "gn:latitude":13.98547,
+    "gn:longitude":7.53561,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kouminia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kamounia",
+        "Kouminia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442781
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"65e4a1706efe5b7acf246a016f0f50e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051435,
+            "locality_id":1193016395,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1193016395,
+    "wof:lastmodified":1537674757,
+    "wof:name":"Kouminia",
+    "wof:parent_id":1092051435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.53561,
+    13.98547,
+    7.53561,
+    13.98547
+],
+  "geometry": {"coordinates":[7.53561,13.98547],"type":"Point"}
+}

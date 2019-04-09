@@ -1,0 +1,71 @@
+{
+  "id": 1293883999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.2832,14.0979,8.2832,14.0979",
+    "geom:latitude":14.0979,
+    "geom:longitude":8.2832,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Maysanbalarabe",
+    "gn:country_code":"NE",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441036,
+    "gn:latitude":14.0979,
+    "gn:longitude":8.2832,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Maysanbalarab\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maysambalarab\u00e9",
+        "Maysanbalarab\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441036
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"ef219af6a8dac1673a3574c0d5c8ca60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051389,
+            "locality_id":1293883999,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1293883999,
+    "wof:lastmodified":1537674713,
+    "wof:name":"Maysanbalarabe",
+    "wof:parent_id":1092051389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.2832,
+    14.0979,
+    8.2832,
+    14.0979
+],
+  "geometry": {"coordinates":[8.2832,14.0979],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1292900345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.9574,14.6894,7.9574,14.6894",
+    "geom:latitude":14.6894,
+    "geom:longitude":7.9574,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Guidan Inga",
+    "gn:country_code":"NE",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6812539,
+    "gn:latitude":14.6894,
+    "gn:longitude":7.9574,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Guidan Inga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6812539
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"254463dbd8c83eef88c3ed8729cc36d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1292900345,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1292900345,
+    "wof:lastmodified":1536638376,
+    "wof:name":"Guidan Inga",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.9574,
+    14.6894,
+    7.9574,
+    14.6894
+],
+  "geometry": {"coordinates":[7.9574,14.6894],"type":"Point"}
+}

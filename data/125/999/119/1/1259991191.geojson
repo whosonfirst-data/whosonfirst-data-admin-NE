@@ -1,0 +1,67 @@
+{
+  "id": 1259991191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.48696,12.14259,3.48696,12.14259",
+    "geom:latitude":12.14259,
+    "geom:longitude":3.48696,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Zanzano",
+    "gn:country_code":"NE",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437846,
+    "gn:latitude":12.14259,
+    "gn:longitude":3.48696,
+    "gn:modification_date":"2009-02-18",
+    "gn:name":"Zanzano",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092050969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437846
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"f55d29bdc921695d499a1b6874b0efb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092050969,
+            "locality_id":1259991191,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1259991191,
+    "wof:lastmodified":1536621940,
+    "wof:name":"Zanzano",
+    "wof:parent_id":1092050969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.48696,
+    12.14259,
+    3.48696,
+    12.14259
+],
+  "geometry": {"coordinates":[3.48696,12.14259],"type":"Point"}
+}

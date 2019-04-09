@@ -1,0 +1,67 @@
+{
+  "id": 1276869009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.62071,14.84812,8.62071,14.84812",
+    "geom:latitude":14.84812,
+    "geom:longitude":8.62071,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tajae",
+    "gn:country_code":"NE",
+    "gn:dem":508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439365,
+    "gn:latitude":14.84812,
+    "gn:longitude":8.62071,
+    "gn:modification_date":"2008-08-26",
+    "gn:name":"Taja\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439365
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"cd61374b5b709608d4403a8a9c64f07c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1276869009,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1276869009,
+    "wof:lastmodified":1537053449,
+    "wof:name":"Tajae",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.62071,
+    14.84812,
+    8.62071,
+    14.84812
+],
+  "geometry": {"coordinates":[8.62071,14.84812],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226034707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.55753,13.69421,1.55753,13.69421",
+    "geom:latitude":13.69421,
+    "geom:longitude":1.55753,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Larba Toloumbou",
+    "gn:country_code":"NE",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441698,
+    "gn:latitude":13.69421,
+    "gn:longitude":1.55753,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Larba Toloumbou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Larba Touloumbou",
+        "Larba Toloumbou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441698
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"d3945365d08915463b38b60458fbe4fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1226034707,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1226034707,
+    "wof:lastmodified":1537674728,
+    "wof:name":"Larba Toloumbou",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.55753,
+    13.69421,
+    1.55753,
+    13.69421
+],
+  "geometry": {"coordinates":[1.55753,13.69421],"type":"Point"}
+}

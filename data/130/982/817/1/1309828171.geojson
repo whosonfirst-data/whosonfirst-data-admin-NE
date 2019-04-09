@@ -1,0 +1,67 @@
+{
+  "id": 1309828171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.9349,14.8594,5.9349,14.8594",
+    "geom:latitude":14.8594,
+    "geom:longitude":5.9349,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tinkirana Te Ibarougan",
+    "gn:country_code":"NE",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6679583,
+    "gn:latitude":14.8594,
+    "gn:longitude":5.9349,
+    "gn:modification_date":"2008-02-09",
+    "gn:name":"Tinkirana T\u00e9 Ibarougan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6679583
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"bf868b5ae2d8f00090dd8a38e5d1c438",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051577,
+            "locality_id":1309828171,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1309828171,
+    "wof:lastmodified":1536898861,
+    "wof:name":"Tinkirana Te Ibarougan",
+    "wof:parent_id":1092051577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.9349,
+    14.8594,
+    5.9349,
+    14.8594
+],
+  "geometry": {"coordinates":[5.9349,14.8594],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1242767383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.30004,14.31089,2.30004,14.31089",
+    "geom:latitude":14.31089,
+    "geom:longitude":2.30004,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Talkadabey",
+    "gn:country_code":"NE",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439263,
+    "gn:latitude":14.31089,
+    "gn:longitude":2.30004,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Talkadabey",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Takaldebei",
+        "Takaldebey",
+        "Talkadabey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439263
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"24f32e9885f6a2efaf68ce813f958f47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051633,
+            "locality_id":1242767383,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1242767383,
+    "wof:lastmodified":1537674680,
+    "wof:name":"Talkadabey",
+    "wof:parent_id":1092051633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.30004,
+    14.31089,
+    2.30004,
+    14.31089
+],
+  "geometry": {"coordinates":[2.30004,14.31089],"type":"Point"}
+}

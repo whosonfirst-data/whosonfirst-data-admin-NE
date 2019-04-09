@@ -1,0 +1,67 @@
+{
+  "id": 1310408899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.92877,13.54906,12.92877,13.54906",
+    "geom:latitude":13.54906,
+    "geom:longitude":12.92877,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Digine",
+    "gn:country_code":"NE",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6777212,
+    "gn:latitude":13.54906,
+    "gn:longitude":12.92877,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Digin\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6777212
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"990c5a85ae8e6320899bb38680ebb28a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051245,
+            "locality_id":1310408899,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1310408899,
+    "wof:lastmodified":1537054016,
+    "wof:name":"Digine",
+    "wof:parent_id":1092051245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.92877,
+    13.54906,
+    12.92877,
+    13.54906
+],
+  "geometry": {"coordinates":[12.92877,13.54906],"type":"Point"}
+}

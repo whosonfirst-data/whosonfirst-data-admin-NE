@@ -1,0 +1,67 @@
+{
+  "id": 1343264853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.6907,13.6796,11.6907,13.6796",
+    "geom:latitude":13.6796,
+    "geom:longitude":11.6907,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kimeram Malam",
+    "gn:country_code":"NE",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6819680,
+    "gn:latitude":13.6796,
+    "gn:longitude":11.6907,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Kim\u00e9ram Malam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6819680
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"29a7838664c6a5b7e1457e6cc8d2128a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051363,
+            "locality_id":1343264853,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1343264853,
+    "wof:lastmodified":1537027337,
+    "wof:name":"Kimeram Malam",
+    "wof:parent_id":1092051363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.6907,
+    13.6796,
+    11.6907,
+    13.6796
+],
+  "geometry": {"coordinates":[11.6907,13.6796],"type":"Point"}
+}

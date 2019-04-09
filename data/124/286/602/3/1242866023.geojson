@@ -1,0 +1,67 @@
+{
+  "id": 1242866023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.62305,13.35,8.62305,13.35",
+    "geom:latitude":13.35,
+    "geom:longitude":8.62305,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dan Bak'o",
+    "gn:country_code":"NE",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446184,
+    "gn:latitude":13.35,
+    "gn:longitude":8.62305,
+    "gn:modification_date":"2008-04-04",
+    "gn:name":"Dan Bak'\u00f4",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446184
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"f8524fa077ff4eb0a882c35343b98e24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051165,
+            "locality_id":1242866023,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1242866023,
+    "wof:lastmodified":1536647889,
+    "wof:name":"Dan Bak'o",
+    "wof:parent_id":1092051165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.62305,
+    13.35,
+    8.62305,
+    13.35
+],
+  "geometry": {"coordinates":[8.62305,13.35],"type":"Point"}
+}

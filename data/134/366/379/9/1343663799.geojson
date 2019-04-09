@@ -1,0 +1,71 @@
+{
+  "id": 1343663799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.37289,13.65908,4.37289,13.65908",
+    "geom:latitude":13.65908,
+    "geom:longitude":4.37289,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Marake Rogo",
+    "gn:country_code":"NE",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7003112,
+    "gn:latitude":13.65908,
+    "gn:longitude":4.37289,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Marak\u00e9 Rogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuarangami",
+        "Marak\u00e9 Rogo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7003112
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"d9dc0284e3681d0778189aade30cf89c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051467,
+            "locality_id":1343663799,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1343663799,
+    "wof:lastmodified":1537674891,
+    "wof:name":"Marake Rogo",
+    "wof:parent_id":1092051467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.37289,
+    13.65908,
+    4.37289,
+    13.65908
+],
+  "geometry": {"coordinates":[4.37289,13.65908],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1326920079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.3154,13.09023,2.3154,13.09023",
+    "geom:latitude":13.09023,
+    "geom:longitude":2.3154,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Allore",
+    "gn:country_code":"NE",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447845,
+    "gn:latitude":13.09023,
+    "gn:longitude":2.3154,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Allor\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alor\u00e9",
+        "Allor\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447845
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"f0607c2b16a324d0eec1622e2fb37f20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051103,
+            "locality_id":1326920079,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1326920079,
+    "wof:lastmodified":1537674869,
+    "wof:name":"Allore",
+    "wof:parent_id":1092051103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.3154,
+    13.09023,
+    2.3154,
+    13.09023
+],
+  "geometry": {"coordinates":[2.3154,13.09023],"type":"Point"}
+}

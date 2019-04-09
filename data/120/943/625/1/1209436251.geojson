@@ -1,0 +1,61 @@
+{
+  "id": 1209436251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.46208,13.29013,8.46208,13.29013",
+    "geom:latitude":13.29013,
+    "geom:longitude":8.46208,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Yan Kitchissou",
+    "gn:country_code":"NE",
+    "gn:dem":467,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6739966,
+    "gn:latitude":13.29013,
+    "gn:longitude":8.46208,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Yan Kitchissou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6739966
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"03a5564b9dd4e06f2d2f96734760260c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209436251
+        }
+    ],
+    "wof:id":1209436251,
+    "wof:lastmodified":1536287096,
+    "wof:name":"Yan Kitchissou",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.46208,
+    13.29013,
+    8.46208,
+    13.29013
+],
+  "geometry": {"coordinates":[8.46208,13.29013],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1326820015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.50287,13.76153,1.50287,13.76153",
+    "geom:latitude":13.76153,
+    "geom:longitude":1.50287,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ndiaye",
+    "gn:country_code":"NE",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2440734,
+    "gn:latitude":13.76153,
+    "gn:longitude":1.50287,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Ndiay\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ndiah\u00e9",
+        "Ndyah\u00e9",
+        "Ndiay\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2440734
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"8c62b995d9cc66dbe100a8c0cd28b9af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051545,
+            "locality_id":1326820015,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1326820015,
+    "wof:lastmodified":1537674707,
+    "wof:name":"Ndiaye",
+    "wof:parent_id":1092051545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.50287,
+    13.76153,
+    1.50287,
+    13.76153
+],
+  "geometry": {"coordinates":[1.50287,13.76153],"type":"Point"}
+}

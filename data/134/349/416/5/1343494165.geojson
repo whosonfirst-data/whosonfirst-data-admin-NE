@@ -1,0 +1,67 @@
+{
+  "id": 1343494165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.86012,13.71963,7.86012,13.71963",
+    "geom:latitude":13.71963,
+    "geom:longitude":7.86012,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Guidan Galadima",
+    "gn:country_code":"NE",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6709598,
+    "gn:latitude":13.71963,
+    "gn:longitude":7.86012,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Guidan Galadima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6709598
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"200c0fcfdc276e0e00a04988a28f39de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051389,
+            "locality_id":1343494165,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1343494165,
+    "wof:lastmodified":1536697809,
+    "wof:name":"Guidan Galadima",
+    "wof:parent_id":1092051389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.86012,
+    13.71963,
+    7.86012,
+    13.71963
+],
+  "geometry": {"coordinates":[7.86012,13.71963],"type":"Point"}
+}

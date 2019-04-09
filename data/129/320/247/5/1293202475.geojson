@@ -1,0 +1,75 @@
+{
+  "id": 1293202475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.99774,13.10575,3.99774,13.10575",
+    "geom:latitude":13.10575,
+    "geom:longitude":3.99774,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tibiri",
+    "gn:country_code":"NE",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438775,
+    "gn:latitude":13.10575,
+    "gn:longitude":3.99774,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tibiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u0431\u0438\u0440\u0438"
+    ],
+    "name:und_x_variant":[
+        "Ibiri",
+        "Tibiri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438775,
+        "wk:page":"Tibiri_%28Doutchi%29"
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"a14a1cf438aa8a8b0bb9d5205a193416",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051467,
+            "locality_id":1293202475,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1293202475,
+    "wof:lastmodified":1537674672,
+    "wof:name":"Tibiri",
+    "wof:parent_id":1092051467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.99774,
+    13.10575,
+    3.99774,
+    13.10575
+],
+  "geometry": {"coordinates":[3.99774,13.10575],"type":"Point"}
+}

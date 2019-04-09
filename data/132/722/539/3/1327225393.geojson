@@ -1,0 +1,72 @@
+{
+  "id": 1327225393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.55101,13.49695,8.55101,13.49695",
+    "geom:latitude":13.49695,
+    "geom:longitude":8.55101,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ichirnawa",
+    "gn:country_code":"NE",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438965,
+    "gn:latitude":13.49695,
+    "gn:longitude":8.55101,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ichirnawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tchirnawa Haousa",
+        "Tchirnawa Haoussa",
+        "Ichirnawa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438965
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"08dfc1bcd75526d76d228c6749f90867",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051165,
+            "locality_id":1327225393,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1327225393,
+    "wof:lastmodified":1537674675,
+    "wof:name":"Ichirnawa",
+    "wof:parent_id":1092051165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.55101,
+    13.49695,
+    8.55101,
+    13.49695
+],
+  "geometry": {"coordinates":[8.55101,13.49695],"type":"Point"}
+}

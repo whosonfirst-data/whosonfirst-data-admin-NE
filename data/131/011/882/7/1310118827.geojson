@@ -1,0 +1,67 @@
+{
+  "id": 1310118827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.77565,13.40195,10.77565,13.40195",
+    "geom:latitude":13.40195,
+    "geom:longitude":10.77565,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kiri Bitoa",
+    "gn:country_code":"NE",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6750366,
+    "gn:latitude":13.40195,
+    "gn:longitude":10.77565,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Kiri Bitoa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6750366
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"6a2566040fafd32bc72c324f2a1c1786",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051363,
+            "locality_id":1310118827,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1310118827,
+    "wof:lastmodified":1536976638,
+    "wof:name":"Kiri Bitoa",
+    "wof:parent_id":1092051363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.77565,
+    13.40195,
+    10.77565,
+    13.40195
+],
+  "geometry": {"coordinates":[10.77565,13.40195],"type":"Point"}
+}

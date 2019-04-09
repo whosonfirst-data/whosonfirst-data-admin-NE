@@ -1,0 +1,61 @@
+{
+  "id": 1209115051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.2797,13.9348,11.2797,13.9348",
+    "geom:latitude":13.9348,
+    "geom:longitude":11.2797,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Taria",
+    "gn:country_code":"NE",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6819894,
+    "gn:latitude":13.9348,
+    "gn:longitude":11.2797,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Taria",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6819894
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"4d452eef02b1c55ef2ede9b913abe375",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209115051
+        }
+    ],
+    "wof:id":1209115051,
+    "wof:lastmodified":1536297281,
+    "wof:name":"Taria",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.2797,
+    13.9348,
+    11.2797,
+    13.9348
+],
+  "geometry": {"coordinates":[11.2797,13.9348],"type":"Point"}
+}

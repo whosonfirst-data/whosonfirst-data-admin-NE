@@ -1,0 +1,72 @@
+{
+  "id": 1293805145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.14102,13.51672,10.14102,13.51672",
+    "geom:latitude":13.51672,
+    "geom:longitude":10.14102,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Boune",
+    "gn:country_code":"NE",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446516,
+    "gn:latitude":13.51672,
+    "gn:longitude":10.14102,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Boun\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bune",
+        "Boun\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446516,
+        "wk:page":"Boune"
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"59d5c426727857000178ac7d7884d523",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051753,
+            "locality_id":1293805145,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1293805145,
+    "wof:lastmodified":1537674842,
+    "wof:name":"Boune",
+    "wof:parent_id":1092051753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.14102,
+    13.51672,
+    10.14102,
+    13.51672
+],
+  "geometry": {"coordinates":[10.14102,13.51672],"type":"Point"}
+}

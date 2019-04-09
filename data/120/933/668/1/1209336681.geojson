@@ -1,0 +1,61 @@
+{
+  "id": 1209336681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.06248,13.71998,6.06248,13.71998",
+    "geom:latitude":13.71998,
+    "geom:longitude":6.06248,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Zamatawa",
+    "gn:country_code":"NE",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437902,
+    "gn:latitude":13.71998,
+    "gn:longitude":6.06248,
+    "gn:modification_date":"2008-02-07",
+    "gn:name":"Zamatawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437902
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"092264a3b58756972b88efc78dbc796c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209336681
+        }
+    ],
+    "wof:id":1209336681,
+    "wof:lastmodified":1536290197,
+    "wof:name":"Zamatawa",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.06248,
+    13.71998,
+    6.06248,
+    13.71998
+],
+  "geometry": {"coordinates":[6.06248,13.71998],"type":"Point"}
+}

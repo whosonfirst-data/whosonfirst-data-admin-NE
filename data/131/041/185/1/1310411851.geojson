@@ -1,0 +1,67 @@
+{
+  "id": 1310411851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.22535,13.86032,7.22535,13.86032",
+    "geom:latitude":13.86032,
+    "geom:longitude":7.22535,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dan Gaida",
+    "gn:country_code":"NE",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6705735,
+    "gn:latitude":13.86032,
+    "gn:longitude":7.22535,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Dan Ga\u00efda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6705735
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"6f73d0d939dd4715723fb28b4fa4028a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1310411851,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1310411851,
+    "wof:lastmodified":1537049967,
+    "wof:name":"Dan Gaida",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.22535,
+    13.86032,
+    7.22535,
+    13.86032
+],
+  "geometry": {"coordinates":[7.22535,13.86032],"type":"Point"}
+}

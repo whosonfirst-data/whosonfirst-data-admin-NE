@@ -1,0 +1,70 @@
+{
+  "id": 1343345883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.4515,14.22752,1.4515,14.22752",
+    "geom:latitude":14.22752,
+    "geom:longitude":1.4515,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tilakeyna",
+    "gn:country_code":"NE",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438690,
+    "gn:latitude":14.22752,
+    "gn:longitude":1.4515,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Tilakeyna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tilakeina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        890429081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438690
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"404fcf15eb2a52db328b9ff57ffe20db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":890429081,
+            "locality_id":1343345883,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1343345883,
+    "wof:lastmodified":1537674671,
+    "wof:name":"Tilakeyna",
+    "wof:parent_id":890429081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.4515,
+    14.22752,
+    1.4515,
+    14.22752
+],
+  "geometry": {"coordinates":[1.4515,14.22752],"type":"Point"}
+}

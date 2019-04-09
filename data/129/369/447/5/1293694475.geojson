@@ -1,0 +1,71 @@
+{
+  "id": 1293694475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.28,13.2609,3.28,13.2609",
+    "geom:latitude":13.2609,
+    "geom:longitude":3.28,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tirobideye",
+    "gn:country_code":"NE",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438550,
+    "gn:latitude":13.2609,
+    "gn:longitude":3.28,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tirobid\u00e8ye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tirobidey",
+        "Tirobid\u00e8ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438550
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"bf6b84ba1a3b9d71dd373d82d82e5fec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051041,
+            "locality_id":1293694475,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1293694475,
+    "wof:lastmodified":1537674669,
+    "wof:name":"Tirobideye",
+    "wof:parent_id":1092051041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.28,
+    13.2609,
+    3.28,
+    13.2609
+],
+  "geometry": {"coordinates":[3.28,13.2609],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209599723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.35315,13.10484,1.35315,13.10484",
+    "geom:latitude":13.10484,
+    "geom:longitude":1.35315,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Nassile",
+    "gn:country_code":"NE",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2440755,
+    "gn:latitude":13.10484,
+    "gn:longitude":1.35315,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Nassil\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nasil\u00e9",
+        "Nassil\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2440755
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"f4041deea6aeccfb8fbe9d728ac7277f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209599723
+        }
+    ],
+    "wof:id":1209599723,
+    "wof:lastmodified":1537674708,
+    "wof:name":"Nassile",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.35315,
+    13.10484,
+    1.35315,
+    13.10484
+],
+  "geometry": {"coordinates":[1.35315,13.10484],"type":"Point"}
+}

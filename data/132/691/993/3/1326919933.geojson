@@ -1,0 +1,71 @@
+{
+  "id": 1326919933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.84325,14.10412,2.84325,14.10412",
+    "geom:latitude":14.10412,
+    "geom:longitude":2.84325,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ataloga",
+    "gn:country_code":"NE",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447450,
+    "gn:latitude":14.10412,
+    "gn:longitude":2.84325,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Ataloga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Atta-Loga",
+        "Ataloga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447450
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"95ad0bbbc8fb249b7ce838821acad849",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051695,
+            "locality_id":1326919933,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1326919933,
+    "wof:lastmodified":1537674864,
+    "wof:name":"Ataloga",
+    "wof:parent_id":1092051695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.84325,
+    14.10412,
+    2.84325,
+    14.10412
+],
+  "geometry": {"coordinates":[2.84325,14.10412],"type":"Point"}
+}

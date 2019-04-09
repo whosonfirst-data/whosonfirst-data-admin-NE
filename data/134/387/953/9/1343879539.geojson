@@ -1,0 +1,67 @@
+{
+  "id": 1343879539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.2325,14.5413,10.2325,14.5413",
+    "geom:latitude":14.5413,
+    "geom:longitude":10.2325,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Magueraoua",
+    "gn:country_code":"NE",
+    "gn:dem":517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6847849,
+    "gn:latitude":14.5413,
+    "gn:longitude":10.2325,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Magueraoua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6847849
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"ebbc6a9cc2bd4af1ebf7f9dafabf010f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051753,
+            "locality_id":1343879539,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1343879539,
+    "wof:lastmodified":1536638057,
+    "wof:name":"Magueraoua",
+    "wof:parent_id":1092051753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2325,
+    14.5413,
+    10.2325,
+    14.5413
+],
+  "geometry": {"coordinates":[10.2325,14.5413],"type":"Point"}
+}

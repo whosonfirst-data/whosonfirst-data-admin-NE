@@ -1,0 +1,71 @@
+{
+  "id": 1309827297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.46293,13.53926,8.46293,13.53926",
+    "geom:latitude":13.53926,
+    "geom:longitude":8.46293,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kantche",
+    "gn:country_code":"NE",
+    "gn:dem":425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2442705,
+    "gn:latitude":13.53926,
+    "gn:longitude":8.46293,
+    "gn:modification_date":"2013-10-06",
+    "gn:name":"Kantch\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kantch\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442705,
+        "wk:page":"Kantche"
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"f0de690d11d863041dfd15c449a266b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051165,
+            "locality_id":1309827297,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1309827297,
+    "wof:lastmodified":1537674756,
+    "wof:name":"Kantche",
+    "wof:parent_id":1092051165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.46293,
+    13.53926,
+    8.46293,
+    13.53926
+],
+  "geometry": {"coordinates":[8.46293,13.53926],"type":"Point"}
+}

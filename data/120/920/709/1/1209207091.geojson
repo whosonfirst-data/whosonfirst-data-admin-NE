@@ -1,0 +1,61 @@
+{
+  "id": 1209207091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.03763,14.97514,6.03763,14.97514",
+    "geom:latitude":14.97514,
+    "geom:longitude":6.03763,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Deket",
+    "gn:country_code":"NE",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6849324,
+    "gn:latitude":14.97514,
+    "gn:longitude":6.03763,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"D\u00e9ket",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6849324
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"8dc4588f57b109ed47778cb56ca29a7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209207091
+        }
+    ],
+    "wof:id":1209207091,
+    "wof:lastmodified":1536294418,
+    "wof:name":"Deket",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.03763,
+    14.97514,
+    6.03763,
+    14.97514
+],
+  "geometry": {"coordinates":[6.03763,14.97514],"type":"Point"}
+}

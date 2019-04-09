@@ -1,0 +1,67 @@
+{
+  "id": 1226349889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.86757,12.9569,3.86757,12.9569",
+    "geom:latitude":12.9569,
+    "geom:longitude":3.86757,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Angoa Yaro",
+    "gn:country_code":"NE",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447668,
+    "gn:latitude":12.9569,
+    "gn:longitude":3.86757,
+    "gn:modification_date":"2009-03-17",
+    "gn:name":"Angoa Yaro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447668
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"d726ac0a9d7df24a0fcba41963cf27b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051467,
+            "locality_id":1226349889,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1226349889,
+    "wof:lastmodified":1536783905,
+    "wof:name":"Angoa Yaro",
+    "wof:parent_id":1092051467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.86757,
+    12.9569,
+    3.86757,
+    12.9569
+],
+  "geometry": {"coordinates":[3.86757,12.9569],"type":"Point"}
+}

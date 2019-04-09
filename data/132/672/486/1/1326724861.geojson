@@ -1,0 +1,71 @@
+{
+  "id": 1326724861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.62853,13.79774,1.62853,13.79774",
+    "geom:latitude":13.79774,
+    "geom:longitude":1.62853,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Farie Goungou",
+    "gn:country_code":"NE",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445077,
+    "gn:latitude":13.79774,
+    "gn:longitude":1.62853,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Fari\u00e9 Goungou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Far\u00e9 Goungou",
+        "Fari\u00e9 Goungou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        890429081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445077
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"237582623e0ace9afbc6c3fb71a710b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":890429081,
+            "locality_id":1326724861,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1326724861,
+    "wof:lastmodified":1537674810,
+    "wof:name":"Farie Goungou",
+    "wof:parent_id":890429081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.62853,
+    13.79774,
+    1.62853,
+    13.79774
+],
+  "geometry": {"coordinates":[1.62853,13.79774],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259981431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.9553,13.2617,2.9553,13.2617",
+    "geom:latitude":13.2617,
+    "geom:longitude":2.9553,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kissin Kissin",
+    "gn:country_code":"NE",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6858463,
+    "gn:latitude":13.2617,
+    "gn:longitude":2.9553,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Kissin Kissin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6858463
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"6ec4c94065a0fbff5575c9672f71047b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051075,
+            "locality_id":1259981431,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1259981431,
+    "wof:lastmodified":1536636943,
+    "wof:name":"Kissin Kissin",
+    "wof:parent_id":1092051075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.9553,
+    13.2617,
+    2.9553,
+    13.2617
+],
+  "geometry": {"coordinates":[2.9553,13.2617],"type":"Point"}
+}

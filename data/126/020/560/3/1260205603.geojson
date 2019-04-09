@@ -1,0 +1,67 @@
+{
+  "id": 1260205603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.56432,13.87031,5.56432,13.87031",
+    "geom:latitude":13.87031,
+    "geom:longitude":5.56432,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tounga",
+    "gn:country_code":"NE",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7015589,
+    "gn:latitude":13.87031,
+    "gn:longitude":5.56432,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Tounga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675433,
+        1108563383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7015589
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"9fd0e66f232e0416a6ab3af5ff6f7f29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563383,
+            "locality_id":1260205603,
+            "region_id":85675433
+        }
+    ],
+    "wof:id":1260205603,
+    "wof:lastmodified":1536816922,
+    "wof:name":"Tounga",
+    "wof:parent_id":1108563383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.56432,
+    13.87031,
+    5.56432,
+    13.87031
+],
+  "geometry": {"coordinates":[5.56432,13.87031],"type":"Point"}
+}

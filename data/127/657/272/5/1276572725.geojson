@@ -1,0 +1,67 @@
+{
+  "id": 1276572725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.31759,13.70047,9.31759,13.70047",
+    "geom:latitude":13.70047,
+    "geom:longitude":9.31759,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Gankyo",
+    "gn:country_code":"NE",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6806876,
+    "gn:latitude":13.70047,
+    "gn:longitude":9.31759,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Gankyo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6806876
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"281b26f2ecdd6b14e2f704182f8fa712",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051411,
+            "locality_id":1276572725,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1276572725,
+    "wof:lastmodified":1536955560,
+    "wof:name":"Gankyo",
+    "wof:parent_id":1092051411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.31759,
+    13.70047,
+    9.31759,
+    13.70047
+],
+  "geometry": {"coordinates":[9.31759,13.70047],"type":"Point"}
+}

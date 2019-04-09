@@ -1,0 +1,67 @@
+{
+  "id": 1309717991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.84277,14.35175,6.84277,14.35175",
+    "geom:latitude":14.35175,
+    "geom:longitude":6.84277,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dan Marke",
+    "gn:country_code":"NE",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6849256,
+    "gn:latitude":14.35175,
+    "gn:longitude":6.84277,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Dan Mark\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6849256
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"8e49c60ae676f484a875a6d3dc4a9dae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1309717991,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1309717991,
+    "wof:lastmodified":1537055243,
+    "wof:name":"Dan Marke",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.84277,
+    14.35175,
+    6.84277,
+    14.35175
+],
+  "geometry": {"coordinates":[6.84277,14.35175],"type":"Point"}
+}

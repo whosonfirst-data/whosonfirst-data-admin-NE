@@ -1,0 +1,65 @@
+{
+  "id": 1209616927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.0214,13.5036,3.0214,13.5036",
+    "geom:latitude":13.5036,
+    "geom:longitude":3.0214,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Dabkoudeye",
+    "gn:country_code":"NE",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446324,
+    "gn:latitude":13.5036,
+    "gn:longitude":3.0214,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dabkoudeye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dabkoudey",
+        "Dabkoudeye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446324
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"e48913f24658a88be5be432103aa3bed",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209616927
+        }
+    ],
+    "wof:id":1209616927,
+    "wof:lastmodified":1537674839,
+    "wof:name":"Dabkoudeye",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.0214,
+    13.5036,
+    3.0214,
+    13.5036
+],
+  "geometry": {"coordinates":[3.0214,13.5036],"type":"Point"}
+}

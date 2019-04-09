@@ -1,0 +1,73 @@
+{
+  "id": 1327232125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.2389,13.3494,8.2389,13.3494",
+    "geom:latitude":13.3494,
+    "geom:longitude":8.2389,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Hawan Dawaki Haoussa",
+    "gn:country_code":"NE",
+    "gn:dem":458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447427,
+    "gn:latitude":13.3494,
+    "gn:longitude":8.2389,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hawan Daw\u00e2k\u00ee Haoussa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouadi",
+        "Wadi",
+        "Awandawaki",
+        "Hawan Daw\u00e2k\u00ee Haoussa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447427
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"cf93b03f7ce61d0584d84b9dca98b8ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051389,
+            "locality_id":1327232125,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1327232125,
+    "wof:lastmodified":1537674864,
+    "wof:name":"Hawan Dawaki Haoussa",
+    "wof:parent_id":1092051389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.2389,
+    13.3494,
+    8.2389,
+    13.3494
+],
+  "geometry": {"coordinates":[8.2389,13.3494],"type":"Point"}
+}

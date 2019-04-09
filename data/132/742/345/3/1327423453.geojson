@@ -1,0 +1,67 @@
+{
+  "id": 1327423453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.1989,14.3222,3.1989,14.3222",
+    "geom:latitude":14.3222,
+    "geom:longitude":3.1989,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tigoji",
+    "gn:country_code":"NE",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438718,
+    "gn:latitude":14.3222,
+    "gn:longitude":3.1989,
+    "gn:modification_date":"2008-01-29",
+    "gn:name":"Tigoji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438718
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"558c384642509d9b5e594ac303deaf53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051695,
+            "locality_id":1327423453,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1327423453,
+    "wof:lastmodified":1536693944,
+    "wof:name":"Tigoji",
+    "wof:parent_id":1092051695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.1989,
+    14.3222,
+    3.1989,
+    14.3222
+],
+  "geometry": {"coordinates":[3.1989,14.3222],"type":"Point"}
+}

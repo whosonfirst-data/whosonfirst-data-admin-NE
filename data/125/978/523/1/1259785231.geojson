@@ -1,0 +1,71 @@
+{
+  "id": 1259785231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.05089,12.35995,3.05089,12.35995",
+    "geom:latitude":12.35995,
+    "geom:longitude":3.05089,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sambera Alfa",
+    "gn:country_code":"NE",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439936,
+    "gn:latitude":12.35995,
+    "gn:longitude":3.05089,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Samb\u00e9ra Alfa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sanb\u00e9ra-Alfa",
+        "Samb\u00e9ra Alfa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439936
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"b770cb48fbb58b4faf9413f0ca681b53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051041,
+            "locality_id":1259785231,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1259785231,
+    "wof:lastmodified":1537674694,
+    "wof:name":"Sambera Alfa",
+    "wof:parent_id":1092051041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.05089,
+    12.35995,
+    3.05089,
+    12.35995
+],
+  "geometry": {"coordinates":[3.05089,12.35995],"type":"Point"}
+}

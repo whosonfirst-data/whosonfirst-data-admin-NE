@@ -1,0 +1,67 @@
+{
+  "id": 1310317981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.71169,13.38078,10.71169,13.38078",
+    "geom:latitude":13.38078,
+    "geom:longitude":10.71169,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Boula Berma",
+    "gn:country_code":"NE",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6750362,
+    "gn:latitude":13.38078,
+    "gn:longitude":10.71169,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Boula B\u00e9rma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6750362
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"70712abcca369bfab43a964ba89d381f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051363,
+            "locality_id":1310317981,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1310317981,
+    "wof:lastmodified":1536689959,
+    "wof:name":"Boula Berma",
+    "wof:parent_id":1092051363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.71169,
+    13.38078,
+    10.71169,
+    13.38078
+],
+  "geometry": {"coordinates":[10.71169,13.38078],"type":"Point"}
+}

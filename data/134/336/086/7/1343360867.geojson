@@ -1,0 +1,71 @@
+{
+  "id": 1343360867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.30021,12.14949,3.30021,12.14949",
+    "geom:latitude":12.14949,
+    "geom:longitude":3.30021,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tokoy Bangou Nord",
+    "gn:country_code":"NE",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438503,
+    "gn:latitude":12.14949,
+    "gn:longitude":3.30021,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tokoy Bangou Nord",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tokoye-Bangou-Nord",
+        "Tokoy Bangou Nord"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092050969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438503
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"00ca6b8e5d5815f1be731ada1ad3baf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092050969,
+            "locality_id":1343360867,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1343360867,
+    "wof:lastmodified":1537674668,
+    "wof:name":"Tokoy Bangou Nord",
+    "wof:parent_id":1092050969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.30021,
+    12.14949,
+    3.30021,
+    12.14949
+],
+  "geometry": {"coordinates":[3.30021,12.14949],"type":"Point"}
+}

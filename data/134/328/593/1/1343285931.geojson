@@ -1,0 +1,67 @@
+{
+  "id": 1343285931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.65462,13.60568,6.65462,13.60568",
+    "geom:latitude":13.60568,
+    "geom:longitude":6.65462,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kaodakay",
+    "gn:country_code":"NE",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442696,
+    "gn:latitude":13.60568,
+    "gn:longitude":6.65462,
+    "gn:modification_date":"2008-02-11",
+    "gn:name":"Kaodakay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442696
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"da085aab60b652d395d815af0840babc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051229,
+            "locality_id":1343285931,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1343285931,
+    "wof:lastmodified":1536997425,
+    "wof:name":"Kaodakay",
+    "wof:parent_id":1092051229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.65462,
+    13.60568,
+    6.65462,
+    13.60568
+],
+  "geometry": {"coordinates":[6.65462,13.60568],"type":"Point"}
+}

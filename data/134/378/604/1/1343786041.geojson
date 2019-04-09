@@ -1,0 +1,71 @@
+{
+  "id": 1343786041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.71903,13.95235,7.71903,13.95235",
+    "geom:latitude":13.95235,
+    "geom:longitude":7.71903,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dad'in Mayahi",
+    "gn:country_code":"NE",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446309,
+    "gn:latitude":13.95235,
+    "gn:longitude":7.71903,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"D\u00e2d'in Mayahi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dadi Mayahi",
+        "D\u00e2d'in Mayahi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446309
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"cae7d8acf0f606950e7d2f2bf3aa27fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051435,
+            "locality_id":1343786041,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1343786041,
+    "wof:lastmodified":1537674839,
+    "wof:name":"Dad'in Mayahi",
+    "wof:parent_id":1092051435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.71903,
+    13.95235,
+    7.71903,
+    13.95235
+],
+  "geometry": {"coordinates":[7.71903,13.95235],"type":"Point"}
+}

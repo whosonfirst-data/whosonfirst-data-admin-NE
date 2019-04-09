@@ -1,0 +1,71 @@
+{
+  "id": 1226755327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.0619,13.2188,3.0619,13.2188",
+    "geom:latitude":13.2188,
+    "geom:longitude":3.0619,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sandideye",
+    "gn:country_code":"NE",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439894,
+    "gn:latitude":13.2188,
+    "gn:longitude":3.0619,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sandid\u00e8ye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sandidey",
+        "Sandid\u00e8ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439894
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"a7fdc8b80b370ab11671362dc27dcd4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051041,
+            "locality_id":1226755327,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1226755327,
+    "wof:lastmodified":1537674693,
+    "wof:name":"Sandideye",
+    "wof:parent_id":1092051041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.0619,
+    13.2188,
+    3.0619,
+    13.2188
+],
+  "geometry": {"coordinates":[3.0619,13.2188],"type":"Point"}
+}

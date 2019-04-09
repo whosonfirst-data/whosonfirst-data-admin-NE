@@ -1,0 +1,67 @@
+{
+  "id": 1243556319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.53671,12.84859,3.53671,12.84859",
+    "geom:latitude":12.84859,
+    "geom:longitude":3.53671,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tombo Dadji",
+    "gn:country_code":"NE",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438483,
+    "gn:latitude":12.84859,
+    "gn:longitude":3.53671,
+    "gn:modification_date":"2009-03-16",
+    "gn:name":"Tombo Dadji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092050969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438483
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"4d998cfc32f32ecd267ef6d8dccf9769",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092050969,
+            "locality_id":1243556319,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1243556319,
+    "wof:lastmodified":1536646736,
+    "wof:name":"Tombo Dadji",
+    "wof:parent_id":1092050969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.53671,
+    12.84859,
+    3.53671,
+    12.84859
+],
+  "geometry": {"coordinates":[3.53671,12.84859],"type":"Point"}
+}

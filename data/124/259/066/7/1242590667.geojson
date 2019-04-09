@@ -1,0 +1,73 @@
+{
+  "id": 1242590667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.06045,13.96864,13.06045,13.96864",
+    "geom:latitude":13.96864,
+    "geom:longitude":13.06045,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kournawa",
+    "gn:country_code":"NE",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442559,
+    "gn:latitude":13.96864,
+    "gn:longitude":13.06045,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Kournawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kasatia",
+        "Kassatcha",
+        "Kassatia",
+        "Kournawa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442559
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"bfc0ae25eb5dbbc9c59216c6891724ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051781,
+            "locality_id":1242590667,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1242590667,
+    "wof:lastmodified":1537674752,
+    "wof:name":"Kournawa",
+    "wof:parent_id":1092051781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.06045,
+    13.96864,
+    13.06045,
+    13.96864
+],
+  "geometry": {"coordinates":[13.06045,13.96864],"type":"Point"}
+}

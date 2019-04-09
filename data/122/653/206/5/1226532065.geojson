@@ -1,0 +1,67 @@
+{
+  "id": 1226532065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.7702,13.90388,0.7702,13.90388",
+    "geom:latitude":13.90388,
+    "geom:longitude":0.7702,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Largaddi",
+    "gn:country_code":"NE",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441696,
+    "gn:latitude":13.90388,
+    "gn:longitude":0.7702,
+    "gn:modification_date":"2008-08-15",
+    "gn:name":"Largaddi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441696
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"f73ea9a0ca8bba8ef205a995fc1240d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051545,
+            "locality_id":1226532065,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1226532065,
+    "wof:lastmodified":1537017063,
+    "wof:name":"Largaddi",
+    "wof:parent_id":1092051545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.7702,
+    13.90388,
+    0.7702,
+    13.90388
+],
+  "geometry": {"coordinates":[0.7702,13.90388],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310591015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.38483,13.72061,1.38483,13.72061",
+    "geom:latitude":13.72061,
+    "geom:longitude":1.38483,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kourgou",
+    "gn:country_code":"NE",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441886,
+    "gn:latitude":13.72061,
+    "gn:longitude":1.38483,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Kourgou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441886
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"3da35af5458ea98058b182ef46fc7c36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051545,
+            "locality_id":1310591015,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1310591015,
+    "wof:lastmodified":1536793902,
+    "wof:name":"Kourgou",
+    "wof:parent_id":1092051545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.38483,
+    13.72061,
+    1.38483,
+    13.72061
+],
+  "geometry": {"coordinates":[1.38483,13.72061],"type":"Point"}
+}

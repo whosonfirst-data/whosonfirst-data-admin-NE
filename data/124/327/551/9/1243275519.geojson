@@ -1,0 +1,67 @@
+{
+  "id": 1243275519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.64,13.1032,3.64,13.1032",
+    "geom:latitude":13.1032,
+    "geom:longitude":3.64,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Gaima-Koara",
+    "gn:country_code":"NE",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444846,
+    "gn:latitude":13.1032,
+    "gn:longitude":3.64,
+    "gn:modification_date":"2008-10-22",
+    "gn:name":"Gaima-Koara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444846
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"74ca6b321823e7122cf5554a17f50a22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051041,
+            "locality_id":1243275519,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1243275519,
+    "wof:lastmodified":1537049821,
+    "wof:name":"Gaima-Koara",
+    "wof:parent_id":1092051041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.64,
+    13.1032,
+    3.64,
+    13.1032
+],
+  "geometry": {"coordinates":[3.64,13.1032],"type":"Point"}
+}

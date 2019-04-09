@@ -1,0 +1,61 @@
+{
+  "id": 1209095963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.86833,14.36091,1.86833,14.36091",
+    "geom:latitude":14.36091,
+    "geom:longitude":1.86833,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Doudou Koira",
+    "gn:country_code":"NE",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6848514,
+    "gn:latitude":14.36091,
+    "gn:longitude":1.86833,
+    "gn:modification_date":"2013-04-05",
+    "gn:name":"Doudou Koira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6848514
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"52d3ba3e6f9face556e2c50a9898e63e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209095963
+        }
+    ],
+    "wof:id":1209095963,
+    "wof:lastmodified":1536297886,
+    "wof:name":"Doudou Koira",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.86833,
+    14.36091,
+    1.86833,
+    14.36091
+],
+  "geometry": {"coordinates":[1.86833,14.36091],"type":"Point"}
+}

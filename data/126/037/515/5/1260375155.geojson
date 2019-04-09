@@ -1,0 +1,67 @@
+{
+  "id": 1260375155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.99944,12.73269,1.99944,12.73269",
+    "geom:latitude":12.73269,
+    "geom:longitude":1.99944,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Debere",
+    "gn:country_code":"NE",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7503255,
+    "gn:latitude":12.73269,
+    "gn:longitude":1.99944,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"D\u00e9b\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7503255
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"3fd9580bac13575e850631a798894971",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051103,
+            "locality_id":1260375155,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1260375155,
+    "wof:lastmodified":1537082929,
+    "wof:name":"Debere",
+    "wof:parent_id":1092051103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.99944,
+    12.73269,
+    1.99944,
+    12.73269
+],
+  "geometry": {"coordinates":[1.99944,12.73269],"type":"Point"}
+}

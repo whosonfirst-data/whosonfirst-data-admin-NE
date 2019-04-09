@@ -1,0 +1,71 @@
+{
+  "id": 1276323465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.2921,13.9126,2.2921,13.9126",
+    "geom:latitude":13.9126,
+    "geom:longitude":2.2921,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Sinsan Samari",
+    "gn:country_code":"NE",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439681,
+    "gn:latitude":13.9126,
+    "gn:longitude":2.2921,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sinsan Samari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sinnsan Samari",
+        "Sinsan Samari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439681
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"299002fd6601b13c6f245489cc8cca0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051633,
+            "locality_id":1276323465,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1276323465,
+    "wof:lastmodified":1537674688,
+    "wof:name":"Sinsan Samari",
+    "wof:parent_id":1092051633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.2921,
+    13.9126,
+    2.2921,
+    13.9126
+],
+  "geometry": {"coordinates":[2.2921,13.9126],"type":"Point"}
+}

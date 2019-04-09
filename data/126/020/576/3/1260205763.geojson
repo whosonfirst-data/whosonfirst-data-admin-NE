@@ -1,0 +1,71 @@
+{
+  "id": 1260205763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.60834,13.99583,4.60834,13.99583",
+    "geom:latitude":13.99583,
+    "geom:longitude":4.60834,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kouroun-Kousi",
+    "gn:country_code":"NE",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441853,
+    "gn:latitude":13.99583,
+    "gn:longitude":4.60834,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kouroun-Kousi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kouroun Koussi",
+        "Kouroun-Kousi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441853
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"d506ae18683ab01717ad985afb121669",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051301,
+            "locality_id":1260205763,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1260205763,
+    "wof:lastmodified":1537674734,
+    "wof:name":"Kouroun-Kousi",
+    "wof:parent_id":1092051301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.60834,
+    13.99583,
+    4.60834,
+    13.99583
+],
+  "geometry": {"coordinates":[4.60834,13.99583],"type":"Point"}
+}

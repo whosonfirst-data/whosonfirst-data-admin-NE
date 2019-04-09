@@ -1,0 +1,67 @@
+{
+  "id": 1293006733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.39731,13.693,7.39731,13.693",
+    "geom:latitude":13.693,
+    "geom:longitude":7.39731,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dad'in Serki",
+    "gn:country_code":"NE",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6711130,
+    "gn:latitude":13.693,
+    "gn:longitude":7.39731,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"D\u00e2d'in Serki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6711130
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"044898ced2f420d8c0157c24c5e8e9f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051229,
+            "locality_id":1293006733,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1293006733,
+    "wof:lastmodified":1536982323,
+    "wof:name":"Dad'in Serki",
+    "wof:parent_id":1092051229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.39731,
+    13.693,
+    7.39731,
+    13.693
+],
+  "geometry": {"coordinates":[7.39731,13.693],"type":"Point"}
+}

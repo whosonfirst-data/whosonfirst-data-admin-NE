@@ -1,0 +1,72 @@
+{
+  "id": 1343573033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.99102,12.29917,2.99102,12.29917",
+    "geom:latitude":12.29917,
+    "geom:longitude":2.99102,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kwassi",
+    "gn:country_code":"NE",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441772,
+    "gn:latitude":12.29917,
+    "gn:longitude":2.99102,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Kwassi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koasi",
+        "Koassi",
+        "Kwassi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441772
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"795212da85192d85e7b66b4690eff99a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051075,
+            "locality_id":1343573033,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1343573033,
+    "wof:lastmodified":1537674731,
+    "wof:name":"Kwassi",
+    "wof:parent_id":1092051075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.99102,
+    12.29917,
+    2.99102,
+    12.29917
+],
+  "geometry": {"coordinates":[2.99102,12.29917],"type":"Point"}
+}

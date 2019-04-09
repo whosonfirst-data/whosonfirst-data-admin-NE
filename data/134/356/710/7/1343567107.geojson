@@ -1,0 +1,71 @@
+{
+  "id": 1343567107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.19497,14.0753,8.19497,14.0753",
+    "geom:latitude":14.0753,
+    "geom:longitude":8.19497,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kelewey",
+    "gn:country_code":"NE",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442469,
+    "gn:latitude":14.0753,
+    "gn:longitude":8.19497,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"K\u00e9l\u00e9w\u00e9y",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kelaouye",
+        "K\u00e9l\u00e9w\u00e9y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442469
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"8f5d0f9e7ff5bc4c15c54ec7f89e2f13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051389,
+            "locality_id":1343567107,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1343567107,
+    "wof:lastmodified":1537674750,
+    "wof:name":"Kelewey",
+    "wof:parent_id":1092051389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.19497,
+    14.0753,
+    8.19497,
+    14.0753
+],
+  "geometry": {"coordinates":[8.19497,14.0753],"type":"Point"}
+}

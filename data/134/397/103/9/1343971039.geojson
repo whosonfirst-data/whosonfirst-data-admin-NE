@@ -1,0 +1,67 @@
+{
+  "id": 1343971039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.2617,13.4041,11.2617,13.4041",
+    "geom:latitude":13.4041,
+    "geom:longitude":11.2617,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kange Bawo",
+    "gn:country_code":"NE",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6819439,
+    "gn:latitude":13.4041,
+    "gn:longitude":11.2617,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Kang\u00e9 Bawo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6819439
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"aeaa86ba1a1fd4a97a48e1522ae00585",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051363,
+            "locality_id":1343971039,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1343971039,
+    "wof:lastmodified":1537003915,
+    "wof:name":"Kange Bawo",
+    "wof:parent_id":1092051363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.2617,
+    13.4041,
+    11.2617,
+    13.4041
+],
+  "geometry": {"coordinates":[11.2617,13.4041],"type":"Point"}
+}

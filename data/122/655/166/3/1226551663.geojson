@@ -1,0 +1,67 @@
+{
+  "id": 1226551663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.2612,13.4428,3.2612,13.4428",
+    "geom:latitude":13.4428,
+    "geom:longitude":3.2612,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tombodiambe",
+    "gn:country_code":"NE",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438482,
+    "gn:latitude":13.4428,
+    "gn:longitude":3.2612,
+    "gn:modification_date":"2008-10-22",
+    "gn:name":"Tombodiamb\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438482
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"b6c402d6c085824269d6981272866dca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051273,
+            "locality_id":1226551663,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1226551663,
+    "wof:lastmodified":1536988655,
+    "wof:name":"Tombodiambe",
+    "wof:parent_id":1092051273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.2612,
+    13.4428,
+    3.2612,
+    13.4428
+],
+  "geometry": {"coordinates":[3.2612,13.4428],"type":"Point"}
+}

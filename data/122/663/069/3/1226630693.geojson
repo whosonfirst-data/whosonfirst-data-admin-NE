@@ -1,0 +1,71 @@
+{
+  "id": 1226630693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.23165,14.53273,0.23165,14.53273",
+    "geom:latitude":14.53273,
+    "geom:longitude":0.23165,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Fantio",
+    "gn:country_code":"NE",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445110,
+    "gn:latitude":14.53273,
+    "gn:longitude":0.23165,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Fantio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fantyo",
+        "Fantio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445110
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"7ab8f1893466b2513cb68020cf674a25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051545,
+            "locality_id":1226630693,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1226630693,
+    "wof:lastmodified":1537674811,
+    "wof:name":"Fantio",
+    "wof:parent_id":1092051545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.23165,
+    14.53273,
+    0.23165,
+    14.53273
+],
+  "geometry": {"coordinates":[0.23165,14.53273],"type":"Point"}
+}

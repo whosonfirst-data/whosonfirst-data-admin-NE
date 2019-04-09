@@ -1,0 +1,67 @@
+{
+  "id": 1276657619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.35181,14.15918,7.35181,14.15918",
+    "geom:latitude":14.15918,
+    "geom:longitude":7.35181,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Guidan Salao",
+    "gn:country_code":"NE",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2443616,
+    "gn:latitude":14.15918,
+    "gn:longitude":7.35181,
+    "gn:modification_date":"2008-08-21",
+    "gn:name":"Guidan Salao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2443616
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"90f14aa100b681f9d989ec73f0be9f65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051435,
+            "locality_id":1276657619,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1276657619,
+    "wof:lastmodified":1536840158,
+    "wof:name":"Guidan Salao",
+    "wof:parent_id":1092051435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.35181,
+    14.15918,
+    7.35181,
+    14.15918
+],
+  "geometry": {"coordinates":[7.35181,14.15918],"type":"Point"}
+}

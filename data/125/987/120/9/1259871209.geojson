@@ -1,0 +1,67 @@
+{
+  "id": 1259871209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.8357,14.1848,10.8357,14.1848",
+    "geom:latitude":14.1848,
+    "geom:longitude":10.8357,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dohinguel",
+    "gn:country_code":"NE",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6848206,
+    "gn:latitude":14.1848,
+    "gn:longitude":10.8357,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Dohingu\u00e8l",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6848206
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"56ec36215eaed9acb3f88f10c62c61cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051753,
+            "locality_id":1259871209,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1259871209,
+    "wof:lastmodified":1536797099,
+    "wof:name":"Dohinguel",
+    "wof:parent_id":1092051753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.8357,
+    14.1848,
+    10.8357,
+    14.1848
+],
+  "geometry": {"coordinates":[10.8357,14.1848],"type":"Point"}
+}

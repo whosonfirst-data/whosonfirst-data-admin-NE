@@ -1,0 +1,74 @@
+{
+  "id": 1260165669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.205,13.9955,2.205,13.9955",
+    "geom:latitude":13.9955,
+    "geom:longitude":2.205,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Deli Tondi Atou Kouara",
+    "gn:country_code":"NE",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445788,
+    "gn:latitude":13.9955,
+    "gn:longitude":2.205,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"D\u00e9li Tondi Atou Kouara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Delli-Tondi-Atou-Koara",
+        "Delli Tondi Atou Kwara",
+        "Delifondi",
+        "D\u00e9li Tondi",
+        "D\u00e9li Tondi Atou Kouara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445788
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"85e89408e28db5ef568d966ebf668cf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051633,
+            "locality_id":1260165669,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1260165669,
+    "wof:lastmodified":1537674828,
+    "wof:name":"Deli Tondi Atou Kouara",
+    "wof:parent_id":1092051633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.205,
+    13.9955,
+    2.205,
+    13.9955
+],
+  "geometry": {"coordinates":[2.205,13.9955],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1193027623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.96483,12.61783,2.96483,12.61783",
+    "geom:latitude":12.61783,
+    "geom:longitude":2.96483,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kotyetanga Keyna",
+    "gn:country_code":"NE",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442053,
+    "gn:latitude":12.61783,
+    "gn:longitude":2.96483,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Koty\u00e9tanga Keyna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koty\u00e9tangakaina",
+        "Koty\u00e9tanga Keyna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442053
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"a26ed11cefdd96fbf70e8da055eb9199",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051075,
+            "locality_id":1193027623,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1193027623,
+    "wof:lastmodified":1537674739,
+    "wof:name":"Kotyetanga Keyna",
+    "wof:parent_id":1092051075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.96483,
+    12.61783,
+    2.96483,
+    12.61783
+],
+  "geometry": {"coordinates":[2.96483,12.61783],"type":"Point"}
+}

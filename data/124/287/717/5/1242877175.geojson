@@ -1,0 +1,72 @@
+{
+  "id": 1242877175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.05,13.4,12.05,13.4",
+    "geom:latitude":13.4,
+    "geom:longitude":12.05,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bossomari",
+    "gn:cc2":"NE",
+    "gn:country_code":"NE",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446609,
+    "gn:latitude":13.4,
+    "gn:longitude":12.05,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bossomari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bosomari",
+        "Bossomari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446609
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"a79144354b95f79198570ee6d120e42f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051363,
+            "locality_id":1242877175,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1242877175,
+    "wof:lastmodified":1537674845,
+    "wof:name":"Bossomari",
+    "wof:parent_id":1092051363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.05,
+    13.4,
+    12.05,
+    13.4
+],
+  "geometry": {"coordinates":[12.05,13.4],"type":"Point"}
+}

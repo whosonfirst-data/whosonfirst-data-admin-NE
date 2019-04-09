@@ -1,0 +1,73 @@
+{
+  "id": 1293402973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.1896,13.8066,11.1896,13.8066",
+    "geom:latitude":13.8066,
+    "geom:longitude":11.1896,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kanya",
+    "gn:country_code":"NE",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442736,
+    "gn:latitude":13.8066,
+    "gn:longitude":11.1896,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kanya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kagniouakoura",
+        "Kaniua",
+        "Kanioua",
+        "Kanya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442736
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"7b21e2b4268e9556dfe8e940e3f06a5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051363,
+            "locality_id":1293402973,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1293402973,
+    "wof:lastmodified":1537674756,
+    "wof:name":"Kanya",
+    "wof:parent_id":1092051363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.1896,
+    13.8066,
+    11.1896,
+    13.8066
+],
+  "geometry": {"coordinates":[11.1896,13.8066],"type":"Point"}
+}

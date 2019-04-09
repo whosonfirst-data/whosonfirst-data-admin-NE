@@ -1,0 +1,67 @@
+{
+  "id": 1310003717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.4562,14.18683,6.4562,14.18683",
+    "geom:latitude":14.18683,
+    "geom:longitude":6.4562,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Doudan",
+    "gn:country_code":"NE",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6849818,
+    "gn:latitude":14.18683,
+    "gn:longitude":6.4562,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Doudan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6849818
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"817062389032ff7ca3bb8a157b6a0239",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051329,
+            "locality_id":1310003717,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1310003717,
+    "wof:lastmodified":1536645354,
+    "wof:name":"Doudan",
+    "wof:parent_id":1092051329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.4562,
+    14.18683,
+    6.4562,
+    14.18683
+],
+  "geometry": {"coordinates":[6.4562,14.18683],"type":"Point"}
+}

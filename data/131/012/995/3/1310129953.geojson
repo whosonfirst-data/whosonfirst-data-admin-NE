@@ -1,0 +1,67 @@
+{
+  "id": 1310129953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.54173,13.85693,7.54173,13.85693",
+    "geom:latitude":13.85693,
+    "geom:longitude":7.54173,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ga-koud'i",
+    "gn:country_code":"NE",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444837,
+    "gn:latitude":13.85693,
+    "gn:longitude":7.54173,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"G\u00e2-koud'\u00ee",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444837
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"d38f3857752a22090a086a1a93e44e5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051435,
+            "locality_id":1310129953,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1310129953,
+    "wof:lastmodified":1536961141,
+    "wof:name":"Ga-koud'i",
+    "wof:parent_id":1092051435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.54173,
+    13.85693,
+    7.54173,
+    13.85693
+],
+  "geometry": {"coordinates":[7.54173,13.85693],"type":"Point"}
+}

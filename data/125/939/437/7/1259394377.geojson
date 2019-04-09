@@ -1,0 +1,76 @@
+{
+  "id": 1259394377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.43085,12.33273,3.43085,12.33273",
+    "geom:latitude":12.33273,
+    "geom:longitude":3.43085,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kawara Debe",
+    "gn:country_code":"NE",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442502,
+    "gn:latitude":12.33273,
+    "gn:longitude":3.43085,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kawara D\u00e9b\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaouara-D\u00e9b\u00e9",
+        "Kaoura D\u00e9b\u00e9",
+        "Koara D\u00e9b\u00e9",
+        "Kaoura Debbe",
+        "Kouara D\u00e9b\u00e9",
+        "Kaouara D\u00e9bb\u00e9",
+        "Kawara D\u00e9b\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092050969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442502
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"c28d1c5cdf306fa658f248913c9ddbc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092050969,
+            "locality_id":1259394377,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1259394377,
+    "wof:lastmodified":1537674751,
+    "wof:name":"Kawara Debe",
+    "wof:parent_id":1092050969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.43085,
+    12.33273,
+    3.43085,
+    12.33273
+],
+  "geometry": {"coordinates":[3.43085,12.33273],"type":"Point"}
+}

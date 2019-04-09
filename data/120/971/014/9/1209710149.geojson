@@ -1,0 +1,67 @@
+{
+  "id": 1209710149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.7852,13.5887,2.7852,13.5887",
+    "geom:latitude":13.5887,
+    "geom:longitude":2.7852,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ko Kaina",
+    "gn:country_code":"NE",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6858554,
+    "gn:latitude":13.5887,
+    "gn:longitude":2.7852,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Ko Ka\u00efna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6858554
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"ce5d9df728e19f7d6306cc04907b9370",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1209710149,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1209710149,
+    "wof:lastmodified":1536391056,
+    "wof:name":"Ko Kaina",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.7852,
+    13.5887,
+    2.7852,
+    13.5887
+],
+  "geometry": {"coordinates":[2.7852,13.5887],"type":"Point"}
+}

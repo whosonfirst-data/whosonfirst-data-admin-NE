@@ -1,0 +1,67 @@
+{
+  "id": 1226243071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.60238,14.25961,7.60238,14.25961",
+    "geom:latitude":14.25961,
+    "geom:longitude":7.60238,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Alhadji",
+    "gn:country_code":"NE",
+    "gn:dem":441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447898,
+    "gn:latitude":14.25961,
+    "gn:longitude":7.60238,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Alhadji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447898
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"fd3b2cdca362a1dca2f49446bcd01022",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051435,
+            "locality_id":1226243071,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1226243071,
+    "wof:lastmodified":1536938226,
+    "wof:name":"Alhadji",
+    "wof:parent_id":1092051435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.60238,
+    14.25961,
+    7.60238,
+    14.25961
+],
+  "geometry": {"coordinates":[7.60238,14.25961],"type":"Point"}
+}

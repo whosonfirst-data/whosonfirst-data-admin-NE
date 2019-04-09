@@ -1,0 +1,67 @@
+{
+  "id": 1293105043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.49904,14.03223,7.49904,14.03223",
+    "geom:latitude":14.03223,
+    "geom:longitude":7.49904,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Doche",
+    "gn:country_code":"NE",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445576,
+    "gn:latitude":14.03223,
+    "gn:longitude":7.49904,
+    "gn:modification_date":"2008-08-21",
+    "gn:name":"Doch\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445576
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"ca9ff8357f1f0df88c8d53e39c6ff097",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051435,
+            "locality_id":1293105043,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1293105043,
+    "wof:lastmodified":1536840342,
+    "wof:name":"Doche",
+    "wof:parent_id":1092051435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.49904,
+    14.03223,
+    7.49904,
+    14.03223
+],
+  "geometry": {"coordinates":[7.49904,14.03223],"type":"Point"}
+}

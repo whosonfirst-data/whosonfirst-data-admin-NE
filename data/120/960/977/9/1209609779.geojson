@@ -1,0 +1,65 @@
+{
+  "id": 1209609779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.0639,14.6143,10.0639,14.6143",
+    "geom:latitude":14.6143,
+    "geom:longitude":10.0639,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Gruskil",
+    "gn:country_code":"NE",
+    "gn:dem":528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2596786,
+    "gn:latitude":14.6143,
+    "gn:longitude":10.0639,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Gruskil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Grouskil",
+        "Gruskil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2596786
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"c195be82bde2604dcfa036df646fd4b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209609779
+        }
+    ],
+    "wof:id":1209609779,
+    "wof:lastmodified":1537674877,
+    "wof:name":"Gruskil",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0639,
+    14.6143,
+    10.0639,
+    14.6143
+],
+  "geometry": {"coordinates":[10.0639,14.6143],"type":"Point"}
+}

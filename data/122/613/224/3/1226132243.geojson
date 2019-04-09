@@ -1,0 +1,67 @@
+{
+  "id": 1226132243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.5421,14.27591,1.5421,14.27591",
+    "geom:latitude":14.27591,
+    "geom:longitude":1.5421,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tanga Farma Deuxieme",
+    "gn:country_code":"NE",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8516235,
+    "gn:latitude":14.27591,
+    "gn:longitude":1.5421,
+    "gn:modification_date":"2013-04-06",
+    "gn:name":"Tanga Farma Deuxi\u00e8me",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        890429081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8516235
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"78b3571e5ac70769ed67f0a58e7f683a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":890429081,
+            "locality_id":1226132243,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1226132243,
+    "wof:lastmodified":1537093993,
+    "wof:name":"Tanga Farma Deuxieme",
+    "wof:parent_id":890429081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.5421,
+    14.27591,
+    1.5421,
+    14.27591
+],
+  "geometry": {"coordinates":[1.5421,14.27591],"type":"Point"}
+}

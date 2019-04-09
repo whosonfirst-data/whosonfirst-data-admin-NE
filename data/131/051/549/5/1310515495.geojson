@@ -1,0 +1,68 @@
+{
+  "id": 1310515495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.43333,16.37028,7.43333,16.37028",
+    "geom:latitude":16.37028,
+    "geom:longitude":7.43333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Marandet",
+    "gn:country_code":"NE",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2596707,
+    "gn:latitude":16.37028,
+    "gn:longitude":7.43333,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Marandet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675273,
+        421182277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2596707,
+        "wk:page":"Marendet"
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"e272ad81551bd32a817f828a59fc9bdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182277,
+            "locality_id":1310515495,
+            "region_id":85675273
+        }
+    ],
+    "wof:id":1310515495,
+    "wof:lastmodified":1537569970,
+    "wof:name":"Marandet",
+    "wof:parent_id":421182277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.43333,
+    16.37028,
+    7.43333,
+    16.37028
+],
+  "geometry": {"coordinates":[7.43333,16.37028],"type":"Point"}
+}

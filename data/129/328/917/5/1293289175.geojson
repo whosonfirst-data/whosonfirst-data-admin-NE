@@ -1,0 +1,67 @@
+{
+  "id": 1293289175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.96155,14.21711,1.96155,14.21711",
+    "geom:latitude":14.21711,
+    "geom:longitude":1.96155,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Assou",
+    "gn:country_code":"NE",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447465,
+    "gn:latitude":14.21711,
+    "gn:longitude":1.96155,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Assou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447465
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"248172d4e195a10e9081e1b5f2a4bd6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051633,
+            "locality_id":1293289175,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1293289175,
+    "wof:lastmodified":1537069880,
+    "wof:name":"Assou",
+    "wof:parent_id":1092051633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.96155,
+    14.21711,
+    1.96155,
+    14.21711
+],
+  "geometry": {"coordinates":[1.96155,14.21711],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310593631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.08552,14.23202,6.08552,14.23202",
+    "geom:latitude":14.23202,
+    "geom:longitude":6.08552,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Leyma",
+    "gn:country_code":"NE",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441661,
+    "gn:latitude":14.23202,
+    "gn:longitude":6.08552,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"L\u00e9yma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Leima",
+        "L\u00e9yma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441661
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"a0b557e772d44f0430af5691e2d77229",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051329,
+            "locality_id":1310593631,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1310593631,
+    "wof:lastmodified":1537674727,
+    "wof:name":"Leyma",
+    "wof:parent_id":1092051329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.08552,
+    14.23202,
+    6.08552,
+    14.23202
+],
+  "geometry": {"coordinates":[6.08552,14.23202],"type":"Point"}
+}

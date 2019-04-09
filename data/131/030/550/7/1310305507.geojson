@@ -1,0 +1,67 @@
+{
+  "id": 1310305507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.91134,14.09059,7.91134,14.09059",
+    "geom:latitude":14.09059,
+    "geom:longitude":7.91134,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bilama",
+    "gn:country_code":"NE",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446808,
+    "gn:latitude":14.09059,
+    "gn:longitude":7.91134,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Bilama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446808
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"cb21a230b6aacccfc3f43c3ddb4fbf1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051435,
+            "locality_id":1310305507,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1310305507,
+    "wof:lastmodified":1536708198,
+    "wof:name":"Bilama",
+    "wof:parent_id":1092051435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.91134,
+    14.09059,
+    7.91134,
+    14.09059
+],
+  "geometry": {"coordinates":[7.91134,14.09059],"type":"Point"}
+}

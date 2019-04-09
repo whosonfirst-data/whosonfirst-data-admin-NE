@@ -1,0 +1,67 @@
+{
+  "id": 1259668083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.2907,14.3095,3.2907,14.3095",
+    "geom:latitude":14.3095,
+    "geom:longitude":3.2907,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kabekakongou",
+    "gn:country_code":"NE",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442936,
+    "gn:latitude":14.3095,
+    "gn:longitude":3.2907,
+    "gn:modification_date":"2008-01-29",
+    "gn:name":"Kab\u00e9kakongou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442936
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"1cd8cfc013f5f2cf02fd7ce202548231",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051695,
+            "locality_id":1259668083,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1259668083,
+    "wof:lastmodified":1537086027,
+    "wof:name":"Kabekakongou",
+    "wof:parent_id":1092051695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.2907,
+    14.3095,
+    3.2907,
+    14.3095
+],
+  "geometry": {"coordinates":[3.2907,14.3095],"type":"Point"}
+}

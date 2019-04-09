@@ -1,0 +1,67 @@
+{
+  "id": 1293796853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.6252,13.7117,11.6252,13.7117",
+    "geom:latitude":13.7117,
+    "geom:longitude":11.6252,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ari Bounderam",
+    "gn:country_code":"NE",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6819717,
+    "gn:latitude":13.7117,
+    "gn:longitude":11.6252,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Ari Bound\u00e9ram",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6819717
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"f624c8a9137511dc0718c951f8da47ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051363,
+            "locality_id":1293796853,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1293796853,
+    "wof:lastmodified":1536837047,
+    "wof:name":"Ari Bounderam",
+    "wof:parent_id":1092051363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.6252,
+    13.7117,
+    11.6252,
+    13.7117
+],
+  "geometry": {"coordinates":[11.6252,13.7117],"type":"Point"}
+}

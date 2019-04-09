@@ -1,0 +1,67 @@
+{
+  "id": 1293680839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.1432,14.6474,9.1432,14.6474",
+    "geom:latitude":14.6474,
+    "geom:longitude":9.1432,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Moderam",
+    "gn:country_code":"NE",
+    "gn:dem":490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6804120,
+    "gn:latitude":14.6474,
+    "gn:longitude":9.1432,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Mod\u00e9ram",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6804120
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"b689bb8c91db90e72368e863a0a82cec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1293680839,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1293680839,
+    "wof:lastmodified":1537004899,
+    "wof:name":"Moderam",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.1432,
+    14.6474,
+    9.1432,
+    14.6474
+],
+  "geometry": {"coordinates":[9.1432,14.6474],"type":"Point"}
+}

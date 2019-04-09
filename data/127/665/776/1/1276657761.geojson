@@ -1,0 +1,71 @@
+{
+  "id": 1276657761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.94194,13.91449,7.94194,13.91449",
+    "geom:latitude":13.91449,
+    "geom:longitude":7.94194,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"El Mayahi-Sud",
+    "gn:country_code":"NE",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445261,
+    "gn:latitude":13.91449,
+    "gn:longitude":7.94194,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"El Mayahi-Sud",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Mayahi",
+        "El Mayahi-Sud"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445261
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"bbecd3b4887082d6625c7a44cd61b9bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051435,
+            "locality_id":1276657761,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1276657761,
+    "wof:lastmodified":1537674814,
+    "wof:name":"El Mayahi-Sud",
+    "wof:parent_id":1092051435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.94194,
+    13.91449,
+    7.94194,
+    13.91449
+],
+  "geometry": {"coordinates":[7.94194,13.91449],"type":"Point"}
+}

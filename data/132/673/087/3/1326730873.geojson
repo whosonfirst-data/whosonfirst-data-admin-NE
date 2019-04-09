@@ -1,0 +1,67 @@
+{
+  "id": 1326730873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.818,13.65631,6.818,13.65631",
+    "geom:latitude":13.65631,
+    "geom:longitude":6.818,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Garin Gado",
+    "gn:country_code":"NE",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444595,
+    "gn:latitude":13.65631,
+    "gn:longitude":6.818,
+    "gn:modification_date":"2008-02-11",
+    "gn:name":"Garin Gado",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444595
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"01ef773ec9b0dd2186e3c5ad342e6cc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051229,
+            "locality_id":1326730873,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1326730873,
+    "wof:lastmodified":1536697949,
+    "wof:name":"Garin Gado",
+    "wof:parent_id":1092051229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.818,
+    13.65631,
+    6.818,
+    13.65631
+],
+  "geometry": {"coordinates":[6.818,13.65631],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310592891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.50237,12.98959,9.50237,12.98959",
+    "geom:latitude":12.98959,
+    "geom:longitude":9.50237,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dan Fali",
+    "gn:country_code":"NE",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7027069,
+    "gn:latitude":12.98959,
+    "gn:longitude":9.50237,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Dan Fali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7027069
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"16ab3c1436de9a77780833a000949f23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051133,
+            "locality_id":1310592891,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1310592891,
+    "wof:lastmodified":1536791287,
+    "wof:name":"Dan Fali",
+    "wof:parent_id":1092051133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.50237,
+    12.98959,
+    9.50237,
+    12.98959
+],
+  "geometry": {"coordinates":[9.50237,12.98959],"type":"Point"}
+}

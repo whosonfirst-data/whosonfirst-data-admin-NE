@@ -1,0 +1,67 @@
+{
+  "id": 1343858743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.39551,14.65914,7.39551,14.65914",
+    "geom:latitude":14.65914,
+    "geom:longitude":7.39551,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Guidan Mayadya",
+    "gn:country_code":"NE",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2443683,
+    "gn:latitude":14.65914,
+    "gn:longitude":7.39551,
+    "gn:modification_date":"2008-08-21",
+    "gn:name":"Guidan Mayadya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2443683
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"85390783f745b0184cd8e6152fdccc3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1343858743,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1343858743,
+    "wof:lastmodified":1536669084,
+    "wof:name":"Guidan Mayadya",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.39551,
+    14.65914,
+    7.39551,
+    14.65914
+],
+  "geometry": {"coordinates":[7.39551,14.65914],"type":"Point"}
+}

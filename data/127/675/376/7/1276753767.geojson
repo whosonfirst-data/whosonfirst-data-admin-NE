@@ -1,0 +1,71 @@
+{
+  "id": 1276753767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.86914,14.88444,0.86914,14.88444",
+    "geom:latitude":14.88444,
+    "geom:longitude":0.86914,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Eleouayene",
+    "gn:country_code":"NE",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445276,
+    "gn:latitude":14.88444,
+    "gn:longitude":0.86914,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Eleouayene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El\u00e8way\u00e8n",
+        "Eleouayene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        890429081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445276
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"6fa9c3fd380ebaec2e85bf9bbdaaef32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":890429081,
+            "locality_id":1276753767,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1276753767,
+    "wof:lastmodified":1537674814,
+    "wof:name":"Eleouayene",
+    "wof:parent_id":890429081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.86914,
+    14.88444,
+    0.86914,
+    14.88444
+],
+  "geometry": {"coordinates":[0.86914,14.88444],"type":"Point"}
+}

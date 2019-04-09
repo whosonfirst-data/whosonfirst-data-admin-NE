@@ -1,0 +1,67 @@
+{
+  "id": 1343879745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.4309,13.116,9.4309,13.116",
+    "geom:latitude":13.116,
+    "geom:longitude":9.4309,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Karouta",
+    "gn:country_code":"NE",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6807044,
+    "gn:latitude":13.116,
+    "gn:longitude":9.4309,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Karouta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6807044
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"e7b0352ba95d74e92bfa28991d3f9d89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051133,
+            "locality_id":1343879745,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1343879745,
+    "wof:lastmodified":1536637737,
+    "wof:name":"Karouta",
+    "wof:parent_id":1092051133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.4309,
+    13.116,
+    9.4309,
+    13.116
+],
+  "geometry": {"coordinates":[9.4309,13.116],"type":"Point"}
+}

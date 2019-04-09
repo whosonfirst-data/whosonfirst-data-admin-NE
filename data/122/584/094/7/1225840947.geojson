@@ -1,0 +1,72 @@
+{
+  "id": 1225840947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.52015,14.11843,1.52015,14.11843",
+    "geom:latitude":14.11843,
+    "geom:longitude":1.52015,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Diadia",
+    "gn:country_code":"NE",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445737,
+    "gn:latitude":14.11843,
+    "gn:longitude":1.52015,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Diadia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Piadia",
+        "Diadia",
+        "Didia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        890429081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445737
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"689afa313e4728d14e1ba1d1fba0b622",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":890429081,
+            "locality_id":1225840947,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1225840947,
+    "wof:lastmodified":1537674825,
+    "wof:name":"Diadia",
+    "wof:parent_id":890429081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.52015,
+    14.11843,
+    1.52015,
+    14.11843
+],
+  "geometry": {"coordinates":[1.52015,14.11843],"type":"Point"}
+}

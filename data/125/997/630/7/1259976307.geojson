@@ -1,0 +1,67 @@
+{
+  "id": 1259976307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.57447,13.09844,8.57447,13.09844",
+    "geom:latitude":13.09844,
+    "geom:longitude":8.57447,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tchedia",
+    "gn:country_code":"NE",
+    "gn:dem":467,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6745091,
+    "gn:latitude":13.09844,
+    "gn:longitude":8.57447,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Tch\u00e9dia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6745091
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"cad96cba9b5b6133d1102c96223a9f87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051133,
+            "locality_id":1259976307,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1259976307,
+    "wof:lastmodified":1536644947,
+    "wof:name":"Tchedia",
+    "wof:parent_id":1092051133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.57447,
+    13.09844,
+    8.57447,
+    13.09844
+],
+  "geometry": {"coordinates":[8.57447,13.09844],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1277060887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.9174,14.8591,3.9174,14.8591",
+    "geom:latitude":14.8591,
+    "geom:longitude":3.9174,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Gerim Bakeso",
+    "gn:country_code":"NE",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444157,
+    "gn:latitude":14.8591,
+    "gn:longitude":3.9174,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"G\u00e9rim Bak\u00e8so",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gu\u00e9rim Bak\u00e9sso",
+        "G\u00e9rim Bak\u00e8so"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444157
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"a2b7415589fd11f28ce0956bbc39009c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051695,
+            "locality_id":1277060887,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1277060887,
+    "wof:lastmodified":1537674790,
+    "wof:name":"Gerim Bakeso",
+    "wof:parent_id":1092051695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.9174,
+    14.8591,
+    3.9174,
+    14.8591
+],
+  "geometry": {"coordinates":[3.9174,14.8591],"type":"Point"}
+}

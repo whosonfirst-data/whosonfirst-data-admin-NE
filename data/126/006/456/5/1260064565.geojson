@@ -1,0 +1,71 @@
+{
+  "id": 1260064565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.13028,14.04697,2.13028,14.04697",
+    "geom:latitude":14.04697,
+    "geom:longitude":2.13028,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Gatwan",
+    "gn:country_code":"NE",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444495,
+    "gn:latitude":14.04697,
+    "gn:longitude":2.13028,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Gatwan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gattaouel",
+        "Gatwan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444495
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"9fc9f12401805e3cfe1348a115ce7cf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051633,
+            "locality_id":1260064565,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1260064565,
+    "wof:lastmodified":1537674798,
+    "wof:name":"Gatwan",
+    "wof:parent_id":1092051633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.13028,
+    14.04697,
+    2.13028,
+    14.04697
+],
+  "geometry": {"coordinates":[2.13028,14.04697],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243256271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.73333,15.11667,5.73333,15.11667",
+    "geom:latitude":15.11667,
+    "geom:longitude":5.73333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kafate",
+    "gn:country_code":"NE",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442878,
+    "gn:latitude":15.11667,
+    "gn:longitude":5.73333,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Kafate",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442878
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"a13976e4e2ab59bc6a8376bc942fa570",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051813,
+            "locality_id":1243256271,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1243256271,
+    "wof:lastmodified":1537076571,
+    "wof:name":"Kafate",
+    "wof:parent_id":1092051813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.73333,
+    15.11667,
+    5.73333,
+    15.11667
+],
+  "geometry": {"coordinates":[5.73333,15.11667],"type":"Point"}
+}

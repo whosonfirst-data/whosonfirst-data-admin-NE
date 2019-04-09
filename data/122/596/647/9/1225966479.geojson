@@ -1,0 +1,67 @@
+{
+  "id": 1225966479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.08692,14.81494,6.08692,14.81494",
+    "geom:latitude":14.81494,
+    "geom:longitude":6.08692,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Gadamata Tchaba",
+    "gn:country_code":"NE",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6849481,
+    "gn:latitude":14.81494,
+    "gn:longitude":6.08692,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Gadamata Tchaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6849481
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"7e26922f1016770dcee6d17489bbd344",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051577,
+            "locality_id":1225966479,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1225966479,
+    "wof:lastmodified":1536838407,
+    "wof:name":"Gadamata Tchaba",
+    "wof:parent_id":1092051577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.08692,
+    14.81494,
+    6.08692,
+    14.81494
+],
+  "geometry": {"coordinates":[6.08692,14.81494],"type":"Point"}
+}

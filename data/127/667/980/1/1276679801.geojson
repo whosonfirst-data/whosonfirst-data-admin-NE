@@ -1,0 +1,67 @@
+{
+  "id": 1276679801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.55837,14.93624,7.55837,14.93624",
+    "geom:latitude":14.93624,
+    "geom:longitude":7.55837,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kanta",
+    "gn:country_code":"NE",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442709,
+    "gn:latitude":14.93624,
+    "gn:longitude":7.55837,
+    "gn:modification_date":"2008-08-21",
+    "gn:name":"Kanta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442709
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"108a2517554d51e384f3c3149bf87a53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1276679801,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1276679801,
+    "wof:lastmodified":1536811024,
+    "wof:name":"Kanta",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.55837,
+    14.93624,
+    7.55837,
+    14.93624
+],
+  "geometry": {"coordinates":[7.55837,14.93624],"type":"Point"}
+}

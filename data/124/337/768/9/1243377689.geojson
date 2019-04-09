@@ -1,0 +1,67 @@
+{
+  "id": 1243377689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.88683,18.91527,12.88683,18.91527",
+    "geom:latitude":18.91527,
+    "geom:longitude":12.88683,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Bezza",
+    "gn:country_code":"NE",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7060948,
+    "gn:latitude":18.91527,
+    "gn:longitude":12.88683,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Bezza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675273,
+        1092051881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7060948
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"5987f25eef8f3f7688ba5a149614efdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051881,
+            "locality_id":1243377689,
+            "region_id":85675273
+        }
+    ],
+    "wof:id":1243377689,
+    "wof:lastmodified":1536904846,
+    "wof:name":"Bezza",
+    "wof:parent_id":1092051881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.88683,
+    18.91527,
+    12.88683,
+    18.91527
+],
+  "geometry": {"coordinates":[12.88683,18.91527],"type":"Point"}
+}

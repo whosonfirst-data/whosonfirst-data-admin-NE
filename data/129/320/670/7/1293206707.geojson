@@ -1,0 +1,67 @@
+{
+  "id": 1293206707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.93436,14.09738,6.93436,14.09738",
+    "geom:latitude":14.09738,
+    "geom:longitude":6.93436,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Wala Nomao Koro",
+    "gn:country_code":"NE",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6849916,
+    "gn:latitude":14.09738,
+    "gn:longitude":6.93436,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Wala Nomao Koro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6849916
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"b83094ed71511037accd989465f11479",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1293206707,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1293206707,
+    "wof:lastmodified":1536695013,
+    "wof:name":"Wala Nomao Koro",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.93436,
+    14.09738,
+    6.93436,
+    14.09738
+],
+  "geometry": {"coordinates":[6.93436,14.09738],"type":"Point"}
+}

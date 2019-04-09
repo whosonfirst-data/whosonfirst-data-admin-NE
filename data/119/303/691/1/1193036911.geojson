@@ -1,0 +1,70 @@
+{
+  "id": 1193036911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.60343,14.3196,1.60343,14.3196",
+    "geom:latitude":14.3196,
+    "geom:longitude":1.60343,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tougoarak",
+    "gn:country_code":"NE",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6848566,
+    "gn:latitude":14.3196,
+    "gn:longitude":1.60343,
+    "gn:modification_date":"2013-04-05",
+    "gn:name":"Tougoarak",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tougorak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        890429081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6848566
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"60e56a5fb005a9076891471233c0b7c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":890429081,
+            "locality_id":1193036911,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1193036911,
+    "wof:lastmodified":1537674889,
+    "wof:name":"Tougoarak",
+    "wof:parent_id":890429081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.60343,
+    14.3196,
+    1.60343,
+    14.3196
+],
+  "geometry": {"coordinates":[1.60343,14.3196],"type":"Point"}
+}

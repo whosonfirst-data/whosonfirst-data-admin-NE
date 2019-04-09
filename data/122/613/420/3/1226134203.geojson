@@ -1,0 +1,71 @@
+{
+  "id": 1226134203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.50871,14.29597,8.50871,14.29597",
+    "geom:latitude":14.29597,
+    "geom:longitude":8.50871,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kada I",
+    "gn:country_code":"NE",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442904,
+    "gn:latitude":14.29597,
+    "gn:longitude":8.50871,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kada I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kada Ousmane",
+        "Kada I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442904
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"1ff6783b1b1fce0a1b27dfdf54d1bc80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1226134203,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1226134203,
+    "wof:lastmodified":1537674760,
+    "wof:name":"Kada I",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.50871,
+    14.29597,
+    8.50871,
+    14.29597
+],
+  "geometry": {"coordinates":[8.50871,14.29597],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226427863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.2,13.41667,2.2,13.41667",
+    "geom:latitude":13.41667,
+    "geom:longitude":2.2,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tingobangou",
+    "gn:country_code":"NE",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438620,
+    "gn:latitude":13.41667,
+    "gn:longitude":2.2,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Tingobangou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438620
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"c490da9437d50fc1fd97749c347526b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1226427863,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1226427863,
+    "wof:lastmodified":1536671238,
+    "wof:name":"Tingobangou",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.2,
+    13.41667,
+    2.2,
+    13.41667
+],
+  "geometry": {"coordinates":[2.2,13.41667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226134231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.38126,13.37144,10.38126,13.37144",
+    "geom:latitude":13.37144,
+    "geom:longitude":10.38126,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Garin Genou",
+    "gn:country_code":"NE",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6750202,
+    "gn:latitude":13.37144,
+    "gn:longitude":10.38126,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Garin G\u00e9nou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6750202
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"525605e32dea2236b5ccdcac24e020fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051753,
+            "locality_id":1226134231,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1226134231,
+    "wof:lastmodified":1537091122,
+    "wof:name":"Garin Genou",
+    "wof:parent_id":1092051753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.38126,
+    13.37144,
+    10.38126,
+    13.37144
+],
+  "geometry": {"coordinates":[10.38126,13.37144],"type":"Point"}
+}

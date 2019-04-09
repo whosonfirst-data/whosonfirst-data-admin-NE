@@ -1,0 +1,71 @@
+{
+  "id": 1360169107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.4214,14.8818,3.4214,14.8818",
+    "geom:latitude":14.8818,
+    "geom:longitude":3.4214,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Fokoentesi",
+    "gn:country_code":"NE",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444963,
+    "gn:latitude":14.8818,
+    "gn:longitude":3.4214,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Fokoent\u00e9si",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fokoent\u00e9ssi",
+        "Fokoent\u00e9si"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444963
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"94d5c5004b2587796ed02001fd24b2a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051695,
+            "locality_id":1360169107,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1360169107,
+    "wof:lastmodified":1537674808,
+    "wof:name":"Fokoentesi",
+    "wof:parent_id":1092051695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.4214,
+    14.8818,
+    3.4214,
+    14.8818
+],
+  "geometry": {"coordinates":[3.4214,14.8818],"type":"Point"}
+}

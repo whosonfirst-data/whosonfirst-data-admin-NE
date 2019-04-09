@@ -1,0 +1,65 @@
+{
+  "id": 1209527177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.06104,12.5213,3.06104,12.5213",
+    "geom:latitude":12.5213,
+    "geom:longitude":3.06104,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Goze Kwara",
+    "gn:country_code":"NE",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444191,
+    "gn:latitude":12.5213,
+    "gn:longitude":3.06104,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Goz\u00e9 Kwara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Goz\u00e9-Koara",
+        "Goz\u00e9 Kwara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444191
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"9c92ec9dc8ebfdd9748994900f46ba4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209527177
+        }
+    ],
+    "wof:id":1209527177,
+    "wof:lastmodified":1537674790,
+    "wof:name":"Goze Kwara",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.06104,
+    12.5213,
+    3.06104,
+    12.5213
+],
+  "geometry": {"coordinates":[3.06104,12.5213],"type":"Point"}
+}

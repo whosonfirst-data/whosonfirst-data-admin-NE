@@ -1,0 +1,67 @@
+{
+  "id": 1259480037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.8672,14.8085,8.8672,14.8085",
+    "geom:latitude":14.8085,
+    "geom:longitude":8.8672,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bourdatan",
+    "gn:country_code":"NE",
+    "gn:dem":498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446498,
+    "gn:latitude":14.8085,
+    "gn:longitude":8.8672,
+    "gn:modification_date":"2008-08-26",
+    "gn:name":"Bourdatan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446498
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"323b028862ad03513b7431f37a9ebe87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1259480037,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1259480037,
+    "wof:lastmodified":1536862383,
+    "wof:name":"Bourdatan",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.8672,
+    14.8085,
+    8.8672,
+    14.8085
+],
+  "geometry": {"coordinates":[8.8672,14.8085],"type":"Point"}
+}

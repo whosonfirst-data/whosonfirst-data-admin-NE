@@ -1,0 +1,67 @@
+{
+  "id": 1242591771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.11667,17.06667,8.11667,17.06667",
+    "geom:latitude":17.06667,
+    "geom:longitude":8.11667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tanout Anghaide",
+    "gn:country_code":"NE",
+    "gn:dem":550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439153,
+    "gn:latitude":17.06667,
+    "gn:longitude":8.11667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"T\u00e2nout Angha\u00efd\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675273,
+        421182277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439153
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"c3307801c3d6258fad2afad292e08f8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182277,
+            "locality_id":1242591771,
+            "region_id":85675273
+        }
+    ],
+    "wof:id":1242591771,
+    "wof:lastmodified":1537041399,
+    "wof:name":"Tanout Anghaide",
+    "wof:parent_id":421182277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.11667,
+    17.06667,
+    8.11667,
+    17.06667
+],
+  "geometry": {"coordinates":[8.11667,17.06667],"type":"Point"}
+}

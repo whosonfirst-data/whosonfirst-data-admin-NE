@@ -1,0 +1,67 @@
+{
+  "id": 1276895605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.0927,14.0773,9.0927,14.0773",
+    "geom:latitude":14.0773,
+    "geom:longitude":9.0927,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dakarou",
+    "gn:country_code":"NE",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6803712,
+    "gn:latitude":14.0773,
+    "gn:longitude":9.0927,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Dakarou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6803712
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"c8a04f0061e058c933b34051ad11cdbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051411,
+            "locality_id":1276895605,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1276895605,
+    "wof:lastmodified":1537019302,
+    "wof:name":"Dakarou",
+    "wof:parent_id":1092051411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.0927,
+    14.0773,
+    9.0927,
+    14.0773
+],
+  "geometry": {"coordinates":[9.0927,14.0773],"type":"Point"}
+}

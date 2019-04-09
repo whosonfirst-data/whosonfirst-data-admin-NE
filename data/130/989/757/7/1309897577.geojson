@@ -1,0 +1,67 @@
+{
+  "id": 1309897577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.91766,13.8174,8.91766,13.8174",
+    "geom:latitude":13.8174,
+    "geom:longitude":8.91766,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Rouan Gao",
+    "gn:country_code":"NE",
+    "gn:dem":458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6734716,
+    "gn:latitude":13.8174,
+    "gn:longitude":8.91766,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Rouan Gao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6734716
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"e077b9cb918c7e2e139fefd5cb2618ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051411,
+            "locality_id":1309897577,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1309897577,
+    "wof:lastmodified":1536798895,
+    "wof:name":"Rouan Gao",
+    "wof:parent_id":1092051411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.91766,
+    13.8174,
+    8.91766,
+    13.8174
+],
+  "geometry": {"coordinates":[8.91766,13.8174],"type":"Point"}
+}

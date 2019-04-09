@@ -1,0 +1,67 @@
+{
+  "id": 1259604435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.7291,14.13851,8.7291,14.13851",
+    "geom:latitude":14.13851,
+    "geom:longitude":8.7291,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Matafa",
+    "gn:country_code":"NE",
+    "gn:dem":458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441222,
+    "gn:latitude":14.13851,
+    "gn:longitude":8.7291,
+    "gn:modification_date":"2008-08-26",
+    "gn:name":"Matafa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441222
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"7a2a68e3e401a6a218b179d3868817df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051411,
+            "locality_id":1259604435,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1259604435,
+    "wof:lastmodified":1536684635,
+    "wof:name":"Matafa",
+    "wof:parent_id":1092051411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.7291,
+    14.13851,
+    8.7291,
+    14.13851
+],
+  "geometry": {"coordinates":[8.7291,14.13851],"type":"Point"}
+}

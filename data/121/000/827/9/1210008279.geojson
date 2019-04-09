@@ -1,0 +1,67 @@
+{
+  "id": 1210008279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.94437,14.57659,8.94437,14.57659",
+    "geom:latitude":14.57659,
+    "geom:longitude":8.94437,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Askourouram",
+    "gn:country_code":"NE",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447492,
+    "gn:latitude":14.57659,
+    "gn:longitude":8.94437,
+    "gn:modification_date":"2008-08-26",
+    "gn:name":"Askourouram",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447492
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"17545ea3a2d28ad10b9b2bf3a33882a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1210008279,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1210008279,
+    "wof:lastmodified":1536371297,
+    "wof:name":"Askourouram",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.94437,
+    14.57659,
+    8.94437,
+    14.57659
+],
+  "geometry": {"coordinates":[8.94437,14.57659],"type":"Point"}
+}

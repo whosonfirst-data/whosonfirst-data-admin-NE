@@ -1,0 +1,72 @@
+{
+  "id": 1293096403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.7477,14.2099,5.7477,14.2099",
+    "geom:latitude":14.2099,
+    "geom:longitude":5.7477,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Taboe",
+    "gn:country_code":"NE",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439485,
+    "gn:latitude":14.2099,
+    "gn:longitude":5.7477,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tabo\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tabou\u00e9",
+        "Tabo\u00e9",
+        "Taboy\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439485
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"d6ffa6b8ecd153748f08c27592643520",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051515,
+            "locality_id":1293096403,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1293096403,
+    "wof:lastmodified":1537674684,
+    "wof:name":"Taboe",
+    "wof:parent_id":1092051515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.7477,
+    14.2099,
+    5.7477,
+    14.2099
+],
+  "geometry": {"coordinates":[5.7477,14.2099],"type":"Point"}
+}

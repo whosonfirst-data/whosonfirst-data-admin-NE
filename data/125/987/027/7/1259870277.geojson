@@ -1,0 +1,71 @@
+{
+  "id": 1259870277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.1775,13.4399,2.1775,13.4399",
+    "geom:latitude":13.4399,
+    "geom:longitude":2.1775,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Libore Fou Hinza",
+    "gn:country_code":"NE",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2569004,
+    "gn:latitude":13.4399,
+    "gn:longitude":2.1775,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Libor\u00e9 Fou Hinza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gu\u00e9riguind\u00e9 Zarma",
+        "Libor\u00e9 Fou Hinza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675291,
+        421204117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2569004
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"c96976b87eb419ec6eff62c18f5f3caa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421204117,
+            "locality_id":1259870277,
+            "region_id":85675291
+        }
+    ],
+    "wof:id":1259870277,
+    "wof:lastmodified":1537674875,
+    "wof:name":"Libore Fou Hinza",
+    "wof:parent_id":421204117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1775,
+    13.4399,
+    2.1775,
+    13.4399
+],
+  "geometry": {"coordinates":[2.1775,13.4399],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1260171215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.0953,13.6956,2.0953,13.6956",
+    "geom:latitude":13.6956,
+    "geom:longitude":2.0953,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kone Kaina",
+    "gn:country_code":"NE",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442200,
+    "gn:latitude":13.6956,
+    "gn:longitude":2.0953,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kon\u00e9 Ka\u00efna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kon\u00e9 Keyna",
+        "Kon\u00e9 Ka\u00efna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442200
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"4eb9793545f571739e0290fc5b5546d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1260171215,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1260171215,
+    "wof:lastmodified":1537674743,
+    "wof:name":"Kone Kaina",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.0953,
+    13.6956,
+    2.0953,
+    13.6956
+],
+  "geometry": {"coordinates":[2.0953,13.6956],"type":"Point"}
+}

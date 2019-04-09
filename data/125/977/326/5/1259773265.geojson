@@ -1,0 +1,72 @@
+{
+  "id": 1259773265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.48653,13.87201,1.48653,13.87201",
+    "geom:latitude":13.87201,
+    "geom:longitude":1.48653,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kouli Kouara",
+    "gn:country_code":"NE",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441960,
+    "gn:latitude":13.87201,
+    "gn:longitude":1.48653,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Kouli Kouara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kouliko\u00efr\u00e9",
+        "Kouli Kwara",
+        "Kouli Kouara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441960
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"83c909145fb128355a9f4e3f5de82df3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051545,
+            "locality_id":1259773265,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1259773265,
+    "wof:lastmodified":1537674736,
+    "wof:name":"Kouli Kouara",
+    "wof:parent_id":1092051545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.48653,
+    13.87201,
+    1.48653,
+    13.87201
+],
+  "geometry": {"coordinates":[1.48653,13.87201],"type":"Point"}
+}

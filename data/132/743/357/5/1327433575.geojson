@@ -1,0 +1,71 @@
+{
+  "id": 1327433575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.06733,12.23364,3.06733,12.23364",
+    "geom:latitude":12.23364,
+    "geom:longitude":3.06733,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Auguste Kwara",
+    "gn:country_code":"NE",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447433,
+    "gn:latitude":12.23364,
+    "gn:longitude":3.06733,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Auguste Kwara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Auguste-Koara",
+        "Auguste Kwara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447433
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"ed32b0a3eca200911a333901e94ed689",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051041,
+            "locality_id":1327433575,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1327433575,
+    "wof:lastmodified":1537674864,
+    "wof:name":"Auguste Kwara",
+    "wof:parent_id":1092051041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.06733,
+    12.23364,
+    3.06733,
+    12.23364
+],
+  "geometry": {"coordinates":[3.06733,12.23364],"type":"Point"}
+}

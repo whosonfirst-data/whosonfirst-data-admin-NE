@@ -1,0 +1,67 @@
+{
+  "id": 1276433819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.00338,14.66704,6.00338,14.66704",
+    "geom:latitude":14.66704,
+    "geom:longitude":6.00338,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Moulela",
+    "gn:country_code":"NE",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6849475,
+    "gn:latitude":14.66704,
+    "gn:longitude":6.00338,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Moul\u00e9la",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6849475
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"ef7818b1c34c5e86c51793c759bc008b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051577,
+            "locality_id":1276433819,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1276433819,
+    "wof:lastmodified":1536643325,
+    "wof:name":"Moulela",
+    "wof:parent_id":1092051577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.00338,
+    14.66704,
+    6.00338,
+    14.66704
+],
+  "geometry": {"coordinates":[6.00338,14.66704],"type":"Point"}
+}

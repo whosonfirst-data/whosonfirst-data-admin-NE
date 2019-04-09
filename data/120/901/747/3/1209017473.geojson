@@ -1,0 +1,61 @@
+{
+  "id": 1209017473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.79231,13.63993,10.79231,13.63993",
+    "geom:latitude":13.63993,
+    "geom:longitude":10.79231,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Anasaboul",
+    "gn:country_code":"NE",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6750385,
+    "gn:latitude":13.63993,
+    "gn:longitude":10.79231,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Anasaboul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6750385
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"8b827f9cfce635d8ad87cb41ea7b1567",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209017473
+        }
+    ],
+    "wof:id":1209017473,
+    "wof:lastmodified":1536300250,
+    "wof:name":"Anasaboul",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.79231,
+    13.63993,
+    10.79231,
+    13.63993
+],
+  "geometry": {"coordinates":[10.79231,13.63993],"type":"Point"}
+}

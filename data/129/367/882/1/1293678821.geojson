@@ -1,0 +1,67 @@
+{
+  "id": 1293678821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.80353,12.93599,1.80353,12.93599",
+    "geom:latitude":12.93599,
+    "geom:longitude":1.80353,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Niakatire",
+    "gn:country_code":"NE",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2440488,
+    "gn:latitude":12.93599,
+    "gn:longitude":1.80353,
+    "gn:modification_date":"2009-01-07",
+    "gn:name":"Niakatir\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2440488
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"457896f680f7d5fe66faa814f0eea2c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051103,
+            "locality_id":1293678821,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1293678821,
+    "wof:lastmodified":1537007787,
+    "wof:name":"Niakatire",
+    "wof:parent_id":1092051103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.80353,
+    12.93599,
+    1.80353,
+    12.93599
+],
+  "geometry": {"coordinates":[1.80353,12.93599],"type":"Point"}
+}

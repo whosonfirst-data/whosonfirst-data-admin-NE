@@ -1,0 +1,71 @@
+{
+  "id": 1360174411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.4466,13.2326,2.4466,13.2326",
+    "geom:latitude":13.2326,
+    "geom:longitude":2.4466,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tondi Gamey",
+    "gn:country_code":"NE",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438448,
+    "gn:latitude":13.2326,
+    "gn:longitude":2.4466,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tondi Gamey",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tondigam\u00e9",
+        "Tondi Gamey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438448
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"49273b26365ef122d94c6e41be54909f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1360174411,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1360174411,
+    "wof:lastmodified":1537674666,
+    "wof:name":"Tondi Gamey",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.4466,
+    13.2326,
+    2.4466,
+    13.2326
+],
+  "geometry": {"coordinates":[2.4466,13.2326],"type":"Point"}
+}

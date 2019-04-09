@@ -1,0 +1,71 @@
+{
+  "id": 1226132349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.90918,14.94806,1.90918,14.94806",
+    "geom:latitude":14.94806,
+    "geom:longitude":1.90918,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Goure Tondi",
+    "gn:country_code":"NE",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6848446,
+    "gn:latitude":14.94806,
+    "gn:longitude":1.90918,
+    "gn:modification_date":"2013-04-05",
+    "gn:name":"Gour\u00e9 Tondi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gour\u00e9 Tondi",
+        "Gour\u00e9 Tonndi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6848446
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"cd58f077ff9e7302a9b8289eaf8fe0f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051633,
+            "locality_id":1226132349,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1226132349,
+    "wof:lastmodified":1537674888,
+    "wof:name":"Goure Tondi",
+    "wof:parent_id":1092051633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.90918,
+    14.94806,
+    1.90918,
+    14.94806
+],
+  "geometry": {"coordinates":[1.90918,14.94806],"type":"Point"}
+}

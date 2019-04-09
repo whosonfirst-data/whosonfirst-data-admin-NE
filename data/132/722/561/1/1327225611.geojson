@@ -1,0 +1,67 @@
+{
+  "id": 1327225611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.63631,13.51384,8.63631,13.51384",
+    "geom:latitude":13.51384,
+    "geom:longitude":8.63631,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tacheri",
+    "gn:country_code":"NE",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6737261,
+    "gn:latitude":13.51384,
+    "gn:longitude":8.63631,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Tach\u00e9ri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6737261
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"9f2e529bd1989942d1dd5751b529715d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051165,
+            "locality_id":1327225611,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1327225611,
+    "wof:lastmodified":1536978811,
+    "wof:name":"Tacheri",
+    "wof:parent_id":1092051165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.63631,
+    13.51384,
+    8.63631,
+    13.51384
+],
+  "geometry": {"coordinates":[8.63631,13.51384],"type":"Point"}
+}

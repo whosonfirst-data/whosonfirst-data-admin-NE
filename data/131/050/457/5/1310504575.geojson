@@ -1,0 +1,67 @@
+{
+  "id": 1310504575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.9527,13.2184,11.9527,13.2184",
+    "geom:latitude":13.2184,
+    "geom:longitude":11.9527,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Baydori",
+    "gn:country_code":"NE",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6819385,
+    "gn:latitude":13.2184,
+    "gn:longitude":11.9527,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Baydori",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6819385
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"6bcc1d5ca4c4e11462f4a813d7c7f69b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051363,
+            "locality_id":1310504575,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1310504575,
+    "wof:lastmodified":1536918821,
+    "wof:name":"Baydori",
+    "wof:parent_id":1092051363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.9527,
+    13.2184,
+    11.9527,
+    13.2184
+],
+  "geometry": {"coordinates":[11.9527,13.2184],"type":"Point"}
+}

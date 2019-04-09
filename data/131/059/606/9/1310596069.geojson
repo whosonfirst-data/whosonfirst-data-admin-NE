@@ -1,0 +1,71 @@
+{
+  "id": 1310596069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.0392,15.0895,2.0392,15.0895",
+    "geom:latitude":15.0895,
+    "geom:longitude":2.0392,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Dieno Koara",
+    "gn:country_code":"NE",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445709,
+    "gn:latitude":15.0895,
+    "gn:longitude":2.0392,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Di\u00e9no Koara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Di\u00e9no Kwara",
+        "Di\u00e9no Koara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445709
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"4ccc7d529dd5e0fb070b28eaa2d2c1e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051633,
+            "locality_id":1310596069,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1310596069,
+    "wof:lastmodified":1537674824,
+    "wof:name":"Dieno Koara",
+    "wof:parent_id":1092051633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.0392,
+    15.0895,
+    2.0392,
+    15.0895
+],
+  "geometry": {"coordinates":[2.0392,15.0895],"type":"Point"}
+}

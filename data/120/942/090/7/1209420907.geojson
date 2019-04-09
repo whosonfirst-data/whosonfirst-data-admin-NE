@@ -1,0 +1,61 @@
+{
+  "id": 1209420907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.61798,14.13234,7.61798,14.13234",
+    "geom:latitude":14.13234,
+    "geom:longitude":7.61798,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Nanaya",
+    "gn:country_code":"NE",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2440774,
+    "gn:latitude":14.13234,
+    "gn:longitude":7.61798,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Nanaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2440774
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"2f7affb51824e00430d2b21ed2992002",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209420907
+        }
+    ],
+    "wof:id":1209420907,
+    "wof:lastmodified":1536287534,
+    "wof:name":"Nanaya",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.61798,
+    14.13234,
+    7.61798,
+    14.13234
+],
+  "geometry": {"coordinates":[7.61798,14.13234],"type":"Point"}
+}

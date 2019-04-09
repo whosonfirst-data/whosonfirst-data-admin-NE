@@ -1,0 +1,67 @@
+{
+  "id": 1310614007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.38019,13.63534,11.38019,13.63534",
+    "geom:latitude":13.63534,
+    "geom:longitude":11.38019,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kargidi",
+    "gn:country_code":"NE",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6783383,
+    "gn:latitude":13.63534,
+    "gn:longitude":11.38019,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Kargidi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6783383
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"a3d42204e49d3782f9615e89b99c0b64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051363,
+            "locality_id":1310614007,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1310614007,
+    "wof:lastmodified":1536760553,
+    "wof:name":"Kargidi",
+    "wof:parent_id":1092051363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.38019,
+    13.63534,
+    11.38019,
+    13.63534
+],
+  "geometry": {"coordinates":[11.38019,13.63534],"type":"Point"}
+}

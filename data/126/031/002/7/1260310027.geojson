@@ -1,0 +1,71 @@
+{
+  "id": 1260310027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.29181,13.63097,7.29181,13.63097",
+    "geom:latitude":13.63097,
+    "geom:longitude":7.29181,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Konkorey",
+    "gn:country_code":"NE",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442180,
+    "gn:latitude":13.63097,
+    "gn:longitude":7.29181,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Konkorey",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Konkoza",
+        "Konkorey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442180
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"890f6bded57ef6955b2d2c1e5e146fa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051229,
+            "locality_id":1260310027,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1260310027,
+    "wof:lastmodified":1537674743,
+    "wof:name":"Konkorey",
+    "wof:parent_id":1092051229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.29181,
+    13.63097,
+    7.29181,
+    13.63097
+],
+  "geometry": {"coordinates":[7.29181,13.63097],"type":"Point"}
+}

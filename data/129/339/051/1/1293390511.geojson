@@ -1,0 +1,67 @@
+{
+  "id": 1293390511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.16431,13.63447,7.16431,13.63447",
+    "geom:latitude":13.63447,
+    "geom:longitude":7.16431,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Serkin Mak'era",
+    "gn:country_code":"NE",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6713469,
+    "gn:latitude":13.63447,
+    "gn:longitude":7.16431,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Serkin Mak'\u00e9ra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6713469
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"1d8a109902770dcdf12603a7ed7fb751",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051229,
+            "locality_id":1293390511,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1293390511,
+    "wof:lastmodified":1536927534,
+    "wof:name":"Serkin Mak'era",
+    "wof:parent_id":1092051229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.16431,
+    13.63447,
+    7.16431,
+    13.63447
+],
+  "geometry": {"coordinates":[7.16431,13.63447],"type":"Point"}
+}

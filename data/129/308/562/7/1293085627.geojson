@@ -1,0 +1,72 @@
+{
+  "id": 1293085627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.67154,13.78434,1.67154,13.78434",
+    "geom:latitude":13.78434,
+    "geom:longitude":1.67154,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Sorbon Haoussa",
+    "gn:country_code":"NE",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439619,
+    "gn:latitude":13.78434,
+    "gn:longitude":1.67154,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Sorbon Haoussa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sorbo Haoussa",
+        "Sorbo Aussa",
+        "Sorbon Haoussa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        890429081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439619
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"d620db5d3ca5238d8a86a4baeeab7248",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":890429081,
+            "locality_id":1293085627,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1293085627,
+    "wof:lastmodified":1537674687,
+    "wof:name":"Sorbon Haoussa",
+    "wof:parent_id":890429081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.67154,
+    13.78434,
+    1.67154,
+    13.78434
+],
+  "geometry": {"coordinates":[1.67154,13.78434],"type":"Point"}
+}

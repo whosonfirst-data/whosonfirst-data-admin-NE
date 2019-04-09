@@ -1,0 +1,71 @@
+{
+  "id": 1259589539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.11191,13.62206,8.11191,13.62206",
+    "geom:latitude":13.62206,
+    "geom:longitude":8.11191,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Baoud'eta Haoussa",
+    "gn:country_code":"NE",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447053,
+    "gn:latitude":13.62206,
+    "gn:longitude":8.11191,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Baoud'\u00e9ta Haoussa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baoud\u00e9ta Haousa",
+        "Baoud'\u00e9ta Haoussa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447053
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"d99639c343589a785580093df1262b2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051389,
+            "locality_id":1259589539,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1259589539,
+    "wof:lastmodified":1537674855,
+    "wof:name":"Baoud'eta Haoussa",
+    "wof:parent_id":1092051389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.11191,
+    13.62206,
+    8.11191,
+    13.62206
+],
+  "geometry": {"coordinates":[8.11191,13.62206],"type":"Point"}
+}

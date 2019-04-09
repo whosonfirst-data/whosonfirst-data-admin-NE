@@ -1,0 +1,71 @@
+{
+  "id": 1260086401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.35868,13.71332,6.35868,13.71332",
+    "geom:latitude":13.71332,
+    "geom:longitude":6.35868,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Zango Baghe",
+    "gn:country_code":"NE",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437888,
+    "gn:latitude":13.71332,
+    "gn:longitude":6.35868,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zango Bagh\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zango Barh\u00e9",
+        "Zango Bagh\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437888
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"9f4327a143ca5dfa8e50a7837d54f92f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051229,
+            "locality_id":1260086401,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1260086401,
+    "wof:lastmodified":1537674650,
+    "wof:name":"Zango Baghe",
+    "wof:parent_id":1092051229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.35868,
+    13.71332,
+    6.35868,
+    13.71332
+],
+  "geometry": {"coordinates":[6.35868,13.71332],"type":"Point"}
+}

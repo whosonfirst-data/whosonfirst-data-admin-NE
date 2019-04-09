@@ -1,0 +1,67 @@
+{
+  "id": 1260382861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.92575,12.90412,8.92575,12.90412",
+    "geom:latitude":12.90412,
+    "geom:longitude":8.92575,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Hana-kiou",
+    "gn:country_code":"NE",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6972327,
+    "gn:latitude":12.90412,
+    "gn:longitude":8.92575,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Hana-kiou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6972327
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"40a82f930e84892d1e15bf4f8b5f3302",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051133,
+            "locality_id":1260382861,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1260382861,
+    "wof:lastmodified":1537072786,
+    "wof:name":"Hana-kiou",
+    "wof:parent_id":1092051133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.92575,
+    12.90412,
+    8.92575,
+    12.90412
+],
+  "geometry": {"coordinates":[8.92575,12.90412],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1360086713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.00683,13.7673,4.00683,13.7673",
+    "geom:latitude":13.7673,
+    "geom:longitude":4.00683,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Matankari",
+    "gn:country_code":"NE",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441215,
+    "gn:latitude":13.7673,
+    "gn:longitude":4.00683,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Matankari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Matankary",
+        "Matankari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441215,
+        "wk:page":"Matankari"
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"b3592bd457f7f5bcce28b59472e437a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051467,
+            "locality_id":1360086713,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1360086713,
+    "wof:lastmodified":1537674718,
+    "wof:name":"Matankari",
+    "wof:parent_id":1092051467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.00683,
+    13.7673,
+    4.00683,
+    13.7673
+],
+  "geometry": {"coordinates":[4.00683,13.7673],"type":"Point"}
+}

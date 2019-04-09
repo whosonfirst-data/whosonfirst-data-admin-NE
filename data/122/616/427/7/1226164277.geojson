@@ -1,0 +1,71 @@
+{
+  "id": 1226164277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.76072,13.1685,8.76072,13.1685",
+    "geom:latitude":13.1685,
+    "geom:longitude":8.76072,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"May Tchakaye",
+    "gn:country_code":"NE",
+    "gn:dem":425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441016,
+    "gn:latitude":13.1685,
+    "gn:longitude":8.76072,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"May Tchakay\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maytchaka\u00e9",
+        "May Tchakay\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441016
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"21433dfc86e00d6039aa4bbc4f41380a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051133,
+            "locality_id":1226164277,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1226164277,
+    "wof:lastmodified":1537674713,
+    "wof:name":"May Tchakaye",
+    "wof:parent_id":1092051133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.76072,
+    13.1685,
+    8.76072,
+    13.1685
+],
+  "geometry": {"coordinates":[8.76072,13.1685],"type":"Point"}
+}

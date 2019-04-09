@@ -1,0 +1,67 @@
+{
+  "id": 1310097127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.56532,13.75627,8.56532,13.75627",
+    "geom:latitude":13.75627,
+    "geom:longitude":8.56532,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Adoua",
+    "gn:country_code":"NE",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6734618,
+    "gn:latitude":13.75627,
+    "gn:longitude":8.56532,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Adoua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6734618
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"e4997e0e8412cd506ab0eb6010f37b1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051411,
+            "locality_id":1310097127,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1310097127,
+    "wof:lastmodified":1537007874,
+    "wof:name":"Adoua",
+    "wof:parent_id":1092051411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.56532,
+    13.75627,
+    8.56532,
+    13.75627
+],
+  "geometry": {"coordinates":[8.56532,13.75627],"type":"Point"}
+}

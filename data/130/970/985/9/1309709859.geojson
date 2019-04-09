@@ -1,0 +1,67 @@
+{
+  "id": 1309709859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.1388,15.0325,5.1388,15.0325",
+    "geom:latitude":15.0325,
+    "geom:longitude":5.1388,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Adambaza",
+    "gn:country_code":"NE",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6699610,
+    "gn:latitude":15.0325,
+    "gn:longitude":5.1388,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Adambaza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6699610
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"9bdf15234e43ac4c3b7d60e2c35119e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051609,
+            "locality_id":1309709859,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1309709859,
+    "wof:lastmodified":1537066549,
+    "wof:name":"Adambaza",
+    "wof:parent_id":1092051609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.1388,
+    15.0325,
+    5.1388,
+    15.0325
+],
+  "geometry": {"coordinates":[5.1388,15.0325],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327326213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.7307,15.2793,4.7307,15.2793",
+    "geom:latitude":15.2793,
+    "geom:longitude":4.7307,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"I-n-Bilibas",
+    "gn:country_code":"NE",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6688780,
+    "gn:latitude":15.2793,
+    "gn:longitude":4.7307,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"I-n-Bilibas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "In Bilibas",
+        "I-n-Bilibas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6688780
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"63bd95b250fc7dbf9309ac200703e2aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051813,
+            "locality_id":1327326213,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1327326213,
+    "wof:lastmodified":1537674881,
+    "wof:name":"I-n-Bilibas",
+    "wof:parent_id":1092051813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.7307,
+    15.2793,
+    4.7307,
+    15.2793
+],
+  "geometry": {"coordinates":[4.7307,15.2793],"type":"Point"}
+}

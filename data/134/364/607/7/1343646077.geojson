@@ -1,0 +1,71 @@
+{
+  "id": 1343646077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.18761,14.41411,1.18761,14.41411",
+    "geom:latitude":14.41411,
+    "geom:longitude":1.18761,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tondia",
+    "gn:country_code":"NE",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438430,
+    "gn:latitude":14.41411,
+    "gn:longitude":1.18761,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Tondia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tondya",
+        "Tondia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        890429081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438430
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"1a13f0b8a4fe49eff87bb92f5f7d537a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":890429081,
+            "locality_id":1343646077,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1343646077,
+    "wof:lastmodified":1537674665,
+    "wof:name":"Tondia",
+    "wof:parent_id":890429081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.18761,
+    14.41411,
+    1.18761,
+    14.41411
+],
+  "geometry": {"coordinates":[1.18761,14.41411],"type":"Point"}
+}

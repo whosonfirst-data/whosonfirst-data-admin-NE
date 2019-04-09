@@ -1,0 +1,72 @@
+{
+  "id": 1327054153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.00452,13.79188,7.00452,13.79188",
+    "geom:latitude":13.79188,
+    "geom:longitude":7.00452,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kouroungoussaou",
+    "gn:country_code":"NE",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441856,
+    "gn:latitude":13.79188,
+    "gn:longitude":7.00452,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kouroungoussaou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kouroungousa",
+        "Kouroungoussa",
+        "Kouroungoussaou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441856
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"4bbec771256d2d5a14431709bc8ccc73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051229,
+            "locality_id":1327054153,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1327054153,
+    "wof:lastmodified":1537674734,
+    "wof:name":"Kouroungoussaou",
+    "wof:parent_id":1092051229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.00452,
+    13.79188,
+    7.00452,
+    13.79188
+],
+  "geometry": {"coordinates":[7.00452,13.79188],"type":"Point"}
+}

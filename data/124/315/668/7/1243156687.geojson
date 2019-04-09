@@ -1,0 +1,67 @@
+{
+  "id": 1243156687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.55042,13.97027,0.55042,13.97027",
+    "geom:latitude":13.97027,
+    "geom:longitude":0.55042,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Satama",
+    "gn:country_code":"NE",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439821,
+    "gn:latitude":13.97027,
+    "gn:longitude":0.55042,
+    "gn:modification_date":"2008-08-14",
+    "gn:name":"Satama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439821
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"3862e8be5317b800fd2b8fb88c67f66c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051545,
+            "locality_id":1243156687,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1243156687,
+    "wof:lastmodified":1536726718,
+    "wof:name":"Satama",
+    "wof:parent_id":1092051545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.55042,
+    13.97027,
+    0.55042,
+    13.97027
+],
+  "geometry": {"coordinates":[0.55042,13.97027],"type":"Point"}
+}

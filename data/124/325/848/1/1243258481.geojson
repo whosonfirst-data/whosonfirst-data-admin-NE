@@ -1,0 +1,72 @@
+{
+  "id": 1243258481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.6808,13.8837,2.6808,13.8837",
+    "geom:latitude":13.8837,
+    "geom:longitude":2.6808,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kirib Beri",
+    "gn:country_code":"NE",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442407,
+    "gn:latitude":13.8837,
+    "gn:longitude":2.6808,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kirib B\u00e9ri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kiri",
+        "Kirib",
+        "Kirib B\u00e9ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442407
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"ec99d1f3c467dbd77c9c68dc7fa508ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051695,
+            "locality_id":1243258481,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1243258481,
+    "wof:lastmodified":1537674749,
+    "wof:name":"Kirib Beri",
+    "wof:parent_id":1092051695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6808,
+    13.8837,
+    2.6808,
+    13.8837
+],
+  "geometry": {"coordinates":[2.6808,13.8837],"type":"Point"}
+}

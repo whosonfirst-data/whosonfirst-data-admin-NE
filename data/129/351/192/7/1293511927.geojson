@@ -1,0 +1,67 @@
+{
+  "id": 1293511927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.1292,15.2337,5.1292,15.2337",
+    "geom:latitude":15.2337,
+    "geom:longitude":5.1292,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kachigal",
+    "gn:country_code":"NE",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6699588,
+    "gn:latitude":15.2337,
+    "gn:longitude":5.1292,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Kachigal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6699588
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"a9d17eb0c26c96b0a3d9657d7d4276f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051813,
+            "locality_id":1293511927,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1293511927,
+    "wof:lastmodified":1536751799,
+    "wof:name":"Kachigal",
+    "wof:parent_id":1092051813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.1292,
+    15.2337,
+    5.1292,
+    15.2337
+],
+  "geometry": {"coordinates":[5.1292,15.2337],"type":"Point"}
+}

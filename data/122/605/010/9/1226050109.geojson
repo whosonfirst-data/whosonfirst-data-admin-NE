@@ -1,0 +1,71 @@
+{
+  "id": 1226050109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.99365,13.41469,2.99365,13.41469",
+    "geom:latitude":13.41469,
+    "geom:longitude":2.99365,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Koydou",
+    "gn:country_code":"NE",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442299,
+    "gn:latitude":13.41469,
+    "gn:longitude":2.99365,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Koydou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ko\u00efdou",
+        "Koydou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442299
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"10e45f0e9356147273c298f3bac6a24b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051075,
+            "locality_id":1226050109,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1226050109,
+    "wof:lastmodified":1537674746,
+    "wof:name":"Koydou",
+    "wof:parent_id":1092051075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.99365,
+    13.41469,
+    2.99365,
+    13.41469
+],
+  "geometry": {"coordinates":[2.99365,13.41469],"type":"Point"}
+}

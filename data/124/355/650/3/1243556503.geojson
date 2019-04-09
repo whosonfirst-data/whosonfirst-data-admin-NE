@@ -1,0 +1,71 @@
+{
+  "id": 1243556503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.6497,12.80462,2.6497,12.80462",
+    "geom:latitude":12.80462,
+    "geom:longitude":2.6497,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Nyamade",
+    "gn:country_code":"NE",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2440429,
+    "gn:latitude":12.80462,
+    "gn:longitude":2.6497,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Nyamad\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yamade\u00ef",
+        "Nyamad\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2440429
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"a8be4b5fe46487b19f0c9ea46df644ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051075,
+            "locality_id":1243556503,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1243556503,
+    "wof:lastmodified":1537674705,
+    "wof:name":"Nyamade",
+    "wof:parent_id":1092051075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6497,
+    12.80462,
+    2.6497,
+    12.80462
+],
+  "geometry": {"coordinates":[2.6497,12.80462],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259367335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.78556,12.82815,1.78556,12.82815",
+    "geom:latitude":12.82815,
+    "geom:longitude":1.78556,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Konandere",
+    "gn:country_code":"NE",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7503240,
+    "gn:latitude":12.82815,
+    "gn:longitude":1.78556,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Konand\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7503240
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"15b67dc3c9fca8e7de636fae11eb8bb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051103,
+            "locality_id":1259367335,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1259367335,
+    "wof:lastmodified":1537024429,
+    "wof:name":"Konandere",
+    "wof:parent_id":1092051103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.78556,
+    12.82815,
+    1.78556,
+    12.82815
+],
+  "geometry": {"coordinates":[1.78556,12.82815],"type":"Point"}
+}

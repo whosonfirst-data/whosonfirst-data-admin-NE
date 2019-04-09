@@ -1,0 +1,72 @@
+{
+  "id": 1260065735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.18333,13.6,2.18333,13.6",
+    "geom:latitude":13.6,
+    "geom:longitude":2.18333,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Djerma Gandey",
+    "gn:cc2":"NE",
+    "gn:country_code":"NE",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445610,
+    "gn:latitude":13.6,
+    "gn:longitude":2.18333,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Djerma Gandey",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Djerma-Gandeye",
+        "Djerma Gandey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445610
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"fd06fe9a10877c6a56e4be68e70893d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1260065735,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1260065735,
+    "wof:lastmodified":1537674821,
+    "wof:name":"Djerma Gandey",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.18333,
+    13.6,
+    2.18333,
+    13.6
+],
+  "geometry": {"coordinates":[2.18333,13.6],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276670743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.2773,13.78357,13.2773,13.78357",
+    "geom:latitude":13.78357,
+    "geom:longitude":13.2773,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kinjiria",
+    "gn:country_code":"NE",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6698778,
+    "gn:latitude":13.78357,
+    "gn:longitude":13.2773,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Kinjiria",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6698778
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"bedb23f905a8a2d84dcc8442af07ab81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051245,
+            "locality_id":1276670743,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1276670743,
+    "wof:lastmodified":1536822642,
+    "wof:name":"Kinjiria",
+    "wof:parent_id":1092051245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.2773,
+    13.78357,
+    13.2773,
+    13.78357
+],
+  "geometry": {"coordinates":[13.2773,13.78357],"type":"Point"}
+}

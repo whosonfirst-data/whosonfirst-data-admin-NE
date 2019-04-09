@@ -1,0 +1,61 @@
+{
+  "id": 1209320743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.2729,14.2368,8.2729,14.2368",
+    "geom:latitude":14.2368,
+    "geom:longitude":8.2729,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Garin Barmo",
+    "gn:country_code":"NE",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444618,
+    "gn:latitude":14.2368,
+    "gn:longitude":8.2729,
+    "gn:modification_date":"2008-08-26",
+    "gn:name":"Garin Barmo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444618
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"608003cec1a7b47da402f75c5a04a8db",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209320743
+        }
+    ],
+    "wof:id":1209320743,
+    "wof:lastmodified":1536290703,
+    "wof:name":"Garin Barmo",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.2729,
+    14.2368,
+    8.2729,
+    14.2368
+],
+  "geometry": {"coordinates":[8.2729,14.2368],"type":"Point"}
+}

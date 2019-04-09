@@ -1,0 +1,67 @@
+{
+  "id": 1226364591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.67882,14.72927,4.67882,14.72927",
+    "geom:latitude":14.72927,
+    "geom:longitude":4.67882,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Achouan",
+    "gn:country_code":"NE",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6783434,
+    "gn:latitude":14.72927,
+    "gn:longitude":4.67882,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Achouan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6783434
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"400143abfbc5432ed1b68e7a1514e95e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051609,
+            "locality_id":1226364591,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1226364591,
+    "wof:lastmodified":1536762696,
+    "wof:name":"Achouan",
+    "wof:parent_id":1092051609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.67882,
+    14.72927,
+    4.67882,
+    14.72927
+],
+  "geometry": {"coordinates":[4.67882,14.72927],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1193022183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.08175,13.05845,7.08175,13.05845",
+    "geom:latitude":13.05845,
+    "geom:longitude":7.08175,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tourouba",
+    "gn:country_code":"NE",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6717078,
+    "gn:latitude":13.05845,
+    "gn:longitude":7.08175,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Tourouba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6717078
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"0823b8b798ef9d3fa0878b43fab52b08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051007,
+            "locality_id":1193022183,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1193022183,
+    "wof:lastmodified":1536372005,
+    "wof:name":"Tourouba",
+    "wof:parent_id":1092051007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.08175,
+    13.05845,
+    7.08175,
+    13.05845
+],
+  "geometry": {"coordinates":[7.08175,13.05845],"type":"Point"}
+}

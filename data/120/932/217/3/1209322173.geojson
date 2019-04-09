@@ -1,0 +1,61 @@
+{
+  "id": 1209322173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.19446,13.57516,4.19446,13.57516",
+    "geom:latitude":13.57516,
+    "geom:longitude":4.19446,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Magaria",
+    "gn:country_code":"NE",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441481,
+    "gn:latitude":13.57516,
+    "gn:longitude":4.19446,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Magaria",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441481
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"26afa8dc6be3c8153f3f459042a04c2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209322173
+        }
+    ],
+    "wof:id":1209322173,
+    "wof:lastmodified":1536290654,
+    "wof:name":"Magaria",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.1944599999999985,
+    13.57516,
+    4.1944599999999985,
+    13.57516
+],
+  "geometry": {"coordinates":[4.19446,13.57516],"type":"Point"}
+}

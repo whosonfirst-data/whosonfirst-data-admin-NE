@@ -1,0 +1,74 @@
+{
+  "id": 1277096331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.46667,12.76667,2.46667,12.76667",
+    "geom:latitude":12.76667,
+    "geom:longitude":2.46667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Banyo Bangou",
+    "gn:cc2":"NE",
+    "gn:country_code":"NE",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447063,
+    "gn:latitude":12.76667,
+    "gn:longitude":2.46667,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Banyo Bangou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kound\u00e9baba",
+        "Bagn\u00e9bangou",
+        "Bagnobangou",
+        "Banyo Bangou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447063
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"99c344556108690b1001d534504f0dcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051103,
+            "locality_id":1277096331,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1277096331,
+    "wof:lastmodified":1537674855,
+    "wof:name":"Banyo Bangou",
+    "wof:parent_id":1092051103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.46667,
+    12.76667,
+    2.46667,
+    12.76667
+],
+  "geometry": {"coordinates":[2.46667,12.76667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344057265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.71125,14.2094,6.71125,14.2094",
+    "geom:latitude":14.2094,
+    "geom:longitude":6.71125,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ataou Dan Kourmi",
+    "gn:country_code":"NE",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6849882,
+    "gn:latitude":14.2094,
+    "gn:longitude":6.71125,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Ataou Dan Kourmi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6849882
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"8484a43b10f6017283d73cc3c31cd381",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1344057265,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1344057265,
+    "wof:lastmodified":1536879410,
+    "wof:name":"Ataou Dan Kourmi",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.71125,
+    14.2094,
+    6.71125,
+    14.2094
+],
+  "geometry": {"coordinates":[6.71125,14.2094],"type":"Point"}
+}

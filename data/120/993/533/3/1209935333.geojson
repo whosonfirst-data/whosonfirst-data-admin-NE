@@ -1,0 +1,72 @@
+{
+  "id": 1209935333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.94401,13.85771,1.94401,13.85771",
+    "geom:latitude":13.85771,
+    "geom:longitude":1.94401,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Siminti Kaina",
+    "gn:country_code":"NE",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439711,
+    "gn:latitude":13.85771,
+    "gn:longitude":1.94401,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Siminti Ka\u00efna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Simiti-Kaina",
+        "Simiti Keyna",
+        "Siminti Ka\u00efna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439711
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"a98b14ce2234bf7d911329ad9653cb61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1209935333,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1209935333,
+    "wof:lastmodified":1537674689,
+    "wof:name":"Siminti Kaina",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.94401,
+    13.85771,
+    1.94401,
+    13.85771
+],
+  "geometry": {"coordinates":[1.94401,13.85771],"type":"Point"}
+}

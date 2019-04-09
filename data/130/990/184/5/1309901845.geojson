@@ -1,0 +1,72 @@
+{
+  "id": 1309901845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.08353,14.47175,1.08353,14.47175",
+    "geom:latitude":14.47175,
+    "geom:longitude":1.08353,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mamassey",
+    "gn:country_code":"NE",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441346,
+    "gn:latitude":14.47175,
+    "gn:longitude":1.08353,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Mamassey",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u00e9n\u00e9s\u00e9",
+        "Mamassey",
+        "Mamasey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        890429081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441346
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"0053976b805548686e3acd88c09ef19a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":890429081,
+            "locality_id":1309901845,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1309901845,
+    "wof:lastmodified":1537674721,
+    "wof:name":"Mamassey",
+    "wof:parent_id":890429081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.08353,
+    14.47175,
+    1.08353,
+    14.47175
+],
+  "geometry": {"coordinates":[1.08353,14.47175],"type":"Point"}
+}

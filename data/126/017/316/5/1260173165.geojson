@@ -1,0 +1,67 @@
+{
+  "id": 1260173165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.86607,15.04144,8.86607,15.04144",
+    "geom:latitude":15.04144,
+    "geom:longitude":8.86607,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Daouda",
+    "gn:country_code":"NE",
+    "gn:dem":524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6804675,
+    "gn:latitude":15.04144,
+    "gn:longitude":8.86607,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Daouda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6804675
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"aa9d148f0118f7ca540eb9981050c080",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1260173165,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1260173165,
+    "wof:lastmodified":1536860728,
+    "wof:name":"Daouda",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.86607,
+    15.04144,
+    8.86607,
+    15.04144
+],
+  "geometry": {"coordinates":[8.86607,15.04144],"type":"Point"}
+}

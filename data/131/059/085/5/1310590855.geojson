@@ -1,0 +1,67 @@
+{
+  "id": 1310590855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.6606,13.5271,2.6606,13.5271",
+    "geom:latitude":13.5271,
+    "geom:longitude":2.6606,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Banizoumbou",
+    "gn:country_code":"NE",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447095,
+    "gn:latitude":13.5271,
+    "gn:longitude":2.6606,
+    "gn:modification_date":"2008-10-15",
+    "gn:name":"Banizoumbou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447095
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"517184a0e1c04452c9034f1d1c980eb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1310590855,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1310590855,
+    "wof:lastmodified":1536794121,
+    "wof:name":"Banizoumbou",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6606,
+    13.5271,
+    2.6606,
+    13.5271
+],
+  "geometry": {"coordinates":[2.6606,13.5271],"type":"Point"}
+}

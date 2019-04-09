@@ -1,0 +1,73 @@
+{
+  "id": 1276886791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.39513,14.46136,13.39513,14.46136",
+    "geom:latitude":14.46136,
+    "geom:longitude":13.39513,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Faya Kiri",
+    "gn:country_code":"NE",
+    "gn:dem":290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445039,
+    "gn:latitude":14.46136,
+    "gn:longitude":13.39513,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Faya Kiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Faya",
+        "Faya Abdalla",
+        "Faya Abdallah",
+        "Faya Kiri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445039
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"0cf14580d266e3db18478c574441b8fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051781,
+            "locality_id":1276886791,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1276886791,
+    "wof:lastmodified":1537674809,
+    "wof:name":"Faya Kiri",
+    "wof:parent_id":1092051781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.39513,
+    14.46136,
+    13.39513,
+    14.46136
+],
+  "geometry": {"coordinates":[13.39513,14.46136],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260182607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.01597,13.32823,8.01597,13.32823",
+    "geom:latitude":13.32823,
+    "geom:longitude":8.01597,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Darto",
+    "gn:country_code":"NE",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6722689,
+    "gn:latitude":13.32823,
+    "gn:longitude":8.01597,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Darto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6722689
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"645e439166e12a770aed0ea14e87348a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051197,
+            "locality_id":1260182607,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1260182607,
+    "wof:lastmodified":1536848059,
+    "wof:name":"Darto",
+    "wof:parent_id":1092051197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.01597,
+    13.32823,
+    8.01597,
+    13.32823
+],
+  "geometry": {"coordinates":[8.01597,13.32823],"type":"Point"}
+}

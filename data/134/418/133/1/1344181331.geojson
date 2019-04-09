@@ -1,0 +1,67 @@
+{
+  "id": 1344181331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.79258,13.89889,6.79258,13.89889",
+    "geom:latitude":13.89889,
+    "geom:longitude":6.79258,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dan Dania",
+    "gn:country_code":"NE",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446151,
+    "gn:latitude":13.89889,
+    "gn:longitude":6.79258,
+    "gn:modification_date":"2008-03-06",
+    "gn:name":"Dan Dania",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446151
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"bc1b77ec662fe86a5aae7e93f7978b6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1344181331,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1344181331,
+    "wof:lastmodified":1536701460,
+    "wof:name":"Dan Dania",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.79258,
+    13.89889,
+    6.79258,
+    13.89889
+],
+  "geometry": {"coordinates":[6.79258,13.89889],"type":"Point"}
+}

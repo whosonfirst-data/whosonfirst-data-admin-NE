@@ -1,0 +1,67 @@
+{
+  "id": 1309714203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.19217,14.03009,4.19217,14.03009",
+    "geom:latitude":14.03009,
+    "geom:longitude":4.19217,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Roudou",
+    "gn:country_code":"NE",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6783645,
+    "gn:latitude":14.03009,
+    "gn:longitude":4.19217,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Roudou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6783645
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"90bc431af7e127555673d0e53b45b36a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051467,
+            "locality_id":1309714203,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1309714203,
+    "wof:lastmodified":1537060508,
+    "wof:name":"Roudou",
+    "wof:parent_id":1092051467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.19217,
+    14.03009,
+    4.19217,
+    14.03009
+],
+  "geometry": {"coordinates":[4.19217,14.03009],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310633731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.88008,14.19872,6.88008,14.19872",
+    "geom:latitude":14.19872,
+    "geom:longitude":6.88008,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Maykerawa",
+    "gn:country_code":"NE",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6849909,
+    "gn:latitude":14.19872,
+    "gn:longitude":6.88008,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Mayk\u00e9rawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6849909
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"f2c3cd3b93f8a4a09762d5b06b2dd514",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1310633731,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1310633731,
+    "wof:lastmodified":1536732221,
+    "wof:name":"Maykerawa",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.88008,
+    14.19872,
+    6.88008,
+    14.19872
+],
+  "geometry": {"coordinates":[6.88008,14.19872],"type":"Point"}
+}

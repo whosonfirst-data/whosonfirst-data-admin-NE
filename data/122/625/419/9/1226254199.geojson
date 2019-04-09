@@ -1,0 +1,71 @@
+{
+  "id": 1226254199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.96339,12.88487,2.96339,12.88487",
+    "geom:latitude":12.88487,
+    "geom:longitude":2.96339,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Houndougoume",
+    "gn:country_code":"NE",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2440286,
+    "gn:latitude":12.88487,
+    "gn:longitude":2.96339,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Houndougoum\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oundougoum\u00e9",
+        "Houndougoum\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2440286
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"2510c18895d30d081fecd42699e66362",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051075,
+            "locality_id":1226254199,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1226254199,
+    "wof:lastmodified":1537674702,
+    "wof:name":"Houndougoume",
+    "wof:parent_id":1092051075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.96339,
+    12.88487,
+    2.96339,
+    12.88487
+],
+  "geometry": {"coordinates":[2.96339,12.88487],"type":"Point"}
+}

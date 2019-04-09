@@ -1,0 +1,67 @@
+{
+  "id": 1276663561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.96747,13.68802,6.96747,13.68802",
+    "geom:latitude":13.68802,
+    "geom:longitude":6.96747,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Koagoni",
+    "gn:country_code":"NE",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442381,
+    "gn:latitude":13.68802,
+    "gn:longitude":6.96747,
+    "gn:modification_date":"2008-02-08",
+    "gn:name":"Koagoni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442381
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"fdf157da2d577dee03d5f1623b3d93b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051229,
+            "locality_id":1276663561,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1276663561,
+    "wof:lastmodified":1536832190,
+    "wof:name":"Koagoni",
+    "wof:parent_id":1092051229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.96747,
+    13.68802,
+    6.96747,
+    13.68802
+],
+  "geometry": {"coordinates":[6.96747,13.68802],"type":"Point"}
+}

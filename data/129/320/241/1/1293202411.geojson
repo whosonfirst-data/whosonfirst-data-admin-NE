@@ -1,0 +1,71 @@
+{
+  "id": 1293202411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.88833,12.58991,2.88833,12.58991",
+    "geom:latitude":12.58991,
+    "geom:longitude":2.88833,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Falmey Keyna",
+    "gn:country_code":"NE",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445147,
+    "gn:latitude":12.58991,
+    "gn:longitude":2.88833,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Falmey Keyna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Falm\u00e8y Kaina",
+        "Falmey Keyna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445147
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"3b8239f0ecbc415c9453db07365d7c38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051075,
+            "locality_id":1293202411,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1293202411,
+    "wof:lastmodified":1537674812,
+    "wof:name":"Falmey Keyna",
+    "wof:parent_id":1092051075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.88833,
+    12.58991,
+    2.88833,
+    12.58991
+],
+  "geometry": {"coordinates":[2.88833,12.58991],"type":"Point"}
+}

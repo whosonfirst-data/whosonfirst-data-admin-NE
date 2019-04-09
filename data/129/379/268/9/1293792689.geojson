@@ -1,0 +1,67 @@
+{
+  "id": 1293792689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.6156,13.6322,11.6156,13.6322",
+    "geom:latitude":13.6322,
+    "geom:longitude":11.6156,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kantadi",
+    "gn:country_code":"NE",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6819638,
+    "gn:latitude":13.6322,
+    "gn:longitude":11.6156,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Kantadi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6819638
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"095c58cc1cad4620da317d0ce066a454",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051363,
+            "locality_id":1293792689,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1293792689,
+    "wof:lastmodified":1536843040,
+    "wof:name":"Kantadi",
+    "wof:parent_id":1092051363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.6156,
+    13.6322,
+    11.6156,
+    13.6322
+],
+  "geometry": {"coordinates":[11.6156,13.6322],"type":"Point"}
+}

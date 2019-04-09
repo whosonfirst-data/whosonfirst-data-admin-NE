@@ -1,0 +1,73 @@
+{
+  "id": 1226162971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.1675,13.45694,2.1675,13.45694",
+    "geom:latitude":13.45694,
+    "geom:longitude":2.1675,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tafa Kouara",
+    "gn:cc2":"NE",
+    "gn:country_code":"NE",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439453,
+    "gn:latitude":13.45694,
+    "gn:longitude":2.1675,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Tafa Kouara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tafa-Koara",
+        "Tafa Kwara",
+        "Tafa Kouara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675291,
+        421204117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439453
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"14ecdc13f0c8353067058712a219127c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421204117,
+            "locality_id":1226162971,
+            "region_id":85675291
+        }
+    ],
+    "wof:id":1226162971,
+    "wof:lastmodified":1537674683,
+    "wof:name":"Tafa Kouara",
+    "wof:parent_id":421204117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1675,
+    13.45694,
+    2.1675,
+    13.45694
+],
+  "geometry": {"coordinates":[2.1675,13.45694],"type":"Point"}
+}

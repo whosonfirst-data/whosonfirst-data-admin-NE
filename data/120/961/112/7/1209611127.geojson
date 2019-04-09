@@ -1,0 +1,65 @@
+{
+  "id": 1209611127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.83391,14.30018,2.83391,14.30018",
+    "geom:latitude":14.30018,
+    "geom:longitude":2.83391,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Zama Kaina",
+    "gn:country_code":"NE",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437904,
+    "gn:latitude":14.30018,
+    "gn:longitude":2.83391,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Zama Kaina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zama Keyna",
+        "Zama Kaina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437904
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"e50740297f99092489bfc3edff3f6721",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209611127
+        }
+    ],
+    "wof:id":1209611127,
+    "wof:lastmodified":1537674651,
+    "wof:name":"Zama Kaina",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.83391,
+    14.30018,
+    2.83391,
+    14.30018
+],
+  "geometry": {"coordinates":[2.83391,14.30018],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259590733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.60799,12.61698,3.60799,12.61698",
+    "geom:latitude":12.61698,
+    "geom:longitude":3.60799,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tombo Gokie",
+    "gn:country_code":"NE",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438480,
+    "gn:latitude":12.61698,
+    "gn:longitude":3.60799,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tombo Goki\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tambo-Gokie",
+        "Tombo Goki\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092050969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438480
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"8f1d912c82ba13558651d32602db0ef2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092050969,
+            "locality_id":1259590733,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1259590733,
+    "wof:lastmodified":1537674667,
+    "wof:name":"Tombo Gokie",
+    "wof:parent_id":1092050969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.60799,
+    12.61698,
+    3.60799,
+    12.61698
+],
+  "geometry": {"coordinates":[3.60799,12.61698],"type":"Point"}
+}

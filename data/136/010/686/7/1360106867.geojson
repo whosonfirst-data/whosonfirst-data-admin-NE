@@ -1,0 +1,67 @@
+{
+  "id": 1360106867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.79978,14.0473,4.79978,14.0473",
+    "geom:latitude":14.0473,
+    "geom:longitude":4.79978,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Maitama",
+    "gn:country_code":"NE",
+    "gn:dem":290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6783669,
+    "gn:latitude":14.0473,
+    "gn:longitude":4.79978,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Maitama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6783669
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"f8c631ea4cb718398c6f9e7df2ce1ee2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051301,
+            "locality_id":1360106867,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1360106867,
+    "wof:lastmodified":1536914699,
+    "wof:name":"Maitama",
+    "wof:parent_id":1092051301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.79978,
+    14.0473,
+    4.79978,
+    14.0473
+],
+  "geometry": {"coordinates":[4.79978,14.0473],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343482439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.8913,13.56804,8.8913,13.56804",
+    "geom:latitude":13.56804,
+    "geom:longitude":8.8913,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Droum Malori",
+    "gn:country_code":"NE",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445405,
+    "gn:latitude":13.56804,
+    "gn:longitude":8.8913,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Droum Malori",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Drum Kafi",
+        "Droum",
+        "Droum Kafi",
+        "Droum Malori"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445405,
+        "wk:page":"Droum"
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"e3fd11bc0e48004976f2c7ce77d87b45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051411,
+            "locality_id":1343482439,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1343482439,
+    "wof:lastmodified":1537674816,
+    "wof:name":"Droum Malori",
+    "wof:parent_id":1092051411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.8913,
+    13.56804,
+    8.8913,
+    13.56804
+],
+  "geometry": {"coordinates":[8.8913,13.56804],"type":"Point"}
+}

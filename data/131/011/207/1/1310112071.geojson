@@ -1,0 +1,67 @@
+{
+  "id": 1310112071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.03333,13.73333,7.03333,13.73333",
+    "geom:latitude":13.73333,
+    "geom:longitude":7.03333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kaellabi",
+    "gn:country_code":"NE",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442880,
+    "gn:latitude":13.73333,
+    "gn:longitude":7.03333,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Kaellabi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442880
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"3316658fbf35e1fa36595c3125f5aa79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051229,
+            "locality_id":1310112071,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1310112071,
+    "wof:lastmodified":1536986157,
+    "wof:name":"Kaellabi",
+    "wof:parent_id":1092051229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.03333,
+    13.73333,
+    7.03333,
+    13.73333
+],
+  "geometry": {"coordinates":[7.03333,13.73333],"type":"Point"}
+}

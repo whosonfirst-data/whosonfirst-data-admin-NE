@@ -1,0 +1,72 @@
+{
+  "id": 1343646191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.41049,14.20562,1.41049,14.20562",
+    "geom:latitude":14.20562,
+    "geom:longitude":1.41049,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Neynikoidame",
+    "gn:country_code":"NE",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2440728,
+    "gn:latitude":14.20562,
+    "gn:longitude":1.41049,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"N\u00e9yniko\u00efdam\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u00e9yniko\u00efdam\u00e9",
+        "Neynikoydam\u00e9",
+        "N\u00e9nikoidam\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2440728
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"d9f3fedf404cbb5460df050cb20b56a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051545,
+            "locality_id":1343646191,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1343646191,
+    "wof:lastmodified":1537674707,
+    "wof:name":"Neynikoidame",
+    "wof:parent_id":1092051545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.41049,
+    14.20562,
+    1.41049,
+    14.20562
+],
+  "geometry": {"coordinates":[1.41049,14.20562],"type":"Point"}
+}

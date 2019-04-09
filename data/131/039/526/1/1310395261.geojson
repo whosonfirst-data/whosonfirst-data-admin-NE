@@ -1,0 +1,67 @@
+{
+  "id": 1310395261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.51773,13.98114,0.51773,13.98114",
+    "geom:latitude":13.98114,
+    "geom:longitude":0.51773,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Zelengue",
+    "gn:country_code":"NE",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437825,
+    "gn:latitude":13.98114,
+    "gn:longitude":0.51773,
+    "gn:modification_date":"2008-08-14",
+    "gn:name":"Z\u00e9lengu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437825
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"a5e67238c0ecd4f7439a8fea4ca92b80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051545,
+            "locality_id":1310395261,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1310395261,
+    "wof:lastmodified":1537072932,
+    "wof:name":"Zelengue",
+    "wof:parent_id":1092051545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.51773,
+    13.98114,
+    0.51773,
+    13.98114
+],
+  "geometry": {"coordinates":[0.51773,13.98114],"type":"Point"}
+}

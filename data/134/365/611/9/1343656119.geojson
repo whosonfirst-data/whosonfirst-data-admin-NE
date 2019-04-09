@@ -1,0 +1,67 @@
+{
+  "id": 1343656119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.2935,13.8219,9.2935,13.8219",
+    "geom:latitude":13.8219,
+    "geom:longitude":9.2935,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Baken Birgi",
+    "gn:country_code":"NE",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6806834,
+    "gn:latitude":13.8219,
+    "gn:longitude":9.2935,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Baken Birgi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6806834
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"8721100cff158bcf395c888b8fbec3f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051411,
+            "locality_id":1343656119,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1343656119,
+    "wof:lastmodified":1536961224,
+    "wof:name":"Baken Birgi",
+    "wof:parent_id":1092051411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.2935,
+    13.8219,
+    9.2935,
+    13.8219
+],
+  "geometry": {"coordinates":[9.2935,13.8219],"type":"Point"}
+}

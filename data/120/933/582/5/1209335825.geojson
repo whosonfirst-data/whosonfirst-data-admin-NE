@@ -1,0 +1,61 @@
+{
+  "id": 1209335825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.5551,14.2337,8.5551,14.2337",
+    "geom:latitude":14.2337,
+    "geom:longitude":8.5551,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Konkonbilo",
+    "gn:country_code":"NE",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442186,
+    "gn:latitude":14.2337,
+    "gn:longitude":8.5551,
+    "gn:modification_date":"2008-08-26",
+    "gn:name":"Konkonbilo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442186
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"d7a89ff9b29e9f5d8752650a6a691dbd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209335825
+        }
+    ],
+    "wof:id":1209335825,
+    "wof:lastmodified":1536290226,
+    "wof:name":"Konkonbilo",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.5551,
+    14.2337,
+    8.5551,
+    14.2337
+],
+  "geometry": {"coordinates":[8.5551,14.2337],"type":"Point"}
+}

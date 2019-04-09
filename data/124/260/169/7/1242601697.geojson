@@ -1,0 +1,71 @@
+{
+  "id": 1242601697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.34562,13.16664,7.34562,13.16664",
+    "geom:latitude":13.16664,
+    "geom:longitude":7.34562,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Finande",
+    "gn:country_code":"NE",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6721673,
+    "gn:latitude":13.16664,
+    "gn:longitude":7.34562,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Finand\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tinadi\u00e9",
+        "Finand\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6721673
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"02dff69ce0090b0d178520ced2cc1106",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051007,
+            "locality_id":1242601697,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1242601697,
+    "wof:lastmodified":1537674883,
+    "wof:name":"Finande",
+    "wof:parent_id":1092051007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.34562,
+    13.16664,
+    7.34562,
+    13.16664
+],
+  "geometry": {"coordinates":[7.34562,13.16664],"type":"Point"}
+}

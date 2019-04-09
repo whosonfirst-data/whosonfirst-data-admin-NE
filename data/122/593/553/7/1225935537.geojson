@@ -1,0 +1,67 @@
+{
+  "id": 1225935537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.6474,14.6269,8.6474,14.6269",
+    "geom:latitude":14.6269,
+    "geom:longitude":8.6474,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Chakalounka",
+    "gn:country_code":"NE",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446423,
+    "gn:latitude":14.6269,
+    "gn:longitude":8.6474,
+    "gn:modification_date":"2008-08-26",
+    "gn:name":"Chakalounka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446423
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"c0b3f422e5860232719384cbaac4e300",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1225935537,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1225935537,
+    "wof:lastmodified":1536883594,
+    "wof:name":"Chakalounka",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.6474,
+    14.6269,
+    8.6474,
+    14.6269
+],
+  "geometry": {"coordinates":[8.6474,14.6269],"type":"Point"}
+}

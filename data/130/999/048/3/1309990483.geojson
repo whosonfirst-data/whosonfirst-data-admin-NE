@@ -1,0 +1,72 @@
+{
+  "id": 1309990483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.22098,14.5249,2.22098,14.5249",
+    "geom:latitude":14.5249,
+    "geom:longitude":2.22098,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kosey",
+    "gn:country_code":"NE",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442083,
+    "gn:latitude":14.5249,
+    "gn:longitude":2.22098,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Kos\u00e8y",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kossei",
+        "Kossey",
+        "Kos\u00e8y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442083
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"baf50f3ec54df317007a4b2ee3d45b79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051633,
+            "locality_id":1309990483,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1309990483,
+    "wof:lastmodified":1537674740,
+    "wof:name":"Kosey",
+    "wof:parent_id":1092051633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.22098,
+    14.5249,
+    2.22098,
+    14.5249
+],
+  "geometry": {"coordinates":[2.22098,14.5249],"type":"Point"}
+}

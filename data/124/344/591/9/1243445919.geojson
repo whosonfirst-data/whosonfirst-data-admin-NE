@@ -1,0 +1,67 @@
+{
+  "id": 1243445919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.1757,14.4582,9.1757,14.4582",
+    "geom:latitude":14.4582,
+    "geom:longitude":9.1757,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Maye Tadchi Tadaoua",
+    "gn:country_code":"NE",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6804002,
+    "gn:latitude":14.4582,
+    "gn:longitude":9.1757,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Maye Tadchi Tadaoua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6804002
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"922e3e7f22abcc5e1e076bc0332065e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1243445919,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1243445919,
+    "wof:lastmodified":1536806109,
+    "wof:name":"Maye Tadchi Tadaoua",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.1757,
+    14.4582,
+    9.1757,
+    14.4582
+],
+  "geometry": {"coordinates":[9.1757,14.4582],"type":"Point"}
+}

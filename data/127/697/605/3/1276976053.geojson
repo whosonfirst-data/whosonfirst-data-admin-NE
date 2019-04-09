@@ -1,0 +1,72 @@
+{
+  "id": 1276976053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.86854,13.94055,1.86854,13.94055",
+    "geom:latitude":13.94055,
+    "geom:longitude":1.86854,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tondi Darey",
+    "gn:country_code":"NE",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438455,
+    "gn:latitude":13.94055,
+    "gn:longitude":1.86854,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Tondi Darey",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tonndi-Dar\u00e9",
+        "Tondi Dar\u00e9",
+        "Tondi Darey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        890429081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438455
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"bdb12369fc4b7833cbbcb89731a0884e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":890429081,
+            "locality_id":1276976053,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1276976053,
+    "wof:lastmodified":1537674667,
+    "wof:name":"Tondi Darey",
+    "wof:parent_id":890429081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.86854,
+    13.94055,
+    1.86854,
+    13.94055
+],
+  "geometry": {"coordinates":[1.86854,13.94055],"type":"Point"}
+}

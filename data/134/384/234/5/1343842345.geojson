@@ -1,0 +1,71 @@
+{
+  "id": 1343842345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.36149,13.72945,1.36149,13.72945",
+    "geom:latitude":13.72945,
+    "geom:longitude":1.36149,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Leley",
+    "gn:country_code":"NE",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441674,
+    "gn:latitude":13.72945,
+    "gn:longitude":1.36149,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"L\u00e9ley",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lelley",
+        "L\u00e9ley"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441674
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"8a7f4243bed71484a664c958207578fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051545,
+            "locality_id":1343842345,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1343842345,
+    "wof:lastmodified":1537674728,
+    "wof:name":"Leley",
+    "wof:parent_id":1092051545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.36149,
+    13.72945,
+    1.36149,
+    13.72945
+],
+  "geometry": {"coordinates":[1.36149,13.72945],"type":"Point"}
+}

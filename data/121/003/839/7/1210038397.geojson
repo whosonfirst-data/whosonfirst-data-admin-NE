@@ -1,0 +1,72 @@
+{
+  "id": 1210038397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.6693,14.9355,5.6693,14.9355",
+    "geom:latitude":14.9355,
+    "geom:longitude":5.6693,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ibazaouan",
+    "gn:country_code":"NE",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2443380,
+    "gn:latitude":14.9355,
+    "gn:longitude":5.6693,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ibazaouan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ibazawan",
+        "Ibazaouane",
+        "Ibazaouan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2443380
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"fbeed8355b0bf0b4b171b92fd9cdc310",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051577,
+            "locality_id":1210038397,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1210038397,
+    "wof:lastmodified":1537674765,
+    "wof:name":"Ibazaouan",
+    "wof:parent_id":1092051577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.6693,
+    14.9355,
+    5.6693,
+    14.9355
+],
+  "geometry": {"coordinates":[5.6693,14.9355],"type":"Point"}
+}

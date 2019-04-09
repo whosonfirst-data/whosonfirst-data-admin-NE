@@ -1,0 +1,67 @@
+{
+  "id": 1310400161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.52687,14.85555,8.52687,14.85555",
+    "geom:latitude":14.85555,
+    "geom:longitude":8.52687,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Gobroua",
+    "gn:country_code":"NE",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444446,
+    "gn:latitude":14.85555,
+    "gn:longitude":8.52687,
+    "gn:modification_date":"2008-08-26",
+    "gn:name":"Gobroua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444446
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"1a6816c2ebc189b2f55de46a5bebd9e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1310400161,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1310400161,
+    "wof:lastmodified":1537066080,
+    "wof:name":"Gobroua",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.52687,
+    14.85555,
+    8.52687,
+    14.85555
+],
+  "geometry": {"coordinates":[8.52687,14.85555],"type":"Point"}
+}

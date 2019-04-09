@@ -1,0 +1,67 @@
+{
+  "id": 1310316845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.27397,12.14008,3.27397,12.14008",
+    "geom:latitude":12.14008,
+    "geom:longitude":3.27397,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Marmarou",
+    "gn:country_code":"NE",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441247,
+    "gn:latitude":12.14008,
+    "gn:longitude":3.27397,
+    "gn:modification_date":"2009-02-18",
+    "gn:name":"Marmarou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441247
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"65fb873481978558d5dacf0037a68128",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051041,
+            "locality_id":1310316845,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1310316845,
+    "wof:lastmodified":1536691657,
+    "wof:name":"Marmarou",
+    "wof:parent_id":1092051041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.27397,
+    12.14008,
+    3.27397,
+    12.14008
+],
+  "geometry": {"coordinates":[3.27397,12.14008],"type":"Point"}
+}

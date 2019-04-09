@@ -1,0 +1,71 @@
+{
+  "id": 1344141291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.5697,13.8165,2.5697,13.8165",
+    "geom:latitude":13.8165,
+    "geom:longitude":2.5697,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kolo Gawani",
+    "gn:country_code":"NE",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442244,
+    "gn:latitude":13.8165,
+    "gn:longitude":2.5697,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kolo Gawani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kolo Gaou\u00e9ni",
+        "Kolo Gawani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442244
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"ba0bc481299f8a6472e9b40e7b683339",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1344141291,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1344141291,
+    "wof:lastmodified":1537674744,
+    "wof:name":"Kolo Gawani",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.5697,
+    13.8165,
+    2.5697,
+    13.8165
+],
+  "geometry": {"coordinates":[2.5697,13.8165],"type":"Point"}
+}

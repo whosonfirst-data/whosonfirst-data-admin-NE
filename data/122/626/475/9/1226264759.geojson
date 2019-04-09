@@ -1,0 +1,73 @@
+{
+  "id": 1226264759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.7918,14.292,5.7918,14.292",
+    "geom:latitude":14.292,
+    "geom:longitude":5.7918,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tanbalanga",
+    "gn:country_code":"NE",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439227,
+    "gn:latitude":14.292,
+    "gn:longitude":5.7918,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tanbalanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tabaranga",
+        "Tabarenga",
+        "Tambaranga",
+        "Tanbalanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439227
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"116ee218075c53b56e3ca7c4ded7a4ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051515,
+            "locality_id":1226264759,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1226264759,
+    "wof:lastmodified":1537674679,
+    "wof:name":"Tanbalanga",
+    "wof:parent_id":1092051515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.7918,
+    14.292,
+    5.7918,
+    14.292
+],
+  "geometry": {"coordinates":[5.7918,14.292],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344163201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.66666,13.67243,6.66666,13.67243",
+    "geom:latitude":13.67243,
+    "geom:longitude":6.66666,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Garin Nouhou",
+    "gn:country_code":"NE",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444553,
+    "gn:latitude":13.67243,
+    "gn:longitude":6.66666,
+    "gn:modification_date":"2008-02-11",
+    "gn:name":"Garin Nouhou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444553
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"9c5fad66edc8cc04bf430d51a04ad075",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051229,
+            "locality_id":1344163201,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1344163201,
+    "wof:lastmodified":1536727675,
+    "wof:name":"Garin Nouhou",
+    "wof:parent_id":1092051229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.66666,
+    13.67243,
+    6.66666,
+    13.67243
+],
+  "geometry": {"coordinates":[6.66666,13.67243],"type":"Point"}
+}

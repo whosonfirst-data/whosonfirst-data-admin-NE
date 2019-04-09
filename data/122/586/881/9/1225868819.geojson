@@ -1,0 +1,71 @@
+{
+  "id": 1225868819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.46551,13.89438,7.46551,13.89438",
+    "geom:latitude":13.89438,
+    "geom:longitude":7.46551,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Guidan Gaya",
+    "gn:country_code":"NE",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446085,
+    "gn:latitude":13.89438,
+    "gn:longitude":7.46551,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Guidan Gaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dan Gaya",
+        "Guidan Gaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446085
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"933663701380c0a656ddae55bf6c38b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051435,
+            "locality_id":1225868819,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1225868819,
+    "wof:lastmodified":1537674834,
+    "wof:name":"Guidan Gaya",
+    "wof:parent_id":1092051435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.46551,
+    13.89438,
+    7.46551,
+    13.89438
+],
+  "geometry": {"coordinates":[7.46551,13.89438],"type":"Point"}
+}

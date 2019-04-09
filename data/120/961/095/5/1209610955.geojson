@@ -1,0 +1,61 @@
+{
+  "id": 1209610955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.72931,13.11325,1.72931,13.11325",
+    "geom:latitude":13.11325,
+    "geom:longitude":1.72931,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Magou",
+    "gn:country_code":"NE",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441465,
+    "gn:latitude":13.11325,
+    "gn:longitude":1.72931,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Magou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441465
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"e321c3ddfd8c444711df3e9242e3eb90",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209610955
+        }
+    ],
+    "wof:id":1209610955,
+    "wof:lastmodified":1536281848,
+    "wof:name":"Magou",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.72931,
+    13.11325,
+    1.72931,
+    13.11325
+],
+  "geometry": {"coordinates":[1.72931,13.11325],"type":"Point"}
+}

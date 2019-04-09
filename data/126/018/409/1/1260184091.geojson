@@ -1,0 +1,71 @@
+{
+  "id": 1260184091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.96921,12.60227,2.96921,12.60227",
+    "geom:latitude":12.60227,
+    "geom:longitude":2.96921,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Garbou",
+    "gn:country_code":"NE",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444703,
+    "gn:latitude":12.60227,
+    "gn:longitude":2.96921,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Garbou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Garbu",
+        "Garbou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444703
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"01567e3d22b7ff93513e26cd09e27b71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051041,
+            "locality_id":1260184091,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1260184091,
+    "wof:lastmodified":1537674802,
+    "wof:name":"Garbou",
+    "wof:parent_id":1092051041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.96921,
+    12.60227,
+    2.96921,
+    12.60227
+],
+  "geometry": {"coordinates":[2.96921,12.60227],"type":"Point"}
+}

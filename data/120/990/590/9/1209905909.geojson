@@ -1,0 +1,71 @@
+{
+  "id": 1209905909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.16186,14.47956,1.16186,14.47956",
+    "geom:latitude":14.47956,
+    "geom:longitude":1.16186,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Sassale",
+    "gn:country_code":"NE",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439827,
+    "gn:latitude":14.47956,
+    "gn:longitude":1.16186,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Sassal\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sassal\u00e9",
+        "Sasal\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        890429081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439827
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"b6056514eaa5f329c5f681b98b39f1da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":890429081,
+            "locality_id":1209905909,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1209905909,
+    "wof:lastmodified":1537674692,
+    "wof:name":"Sassale",
+    "wof:parent_id":890429081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.16186,
+    14.47956,
+    1.16186,
+    14.47956
+],
+  "geometry": {"coordinates":[1.16186,14.47956],"type":"Point"}
+}

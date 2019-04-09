@@ -1,0 +1,71 @@
+{
+  "id": 1310427875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.9763,14.9259,5.9763,14.9259",
+    "geom:latitude":14.9259,
+    "geom:longitude":5.9763,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"I-n-Ouagar",
+    "gn:country_code":"NE",
+    "gn:dem":506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6679036,
+    "gn:latitude":14.9259,
+    "gn:longitude":5.9763,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"I-n-Ouagar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "In Wagar",
+        "I-n-Ouagar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6679036
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"7105e0dc31b73c810eeeb60d3e905f5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051577,
+            "locality_id":1310427875,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1310427875,
+    "wof:lastmodified":1537674878,
+    "wof:name":"I-n-Ouagar",
+    "wof:parent_id":1092051577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.9763,
+    14.9259,
+    5.9763,
+    14.9259
+],
+  "geometry": {"coordinates":[5.9763,14.9259],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209318607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.28056,18.71417,7.28056,18.71417",
+    "geom:latitude":18.71417,
+    "geom:longitude":7.28056,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Aguelal",
+    "gn:country_code":"NE",
+    "gn:dem":453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6271014,
+    "gn:latitude":18.71417,
+    "gn:longitude":7.28056,
+    "gn:modification_date":"2006-08-23",
+    "gn:name":"\u00c2guelal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6271014
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"001d6aeab56d8792ebe70ae61f5fd668",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209318607
+        }
+    ],
+    "wof:id":1209318607,
+    "wof:lastmodified":1536290777,
+    "wof:name":"Aguelal",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.28056,
+    18.714170000000006,
+    7.28056,
+    18.714170000000006
+],
+  "geometry": {"coordinates":[7.28056,18.71417000000001],"type":"Point"}
+}

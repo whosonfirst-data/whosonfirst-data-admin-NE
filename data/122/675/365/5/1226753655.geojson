@@ -1,0 +1,67 @@
+{
+  "id": 1226753655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.38057,13.73173,7.38057,13.73173",
+    "geom:latitude":13.73173,
+    "geom:longitude":7.38057,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Malamawa",
+    "gn:country_code":"NE",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6711119,
+    "gn:latitude":13.73173,
+    "gn:longitude":7.38057,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Malamawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6711119
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"a8730e1200f918c1d1ed596ddd70a69a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051229,
+            "locality_id":1226753655,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1226753655,
+    "wof:lastmodified":1536704356,
+    "wof:name":"Malamawa",
+    "wof:parent_id":1092051229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.38057,
+    13.73173,
+    7.38057,
+    13.73173
+],
+  "geometry": {"coordinates":[7.38057,13.73173],"type":"Point"}
+}

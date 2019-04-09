@@ -1,0 +1,71 @@
+{
+  "id": 1310601605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.09365,13.58765,7.09365,13.58765",
+    "geom:latitude":13.58765,
+    "geom:longitude":7.09365,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Madata",
+    "gn:country_code":"NE",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441223,
+    "gn:latitude":13.58765,
+    "gn:longitude":7.09365,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Madata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Matada",
+        "Madata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441223
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"88c00cd2db7780da4e78412644c8d41d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051229,
+            "locality_id":1310601605,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1310601605,
+    "wof:lastmodified":1537674718,
+    "wof:name":"Madata",
+    "wof:parent_id":1092051229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.09365,
+    13.58765,
+    7.09365,
+    13.58765
+],
+  "geometry": {"coordinates":[7.09365,13.58765],"type":"Point"}
+}

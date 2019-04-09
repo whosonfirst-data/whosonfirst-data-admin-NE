@@ -1,0 +1,66 @@
+{
+  "id": 1209209671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.8627,14.45186,0.8627,14.45186",
+    "geom:latitude":14.45186,
+    "geom:longitude":0.8627,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Zane",
+    "gn:country_code":"NE",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445619,
+    "gn:latitude":14.45186,
+    "gn:longitude":0.8627,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zan\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dian\u00e9",
+        "Djan\u00e9",
+        "Zan\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445619
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"c76318260a4db6e8f403389048fa9853",
+    "wof:hierarchy":[
+        {
+            "country_id":85632269,
+            "locality_id":1209209671
+        }
+    ],
+    "wof:id":1209209671,
+    "wof:lastmodified":1537674822,
+    "wof:name":"Zane",
+    "wof:parent_id":85632269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.8627,
+    14.45186,
+    0.8627,
+    14.45186
+],
+  "geometry": {"coordinates":[0.8627,14.45186],"type":"Point"}
+}

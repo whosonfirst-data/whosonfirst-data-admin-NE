@@ -1,0 +1,71 @@
+{
+  "id": 1309906563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.78275,14.36524,6.78275,14.36524",
+    "geom:latitude":14.36524,
+    "geom:longitude":6.78275,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dirgouna",
+    "gn:country_code":"NE",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445641,
+    "gn:latitude":14.36524,
+    "gn:longitude":6.78275,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dirgouna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dirgouma",
+        "Dirgouna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445641
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"511243d4a3a2465cd157787f065d84ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1309906563,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1309906563,
+    "wof:lastmodified":1537674822,
+    "wof:name":"Dirgouna",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.78275,
+    14.36524,
+    6.78275,
+    14.36524
+],
+  "geometry": {"coordinates":[6.78275,14.36524],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226734169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.0971,13.6228,2.0971,13.6228",
+    "geom:latitude":13.6228,
+    "geom:longitude":2.0971,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Gorou",
+    "gn:country_code":"NE",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444303,
+    "gn:latitude":13.6228,
+    "gn:longitude":2.0971,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gorou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bagabati",
+        "Goudel Gorou",
+        "Gorou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444303
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"eae8a73519903c307337753fda19aec6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":1226734169,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1226734169,
+    "wof:lastmodified":1537674793,
+    "wof:name":"Gorou",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.0971,
+    13.6228,
+    2.0971,
+    13.6228
+],
+  "geometry": {"coordinates":[2.0971,13.6228],"type":"Point"}
+}

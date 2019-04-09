@@ -1,0 +1,67 @@
+{
+  "id": 1243247947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.80481,14.27881,2.80481,14.27881",
+    "geom:latitude":14.27881,
+    "geom:longitude":2.80481,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Namari Bangou",
+    "gn:country_code":"NE",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2440782,
+    "gn:latitude":14.27881,
+    "gn:longitude":2.80481,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Namari Bangou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2440782
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"f8c35573b67012fe3faeec536932e19b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051695,
+            "locality_id":1243247947,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1243247947,
+    "wof:lastmodified":1537088474,
+    "wof:name":"Namari Bangou",
+    "wof:parent_id":1092051695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.80481,
+    14.27881,
+    2.80481,
+    14.27881
+],
+  "geometry": {"coordinates":[2.80481,14.27881],"type":"Point"}
+}

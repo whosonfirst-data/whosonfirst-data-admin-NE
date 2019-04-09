@@ -1,0 +1,67 @@
+{
+  "id": 1310103233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.00975,14.42385,6.00975,14.42385",
+    "geom:latitude":14.42385,
+    "geom:longitude":6.00975,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tabou",
+    "gn:country_code":"NE",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6849738,
+    "gn:latitude":14.42385,
+    "gn:longitude":6.00975,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Tabou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6849738
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"f1942e37dfcc474ba1c3fbf93e85e71f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051515,
+            "locality_id":1310103233,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1310103233,
+    "wof:lastmodified":1536999031,
+    "wof:name":"Tabou",
+    "wof:parent_id":1092051515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.00975,
+    14.42385,
+    6.00975,
+    14.42385
+],
+  "geometry": {"coordinates":[6.00975,14.42385],"type":"Point"}
+}

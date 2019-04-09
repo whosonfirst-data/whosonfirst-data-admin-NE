@@ -1,0 +1,71 @@
+{
+  "id": 1243052547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.93353,14.06324,0.93353,14.06324",
+    "geom:latitude":14.06324,
+    "geom:longitude":0.93353,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Soumboulikongo",
+    "gn:country_code":"NE",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439564,
+    "gn:latitude":14.06324,
+    "gn:longitude":0.93353,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Soumboulikongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Soumboullikongo",
+        "Soumboulikongo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439564
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"4a5c580e75f8af6c84ca7c6c705d4f51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051545,
+            "locality_id":1243052547,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1243052547,
+    "wof:lastmodified":1537674686,
+    "wof:name":"Soumboulikongo",
+    "wof:parent_id":1092051545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.93353,
+    14.06324,
+    0.93353,
+    14.06324
+],
+  "geometry": {"coordinates":[0.93353,14.06324],"type":"Point"}
+}

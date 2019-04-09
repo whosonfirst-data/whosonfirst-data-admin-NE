@@ -1,0 +1,76 @@
+{
+  "id": 1310216581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.9079,13.3028,3.9079,13.3028",
+    "geom:latitude":13.3028,
+    "geom:longitude":3.9079,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Koremairoua",
+    "gn:country_code":"NE",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2442145,
+    "gn:latitude":13.3028,
+    "gn:longitude":3.9079,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kor\u00e9ma\u00efroua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kor\u00e9mairwa",
+        "Kor\u00e9",
+        "Kor\u00e9 Mayroua",
+        "Kor\u00e9-M\u00e9roua",
+        "Kor\u00e9 Ma\u00efroua",
+        "Kor\u00e9ma\u00efroua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2442145,
+        "wk:page":"Kor%C3%A9_Ma%C3%AFroua"
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"a6b4c647247afd286f146ffb8cc15ef6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051467,
+            "locality_id":1310216581,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1310216581,
+    "wof:lastmodified":1537674742,
+    "wof:name":"Koremairoua",
+    "wof:parent_id":1092051467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.9079,
+    13.3028,
+    3.9079,
+    13.3028
+],
+  "geometry": {"coordinates":[3.9079,13.3028],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293878087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.71531,14.02764,2.71531,14.02764",
+    "geom:latitude":14.02764,
+    "geom:longitude":2.71531,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tamegey",
+    "gn:country_code":"NE",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6827166,
+    "gn:latitude":14.02764,
+    "gn:longitude":2.71531,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Tam\u00e9g\u00e8y",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6827166
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"f9a78e7f552ada9eabaf035f89c0e9ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051695,
+            "locality_id":1293878087,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1293878087,
+    "wof:lastmodified":1536721507,
+    "wof:name":"Tamegey",
+    "wof:parent_id":1092051695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.71531,
+    14.02764,
+    2.71531,
+    14.02764
+],
+  "geometry": {"coordinates":[2.71531,14.02764],"type":"Point"}
+}

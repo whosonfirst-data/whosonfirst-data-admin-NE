@@ -1,0 +1,73 @@
+{
+  "id": 1242578033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.44614,13.54643,7.44614,13.54643",
+    "geom:latitude":13.54643,
+    "geom:longitude":7.44614,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tchadoua",
+    "gn:country_code":"NE",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439024,
+    "gn:latitude":13.54643,
+    "gn:longitude":7.44614,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tchadoua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tchadwa",
+        "Tchadaoua",
+        "Tchadoua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439024,
+        "wk:page":"Tchadoua"
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"84d1435959054e0a5a89ce637b599a0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051197,
+            "locality_id":1242578033,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1242578033,
+    "wof:lastmodified":1537674676,
+    "wof:name":"Tchadoua",
+    "wof:parent_id":1092051197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.44614,
+    13.54643,
+    7.44614,
+    13.54643
+],
+  "geometry": {"coordinates":[7.44614,13.54643],"type":"Point"}
+}

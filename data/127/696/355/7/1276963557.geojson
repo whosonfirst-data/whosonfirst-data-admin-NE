@@ -1,0 +1,72 @@
+{
+  "id": 1276963557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.40691,13.02353,1.40691,13.02353",
+    "geom:latitude":13.02353,
+    "geom:longitude":1.40691,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tirboy",
+    "gn:country_code":"NE",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438687,
+    "gn:latitude":13.02353,
+    "gn:longitude":1.40691,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Tirboy",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tilboy",
+        "Baoul\u00e9 Gourmantch\u00e9",
+        "Tirboy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438687
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"50cc962b2aa1df707a1d9686ec6e1c0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051103,
+            "locality_id":1276963557,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1276963557,
+    "wof:lastmodified":1537674671,
+    "wof:name":"Tirboy",
+    "wof:parent_id":1092051103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.40691,
+    13.02353,
+    1.40691,
+    13.02353
+],
+  "geometry": {"coordinates":[1.40691,13.02353],"type":"Point"}
+}

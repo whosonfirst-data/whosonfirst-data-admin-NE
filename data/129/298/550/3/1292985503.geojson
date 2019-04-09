@@ -1,0 +1,67 @@
+{
+  "id": 1292985503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.3109,14.8011,3.3109,14.8011",
+    "geom:latitude":14.8011,
+    "geom:longitude":3.3109,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Dametoka",
+    "gn:country_code":"NE",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2446223,
+    "gn:latitude":14.8011,
+    "gn:longitude":3.3109,
+    "gn:modification_date":"2008-01-29",
+    "gn:name":"Dam\u00e9toka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2446223
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"f66a7bf9f8fa371379cfa2d7bae6aa84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051695,
+            "locality_id":1292985503,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1292985503,
+    "wof:lastmodified":1537013002,
+    "wof:name":"Dametoka",
+    "wof:parent_id":1092051695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.3109,
+    14.8011,
+    3.3109,
+    14.8011
+],
+  "geometry": {"coordinates":[3.3109,14.8011],"type":"Point"}
+}

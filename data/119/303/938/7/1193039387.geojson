@@ -1,0 +1,67 @@
+{
+  "id": 1193039387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.4392,14.3092,10.4392,14.3092",
+    "geom:latitude":14.3092,
+    "geom:longitude":10.4392,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Gouraberin",
+    "gn:country_code":"NE",
+    "gn:dem":457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6848054,
+    "gn:latitude":14.3092,
+    "gn:longitude":10.4392,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Gouraberin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6848054
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"5e3eb960c9fc1a2a01873aea86f6de11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051753,
+            "locality_id":1193039387,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1193039387,
+    "wof:lastmodified":1536377563,
+    "wof:name":"Gouraberin",
+    "wof:parent_id":1092051753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4392,
+    14.3092,
+    10.4392,
+    14.3092
+],
+  "geometry": {"coordinates":[10.4392,14.3092],"type":"Point"}
+}

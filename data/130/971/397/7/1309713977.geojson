@@ -1,0 +1,72 @@
+{
+  "id": 1309713977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.43752,12.08354,3.43752,12.08354",
+    "geom:latitude":12.08354,
+    "geom:longitude":3.43752,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tanaguey",
+    "gn:country_code":"NE",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439191,
+    "gn:latitude":12.08354,
+    "gn:longitude":3.43752,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tanaguey",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tanagu\u00e8ye",
+        "Tanag\u00e8y",
+        "Tanaguey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092050969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439191
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"7b8990834b077e2ce1edd5077da0f784",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092050969,
+            "locality_id":1309713977,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1309713977,
+    "wof:lastmodified":1537674678,
+    "wof:name":"Tanaguey",
+    "wof:parent_id":1092050969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.43752,
+    12.08354,
+    3.43752,
+    12.08354
+],
+  "geometry": {"coordinates":[3.43752,12.08354],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1277095197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.18957,14.00435,2.18957,14.00435",
+    "geom:latitude":14.00435,
+    "geom:longitude":2.18957,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Zimba Koara Zeno",
+    "gn:country_code":"NE",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437800,
+    "gn:latitude":14.00435,
+    "gn:longitude":2.18957,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Zimba Koara Z\u00e9no",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zimba Kwara Z\u00e9no",
+        "Zimba Koara Z\u00e9no"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437800
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"b7203d604ece13e96316d2377659d893",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051633,
+            "locality_id":1277095197,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1277095197,
+    "wof:lastmodified":1537674649,
+    "wof:name":"Zimba Koara Zeno",
+    "wof:parent_id":1092051633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.18957,
+    14.00435,
+    2.18957,
+    14.00435
+],
+  "geometry": {"coordinates":[2.18957,14.00435],"type":"Point"}
+}

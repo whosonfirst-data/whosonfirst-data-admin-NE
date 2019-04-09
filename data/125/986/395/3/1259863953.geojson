@@ -1,0 +1,67 @@
+{
+  "id": 1259863953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.99335,13.10249,1.99335,13.10249",
+    "geom:latitude":13.10249,
+    "geom:longitude":1.99335,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ouro Boyombo",
+    "gn:country_code":"NE",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2440254,
+    "gn:latitude":13.10249,
+    "gn:longitude":1.99335,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Ouro Boyombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2440254
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"a58e7e1e7d0e21c5001ae49b22734293",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051103,
+            "locality_id":1259863953,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1259863953,
+    "wof:lastmodified":1536807076,
+    "wof:name":"Ouro Boyombo",
+    "wof:parent_id":1092051103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.99335,
+    13.10249,
+    1.99335,
+    13.10249
+],
+  "geometry": {"coordinates":[1.99335,13.10249],"type":"Point"}
+}

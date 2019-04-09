@@ -1,0 +1,67 @@
+{
+  "id": 1242567359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.29704,14.69576,0.29704,14.69576",
+    "geom:latitude":14.69576,
+    "geom:longitude":0.29704,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Gountiena",
+    "gn:country_code":"NE",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444233,
+    "gn:latitude":14.69576,
+    "gn:longitude":0.29704,
+    "gn:modification_date":"2008-10-21",
+    "gn:name":"Gounti\u00e9na",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444233
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"c7cf98fa3876d6dfc3cbecb10e6de32e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051545,
+            "locality_id":1242567359,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1242567359,
+    "wof:lastmodified":1537075320,
+    "wof:name":"Gountiena",
+    "wof:parent_id":1092051545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.29704,
+    14.69576,
+    0.29704,
+    14.69576
+],
+  "geometry": {"coordinates":[0.29704,14.69576],"type":"Point"}
+}

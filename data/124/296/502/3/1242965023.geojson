@@ -1,0 +1,67 @@
+{
+  "id": 1242965023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.97947,13.836,8.97947,13.836",
+    "geom:latitude":13.836,
+    "geom:longitude":8.97947,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mad'atey Sultan",
+    "gn:country_code":"NE",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6728339,
+    "gn:latitude":13.836,
+    "gn:longitude":8.97947,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Mad'\u00e2tey Sultan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6728339
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"97d0fb1a0b48252bd9e9257d71c879e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051411,
+            "locality_id":1242965023,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1242965023,
+    "wof:lastmodified":1537001932,
+    "wof:name":"Mad'atey Sultan",
+    "wof:parent_id":1092051411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.97947,
+    13.836,
+    8.97947,
+    13.836
+],
+  "geometry": {"coordinates":[8.97947,13.836],"type":"Point"}
+}

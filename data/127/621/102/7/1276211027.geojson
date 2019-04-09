@@ -1,0 +1,72 @@
+{
+  "id": 1276211027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.23732,14.06304,2.23732,14.06304",
+    "geom:latitude":14.06304,
+    "geom:longitude":2.23732,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Fandou Banda",
+    "gn:country_code":"NE",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2445127,
+    "gn:latitude":14.06304,
+    "gn:longitude":2.23732,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Fandou Banda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fondabonda",
+        "Fondabond\u00e9",
+        "Fandou Banda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445127
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"c7f34a478ef182062e1ebb5a5526f67f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051633,
+            "locality_id":1276211027,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1276211027,
+    "wof:lastmodified":1537674812,
+    "wof:name":"Fandou Banda",
+    "wof:parent_id":1092051633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.23732,
+    14.06304,
+    2.23732,
+    14.06304
+],
+  "geometry": {"coordinates":[2.23732,14.06304],"type":"Point"}
+}

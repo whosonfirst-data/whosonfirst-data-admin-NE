@@ -1,0 +1,67 @@
+{
+  "id": 1260185347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.27425,13.65104,13.27425,13.65104",
+    "geom:latitude":13.65104,
+    "geom:longitude":13.27425,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ngourgouram",
+    "gn:country_code":"NE",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7501583,
+    "gn:latitude":13.65104,
+    "gn:longitude":13.27425,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ngourgouram",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7501583
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"6acc2cc6f55c083c85a7e91119b90333",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051245,
+            "locality_id":1260185347,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1260185347,
+    "wof:lastmodified":1536844269,
+    "wof:name":"Ngourgouram",
+    "wof:parent_id":1092051245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.27425,
+    13.65104,
+    13.27425,
+    13.65104
+],
+  "geometry": {"coordinates":[13.27425,13.65104],"type":"Point"}
+}

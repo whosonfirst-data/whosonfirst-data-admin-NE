@@ -1,0 +1,67 @@
+{
+  "id": 1226443025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.90361,13.60631,6.90361,13.60631",
+    "geom:latitude":13.60631,
+    "geom:longitude":6.90361,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ilia",
+    "gn:country_code":"NE",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2443310,
+    "gn:latitude":13.60631,
+    "gn:longitude":6.90361,
+    "gn:modification_date":"2008-02-11",
+    "gn:name":"Ilia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2443310
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"2ef4c1c2c21f8b40110e52b11e159183",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051229,
+            "locality_id":1226443025,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1226443025,
+    "wof:lastmodified":1536649134,
+    "wof:name":"Ilia",
+    "wof:parent_id":1092051229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.90361,
+    13.60631,
+    6.90361,
+    13.60631
+],
+  "geometry": {"coordinates":[6.90361,13.60631],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243270065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.62526,14.26759,6.62526,14.26759",
+    "geom:latitude":14.26759,
+    "geom:longitude":6.62526,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Magari Dan Bako",
+    "gn:country_code":"NE",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6849866,
+    "gn:latitude":14.26759,
+    "gn:longitude":6.62526,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Magari Dan Bako",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6849866
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"0620b4e624f86aa59d0655e2b58f42ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1243270065,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1243270065,
+    "wof:lastmodified":1537057230,
+    "wof:name":"Magari Dan Bako",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.62526,
+    14.26759,
+    6.62526,
+    14.26759
+],
+  "geometry": {"coordinates":[6.62526,14.26759],"type":"Point"}
+}

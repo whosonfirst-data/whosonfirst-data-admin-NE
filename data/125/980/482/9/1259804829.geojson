@@ -1,0 +1,67 @@
+{
+  "id": 1259804829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.98421,14.81245,7.98421,14.81245",
+    "geom:latitude":14.81245,
+    "geom:longitude":7.98421,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Guidan Maroki",
+    "gn:country_code":"NE",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2443695,
+    "gn:latitude":14.81245,
+    "gn:longitude":7.98421,
+    "gn:modification_date":"2008-08-21",
+    "gn:name":"Guidan Maroki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2443695
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"eb0f9c47c87a5a1b159950e01388961a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1259804829,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1259804829,
+    "wof:lastmodified":1536892212,
+    "wof:name":"Guidan Maroki",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.98421,
+    14.81245,
+    7.98421,
+    14.81245
+],
+  "geometry": {"coordinates":[7.98421,14.81245],"type":"Point"}
+}

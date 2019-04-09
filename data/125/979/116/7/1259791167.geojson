@@ -1,0 +1,67 @@
+{
+  "id": 1259791167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.62809,11.7294,3.62809,11.7294",
+    "geom:latitude":11.7294,
+    "geom:longitude":3.62809,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tounga Aoudou",
+    "gn:country_code":"NE",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438279,
+    "gn:latitude":11.7294,
+    "gn:longitude":3.62809,
+    "gn:modification_date":"2008-12-19",
+    "gn:name":"Tounga Aoudou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092050969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438279
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"b6df75f039efb03ca4f671dbc880ea5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092050969,
+            "locality_id":1259791167,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1259791167,
+    "wof:lastmodified":1536912438,
+    "wof:name":"Tounga Aoudou",
+    "wof:parent_id":1092050969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.62809,
+    11.7294,
+    3.62809,
+    11.7294
+],
+  "geometry": {"coordinates":[3.62809,11.7294],"type":"Point"}
+}

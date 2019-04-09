@@ -1,0 +1,71 @@
+{
+  "id": 1310715985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.8945,15.6275,7.8945,15.6275",
+    "geom:latitude":15.6275,
+    "geom:longitude":7.8945,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Aderbissinat",
+    "gn:country_code":"NE",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448150,
+    "gn:latitude":15.6275,
+    "gn:longitude":7.8945,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ad\u00e9rbissinat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ad\u00e9rbissinat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675273,
+        421182277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448150,
+        "wk:page":"Aderbissinat"
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"ccab84e8e0f53c430f0b8b998919b41a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182277,
+            "locality_id":1310715985,
+            "region_id":85675273
+        }
+    ],
+    "wof:id":1310715985,
+    "wof:lastmodified":1537674874,
+    "wof:name":"Aderbissinat",
+    "wof:parent_id":421182277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.8945,
+    15.6275,
+    7.8945,
+    15.6275
+],
+  "geometry": {"coordinates":[7.8945,15.6275],"type":"Point"}
+}

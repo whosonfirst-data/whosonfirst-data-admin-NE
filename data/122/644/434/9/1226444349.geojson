@@ -1,0 +1,71 @@
+{
+  "id": 1226444349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.55456,11.79334,3.55456,11.79334",
+    "geom:latitude":11.79334,
+    "geom:longitude":3.55456,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Gatawani Keyna",
+    "gn:country_code":"NE",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444497,
+    "gn:latitude":11.79334,
+    "gn:longitude":3.55456,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gatawani Keyna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gatawani-Kaina",
+        "Gatawani Keyna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092050969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444497
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"cbc43529a93acc67549283ea10fba8e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092050969,
+            "locality_id":1226444349,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1226444349,
+    "wof:lastmodified":1537674798,
+    "wof:name":"Gatawani Keyna",
+    "wof:parent_id":1092050969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.55456,
+    11.79334,
+    3.55456,
+    11.79334
+],
+  "geometry": {"coordinates":[3.55456,11.79334],"type":"Point"}
+}

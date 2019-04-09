@@ -1,0 +1,67 @@
+{
+  "id": 1326451519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.23982,13.77668,10.23982,13.77668",
+    "geom:latitude":13.77668,
+    "geom:longitude":10.23982,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Torim",
+    "gn:country_code":"NE",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6750166,
+    "gn:latitude":13.77668,
+    "gn:longitude":10.23982,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Torim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6750166
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"36947cd5f3bef82cd073246e4f42e598",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051753,
+            "locality_id":1326451519,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1326451519,
+    "wof:lastmodified":1536600190,
+    "wof:name":"Torim",
+    "wof:parent_id":1092051753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.23982,
+    13.77668,
+    10.23982,
+    13.77668
+],
+  "geometry": {"coordinates":[10.23982,13.77668],"type":"Point"}
+}

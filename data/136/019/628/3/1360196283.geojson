@@ -1,0 +1,72 @@
+{
+  "id": 1360196283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.55235,12.05187,3.55235,12.05187",
+    "geom:latitude":12.05187,
+    "geom:longitude":3.55235,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bana",
+    "gn:country_code":"NE",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447191,
+    "gn:latitude":12.05187,
+    "gn:longitude":3.55235,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baha",
+        "Bana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092050969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447191,
+        "wk:page":"Bana%2C_Niger"
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"955abf71a1fd53c69c371492af78293c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092050969,
+            "locality_id":1360196283,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1360196283,
+    "wof:lastmodified":1537674858,
+    "wof:name":"Bana",
+    "wof:parent_id":1092050969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.55235,
+    12.05187,
+    3.55235,
+    12.05187
+],
+  "geometry": {"coordinates":[3.55235,12.05187],"type":"Point"}
+}

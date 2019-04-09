@@ -1,0 +1,71 @@
+{
+  "id": 1209717371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.4875,13.3262,3.4875,13.3262",
+    "geom:latitude":13.3262,
+    "geom:longitude":3.4875,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Koure-Koara",
+    "gn:country_code":"NE",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2441898,
+    "gn:latitude":13.3262,
+    "gn:longitude":3.4875,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kour\u00e9-Koara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kour\u00e9 Kwara",
+        "Kour\u00e9-Koara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675287,
+        1092051273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2441898
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"8399be6247b11889d1c75a0ee8dd4444",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051273,
+            "locality_id":1209717371,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":1209717371,
+    "wof:lastmodified":1537674735,
+    "wof:name":"Koure-Koara",
+    "wof:parent_id":1092051273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.4875,
+    13.3262,
+    3.4875,
+    13.3262
+],
+  "geometry": {"coordinates":[3.4875,13.3262],"type":"Point"}
+}

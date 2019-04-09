@@ -1,0 +1,67 @@
+{
+  "id": 1276540575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.85742,14.7096,7.85742,14.7096",
+    "geom:latitude":14.7096,
+    "geom:longitude":7.85742,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Guidan Bara",
+    "gn:country_code":"NE",
+    "gn:dem":455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2443988,
+    "gn:latitude":14.7096,
+    "gn:longitude":7.85742,
+    "gn:modification_date":"2008-08-21",
+    "gn:name":"Guidan Bara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2443988
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"1c375fef70a0a3cd2f050867a3255f7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1276540575,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1276540575,
+    "wof:lastmodified":1536997566,
+    "wof:name":"Guidan Bara",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.85742,
+    14.7096,
+    7.85742,
+    14.7096
+],
+  "geometry": {"coordinates":[7.85742,14.7096],"type":"Point"}
+}

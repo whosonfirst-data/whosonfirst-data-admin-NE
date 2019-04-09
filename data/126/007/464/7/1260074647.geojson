@@ -1,0 +1,71 @@
+{
+  "id": 1260074647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.8305,14.8784,3.8305,14.8784",
+    "geom:latitude":14.8784,
+    "geom:longitude":3.8305,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Gashia",
+    "gn:country_code":"NE",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444886,
+    "gn:latitude":14.8784,
+    "gn:longitude":3.8305,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gashia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gachia",
+        "Gashia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675265,
+        1092051695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444886
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"8c71ddb782ae511eceb60da5f1b7efab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051695,
+            "locality_id":1260074647,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":1260074647,
+    "wof:lastmodified":1537674806,
+    "wof:name":"Gashia",
+    "wof:parent_id":1092051695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.8305,
+    14.8784,
+    3.8305,
+    14.8784
+],
+  "geometry": {"coordinates":[3.8305,14.8784],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1242971761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.12422,13.40224,7.12422,13.40224",
+    "geom:latitude":13.40224,
+    "geom:longitude":7.12422,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tchi-kaji",
+    "gn:country_code":"NE",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438989,
+    "gn:latitude":13.40224,
+    "gn:longitude":7.12422,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tchi-kaji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tchikadji",
+        "Tchigaji",
+        "Tchi-kaji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438989
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"5fde35ec9d8933878289f5d8d0d47215",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051007,
+            "locality_id":1242971761,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1242971761,
+    "wof:lastmodified":1537674675,
+    "wof:name":"Tchi-kaji",
+    "wof:parent_id":1092051007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.12422,
+    13.40224,
+    7.12422,
+    13.40224
+],
+  "geometry": {"coordinates":[7.12422,13.40224],"type":"Point"}
+}

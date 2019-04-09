@@ -1,0 +1,67 @@
+{
+  "id": 1276864143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.03487,13.77611,6.03487,13.77611",
+    "geom:latitude":13.77611,
+    "geom:longitude":6.03487,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sara Kotey",
+    "gn:country_code":"NE",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439850,
+    "gn:latitude":13.77611,
+    "gn:longitude":6.03487,
+    "gn:modification_date":"2008-02-06",
+    "gn:name":"Sara Kotey",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439850
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"d8fda43e683276b4ba88c8484213eee0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051329,
+            "locality_id":1276864143,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1276864143,
+    "wof:lastmodified":1537059624,
+    "wof:name":"Sara Kotey",
+    "wof:parent_id":1092051329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.03487,
+    13.77611,
+    6.03487,
+    13.77611
+],
+  "geometry": {"coordinates":[6.03487,13.77611],"type":"Point"}
+}

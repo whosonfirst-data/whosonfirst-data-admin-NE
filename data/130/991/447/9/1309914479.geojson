@@ -1,0 +1,67 @@
+{
+  "id": 1309914479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.01628,13.65082,11.01628,13.65082",
+    "geom:latitude":13.65082,
+    "geom:longitude":11.01628,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Wane",
+    "gn:country_code":"NE",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6776920,
+    "gn:latitude":13.65082,
+    "gn:longitude":11.01628,
+    "gn:modification_date":"2015-02-24",
+    "gn:name":"Wan\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6776920
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"8066f0f5b632adf29f1f28e1a78dd43f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051363,
+            "locality_id":1309914479,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1309914479,
+    "wof:lastmodified":1536775008,
+    "wof:name":"Wane",
+    "wof:parent_id":1092051363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.01628,
+    13.65082,
+    11.01628,
+    13.65082
+],
+  "geometry": {"coordinates":[11.01628,13.65082],"type":"Point"}
+}

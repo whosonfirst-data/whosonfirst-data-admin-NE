@@ -1,0 +1,67 @@
+{
+  "id": 1242865973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.93513,14.86011,8.93513,14.86011",
+    "geom:latitude":14.86011,
+    "geom:longitude":8.93513,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Baderi",
+    "gn:country_code":"NE",
+    "gn:dem":495,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2447315,
+    "gn:latitude":14.86011,
+    "gn:longitude":8.93513,
+    "gn:modification_date":"2008-08-26",
+    "gn:name":"Bad\u00e9ri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2447315
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"e72b69d69923778da04d53f3b7ac67ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051731,
+            "locality_id":1242865973,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1242865973,
+    "wof:lastmodified":1536647967,
+    "wof:name":"Baderi",
+    "wof:parent_id":1092051731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.93513,
+    14.86011,
+    8.93513,
+    14.86011
+],
+  "geometry": {"coordinates":[8.93513,14.86011],"type":"Point"}
+}

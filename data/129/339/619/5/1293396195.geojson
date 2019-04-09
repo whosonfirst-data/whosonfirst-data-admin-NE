@@ -1,0 +1,68 @@
+{
+  "id": 1293396195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.57,13.3,7.57,13.3",
+    "geom:latitude":13.3,
+    "geom:longitude":7.57,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"8624180.0",
+    "gn:asciiname":"Koura Mota",
+    "gn:country_code":"NE",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11204200,
+    "gn:latitude":13.3,
+    "gn:longitude":7.57,
+    "gn:modification_date":"2016-07-14",
+    "gn:name":"Koura Mota",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11204200
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"709a3c37181211adfce68f789c085e00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051197,
+            "locality_id":1293396195,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1293396195,
+    "wof:lastmodified":1536919171,
+    "wof:name":"Koura Mota",
+    "wof:parent_id":1092051197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.57,
+    13.3,
+    7.57,
+    13.3
+],
+  "geometry": {"coordinates":[7.57,13.3],"type":"Point"}
+}

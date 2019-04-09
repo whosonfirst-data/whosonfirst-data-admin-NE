@@ -1,0 +1,67 @@
+{
+  "id": 1226753929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.2368,14.78685,7.2368,14.78685",
+    "geom:latitude":14.78685,
+    "geom:longitude":7.2368,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tadeta",
+    "gn:country_code":"NE",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2439462,
+    "gn:latitude":14.78685,
+    "gn:longitude":7.2368,
+    "gn:modification_date":"2008-08-21",
+    "gn:name":"Tad\u00e9ta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2439462
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"706ef043c51afa8e14ed6252046b6b52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1226753929,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1226753929,
+    "wof:lastmodified":1536703968,
+    "wof:name":"Tadeta",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.2368,
+    14.78685,
+    7.2368,
+    14.78685
+],
+  "geometry": {"coordinates":[7.2368,14.78685],"type":"Point"}
+}

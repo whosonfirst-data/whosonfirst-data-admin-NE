@@ -1,0 +1,67 @@
+{
+  "id": 1360286075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.67748,13.59495,6.67748,13.59495",
+    "geom:latitude":13.59495,
+    "geom:longitude":6.67748,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Gouni",
+    "gn:country_code":"NE",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2444245,
+    "gn:latitude":13.59495,
+    "gn:longitude":6.67748,
+    "gn:modification_date":"2008-02-11",
+    "gn:name":"Gouni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2444245
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"6bb51bf1cd5518a03fc548d608127d4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051229,
+            "locality_id":1360286075,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1360286075,
+    "wof:lastmodified":1536655734,
+    "wof:name":"Gouni",
+    "wof:parent_id":1092051229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.67748,
+    13.59495,
+    6.67748,
+    13.59495
+],
+  "geometry": {"coordinates":[6.67748,13.59495],"type":"Point"}
+}

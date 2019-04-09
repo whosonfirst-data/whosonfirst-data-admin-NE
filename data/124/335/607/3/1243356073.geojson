@@ -1,0 +1,67 @@
+{
+  "id": 1243356073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.9966,15.2856,4.9966,15.2856",
+    "geom:latitude":15.2856,
+    "geom:longitude":4.9966,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Adram Bouka",
+    "gn:country_code":"NE",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6688894,
+    "gn:latitude":15.2856,
+    "gn:longitude":4.9966,
+    "gn:modification_date":"2008-02-09",
+    "gn:name":"Adram Bouka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675297,
+        1092051813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6688894
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"42cfba5d1c0eae7c3bb9f07030117c84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051813,
+            "locality_id":1243356073,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":1243356073,
+    "wof:lastmodified":1536936635,
+    "wof:name":"Adram Bouka",
+    "wof:parent_id":1092051813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.9966,
+    15.2856,
+    4.9966,
+    15.2856
+],
+  "geometry": {"coordinates":[4.9966,15.2856],"type":"Point"}
+}

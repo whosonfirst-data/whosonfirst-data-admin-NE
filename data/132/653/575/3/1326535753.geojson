@@ -1,0 +1,67 @@
+{
+  "id": 1326535753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.80701,14.51702,6.80701,14.51702",
+    "geom:latitude":14.51702,
+    "geom:longitude":6.80701,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Egawan",
+    "gn:country_code":"NE",
+    "gn:dem":425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6849611,
+    "gn:latitude":14.51702,
+    "gn:longitude":6.80701,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Egawan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6849611
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"76ad51c2f6da50ddccea06397cab8a33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":1326535753,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1326535753,
+    "wof:lastmodified":1536978332,
+    "wof:name":"Egawan",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.80701,
+    14.51702,
+    6.80701,
+    14.51702
+],
+  "geometry": {"coordinates":[6.80701,14.51702],"type":"Point"}
+}

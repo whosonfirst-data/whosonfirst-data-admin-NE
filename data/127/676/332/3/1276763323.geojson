@@ -1,0 +1,67 @@
+{
+  "id": 1276763323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.54176,14.35708,7.54176,14.35708",
+    "geom:latitude":14.35708,
+    "geom:longitude":7.54176,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Guidan Dawe",
+    "gn:country_code":"NE",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2443903,
+    "gn:latitude":14.35708,
+    "gn:longitude":7.54176,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Guidan Daw\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675281,
+        1092051435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2443903
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"1837a230708e53f1a29fb1fb4937ae60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051435,
+            "locality_id":1276763323,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":1276763323,
+    "wof:lastmodified":1536699941,
+    "wof:name":"Guidan Dawe",
+    "wof:parent_id":1092051435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.54176,
+    14.35708,
+    7.54176,
+    14.35708
+],
+  "geometry": {"coordinates":[7.54176,14.35708],"type":"Point"}
+}
