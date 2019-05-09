@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":12.301787,
-    "geom:area_square_m":145266864743.771271,
+    "geom:area_square_m":145266864743.772003,
     "geom:bbox":"4.24249267578,15.3194713683,10.9873663397,19.4376713683",
     "geom:latitude":17.234169,
     "geom:longitude":7.692583,
     "iso:country":"NE",
+    "label:eng_x_preferred_longname":[
+        "Tchighozerine Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":16.738278,
     "lbl:longitude":7.693045,
     "meso:adm1_name":"Agadez",
@@ -28,6 +34,9 @@
     "name:deu_x_preferred":[
         "Tchiroz\u00e9rine"
     ],
+    "name:eng_x_preferred":[
+        "Tchighozerine"
+    ],
     "name:eng_x_variant":[
         "Tchighozerine"
     ],
@@ -35,6 +44,9 @@
         "Tchiroz\u00e9rine"
     ],
     "name:fra_x_preferred":[
+        "Tchiroz\u00e9rine"
+    ],
+    "name:fre_x_preferred":[
         "Tchiroz\u00e9rine"
     ],
     "name:ita_x_preferred":[
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":421182277,
-    "wof:lastmodified":1527726457,
+    "wof:lastmodified":1555047485,
     "wof:name":"Tchighozerine",
     "wof:parent_id":85675273,
     "wof:placetype":"county",

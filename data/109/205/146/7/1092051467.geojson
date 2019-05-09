@@ -10,6 +10,12 @@
     "geom:latitude":13.729186,
     "geom:longitude":4.062298,
     "iso:country":"NE",
+    "label:eng_x_preferred_longname":[
+        "Dogondoutchi Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":13.895682,
     "lbl:longitude":4.110084,
     "meso:adm1_name":"Dosso",
@@ -24,6 +30,9 @@
     "mps:longitude":4.110084,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Dogondoutchi"
+    ],
     "name:eng_x_variant":[
         "Dogondoutchi",
         "Dogon-Doutchi"
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1092051467,
-    "wof:lastmodified":1536615139,
+    "wof:lastmodified":1555047486,
     "wof:name":"Dogondoutchi",
     "wof:parent_id":85675287,
     "wof:placetype":"county",

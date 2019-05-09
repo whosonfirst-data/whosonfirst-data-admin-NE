@@ -10,6 +10,12 @@
     "geom:latitude":12.876183,
     "geom:longitude":3.278977,
     "iso:country":"NE",
+    "label:eng_x_preferred_longname":[
+        "Dosso Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":12.991248,
     "lbl:longitude":3.27265,
     "meso:adm1_name":"Dosso",
@@ -24,6 +30,9 @@
     "mps:longitude":3.27265,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Dosso"
+    ],
     "name:eng_x_variant":[
         "Dosso"
     ],
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1092051041,
-    "wof:lastmodified":1536615138,
+    "wof:lastmodified":1555047485,
     "wof:name":"Dosso",
     "wof:parent_id":85675287,
     "wof:placetype":"county",

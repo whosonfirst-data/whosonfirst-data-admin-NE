@@ -10,6 +10,12 @@
     "geom:latitude":13.565521,
     "geom:longitude":3.462297,
     "iso:country":"NE",
+    "label:eng_x_preferred_longname":[
+        "Loga Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":13.657449,
     "lbl:longitude":3.583046,
     "meso:adm1_name":"Dosso",
@@ -24,6 +30,9 @@
     "mps:longitude":3.583046,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Loga"
+    ],
     "name:eng_x_variant":[
         "Loga"
     ],
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1092051273,
-    "wof:lastmodified":1536615139,
+    "wof:lastmodified":1555047486,
     "wof:name":"Loga",
     "wof:parent_id":85675287,
     "wof:placetype":"county",

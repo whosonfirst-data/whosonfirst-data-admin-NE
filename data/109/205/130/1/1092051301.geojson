@@ -10,6 +10,12 @@
     "geom:latitude":13.959923,
     "geom:longitude":5.132117,
     "iso:country":"NE",
+    "label:eng_x_preferred_longname":[
+        "Birni N'Konni Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":13.937098,
     "lbl:longitude":5.078214,
     "meso:adm1_name":"Tahoua",
@@ -24,6 +30,9 @@
     "mps:longitude":5.078214,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Birni N'Konni"
+    ],
     "name:eng_x_variant":[
         "Birni N'konni",
         "Bkonni"
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1092051301,
-    "wof:lastmodified":1536615139,
+    "wof:lastmodified":1555047486,
     "wof:name":"Birni N'Konni",
     "wof:parent_id":85675297,
     "wof:placetype":"county",
