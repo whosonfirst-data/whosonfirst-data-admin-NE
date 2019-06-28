@@ -19,19 +19,10 @@
     "name:deu_x_preferred":[
         "Ouallam"
     ],
-    "name:dut_x_preferred":[
-        "Ouallam"
-    ],
     "name:eng_x_preferred":[
         "Ouallam"
     ],
     "name:fra_x_preferred":[
-        "Ouallam"
-    ],
-    "name:fre_x_preferred":[
-        "Ouallam"
-    ],
-    "name:ger_x_preferred":[
         "Ouallam"
     ],
     "name:ita_x_preferred":[
@@ -40,16 +31,13 @@
     "name:jpn_x_preferred":[
         "\u30a6\u30a2\u30e9\u30e0"
     ],
-    "name:may_x_preferred":[
-        "Ouallam"
-    ],
     "name:msa_x_preferred":[
         "Ouallam"
     ],
-    "name:ron_x_preferred":[
+    "name:nld_x_preferred":[
         "Ouallam"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ouallam"
     ],
     "name:rus_x_preferred":[
@@ -106,7 +94,7 @@
         }
     ],
     "wof:id":421167705,
-    "wof:lastmodified":1527716158,
+    "wof:lastmodified":1561760158,
     "wof:name":"Ouallam",
     "wof:parent_id":1092051633,
     "wof:placetype":"locality",

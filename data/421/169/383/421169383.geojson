@@ -16,19 +16,10 @@
     "name:deu_x_preferred":[
         "Dakoro"
     ],
-    "name:dut_x_preferred":[
-        "Dakoro"
-    ],
     "name:eng_x_preferred":[
         "Dakoro"
     ],
     "name:fra_x_preferred":[
-        "Dakoro"
-    ],
-    "name:fre_x_preferred":[
-        "Dakoro"
-    ],
-    "name:ger_x_preferred":[
         "Dakoro"
     ],
     "name:ita_x_preferred":[
@@ -37,19 +28,16 @@
     "name:jpn_x_preferred":[
         "\u30c0\u30b3\u30ed"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Dakoro"
     ],
-    "name:msa_x_preferred":[
+    "name:nld_x_preferred":[
         "Dakoro"
     ],
     "name:pol_x_preferred":[
         "Dakoro"
     ],
     "name:ron_x_preferred":[
-        "Dakoro"
-    ],
-    "name:rum_x_preferred":[
         "Dakoro"
     ],
     "name:rus_x_preferred":[
@@ -103,7 +91,7 @@
         }
     ],
     "wof:id":421169383,
-    "wof:lastmodified":1527716169,
+    "wof:lastmodified":1561760158,
     "wof:name":"Dakoro",
     "wof:parent_id":1092051663,
     "wof:placetype":"locality",

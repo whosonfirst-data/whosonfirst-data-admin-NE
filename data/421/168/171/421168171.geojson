@@ -17,16 +17,10 @@
     "name:ara_x_preferred":[
         "\u063a\u0627\u064a\u0627"
     ],
-    "name:chi_x_preferred":[
-        "\u52a0\u4e9e"
-    ],
     "name:dan_x_preferred":[
         "Gaya"
     ],
     "name:deu_x_preferred":[
-        "Gaya"
-    ],
-    "name:dut_x_preferred":[
         "Gaya"
     ],
     "name:eng_x_preferred":[
@@ -36,12 +30,6 @@
         "Gaya"
     ],
     "name:fra_x_preferred":[
-        "Gaya"
-    ],
-    "name:fre_x_preferred":[
-        "Gaya"
-    ],
-    "name:ger_x_preferred":[
         "Gaya"
     ],
     "name:ind_x_preferred":[
@@ -59,10 +47,10 @@
     "name:lit_x_preferred":[
         "Gaja"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Gaya"
     ],
-    "name:msa_x_preferred":[
+    "name:nld_x_preferred":[
         "Gaya"
     ],
     "name:pol_x_preferred":[
@@ -72,9 +60,6 @@
         "Gaya"
     ],
     "name:ron_x_preferred":[
-        "Gaya"
-    ],
-    "name:rum_x_preferred":[
         "Gaya"
     ],
     "name:rus_x_preferred":[
@@ -225,7 +210,7 @@
         }
     ],
     "wof:id":421168171,
-    "wof:lastmodified":1527716100,
+    "wof:lastmodified":1561760158,
     "wof:name":"Gaya",
     "wof:parent_id":1092050969,
     "wof:placetype":"locality",

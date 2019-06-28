@@ -19,25 +19,13 @@
     "name:cat_x_preferred":[
         "Dogondoutchi"
     ],
-    "name:chi_x_preferred":[
-        "\u591a\u8ca2\u675c\u5947"
-    ],
     "name:deu_x_preferred":[
-        "Dogondoutchi"
-    ],
-    "name:dut_x_preferred":[
         "Dogondoutchi"
     ],
     "name:eng_x_preferred":[
         "Dogondoutchi"
     ],
     "name:fra_x_preferred":[
-        "Dogondoutchi"
-    ],
-    "name:fre_x_preferred":[
-        "Dogondoutchi"
-    ],
-    "name:ger_x_preferred":[
         "Dogondoutchi"
     ],
     "name:glg_x_preferred":[
@@ -52,19 +40,16 @@
     "name:jpn_x_preferred":[
         "\u30c9\u30b4\u30f3\u30c9\u30a5\u30c1"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Dogondoutchi"
     ],
-    "name:msa_x_preferred":[
+    "name:nld_x_preferred":[
         "Dogondoutchi"
     ],
     "name:pol_x_preferred":[
         "Dogondoutchi"
     ],
     "name:ron_x_preferred":[
-        "Dogondoutchi"
-    ],
-    "name:rum_x_preferred":[
         "Dogondoutchi"
     ],
     "name:rus_x_preferred":[
@@ -133,7 +118,7 @@
         }
     ],
     "wof:id":421198539,
-    "wof:lastmodified":1527716354,
+    "wof:lastmodified":1561760159,
     "wof:name":"Dogondoutchi",
     "wof:parent_id":1092051467,
     "wof:placetype":"locality",

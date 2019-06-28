@@ -19,17 +19,14 @@
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09af\u09bc\u09be\u09b9\u09bf"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u4e9e\u5e0c"
-    ],
     "name:dan_x_preferred":[
         "Mayahi"
     ],
     "name:deu_x_preferred":[
         "Mayahi"
     ],
-    "name:dut_x_preferred":[
-        "Mayahi"
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03b3\u03b9\u03ac\u03c7\u03b9"
     ],
     "name:eng_x_preferred":[
         "Mayahi"
@@ -39,15 +36,6 @@
     ],
     "name:fra_x_preferred":[
         "Mayahi"
-    ],
-    "name:fre_x_preferred":[
-        "Mayahi"
-    ],
-    "name:ger_x_preferred":[
-        "Mayahi"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b1\u03b3\u03b9\u03ac\u03c7\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0abe\u0aaf\u0abe\u0ab9\u0ac0"
@@ -79,9 +67,6 @@
     "name:mar_x_preferred":[
         "\u092e\u0947\u0939\u093e\u092f"
     ],
-    "name:may_x_preferred":[
-        "Mayahi"
-    ],
     "name:msa_x_preferred":[
         "Mayahi"
     ],
@@ -98,9 +83,6 @@
         "Mayahi"
     ],
     "name:ron_x_preferred":[
-        "Mayahi"
-    ],
-    "name:rum_x_preferred":[
         "Mayahi"
     ],
     "name:rus_x_preferred":[
@@ -195,7 +177,7 @@
         }
     ],
     "wof:id":421196739,
-    "wof:lastmodified":1527716360,
+    "wof:lastmodified":1561760159,
     "wof:name":"Mayahi",
     "wof:parent_id":1092051435,
     "wof:placetype":"locality",

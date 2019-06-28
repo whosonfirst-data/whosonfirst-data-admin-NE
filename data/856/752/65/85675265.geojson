@@ -35,17 +35,14 @@
     "name:cat_x_preferred":[
         "Tillab\u00e9ri"
     ],
-    "name:chi_x_preferred":[
-        "\u8482\u62c9\u8d1d\u91cc\u5927\u533a"
-    ],
     "name:dan_x_preferred":[
         "Tillab\u00e9ri"
     ],
     "name:deu_x_preferred":[
         "Tillab\u00e9ri"
     ],
-    "name:dut_x_preferred":[
-        "Tillab\u00e9ri"
+    "name:ell_x_preferred":[
+        "\u03a4\u03b9\u03bb\u03b1\u03bc\u03c0\u03ad\u03c1\u03b9"
     ],
     "name:eng_x_preferred":[
         "Tillab\u00e9ri"
@@ -58,15 +55,6 @@
     ],
     "name:fra_x_variant":[
         "Tillaberi"
-    ],
-    "name:fre_x_preferred":[
-        "Tillab\u00e9ri"
-    ],
-    "name:ger_x_preferred":[
-        "Tillab\u00e9ri"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b9\u03bb\u03b1\u03bc\u03c0\u03ad\u03c1\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0a9f\u0abf\u0ab2\u0abe\u0aac\u0ac7\u0ab0\u0ac0 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -101,7 +89,10 @@
     "name:mar_x_preferred":[
         "\u0924\u093f\u0932\u093e\u092c\u0947\u0930\u0940 \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Tillab\u00e9ri"
+    ],
+    "name:nld_x_preferred":[
         "Tillab\u00e9ri"
     ],
     "name:nob_x_preferred":[
@@ -113,7 +104,7 @@
     "name:por_x_preferred":[
         "Tillab\u00e9ri"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea Tillab\u00e9ri"
     ],
     "name:rus_x_preferred":[
@@ -148,6 +139,9 @@
     ],
     "name:vie_x_preferred":[
         "Khu v\u1ef1c Tillab\u00e9ri"
+    ],
+    "name:zho_x_preferred":[
+        "\u8482\u62c9\u8d1d\u91cc\u5927\u533a"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"NER",
@@ -272,7 +266,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1553550494,
+    "wof:lastmodified":1561760099,
     "wof:name":"Tillab\u00e9ri",
     "wof:parent_id":85632269,
     "wof:placetype":"region",

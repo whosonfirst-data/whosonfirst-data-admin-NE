@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":53.685197,
-    "geom:area_square_m":625500803619.296387,
+    "geom:area_square_m":625500803619.296753,
     "geom:bbox":"4.24249267578,15.3194713683,16.0119018555,23.5250713683",
     "geom:latitude":19.484245,
     "geom:longitude":10.517389,
@@ -35,14 +35,14 @@
     "name:cat_x_preferred":[
         "Agadez"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u52a0\u5fb7\u5179\u5927\u533a"
-    ],
     "name:dan_x_preferred":[
         "Agadez"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Agadez"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03b3\u03ba\u03b1\u03bd\u03c4\u03ad\u03b6"
     ],
     "name:eng_x_preferred":[
         "Agadez"
@@ -55,15 +55,6 @@
     ],
     "name:fra_x_preferred":[
         "Agadez"
-    ],
-    "name:fre_x_preferred":[
-        "Agadez"
-    ],
-    "name:ger_x_preferred":[
-        "Agadez"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03b3\u03ba\u03b1\u03bd\u03c4\u03ad\u03b6"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0a97\u0abe\u0aa1\u0ac7\u0a9d \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -98,7 +89,10 @@
     "name:mar_x_preferred":[
         "\u0905\u0917\u093e\u0921\u0947\u091d \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Agadez"
+    ],
+    "name:nld_x_preferred":[
         "Agadez"
     ],
     "name:nob_x_preferred":[
@@ -111,9 +105,6 @@
         "Agadez"
     ],
     "name:ron_x_preferred":[
-        "Regiunea Agadez"
-    ],
-    "name:rum_x_preferred":[
         "Regiunea Agadez"
     ],
     "name:rus_x_preferred":[
@@ -281,7 +272,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1553814810,
+    "wof:lastmodified":1561760099,
     "wof:name":"Agadez",
     "wof:parent_id":85632269,
     "wof:placetype":"region",

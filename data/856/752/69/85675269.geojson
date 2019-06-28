@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":12.355758,
-    "geom:area_square_m":146921094496.987122,
+    "geom:area_square_m":146921094496.986755,
     "geom:bbox":"10.6136663397,13.0623713683,15.576611655,18.0154713683",
     "geom:latitude":15.861998,
     "geom:longitude":13.220965,
@@ -36,14 +36,14 @@
     "name:cat_x_preferred":[
         "Diffa"
     ],
-    "name:chi_x_preferred":[
-        "\u8fea\u6cd5\u5927\u533a"
-    ],
     "name:dan_x_preferred":[
         "Diffa"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Diffa"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03af\u03c6\u03b1"
     ],
     "name:eng_x_preferred":[
         "Diffa Region"
@@ -56,15 +56,6 @@
     ],
     "name:fra_x_preferred":[
         "Diffa"
-    ],
-    "name:fre_x_preferred":[
-        "Diffa"
-    ],
-    "name:ger_x_preferred":[
-        "Diffa"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03c4\u03af\u03c6\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aa1\u0abf\u0aab\u0abe \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -99,7 +90,10 @@
     "name:mar_x_preferred":[
         "\u0921\u093f\u092b\u094d\u092b\u093e \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Diffa"
+    ],
+    "name:nld_x_preferred":[
         "Diffa"
     ],
     "name:nob_x_preferred":[
@@ -112,9 +106,6 @@
         "Diffa"
     ],
     "name:ron_x_preferred":[
-        "Regiunea Diffa"
-    ],
-    "name:rum_x_preferred":[
         "Regiunea Diffa"
     ],
     "name:rus_x_preferred":[
@@ -277,7 +268,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1553814810,
+    "wof:lastmodified":1561760099,
     "wof:name":"Diffa",
     "wof:parent_id":85632269,
     "wof:placetype":"region",

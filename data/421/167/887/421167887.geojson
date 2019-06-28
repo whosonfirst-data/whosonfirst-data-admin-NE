@@ -20,16 +20,10 @@
     "name:cat_x_preferred":[
         "Tillab\u00e9ri"
     ],
-    "name:chi_x_preferred":[
-        "\u8482\u62c9\u8c9d\u91cc"
-    ],
     "name:dan_x_preferred":[
         "Tillab\u00e9ri"
     ],
     "name:deu_x_preferred":[
-        "Tillab\u00e9ri"
-    ],
-    "name:dut_x_preferred":[
         "Tillab\u00e9ri"
     ],
     "name:eng_x_preferred":[
@@ -39,12 +33,6 @@
         "Tillab\u00e9ri"
     ],
     "name:fra_x_preferred":[
-        "Tillab\u00e9ri"
-    ],
-    "name:fre_x_preferred":[
-        "Tillab\u00e9ri"
-    ],
-    "name:ger_x_preferred":[
         "Tillab\u00e9ri"
     ],
     "name:ind_x_preferred":[
@@ -59,7 +47,10 @@
     "name:kor_x_preferred":[
         "\ud2f8\ub77c\ubca0\ub9ac"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Tillab\u00e9ri"
+    ],
+    "name:nld_x_preferred":[
         "Tillab\u00e9ri"
     ],
     "name:pol_x_preferred":[
@@ -68,7 +59,7 @@
     "name:por_x_preferred":[
         "Tillab\u00e9ri"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Tillab\u00e9ri"
     ],
     "name:rus_x_preferred":[
@@ -225,7 +216,7 @@
         }
     ],
     "wof:id":421167887,
-    "wof:lastmodified":1527716154,
+    "wof:lastmodified":1561760158,
     "wof:name":"Tillaberi",
     "wof:parent_id":890429081,
     "wof:placetype":"locality",

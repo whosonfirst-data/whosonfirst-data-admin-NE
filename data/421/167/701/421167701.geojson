@@ -19,19 +19,10 @@
     "name:deu_x_preferred":[
         "Tchintabaraden"
     ],
-    "name:dut_x_preferred":[
-        "Tchin-Tabaraden"
-    ],
     "name:eng_x_preferred":[
         "Tchin Tabarad\u00e8n"
     ],
     "name:fra_x_preferred":[
-        "Tchintabaraden"
-    ],
-    "name:fre_x_preferred":[
-        "Tchintabaraden"
-    ],
-    "name:ger_x_preferred":[
         "Tchintabaraden"
     ],
     "name:ita_x_preferred":[
@@ -40,16 +31,16 @@
     "name:jpn_x_preferred":[
         "\u30c1\u30f3\u30fb\u30bf\u30d0\u30e9\u30c7\u30a3\u30fc\u30cc"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Tchin-Tabaraden"
     ],
-    "name:msa_x_preferred":[
+    "name:nld_x_preferred":[
         "Tchin-Tabaraden"
     ],
     "name:ron_x_preferred":[
         "Tchintabaraden"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Tchin-Tabaraden"
     ],
     "name:spa_x_preferred":[
@@ -109,7 +100,7 @@
         }
     ],
     "wof:id":421167701,
-    "wof:lastmodified":1527716153,
+    "wof:lastmodified":1561760158,
     "wof:name":"Tchin Tabaradene",
     "wof:parent_id":1092051813,
     "wof:placetype":"locality",

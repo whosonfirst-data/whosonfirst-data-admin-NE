@@ -16,37 +16,25 @@
     "name:deu_x_preferred":[
         "Tibiri"
     ],
-    "name:dut_x_preferred":[
-        "Tibiri"
-    ],
     "name:eng_x_preferred":[
         "Tibiri"
     ],
     "name:fra_x_preferred":[
         "Tibiri"
     ],
-    "name:fre_x_preferred":[
-        "Tibiri"
-    ],
-    "name:ger_x_preferred":[
-        "Tibiri"
-    ],
     "name:ita_x_preferred":[
         "Tibiri"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Tibiri"
     ],
-    "name:msa_x_preferred":[
+    "name:nld_x_preferred":[
         "Tibiri"
     ],
     "name:pol_x_preferred":[
         "Tibiri"
     ],
     "name:ron_x_preferred":[
-        "Tibiri"
-    ],
-    "name:rum_x_preferred":[
         "Tibiri"
     ],
     "name:rus_x_preferred":[
@@ -99,7 +87,7 @@
         }
     ],
     "wof:id":421196743,
-    "wof:lastmodified":1527716368,
+    "wof:lastmodified":1561760159,
     "wof:name":"Tibiri",
     "wof:parent_id":1092051229,
     "wof:placetype":"locality",

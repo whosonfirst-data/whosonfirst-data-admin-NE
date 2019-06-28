@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.623197,
-    "geom:area_square_m":31577588907.50502,
+    "geom:area_square_m":31577588907.505035,
     "geom:bbox":"2.46966633973,11.6974713683,4.59716633973,14.6354713683",
     "geom:latitude":13.199121,
     "geom:longitude":3.542464,
@@ -38,14 +38,14 @@
     "name:cat_x_preferred":[
         "Dosso"
     ],
-    "name:chi_x_preferred":[
-        "\u591a\u7d22\u5927\u533a"
-    ],
     "name:dan_x_preferred":[
         "Dosso"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Dosso"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03cc\u03c3\u03c3\u03bf"
     ],
     "name:eng_x_preferred":[
         "Dosso"
@@ -55,15 +55,6 @@
     ],
     "name:fra_x_preferred":[
         "Dosso"
-    ],
-    "name:fre_x_preferred":[
-        "Dosso"
-    ],
-    "name:ger_x_preferred":[
-        "Dosso"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03c4\u03cc\u03c3\u03c3\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0aa1\u0acb\u0ab8\u0acb \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -98,7 +89,10 @@
     "name:mar_x_preferred":[
         "\u0921\u094b\u0938\u094b \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Dosso"
+    ],
+    "name:nld_x_preferred":[
         "Dosso"
     ],
     "name:nob_x_preferred":[
@@ -110,7 +104,7 @@
     "name:por_x_preferred":[
         "Dosso"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea Dosso"
     ],
     "name:rus_x_preferred":[
@@ -145,6 +139,9 @@
     ],
     "name:vie_x_preferred":[
         "Khu v\u1ef1c Dosso"
+    ],
+    "name:zho_x_preferred":[
+        "\u591a\u7d22\u5927\u533a"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"NER",
@@ -269,7 +266,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1553814810,
+    "wof:lastmodified":1561760099,
     "wof:name":"Dosso",
     "wof:parent_id":85632269,
     "wof:placetype":"region",

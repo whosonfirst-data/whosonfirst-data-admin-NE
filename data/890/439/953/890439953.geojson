@@ -25,8 +25,11 @@
     "name:dan_x_preferred":[
         "Birni-N'Konni"
     ],
-    "name:dut_x_preferred":[
-        "Birni-N'Konni"
+    "name:deu_x_preferred":[
+        "Birni-N\u2019Konni"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03af\u03bc\u03b9 \u039d\u03ba\u03cc\u03bd\u03b9"
     ],
     "name:eng_x_preferred":[
         "Birni-N'Konni"
@@ -34,14 +37,8 @@
     "name:fin_x_preferred":[
         "Birni-N'Konni"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Birni N'Konni"
-    ],
-    "name:ger_x_preferred":[
-        "Birni-N\u2019Konni"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03af\u03bc\u03b9 \u039d\u03ba\u03cc\u03bd\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f\u0abf\u0aaf\u0abe\u0a97\u0acb \u0a9f\u0a95\u0acd\u0ab8\u0acd\u0a9f\u0ab2\u0abe"
@@ -73,7 +70,10 @@
     "name:mar_x_preferred":[
         "\u092c\u093f\u0930\u0928\u0940-\u090f\u0928'\u0915\u094b\u0928\u093f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Birni-N'Konni"
+    ],
+    "name:nld_x_preferred":[
         "Birni-N'Konni"
     ],
     "name:nob_x_preferred":[
@@ -85,7 +85,7 @@
     "name:por_x_preferred":[
         "Birni Konni"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Birni-N'Konni"
     ],
     "name:rus_x_preferred":[
@@ -249,7 +249,7 @@
         }
     ],
     "wof:id":890439953,
-    "wof:lastmodified":1527729729,
+    "wof:lastmodified":1561760159,
     "wof:name":"Birni N Konni",
     "wof:parent_id":1092051301,
     "wof:placetype":"locality",
