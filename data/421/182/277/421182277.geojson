@@ -46,9 +46,6 @@
     "name:fra_x_preferred":[
         "Tchiroz\u00e9rine"
     ],
-    "name:fre_x_preferred":[
-        "Tchiroz\u00e9rine"
-    ],
     "name:ita_x_preferred":[
         "Tchirozerine"
     ],
@@ -117,7 +114,7 @@
         }
     ],
     "wof:id":421182277,
-    "wof:lastmodified":1555047485,
+    "wof:lastmodified":1561760159,
     "wof:name":"Tchighozerine",
     "wof:parent_id":85675273,
     "wof:placetype":"county",

@@ -16,13 +16,7 @@
     "name:bul_x_preferred":[
         "\u041c\u0438\u0440\u0438\u0430\u0445"
     ],
-    "name:chi_x_preferred":[
-        "\u7c73\u91cc\u4e9e"
-    ],
     "name:deu_x_preferred":[
-        "Mirriah"
-    ],
-    "name:dut_x_preferred":[
         "Mirriah"
     ],
     "name:eng_x_preferred":[
@@ -31,28 +25,19 @@
     "name:fra_x_preferred":[
         "Mirriah"
     ],
-    "name:fre_x_preferred":[
-        "Mirriah"
-    ],
-    "name:ger_x_preferred":[
-        "Mirriah"
-    ],
     "name:ita_x_preferred":[
         "Mirriah"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Mirriah"
     ],
-    "name:msa_x_preferred":[
+    "name:nld_x_preferred":[
         "Mirriah"
     ],
     "name:pol_x_preferred":[
         "Mirriah"
     ],
     "name:ron_x_preferred":[
-        "Miria"
-    ],
-    "name:rum_x_preferred":[
         "Miria"
     ],
     "name:rus_x_preferred":[
@@ -120,7 +105,7 @@
         }
     ],
     "wof:id":421168179,
-    "wof:lastmodified":1527716100,
+    "wof:lastmodified":1561760157,
     "wof:name":"Miria",
     "wof:parent_id":1092051411,
     "wof:placetype":"locality",

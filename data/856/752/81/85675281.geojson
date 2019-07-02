@@ -35,14 +35,14 @@
     "name:cat_x_preferred":[
         "Maradi"
     ],
-    "name:chi_x_preferred":[
-        "\u9a6c\u62c9\u8fea\u5927\u533a"
-    ],
     "name:dan_x_preferred":[
         "Maradi"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Maradi"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03c1\u03b1\u03bd\u03c4\u03af"
     ],
     "name:eng_x_preferred":[
         "Maradi"
@@ -52,15 +52,6 @@
     ],
     "name:fra_x_preferred":[
         "Maradi"
-    ],
-    "name:fre_x_preferred":[
-        "Maradi"
-    ],
-    "name:ger_x_preferred":[
-        "Maradi"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b1\u03c1\u03b1\u03bd\u03c4\u03af"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0abe\u0ab0\u0abe\u0aa1\u0ac0 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -95,7 +86,10 @@
     "name:mar_x_preferred":[
         "\u092e\u093e\u0930\u0921\u0940 \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Maradi"
+    ],
+    "name:nld_x_preferred":[
         "Maradi"
     ],
     "name:nob_x_preferred":[
@@ -107,7 +101,7 @@
     "name:por_x_preferred":[
         "Maradi"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea Maradi"
     ],
     "name:rus_x_preferred":[
@@ -142,6 +136,9 @@
     ],
     "name:vie_x_preferred":[
         "Khu v\u1ef1c Maradi"
+    ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u62c9\u8fea\u5927\u533a"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"NER",
@@ -266,7 +263,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1553550484,
+    "wof:lastmodified":1561760099,
     "wof:name":"Maradi",
     "wof:parent_id":85632269,
     "wof:placetype":"region",

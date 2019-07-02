@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":12.264994,
-    "geom:area_square_m":146475466051.559326,
+    "geom:area_square_m":146475466051.559204,
     "geom:bbox":"7.35446633973,12.8035713683,12.0027663397,17.4943713683",
     "geom:latitude":14.988241,
     "geom:longitude":10.036441,
@@ -32,14 +32,14 @@
     "name:ben_x_preferred":[
         "\u099c\u09bf\u09a8\u09cd\u09a1\u09be\u09b0 \u0985\u099e\u09cd\u099a\u09b2"
     ],
-    "name:chi_x_preferred":[
-        "\u6d25\u5fb7\u5c14\u5927\u533a"
-    ],
     "name:dan_x_preferred":[
         "Zinder"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Zinder"
+    ],
+    "name:ell_x_preferred":[
+        "\u0396\u03af\u03bd\u03c4\u03b5\u03c1"
     ],
     "name:eng_x_preferred":[
         "Zinder"
@@ -49,15 +49,6 @@
     ],
     "name:fra_x_preferred":[
         "Zinder"
-    ],
-    "name:fre_x_preferred":[
-        "Zinder"
-    ],
-    "name:ger_x_preferred":[
-        "Zinder"
-    ],
-    "name:gre_x_preferred":[
-        "\u0396\u03af\u03bd\u03c4\u03b5\u03c1"
     ],
     "name:guj_x_preferred":[
         "\u0a9d\u0abf\u0aa8\u0acd\u0aa1\u0ab0 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -92,7 +83,10 @@
     "name:mar_x_preferred":[
         "\u091c\u093f\u0902\u0921\u0930 \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Zinder"
+    ],
+    "name:nld_x_preferred":[
         "Zinder"
     ],
     "name:nob_x_preferred":[
@@ -104,7 +98,7 @@
     "name:por_x_preferred":[
         "Zinder"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea Zinder"
     ],
     "name:rus_x_preferred":[
@@ -142,6 +136,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6d25\u5fb7\u5c14"
+    ],
+    "name:zho_x_variant":[
+        "\u6d25\u5fb7\u5c14\u5927\u533a"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"NER",
@@ -266,7 +263,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1553814810,
+    "wof:lastmodified":1561760100,
     "wof:name":"Zinder",
     "wof:parent_id":85632269,
     "wof:placetype":"region",

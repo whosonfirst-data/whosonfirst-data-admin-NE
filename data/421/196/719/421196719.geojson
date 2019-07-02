@@ -25,8 +25,8 @@
     "name:deu_x_preferred":[
         "Magaria"
     ],
-    "name:dut_x_preferred":[
-        "Magaria"
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03b3\u03ba\u03ac\u03c1\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Magaria"
@@ -36,15 +36,6 @@
     ],
     "name:fra_x_preferred":[
         "Magaria"
-    ],
-    "name:fre_x_preferred":[
-        "Magaria"
-    ],
-    "name:ger_x_preferred":[
-        "Magaria"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b1\u03b3\u03ba\u03ac\u03c1\u03b9\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0ac7\u0a97\u0ab0\u0ac0\u0aaf\u0abe"
@@ -76,10 +67,10 @@
     "name:mar_x_preferred":[
         "\u092e\u0945\u0917\u0930\u093f\u092f\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Magaria"
     ],
-    "name:msa_x_preferred":[
+    "name:nld_x_preferred":[
         "Magaria"
     ],
     "name:nob_x_preferred":[
@@ -92,9 +83,6 @@
         "Magaria"
     ],
     "name:ron_x_preferred":[
-        "Magaria"
-    ],
-    "name:rum_x_preferred":[
         "Magaria"
     ],
     "name:rus_x_preferred":[
@@ -178,7 +166,7 @@
         }
     ],
     "wof:id":421196719,
-    "wof:lastmodified":1527716369,
+    "wof:lastmodified":1561760159,
     "wof:name":"Magaria",
     "wof:parent_id":1092051133,
     "wof:placetype":"locality",

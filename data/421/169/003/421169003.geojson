@@ -20,19 +20,10 @@
     "name:deu_x_preferred":[
         "Gour\u00e9"
     ],
-    "name:dut_x_preferred":[
-        "Goure"
-    ],
     "name:eng_x_preferred":[
         "Gour\u00e9"
     ],
     "name:fra_x_preferred":[
-        "Gour\u00e9"
-    ],
-    "name:fre_x_preferred":[
-        "Gour\u00e9"
-    ],
-    "name:ger_x_preferred":[
         "Gour\u00e9"
     ],
     "name:ita_x_preferred":[
@@ -41,10 +32,10 @@
     "name:jpn_x_preferred":[
         "\u30b0\u30ec\u30fc"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Goure"
     ],
-    "name:msa_x_preferred":[
+    "name:nld_x_preferred":[
         "Goure"
     ],
     "name:pol_x_preferred":[
@@ -54,9 +45,6 @@
         "Gour\u00e9"
     ],
     "name:ron_x_preferred":[
-        "Goure"
-    ],
-    "name:rum_x_preferred":[
         "Goure"
     ],
     "name:unk_x_variant":[
@@ -205,7 +193,7 @@
         }
     ],
     "wof:id":421169003,
-    "wof:lastmodified":1553816356,
+    "wof:lastmodified":1561760158,
     "wof:name":"Goure",
     "wof:parent_id":1092051753,
     "wof:placetype":"locality",

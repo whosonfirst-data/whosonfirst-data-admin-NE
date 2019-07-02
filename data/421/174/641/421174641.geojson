@@ -16,9 +16,6 @@
     "name:deu_x_preferred":[
         "Keita"
     ],
-    "name:dut_x_preferred":[
-        "Keita"
-    ],
     "name:eng_x_preferred":[
         "Keita"
     ],
@@ -28,10 +25,7 @@
     "name:fra_x_preferred":[
         "K\u00e9ita"
     ],
-    "name:fre_x_preferred":[
-        "Keita"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_variant":[
         "Keita"
     ],
     "name:ita_x_preferred":[
@@ -40,16 +34,13 @@
     "name:jpn_x_preferred":[
         "\u30b1\u30a4\u30bf"
     ],
-    "name:may_x_preferred":[
-        "Keita"
-    ],
     "name:msa_x_preferred":[
         "Keita"
     ],
-    "name:ron_x_preferred":[
+    "name:nld_x_preferred":[
         "Keita"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Keita"
     ],
     "name:spa_x_preferred":[
@@ -106,7 +97,7 @@
         }
     ],
     "wof:id":421174641,
-    "wof:lastmodified":1553816364,
+    "wof:lastmodified":1561760158,
     "wof:name":"Keita",
     "wof:parent_id":1092051577,
     "wof:placetype":"locality",

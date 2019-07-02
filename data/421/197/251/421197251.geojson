@@ -20,9 +20,6 @@
     "name:afr_x_preferred":[
         "Niamey"
     ],
-    "name:alb_x_preferred":[
-        "Niamey"
-    ],
     "name:amh_x_preferred":[
         "\u1292\u12eb\u121c"
     ],
@@ -32,9 +29,6 @@
     "name:arc_x_preferred":[
         "\u0722\u071d\u0710\u0721\u071d"
     ],
-    "name:arm_x_preferred":[
-        "\u0546\u056b\u0561\u0574\u0565\u0575"
-    ],
     "name:ast_x_preferred":[
         "Niamey"
     ],
@@ -43,9 +37,6 @@
     ],
     "name:bam_x_preferred":[
         "Niam\u025b"
-    ],
-    "name:baq_x_preferred":[
-        "Niamei"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041d\u0456\u044f\u043c\u0435\u0439"
@@ -71,25 +62,22 @@
     "name:cdo_x_preferred":[
         "Niamey"
     ],
+    "name:ces_x_preferred":[
+        "Niamey"
+    ],
     "name:che_x_preferred":[
         "\u041d\u0438\u0430\u043c\u0435\u0439"
-    ],
-    "name:chi_x_preferred":[
-        "\u5c3c\u4e9e\u7f8e"
     ],
     "name:ckb_x_preferred":[
         "\u0646\u06cc\u0627\u0645\u06d5\u06cc"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Niamey"
     ],
     "name:dan_x_preferred":[
         "Niamey"
     ],
     "name:deu_x_preferred":[
-        "Niamey"
-    ],
-    "name:dut_x_preferred":[
         "Niamey"
     ],
     "name:ell_x_preferred":[
@@ -119,19 +107,10 @@
     "name:fra_x_preferred":[
         "Niamey"
     ],
-    "name:fre_x_preferred":[
-        "Niamey"
-    ],
     "name:frr_x_preferred":[
         "Niamey"
     ],
     "name:fry_x_preferred":[
-        "Niamey"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dc\u10d8\u10d0\u10db\u10d4\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Niamey"
     ],
     "name:gla_x_preferred":[
@@ -142,9 +121,6 @@
     ],
     "name:glg_x_preferred":[
         "Niamey"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03b9\u03b1\u03bc\u03ad\u03c5"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0abf\u0a86\u0aae\u0ac0"
@@ -175,9 +151,6 @@
     ],
     "name:hye_x_preferred":[
         "\u0546\u056b\u0561\u0574\u0565\u0575"
-    ],
-    "name:ice_x_preferred":[
-        "N\u00edamey"
     ],
     "name:ido_x_preferred":[
         "Niamey"
@@ -251,14 +224,8 @@
     "name:ltz_x_preferred":[
         "Niamey"
     ],
-    "name:mac_x_preferred":[
-        "\u041d\u0438\u0458\u0430\u043c\u0435\u0458"
-    ],
     "name:mar_x_preferred":[
         "\u0928\u093f\u092f\u093e\u092e\u0947"
-    ],
-    "name:may_x_preferred":[
-        "Niamey"
     ],
     "name:mkd_x_preferred":[
         "\u041d\u0438\u0458\u0430\u043c\u0435\u0458"
@@ -268,6 +235,9 @@
     ],
     "name:mrj_x_preferred":[
         "\u041d\u0438\u0430\u043c\u0435\u0439"
+    ],
+    "name:msa_x_preferred":[
+        "Niamey"
     ],
     "name:nah_x_preferred":[
         "Niamey"
@@ -299,9 +269,6 @@
     "name:pan_x_preferred":[
         "\u0a28\u0a3f\u0a06\u0a2e\u0a40"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u06cc\u0627\u0645\u06cc"
-    ],
     "name:pms_x_preferred":[
         "Niamey"
     ],
@@ -317,7 +284,7 @@
     "name:que_x_preferred":[
         "Niamey"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Niamey"
     ],
     "name:rus_x_preferred":[
@@ -332,9 +299,6 @@
     "name:slk_x_preferred":[
         "Niamey"
     ],
-    "name:slo_x_preferred":[
-        "Niamey"
-    ],
     "name:slv_x_preferred":[
         "Niamey"
     ],
@@ -345,6 +309,9 @@
         "Niamey"
     ],
     "name:spa_x_preferred":[
+        "Niamey"
+    ],
+    "name:sqi_x_preferred":[
         "Niamey"
     ],
     "name:srp_x_preferred":[
@@ -370,9 +337,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e19\u0e35\u0e2d\u0e32\u0e40\u0e21"
-    ],
-    "name:tib_x_preferred":[
-        "\u0f53\u0f72\u0f0b\u0f61\u0f0b\u0f58\u0f7a\u0f0d"
     ],
     "name:tuk_x_preferred":[
         "Niame\u00fd"
@@ -405,9 +369,6 @@
         "Niamey"
     ],
     "name:war_x_preferred":[
-        "Niamey"
-    ],
-    "name:wel_x_preferred":[
         "Niamey"
     ],
     "name:wuu_x_preferred":[
@@ -579,7 +540,7 @@
         }
     ],
     "wof:id":421197251,
-    "wof:lastmodified":1552519484,
+    "wof:lastmodified":1561760159,
     "wof:name":"Niamey",
     "wof:parent_id":421204117,
     "wof:placetype":"locality",

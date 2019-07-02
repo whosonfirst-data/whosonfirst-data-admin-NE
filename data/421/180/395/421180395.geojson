@@ -16,34 +16,22 @@
     "name:deu_x_preferred":[
         "Madarounfa"
     ],
-    "name:dut_x_preferred":[
-        "Madarounfa"
-    ],
     "name:eng_x_preferred":[
         "Madarounfa"
     ],
     "name:fra_x_preferred":[
         "Madarounfa"
     ],
-    "name:fre_x_preferred":[
-        "Madarounfa"
-    ],
-    "name:ger_x_preferred":[
-        "Madarounfa"
-    ],
     "name:ita_x_preferred":[
-        "Madarounfa"
-    ],
-    "name:may_x_preferred":[
         "Madarounfa"
     ],
     "name:msa_x_preferred":[
         "Madarounfa"
     ],
-    "name:ron_x_preferred":[
+    "name:nld_x_preferred":[
         "Madarounfa"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Madarounfa"
     ],
     "name:unk_x_variant":[
@@ -100,7 +88,7 @@
         }
     ],
     "wof:id":421180395,
-    "wof:lastmodified":1527716238,
+    "wof:lastmodified":1561760158,
     "wof:name":"Madarounfa",
     "wof:parent_id":1092051007,
     "wof:placetype":"locality",

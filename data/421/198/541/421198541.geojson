@@ -17,19 +17,13 @@
     "name:ara_x_preferred":[
         "\u062f\u064a\u0641\u0627"
     ],
-    "name:baq_x_preferred":[
-        "Diffa"
-    ],
     "name:ben_x_preferred":[
         "\u09a6\u09c0\u09aa\u09be"
     ],
     "name:cat_x_preferred":[
         "Diffa"
     ],
-    "name:chi_x_preferred":[
-        "\u8fea\u6cd5"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Diffa"
     ],
     "name:dan_x_preferred":[
@@ -38,8 +32,8 @@
     "name:deu_x_preferred":[
         "Diffa"
     ],
-    "name:dut_x_preferred":[
-        "Diffa"
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03af\u03c6\u03b1"
     ],
     "name:eng_x_preferred":[
         "Diffa"
@@ -55,15 +49,6 @@
     ],
     "name:fra_x_preferred":[
         "Diffa"
-    ],
-    "name:fre_x_preferred":[
-        "Diffa"
-    ],
-    "name:ger_x_preferred":[
-        "Diffa"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03c4\u03af\u03c6\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aa1\u0abf\u0aab\u0abe"
@@ -95,9 +80,6 @@
     "name:mar_x_preferred":[
         "\u0926\u093f\u092b\u094d\u092b\u093e"
     ],
-    "name:may_x_preferred":[
-        "Diffa"
-    ],
     "name:msa_x_preferred":[
         "Diffa"
     ],
@@ -114,9 +96,6 @@
         "Diffa"
     ],
     "name:ron_x_preferred":[
-        "Diffa"
-    ],
-    "name:rum_x_preferred":[
         "Diffa"
     ],
     "name:rus_x_preferred":[
@@ -157,6 +136,9 @@
     ],
     "name:vie_x_preferred":[
         "Diffa"
+    ],
+    "name:zho_x_preferred":[
+        "\u8fea\u6cd5"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Niger",
@@ -298,7 +280,7 @@
         }
     ],
     "wof:id":421198541,
-    "wof:lastmodified":1527716359,
+    "wof:lastmodified":1561760159,
     "wof:name":"Diffa",
     "wof:parent_id":1092051245,
     "wof:placetype":"locality",

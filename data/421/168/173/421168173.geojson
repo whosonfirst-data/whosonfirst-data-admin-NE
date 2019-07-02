@@ -17,9 +17,6 @@
     "name:ara_x_preferred":[
         "\u062f\u0648\u0633\u0648"
     ],
-    "name:baq_x_preferred":[
-        "Dosso"
-    ],
     "name:ben_x_preferred":[
         "\u09a6\u09cb\u09b8\u09cd\u09af"
     ],
@@ -35,8 +32,8 @@
     "name:deu_x_preferred":[
         "Dosso"
     ],
-    "name:dut_x_preferred":[
-        "Dosso"
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03cc\u03c3\u03c3\u03bf"
     ],
     "name:eng_x_preferred":[
         "Dosso"
@@ -49,15 +46,6 @@
     ],
     "name:fra_x_preferred":[
         "Dosso"
-    ],
-    "name:fre_x_preferred":[
-        "Dosso"
-    ],
-    "name:ger_x_preferred":[
-        "Dosso"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03c4\u03cc\u03c3\u03c3\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0aa1\u0acb\u0ab8\u0acb"
@@ -92,9 +80,6 @@
     "name:mar_x_preferred":[
         "\u0921\u094b\u0938\u094b"
     ],
-    "name:may_x_preferred":[
-        "Dosso"
-    ],
     "name:msa_x_preferred":[
         "Dosso"
     ],
@@ -111,9 +96,6 @@
         "Dosso"
     ],
     "name:ron_x_preferred":[
-        "Dosso"
-    ],
-    "name:rum_x_preferred":[
         "Dosso"
     ],
     "name:rus_x_preferred":[
@@ -292,7 +274,7 @@
         }
     ],
     "wof:id":421168173,
-    "wof:lastmodified":1527716094,
+    "wof:lastmodified":1561760157,
     "wof:name":"Dosso",
     "wof:parent_id":1092051041,
     "wof:placetype":"locality",
