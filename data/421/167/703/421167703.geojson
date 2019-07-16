@@ -19,10 +19,16 @@
     "name:cat_x_preferred":[
         "Say"
     ],
+    "name:ceb_x_preferred":[
+        "Say"
+    ],
     "name:deu_x_preferred":[
         "Say"
     ],
     "name:eng_x_preferred":[
+        "Say"
+    ],
+    "name:fin_x_preferred":[
         "Say"
     ],
     "name:fra_x_preferred":[
@@ -52,8 +58,17 @@
     "name:ron_x_preferred":[
         "Say"
     ],
+    "name:spa_x_preferred":[
+        "Say"
+    ],
+    "name:swe_x_preferred":[
+        "Say"
+    ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u06d2\u060c \u0646\u0627\u0626\u062c\u0631"
+    ],
+    "name:urd_x_variant":[
+        "\u0633\u0627\u06d2"
     ],
     "qs:gn_country":"NE",
     "qs:gn_fcode":"PPL",
@@ -103,7 +118,7 @@
         }
     ],
     "wof:id":421167703,
-    "wof:lastmodified":1561760158,
+    "wof:lastmodified":1563316924,
     "wof:name":"Say",
     "wof:parent_id":1092051103,
     "wof:placetype":"locality",

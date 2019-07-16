@@ -31,6 +31,9 @@
     "name:cat_x_preferred":[
         "Zinder"
     ],
+    "name:ceb_x_preferred":[
+        "Zinder"
+    ],
     "name:ces_x_preferred":[
         "Zinder"
     ],
@@ -58,8 +61,14 @@
     "name:fra_x_preferred":[
         "Zinder"
     ],
+    "name:frr_x_preferred":[
+        "Zinder"
+    ],
     "name:guj_x_preferred":[
         "\u0a9d\u0abf\u0aa8\u0acd\u0aa1\u0ab0"
+    ],
+    "name:hau_x_preferred":[
+        "Zinder"
     ],
     "name:heb_x_preferred":[
         "\u05d6\u05d9\u05e0\u05d3\u05e8"
@@ -84,6 +93,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c9c\u0cbf\u0c82\u0ca1\u0cb0\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d6\u10d8\u10dc\u10d3\u10d4\u10e0\u10d8"
     ],
     "name:kor_x_preferred":[
         "\uc794\ub370\ub974"
@@ -295,7 +307,7 @@
         }
     ],
     "wof:id":890418001,
-    "wof:lastmodified":1561760159,
+    "wof:lastmodified":1563316939,
     "wof:name":"Zinder",
     "wof:parent_id":1092051411,
     "wof:placetype":"locality",

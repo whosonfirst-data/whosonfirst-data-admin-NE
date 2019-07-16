@@ -19,6 +19,9 @@
     "name:ben_x_preferred":[
         "\u09ae\u09be\u0987\u09a8\u09c7-\u09b8\u09cb\u09b0\u09cb\u09af\u09bc\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Ma\u00efn\u00e9 Soroa"
+    ],
     "name:dan_x_preferred":[
         "Maine-Soroa"
     ],
@@ -169,7 +172,7 @@
         }
     ],
     "wof:id":421180393,
-    "wof:lastmodified":1561760158,
+    "wof:lastmodified":1563316928,
     "wof:name":"Maine-Soroa",
     "wof:parent_id":1092051363,
     "wof:placetype":"locality",

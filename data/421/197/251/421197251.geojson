@@ -32,6 +32,9 @@
     "name:ast_x_preferred":[
         "Niamey"
     ],
+    "name:azb_x_preferred":[
+        "\u0646\u06cc\u0627\u0645\u06cc"
+    ],
     "name:aze_x_preferred":[
         "Niamey"
     ],
@@ -62,6 +65,9 @@
     "name:cdo_x_preferred":[
         "Niamey"
     ],
+    "name:ceb_x_preferred":[
+        "Niamey"
+    ],
     "name:ces_x_preferred":[
         "Niamey"
     ],
@@ -78,6 +84,9 @@
         "Niamey"
     ],
     "name:deu_x_preferred":[
+        "Niamey"
+    ],
+    "name:diq_x_preferred":[
         "Niamey"
     ],
     "name:ell_x_preferred":[
@@ -121,6 +130,9 @@
     ],
     "name:glg_x_preferred":[
         "Niamey"
+    ],
+    "name:grn_x_preferred":[
+        "Niam\u00e9i"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0abf\u0a86\u0aae\u0ac0"
@@ -224,6 +236,9 @@
     "name:ltz_x_preferred":[
         "Niamey"
     ],
+    "name:mal_x_preferred":[
+        "\u0d28\u0d2f\u0d3e\u0d2e\u0d46"
+    ],
     "name:mar_x_preferred":[
         "\u0928\u093f\u092f\u093e\u092e\u0947"
     ],
@@ -281,6 +296,9 @@
     "name:por_x_preferred":[
         "Niamey"
     ],
+    "name:pus_x_preferred":[
+        "\u0646\u06cc\u0627\u0645\u06cc"
+    ],
     "name:que_x_preferred":[
         "Niamey"
     ],
@@ -321,6 +339,9 @@
         "Niamey"
     ],
     "name:swe_x_preferred":[
+        "Niamey"
+    ],
+    "name:szl_x_preferred":[
         "Niamey"
     ],
     "name:tam_x_preferred":[
@@ -540,7 +561,7 @@
         }
     ],
     "wof:id":421197251,
-    "wof:lastmodified":1561760159,
+    "wof:lastmodified":1563316935,
     "wof:name":"Niamey",
     "wof:parent_id":421204117,
     "wof:placetype":"locality",

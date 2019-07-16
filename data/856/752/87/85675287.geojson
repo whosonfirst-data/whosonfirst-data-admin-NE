@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u062f\u0648\u0633\u0648"
     ],
+    "name:ara_x_variant":[
+        "\u062f\u0648\u0633\u0648"
+    ],
     "name:ben_x_preferred":[
         "\u09a1\u09b8\u09cb \u0985\u099e\u09cd\u099a\u09b2"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:cat_x_preferred":[
         "Dosso"
+    ],
+    "name:ceb_x_preferred":[
+        "Dosso Region"
     ],
     "name:dan_x_preferred":[
         "Dosso"
@@ -50,14 +56,23 @@
     "name:eng_x_preferred":[
         "Dosso"
     ],
+    "name:eng_x_variant":[
+        "Dosso Region"
+    ],
     "name:fin_x_preferred":[
         "Dosso"
     ],
     "name:fra_x_preferred":[
         "Dosso"
     ],
+    "name:frr_x_preferred":[
+        "Dosso"
+    ],
     "name:guj_x_preferred":[
         "\u0aa1\u0acb\u0ab8\u0acb \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
+    ],
+    "name:hau_x_preferred":[
+        "Yankin Dosso"
     ],
     "name:hin_x_preferred":[
         "\u0921\u094b\u0938\u094b \u0915\u094d\u0937\u0947\u0924\u094d\u0930"
@@ -77,8 +92,14 @@
     "name:kan_x_preferred":[
         "\u0ca1\u0ccb\u0cb8\u0ccd\u0cb8\u0ccb \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
     ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10dd\u10e1\u10dd\u10e1 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ub3c4\uc18c \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub3c4\uc18c\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Doso re\u0123ions"
@@ -266,7 +287,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1561760099,
+    "wof:lastmodified":1563315874,
     "wof:name":"Dosso",
     "wof:parent_id":85632269,
     "wof:placetype":"region",

@@ -19,6 +19,9 @@
     "name:ben_x_preferred":[
         "\u099f\u09cd\u09af\u09be\u0981\u09a8\u09c1\u099f"
     ],
+    "name:ceb_x_preferred":[
+        "Tanout"
+    ],
     "name:dan_x_preferred":[
         "Tanout"
     ],
@@ -97,6 +100,9 @@
     "name:swe_x_preferred":[
         "Tanout"
     ],
+    "name:szl_x_preferred":[
+        "Tanout"
+    ],
     "name:tam_x_preferred":[
         "\u0ba4\u0ba8\u0bcc\u0b9f\u0bcd"
     ],
@@ -166,7 +172,7 @@
         }
     ],
     "wof:id":421200147,
-    "wof:lastmodified":1561760159,
+    "wof:lastmodified":1563316936,
     "wof:name":"Tanout",
     "wof:parent_id":1092051731,
     "wof:placetype":"locality",

@@ -13,10 +13,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062f\u0648\u0642\u0648\u0646\u062f\u0648\u062a\u0634\u064a"
+    ],
     "name:bul_x_preferred":[
         "\u0414\u043e\u0433\u043e\u043d\u0434\u043e\u0443\u0442\u0447\u0438"
     ],
     "name:cat_x_preferred":[
+        "Dogondoutchi"
+    ],
+    "name:ceb_x_preferred":[
         "Dogondoutchi"
     ],
     "name:deu_x_preferred":[
@@ -29,6 +35,9 @@
         "Dogondoutchi"
     ],
     "name:glg_x_preferred":[
+        "Dogondoutchi"
+    ],
+    "name:hau_x_preferred":[
         "Dogondoutchi"
     ],
     "name:heb_x_preferred":[
@@ -118,7 +127,7 @@
         }
     ],
     "wof:id":421198539,
-    "wof:lastmodified":1561760159,
+    "wof:lastmodified":1563316930,
     "wof:name":"Dogondoutchi",
     "wof:parent_id":1092051467,
     "wof:placetype":"locality",

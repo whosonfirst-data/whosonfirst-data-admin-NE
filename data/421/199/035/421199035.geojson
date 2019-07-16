@@ -14,8 +14,14 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0646\u0642\u064a\u0642\u0645\u064a"
+    ],
     "name:bul_x_preferred":[
         "\u041d\u0433\u0443\u0438\u0433\u043c\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Nguigmi"
     ],
     "name:deu_x_preferred":[
         "N\u2019Guigmi"
@@ -25,6 +31,9 @@
     ],
     "name:fin_x_preferred":[
         "N\u2019guigmi"
+    ],
+    "name:fin_x_variant":[
+        "N'guigmi"
     ],
     "name:fra_x_preferred":[
         "N\u2019Guigmi"
@@ -46,6 +55,9 @@
     ],
     "name:pol_x_preferred":[
         "N\u2019Guigmi"
+    ],
+    "name:pol_x_variant":[
+        "N'Guigmi"
     ],
     "name:por_x_preferred":[
         "N'guigmi"
@@ -211,7 +223,7 @@
         }
     ],
     "wof:id":421199035,
-    "wof:lastmodified":1561760159,
+    "wof:lastmodified":1563316935,
     "wof:name":"Nguigmi",
     "wof:parent_id":1092051781,
     "wof:placetype":"locality",

@@ -17,6 +17,9 @@
     "name:ara_x_preferred":[
         "\u062c\u0648\u0631"
     ],
+    "name:ceb_x_preferred":[
+        "Gour\u00e9"
+    ],
     "name:deu_x_preferred":[
         "Gour\u00e9"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:ron_x_preferred":[
         "Goure"
+    ],
+    "name:spa_x_preferred":[
+        "Gour\u00e9"
     ],
     "name:unk_x_variant":[
         "Gour\u00e9"
@@ -193,7 +199,7 @@
         }
     ],
     "wof:id":421169003,
-    "wof:lastmodified":1561760158,
+    "wof:lastmodified":1563316925,
     "wof:name":"Goure",
     "wof:parent_id":1092051753,
     "wof:placetype":"locality",
