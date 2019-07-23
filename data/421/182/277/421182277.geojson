@@ -31,6 +31,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062a\u0634\u064a\u0631\u0632\u064a\u0631\u064a\u0646"
+    ],
+    "name:ceb_x_preferred":[
+        "Tchiroz\u00e9rine"
+    ],
     "name:deu_x_preferred":[
         "Tchiroz\u00e9rine"
     ],
@@ -38,7 +44,7 @@
         "Tchighozerine"
     ],
     "name:eng_x_variant":[
-        "Tchighozerine"
+        "Tchiroz\u00e9rine"
     ],
     "name:fin_x_preferred":[
         "Tchiroz\u00e9rine"
@@ -55,8 +61,14 @@
     "name:msa_x_preferred":[
         "Tchirozerine"
     ],
+    "name:nld_x_preferred":[
+        "Tchirozerine"
+    ],
     "name:pol_x_preferred":[
         "Tchiroz\u00e9rine"
+    ],
+    "name:por_x_preferred":[
+        "Tchirozerine"
     ],
     "name:ron_x_preferred":[
         "Tchirozerine"
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":421182277,
-    "wof:lastmodified":1561760159,
+    "wof:lastmodified":1563316937,
     "wof:name":"Tchighozerine",
     "wof:parent_id":85675273,
     "wof:placetype":"county",

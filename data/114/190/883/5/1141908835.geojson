@@ -14,6 +14,9 @@
     "lbl:longitude":12.307507,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Brao"
+    ],
     "name:deu_x_preferred":[
         "Djado"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0414\u0436\u0430\u0434\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Djado"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Niger",
@@ -157,7 +163,7 @@
         }
     ],
     "wof:id":1141908835,
-    "wof:lastmodified":1561760190,
+    "wof:lastmodified":1563317484,
     "wof:name":"Djado",
     "wof:parent_id":1092051881,
     "wof:placetype":"locality",

@@ -23,6 +23,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u0434\u0430\u043e\u0443\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Madaoua"
+    ],
     "name:dan_x_preferred":[
         "Madaoua"
     ],
@@ -271,7 +274,7 @@
         }
     ],
     "wof:id":421180039,
-    "wof:lastmodified":1561760158,
+    "wof:lastmodified":1563316927,
     "wof:name":"Madaoua",
     "wof:parent_id":1092051329,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Dosso"
     ],
+    "name:ceb_x_preferred":[
+        "Dosso"
+    ],
     "name:dan_x_preferred":[
         "Dosso"
     ],
@@ -47,8 +50,14 @@
     "name:fra_x_preferred":[
         "Dosso"
     ],
+    "name:frr_x_preferred":[
+        "Dosso"
+    ],
     "name:guj_x_preferred":[
         "\u0aa1\u0acb\u0ab8\u0acb"
+    ],
+    "name:hau_x_preferred":[
+        "Dosso"
     ],
     "name:hin_x_preferred":[
         "\u0921\u094b\u0938\u094b"
@@ -130,6 +139,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062f\u0648\u0633\u0648\u060c \u0646\u0627\u0626\u062c\u0631"
+    ],
+    "name:urd_x_variant":[
+        "\u062f\u0648\u0633\u0648"
     ],
     "name:vie_x_preferred":[
         "Dosso"
@@ -274,7 +286,7 @@
         }
     ],
     "wof:id":421168173,
-    "wof:lastmodified":1561760157,
+    "wof:lastmodified":1563316920,
     "wof:name":"Dosso",
     "wof:parent_id":1092051041,
     "wof:placetype":"locality",

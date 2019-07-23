@@ -22,6 +22,9 @@
     "name:ben_x_preferred":[
         "\u09ac\u09bf\u09b0\u09a8\u09bf-\u09a8'\u0995\u09a8\u09cd\u09a8\u09bf"
     ],
+    "name:ceb_x_preferred":[
+        "Birni N Konni"
+    ],
     "name:dan_x_preferred":[
         "Birni-N'Konni"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f\u0abf\u0aaf\u0abe\u0a97\u0acb \u0a9f\u0a95\u0acd\u0ab8\u0acd\u0a9f\u0ab2\u0abe"
+    ],
+    "name:hau_x_preferred":[
+        "Birnin-Konni"
     ],
     "name:hin_x_preferred":[
         "\u092c\u093f\u0930\u0928\u0940 \u090f\u0928'\u0915\u0949\u0928\u0940"
@@ -249,7 +255,7 @@
         }
     ],
     "wof:id":890439953,
-    "wof:lastmodified":1561760159,
+    "wof:lastmodified":1563316937,
     "wof:name":"Birni N Konni",
     "wof:parent_id":1092051301,
     "wof:placetype":"locality",

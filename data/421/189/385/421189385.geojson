@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "Tahoua"
     ],
+    "name:ceb_x_preferred":[
+        "Tahoua"
+    ],
     "name:dan_x_preferred":[
         "Tahoua"
     ],
@@ -44,8 +47,14 @@
     "name:fra_x_preferred":[
         "Tahoua"
     ],
+    "name:frr_x_preferred":[
+        "Tahoua"
+    ],
     "name:guj_x_preferred":[
         "\u0aa4\u0abe\u0ab9\u0acc\u0a86"
+    ],
+    "name:hau_x_preferred":[
+        "Tahoua"
     ],
     "name:hin_x_preferred":[
         "\u0924\u093e\u0939\u0909\u0935\u093e"
@@ -61,6 +70,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0ca4\u0cbe\u0cb9\u0ccc"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10d0\u10f0\u10e3\u10d0"
     ],
     "name:kor_x_preferred":[
         "\ud0c0\uc6b0\uc544"
@@ -273,7 +285,7 @@
         }
     ],
     "wof:id":421189385,
-    "wof:lastmodified":1561760159,
+    "wof:lastmodified":1563316929,
     "wof:name":"Tahoua",
     "wof:parent_id":1092051609,
     "wof:placetype":"locality",

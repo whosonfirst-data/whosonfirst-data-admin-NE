@@ -20,6 +20,9 @@
     "name:cat_x_preferred":[
         "Tillab\u00e9ri"
     ],
+    "name:ceb_x_preferred":[
+        "Tillab\u00e9ri"
+    ],
     "name:dan_x_preferred":[
         "Tillab\u00e9ri"
     ],
@@ -33,6 +36,9 @@
         "Tillab\u00e9ri"
     ],
     "name:fra_x_preferred":[
+        "Tillab\u00e9ri"
+    ],
+    "name:frr_x_preferred":[
         "Tillab\u00e9ri"
     ],
     "name:ind_x_preferred":[
@@ -67,6 +73,9 @@
     ],
     "name:spa_x_preferred":[
         "Tillab\u00e9ri"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0456\u043b\u043b\u0430\u0431\u0435\u0440\u0456"
     ],
     "name:unk_x_variant":[
         "Tillab\u00e9ry"
@@ -216,7 +225,7 @@
         }
     ],
     "wof:id":421167887,
-    "wof:lastmodified":1561760158,
+    "wof:lastmodified":1563316923,
     "wof:name":"Tillaberi",
     "wof:parent_id":890429081,
     "wof:placetype":"locality",

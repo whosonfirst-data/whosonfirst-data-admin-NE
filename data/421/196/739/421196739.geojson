@@ -19,6 +19,9 @@
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09af\u09bc\u09be\u09b9\u09bf"
     ],
+    "name:ceb_x_preferred":[
+        "Mayahi"
+    ],
     "name:dan_x_preferred":[
         "Mayahi"
     ],
@@ -177,7 +180,7 @@
         }
     ],
     "wof:id":421196739,
-    "wof:lastmodified":1561760159,
+    "wof:lastmodified":1563316931,
     "wof:name":"Mayahi",
     "wof:parent_id":1092051435,
     "wof:placetype":"locality",

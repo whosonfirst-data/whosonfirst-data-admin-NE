@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Tessaoua"
     ],
+    "name:ceb_x_preferred":[
+        "Tessaoua"
+    ],
     "name:dan_x_preferred":[
         "Tessaoua"
     ],
@@ -177,7 +180,7 @@
         }
     ],
     "wof:id":421194475,
-    "wof:lastmodified":1561760158,
+    "wof:lastmodified":1563316922,
     "wof:name":"Tessaoua",
     "wof:parent_id":1092051389,
     "wof:placetype":"locality",

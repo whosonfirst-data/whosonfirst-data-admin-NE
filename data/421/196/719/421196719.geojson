@@ -19,6 +19,9 @@
     "name:ben_x_preferred":[
         "\u09ae\u09be\u0997\u09be\u09b0\u09bf\u09af\u09bc\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Magaria"
+    ],
     "name:dan_x_preferred":[
         "Magaria"
     ],
@@ -166,7 +169,7 @@
         }
     ],
     "wof:id":421196719,
-    "wof:lastmodified":1561760159,
+    "wof:lastmodified":1563316933,
     "wof:name":"Magaria",
     "wof:parent_id":1092051133,
     "wof:placetype":"locality",
