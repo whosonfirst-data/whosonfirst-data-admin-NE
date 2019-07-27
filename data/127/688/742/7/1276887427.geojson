@@ -25,6 +25,21 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "S\u00e9gu\u00e9dine"
+    ],
+    "name:deu_x_preferred":[
+        "S\u00e9gu\u00e9dine"
+    ],
+    "name:epo_x_preferred":[
+        "Segedemo"
+    ],
+    "name:fin_x_preferred":[
+        "Siguedine"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0433\u0435\u0434\u0438\u043d"
+    ],
     "name:und_x_variant":[
         "Sogodem",
         "S\u00e9gu\u00e9dine"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1276887427,
-    "wof:lastmodified":1537674877,
+    "wof:lastmodified":1564209878,
     "wof:name":"Seguedine",
     "wof:parent_id":1092051881,
     "wof:placetype":"locality",

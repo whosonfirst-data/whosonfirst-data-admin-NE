@@ -25,6 +25,21 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Hamdara"
+    ],
+    "name:ita_x_preferred":[
+        "Hamdara"
+    ],
+    "name:msa_x_preferred":[
+        "Hamdara"
+    ],
+    "name:ron_x_preferred":[
+        "Hamdara"
+    ],
+    "name:spa_x_preferred":[
+        "Hamdara"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1226363899,
-    "wof:lastmodified":1537569971,
+    "wof:lastmodified":1564211346,
     "wof:name":"Hamdara",
     "wof:parent_id":1092051411,
     "wof:placetype":"locality",

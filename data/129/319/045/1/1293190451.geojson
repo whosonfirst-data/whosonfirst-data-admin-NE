@@ -25,6 +25,24 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Sako\u00efra"
+    ],
+    "name:fra_x_preferred":[
+        "Sakoira"
+    ],
+    "name:ita_x_preferred":[
+        "Sakoira"
+    ],
+    "name:msa_x_preferred":[
+        "Sakoira"
+    ],
+    "name:ron_x_preferred":[
+        "Sakoira"
+    ],
+    "name:spa_x_preferred":[
+        "Sakoira"
+    ],
     "name:und_x_variant":[
         "Sako\u00efre",
         "Sarakoira",
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1293190451,
-    "wof:lastmodified":1537674695,
+    "wof:lastmodified":1564209803,
     "wof:name":"Sakoyra",
     "wof:parent_id":890429081,
     "wof:placetype":"locality",

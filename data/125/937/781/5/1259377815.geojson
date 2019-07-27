@@ -25,6 +25,18 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dine"
+    ],
+    "name:deu_x_preferred":[
+        "Dine"
+    ],
+    "name:ita_x_preferred":[
+        "Dine"
+    ],
+    "name:swe_x_preferred":[
+        "Dine"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1259377815,
-    "wof:lastmodified":1537009747,
+    "wof:lastmodified":1564211041,
     "wof:name":"Dine",
     "wof:parent_id":1092051633,
     "wof:placetype":"locality",

@@ -26,9 +26,18 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0627\u0642\u0648\u0644\u0627\u0644"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06af\u0648\u0644\u0627\u0644"
+    ],
     "name:und_x_variant":[
         "Aguellal",
         "\u00c2guelal"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06af\u0648\u0644\u0627\u0644"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1310322813,
-    "wof:lastmodified":1537674876,
+    "wof:lastmodified":1564210583,
     "wof:name":"Aguelal",
     "wof:parent_id":1092051845,
     "wof:placetype":"locality",

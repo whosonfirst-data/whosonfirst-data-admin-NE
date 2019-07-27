@@ -25,6 +25,24 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kao"
+    ],
+    "name:fin_x_preferred":[
+        "Kao"
+    ],
+    "name:ita_x_preferred":[
+        "Kao"
+    ],
+    "name:msa_x_preferred":[
+        "Kao"
+    ],
+    "name:ron_x_preferred":[
+        "Kao"
+    ],
+    "name:spa_x_preferred":[
+        "Kao"
+    ],
     "name:und_x_variant":[
         "Gao",
         "Kao"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1259475789,
-    "wof:lastmodified":1537674803,
+    "wof:lastmodified":1564211093,
     "wof:name":"Kao",
     "wof:parent_id":1092051813,
     "wof:placetype":"locality",

@@ -25,6 +25,27 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gouna"
+    ],
+    "name:deu_x_preferred":[
+        "Gouna"
+    ],
+    "name:fra_x_preferred":[
+        "Gouna"
+    ],
+    "name:ita_x_preferred":[
+        "Gouna"
+    ],
+    "name:msa_x_preferred":[
+        "Gouna"
+    ],
+    "name:ron_x_preferred":[
+        "Gouna"
+    ],
+    "name:spa_x_preferred":[
+        "Gouna"
+    ],
     "name:und_x_variant":[
         "Guna",
         "Gouna"
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1343849873,
-    "wof:lastmodified":1537674792,
+    "wof:lastmodified":1564209413,
     "wof:name":"Gouna",
     "wof:parent_id":1092051411,
     "wof:placetype":"locality",

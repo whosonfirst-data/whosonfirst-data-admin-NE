@@ -25,6 +25,21 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Ichirnawa"
+    ],
+    "name:ita_x_preferred":[
+        "Ichirnawa"
+    ],
+    "name:msa_x_preferred":[
+        "Ichirnawa"
+    ],
+    "name:ron_x_preferred":[
+        "Ichirnawa"
+    ],
+    "name:spa_x_preferred":[
+        "Ichirnawa"
+    ],
     "name:und_x_variant":[
         "Ichirnawa",
         "Ichirnawa L\u00e9ko"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1310397349,
-    "wof:lastmodified":1537674765,
+    "wof:lastmodified":1564210536,
     "wof:name":"Ichirnawa Leko",
     "wof:parent_id":1092051165,
     "wof:placetype":"locality",

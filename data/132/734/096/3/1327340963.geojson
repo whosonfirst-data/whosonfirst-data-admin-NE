@@ -25,6 +25,12 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Faran"
+    ],
+    "name:swe_x_preferred":[
+        "Faran"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1327340963,
-    "wof:lastmodified":1536812218,
+    "wof:lastmodified":1564209147,
     "wof:name":"Faran",
     "wof:parent_id":1092050969,
     "wof:placetype":"locality",

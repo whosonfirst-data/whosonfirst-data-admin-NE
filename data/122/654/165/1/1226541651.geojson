@@ -25,6 +25,24 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bodinga"
+    ],
+    "name:fra_x_preferred":[
+        "Bodinga"
+    ],
+    "name:hau_x_preferred":[
+        "Bodinga"
+    ],
+    "name:ita_x_preferred":[
+        "Bodinga"
+    ],
+    "name:por_x_preferred":[
+        "Bodinga"
+    ],
+    "name:spa_x_preferred":[
+        "Bodinga"
+    ],
     "name:und_x_variant":[
         "Bodinnga",
         "Bodinga"
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1226541651,
-    "wof:lastmodified":1537674849,
+    "wof:lastmodified":1564211340,
     "wof:name":"Bodinga",
     "wof:parent_id":1092051041,
     "wof:placetype":"locality",

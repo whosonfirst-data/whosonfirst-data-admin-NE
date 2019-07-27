@@ -25,6 +25,21 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kirtachi"
+    ],
+    "name:ita_x_preferred":[
+        "Kirtachi"
+    ],
+    "name:msa_x_preferred":[
+        "Kirtachi"
+    ],
+    "name:ron_x_preferred":[
+        "Kirtachi"
+    ],
+    "name:spa_x_preferred":[
+        "Kirtachi"
+    ],
     "name:und_x_variant":[
         "Kirtachi",
         "Kirtachi Seybou"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1310090061,
-    "wof:lastmodified":1537674748,
+    "wof:lastmodified":1564210504,
     "wof:name":"Kirtachi Seybou",
     "wof:parent_id":421182275,
     "wof:placetype":"locality",

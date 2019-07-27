@@ -25,6 +25,15 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0427\u0435\u0442\u0430"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0427\u0435\u0442\u0430"
+    ],
+    "name:pol_x_preferred":[
+        "Czeta"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1242800043,
-    "wof:lastmodified":1536743032,
+    "wof:lastmodified":1564210825,
     "wof:name":"Cheta",
     "wof:parent_id":1092051301,
     "wof:placetype":"locality",

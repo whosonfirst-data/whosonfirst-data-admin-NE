@@ -25,6 +25,27 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Saboula"
+    ],
+    "name:fra_x_preferred":[
+        "Saboula"
+    ],
+    "name:ita_x_preferred":[
+        "Saboula"
+    ],
+    "name:nld_x_preferred":[
+        "Saboula"
+    ],
+    "name:spa_x_preferred":[
+        "Saboula"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0628\u0648\u0644\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u5e03\u62c9"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1310703657,
-    "wof:lastmodified":1536629308,
+    "wof:lastmodified":1564210457,
     "wof:name":"Saboula",
     "wof:parent_id":1092051075,
     "wof:placetype":"locality",

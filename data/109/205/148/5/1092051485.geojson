@@ -37,6 +37,12 @@
         "Illela",
         "Ill\u00e9la"
     ],
+    "name:fra_x_preferred":[
+        "Ill\u00e9la"
+    ],
+    "name:ita_x_preferred":[
+        "Ill\u00e9la"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1092051485,
-    "wof:lastmodified":1555047486,
+    "wof:lastmodified":1564210702,
     "wof:name":"Illela",
     "wof:parent_id":85675297,
     "wof:placetype":"county",

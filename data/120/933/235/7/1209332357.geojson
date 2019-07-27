@@ -25,6 +25,24 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Tabelot"
+    ],
+    "name:fin_x_preferred":[
+        "Tabelot"
+    ],
+    "name:ita_x_preferred":[
+        "Tabelot"
+    ],
+    "name:msa_x_preferred":[
+        "Tabelot"
+    ],
+    "name:ron_x_preferred":[
+        "Tabelot"
+    ],
+    "name:spa_x_preferred":[
+        "Tabelot"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632269
@@ -42,7 +60,7 @@
         }
     ],
     "wof:id":1209332357,
-    "wof:lastmodified":1536290333,
+    "wof:lastmodified":1564210215,
     "wof:name":"Tabelot",
     "wof:parent_id":85632269,
     "wof:placetype":"locality",

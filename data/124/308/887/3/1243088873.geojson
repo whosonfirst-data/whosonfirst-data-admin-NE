@@ -25,6 +25,18 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Tarka"
+    ],
+    "name:ita_x_preferred":[
+        "Tarka"
+    ],
+    "name:msa_x_preferred":[
+        "Tarka"
+    ],
+    "name:ron_x_preferred":[
+        "Tarka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1243088873,
-    "wof:lastmodified":1537569950,
+    "wof:lastmodified":1564210804,
     "wof:name":"Tarka",
     "wof:parent_id":1092051731,
     "wof:placetype":"locality",

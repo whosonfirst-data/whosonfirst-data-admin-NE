@@ -25,6 +25,21 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Tanda"
+    ],
+    "name:ita_x_preferred":[
+        "Tanda"
+    ],
+    "name:msa_x_preferred":[
+        "Tanda"
+    ],
+    "name:ron_x_preferred":[
+        "Tanda"
+    ],
+    "name:spa_x_preferred":[
+        "Tanda"
+    ],
     "name:und_x_variant":[
         "Tanda",
         "Tenda"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1293300313,
-    "wof:lastmodified":1537674673,
+    "wof:lastmodified":1564209614,
     "wof:name":"Tenda",
     "wof:parent_id":1092050969,
     "wof:placetype":"locality",

@@ -25,6 +25,18 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Labanda"
+    ],
+    "name:swe_x_preferred":[
+        "Labanda"
+    ],
+    "name:vie_x_preferred":[
+        "Bariana"
+    ],
+    "name:war_x_preferred":[
+        "Labanda"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632269
@@ -34,7 +46,7 @@
         "gn:id":2596663
     },
     "wof:country":"NE",
-    "wof:geomhash":"8f961cc429a7ea522c2a51fded383082",
+    "wof:geomhash":"cc7c76760d947b6edf5d3e6773287b43",
     "wof:hierarchy":[
         {
             "country_id":85632269,
@@ -42,7 +54,7 @@
         }
     ],
     "wof:id":1209607843,
-    "wof:lastmodified":1536281948,
+    "wof:lastmodified":1564210201,
     "wof:name":"Labanda",
     "wof:parent_id":85632269,
     "wof:placetype":"locality",
@@ -52,9 +64,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.028580000000002,
+    6.02858,
     14.93827,
-    6.028580000000002,
+    6.02858,
     14.93827
 ],
   "geometry": {"coordinates":[6.02858,14.93827],"type":"Point"}

@@ -25,6 +25,18 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Akari"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30ab\u30ea"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\uce74\ub9ac"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u0430\u0440\u0438"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1277091907,
-    "wof:lastmodified":1536754410,
+    "wof:lastmodified":1564209835,
     "wof:name":"Akari",
     "wof:parent_id":421182277,
     "wof:placetype":"locality",

@@ -25,9 +25,51 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Mousa"
+    ],
+    "name:ceb_x_preferred":[
+        "Mousa"
+    ],
+    "name:cym_x_preferred":[
+        "Mousa"
+    ],
+    "name:deu_x_preferred":[
+        "Mousa"
+    ],
+    "name:eus_x_preferred":[
+        "Mousa"
+    ],
+    "name:fra_x_preferred":[
+        "Mousa"
+    ],
+    "name:gla_x_preferred":[
+        "Mousa"
+    ],
+    "name:nno_x_preferred":[
+        "Mousa"
+    ],
+    "name:nor_x_preferred":[
+        "Mousa"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0443\u0441\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Mousa"
+    ],
+    "name:spa_x_preferred":[
+        "Mousa"
+    ],
+    "name:swe_x_preferred":[
+        "Mousa"
+    ],
     "name:und_x_variant":[
         "Moussa",
         "Mousa"
+    ],
+    "name:zho_x_preferred":[
+        "\u7a46\u85a9\u5cf6"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +94,7 @@
         }
     ],
     "wof:id":1293807887,
-    "wof:lastmodified":1537674709,
+    "wof:lastmodified":1564209782,
     "wof:name":"Mousa",
     "wof:parent_id":1092051229,
     "wof:placetype":"locality",

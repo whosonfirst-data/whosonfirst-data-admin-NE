@@ -29,6 +29,9 @@
         "Dar\u00e9",
         "Darey"
     ],
+    "name:yor_x_preferred":[
+        "Darey"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1226438371,
-    "wof:lastmodified":1537674830,
+    "wof:lastmodified":1564211191,
     "wof:name":"Darey",
     "wof:parent_id":421182275,
     "wof:placetype":"locality",

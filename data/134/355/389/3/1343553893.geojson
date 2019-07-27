@@ -26,6 +26,21 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Tassara"
+    ],
+    "name:ita_x_preferred":[
+        "Tassara"
+    ],
+    "name:msa_x_preferred":[
+        "Tassara"
+    ],
+    "name:ron_x_preferred":[
+        "Tassara"
+    ],
+    "name:spa_x_preferred":[
+        "Tassara"
+    ],
     "name:und_x_variant":[
         "Tasara",
         "Tassara"
@@ -54,7 +69,7 @@
         }
     ],
     "wof:id":1343553893,
-    "wof:lastmodified":1537674677,
+    "wof:lastmodified":1564209346,
     "wof:name":"Tassara",
     "wof:parent_id":1092051813,
     "wof:placetype":"locality",

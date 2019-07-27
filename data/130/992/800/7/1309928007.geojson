@@ -25,6 +25,21 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Tamask\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Tamaske"
+    ],
+    "name:msa_x_preferred":[
+        "Tamaske"
+    ],
+    "name:ron_x_preferred":[
+        "Tamaske"
+    ],
+    "name:spa_x_preferred":[
+        "Tamask\u00e9"
+    ],
     "name:und_x_variant":[
         "Tamask\u00e9"
     ],
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1309928007,
-    "wof:lastmodified":1537674679,
+    "wof:lastmodified":1564210746,
     "wof:name":"Tamaske",
     "wof:parent_id":1092051577,
     "wof:placetype":"locality",

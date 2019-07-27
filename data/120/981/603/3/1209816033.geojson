@@ -25,6 +25,21 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kornaka"
+    ],
+    "name:ita_x_preferred":[
+        "Kornaka"
+    ],
+    "name:msa_x_preferred":[
+        "Kornaka"
+    ],
+    "name:ron_x_preferred":[
+        "Kornaka"
+    ],
+    "name:spa_x_preferred":[
+        "Kornaka"
+    ],
     "name:und_x_variant":[
         "Kournaka",
         "Kornaka"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1209816033,
-    "wof:lastmodified":1537674741,
+    "wof:lastmodified":1564210270,
     "wof:name":"Kornaka",
     "wof:parent_id":1092051663,
     "wof:placetype":"locality",

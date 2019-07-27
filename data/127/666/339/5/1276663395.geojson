@@ -25,6 +25,24 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bader Goula"
+    ],
+    "name:deu_x_preferred":[
+        "Bader Goula"
+    ],
+    "name:ita_x_preferred":[
+        "Bader Goula"
+    ],
+    "name:msa_x_preferred":[
+        "Bader Goula"
+    ],
+    "name:ron_x_preferred":[
+        "Bader Goula"
+    ],
+    "name:spa_x_preferred":[
+        "Bader Goula"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1276663395,
-    "wof:lastmodified":1537569972,
+    "wof:lastmodified":1564209942,
     "wof:name":"Bader Goula",
     "wof:parent_id":1092051663,
     "wof:placetype":"locality",

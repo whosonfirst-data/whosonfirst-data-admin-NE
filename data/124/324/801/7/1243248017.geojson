@@ -25,6 +25,15 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Koya"
+    ],
+    "name:deu_x_preferred":[
+        "Koya"
+    ],
+    "name:swe_x_preferred":[
+        "Koya"
+    ],
     "name:und_x_variant":[
         "Koria",
         "Koya"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1243248017,
-    "wof:lastmodified":1537674742,
+    "wof:lastmodified":1564210897,
     "wof:name":"Koya",
     "wof:parent_id":421182275,
     "wof:placetype":"locality",

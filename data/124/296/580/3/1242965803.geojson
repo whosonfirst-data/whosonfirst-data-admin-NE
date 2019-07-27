@@ -25,6 +25,21 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Tama"
+    ],
+    "name:ita_x_preferred":[
+        "Tama"
+    ],
+    "name:msa_x_preferred":[
+        "Tama"
+    ],
+    "name:ron_x_preferred":[
+        "Tama"
+    ],
+    "name:spa_x_preferred":[
+        "Tama"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1242965803,
-    "wof:lastmodified":1537569951,
+    "wof:lastmodified":1564210952,
     "wof:name":"Tama",
     "wof:parent_id":1092051515,
     "wof:placetype":"locality",

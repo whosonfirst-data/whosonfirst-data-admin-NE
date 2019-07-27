@@ -25,6 +25,21 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Doum\u00e9ga"
+    ],
+    "name:deu_x_preferred":[
+        "Doum\u00e9ga"
+    ],
+    "name:ita_x_preferred":[
+        "Doumega"
+    ],
+    "name:msa_x_preferred":[
+        "Doumega"
+    ],
+    "name:ron_x_preferred":[
+        "Doumega"
+    ],
     "name:und_x_variant":[
         "Dumega",
         "Doum\u00e9ga"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1226450167,
-    "wof:lastmodified":1537674817,
+    "wof:lastmodified":1564211203,
     "wof:name":"Doumega",
     "wof:parent_id":1092051467,
     "wof:placetype":"locality",

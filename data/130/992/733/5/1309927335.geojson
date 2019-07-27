@@ -25,6 +25,21 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Chaya"
+    ],
+    "name:deu_x_preferred":[
+        "Chaya"
+    ],
+    "name:fra_x_preferred":[
+        "Chaya"
+    ],
+    "name:ita_x_preferred":[
+        "Chaya"
+    ],
+    "name:swe_x_preferred":[
+        "Chaya"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1309927335,
-    "wof:lastmodified":1536756034,
+    "wof:lastmodified":1564210746,
     "wof:name":"Chaya",
     "wof:parent_id":1092051753,
     "wof:placetype":"locality",

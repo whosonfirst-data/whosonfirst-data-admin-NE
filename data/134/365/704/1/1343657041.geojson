@@ -25,6 +25,15 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Badan"
+    ],
+    "name:nld_x_preferred":[
+        "Badan"
+    ],
+    "name:swe_x_preferred":[
+        "Badan"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1343657041,
-    "wof:lastmodified":1536959946,
+    "wof:lastmodified":1564209302,
     "wof:name":"Badan",
     "wof:parent_id":1092051577,
     "wof:placetype":"locality",

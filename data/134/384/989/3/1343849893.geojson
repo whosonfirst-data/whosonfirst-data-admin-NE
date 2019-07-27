@@ -25,6 +25,27 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Meyna"
+    ],
+    "name:por_x_preferred":[
+        "Meyna"
+    ],
+    "name:spa_x_preferred":[
+        "Meyna"
+    ],
+    "name:swe_x_preferred":[
+        "Meyna"
+    ],
+    "name:vie_x_preferred":[
+        "Meyna"
+    ],
+    "name:war_x_preferred":[
+        "Meyna"
+    ],
+    "name:zho_x_preferred":[
+        "\u743c\u6885\u5c5e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1343849893,
-    "wof:lastmodified":1536681835,
+    "wof:lastmodified":1564209414,
     "wof:name":"Meyna",
     "wof:parent_id":1092051731,
     "wof:placetype":"locality",

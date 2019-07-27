@@ -26,9 +26,15 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "La Tapoa"
+    ],
     "name:und_x_variant":[
         "Tapoa",
         "La Tapoa"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u0679\u0627\u067e\u0648\u0627"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1226438481,
-    "wof:lastmodified":1537674678,
+    "wof:lastmodified":1564211189,
     "wof:name":"La Tapoa",
     "wof:parent_id":1092051103,
     "wof:placetype":"locality",

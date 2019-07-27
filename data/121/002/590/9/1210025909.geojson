@@ -25,6 +25,15 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Anney"
+    ],
+    "name:epo_x_preferred":[
+        "Anney"
+    ],
+    "name:fin_x_preferred":[
+        "Aney"
+    ],
     "name:fra_x_preferred":[
         "Aney"
     ],
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1210025909,
-    "wof:lastmodified":1537674868,
+    "wof:lastmodified":1564210299,
     "wof:name":"Aney",
     "wof:parent_id":1092051881,
     "wof:placetype":"locality",

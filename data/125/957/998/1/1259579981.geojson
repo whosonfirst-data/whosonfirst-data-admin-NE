@@ -25,6 +25,27 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bosso"
+    ],
+    "name:deu_x_preferred":[
+        "Bosso"
+    ],
+    "name:fra_x_preferred":[
+        "Bosso"
+    ],
+    "name:ind_x_preferred":[
+        "Bosso"
+    ],
+    "name:ita_x_preferred":[
+        "Bosso"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0441\u0441\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Bosso"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1259579981,
-    "wof:lastmodified":1536720268,
+    "wof:lastmodified":1564211103,
     "wof:name":"Bosso",
     "wof:parent_id":1092051695,
     "wof:placetype":"locality",

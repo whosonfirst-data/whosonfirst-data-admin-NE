@@ -25,6 +25,15 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Hamka"
+    ],
+    "name:jav_x_preferred":[
+        "Hamka"
+    ],
+    "name:msa_x_preferred":[
+        "Hamka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1343969545,
-    "wof:lastmodified":1537006117,
+    "wof:lastmodified":1564209321,
     "wof:name":"Hamka",
     "wof:parent_id":1092051041,
     "wof:placetype":"locality",

@@ -25,6 +25,36 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Louka"
+    ],
+    "name:ces_x_preferred":[
+        "Louka"
+    ],
+    "name:deu_x_preferred":[
+        "Louka"
+    ],
+    "name:fra_x_preferred":[
+        "Louka"
+    ],
+    "name:ita_x_preferred":[
+        "Louka"
+    ],
+    "name:nld_x_preferred":[
+        "Louka"
+    ],
+    "name:slk_x_preferred":[
+        "Louka"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u043e\u0443\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Louka"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043e\u0443\u043a\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632269
@@ -34,7 +64,7 @@
         "gn:id":6721645
     },
     "wof:country":"NE",
-    "wof:geomhash":"99cdeb61b441f9f593c7243da8a27c53",
+    "wof:geomhash":"1953bc1b8244954c046a2813b390111e",
     "wof:hierarchy":[
         {
             "country_id":85632269,
@@ -42,7 +72,7 @@
         }
     ],
     "wof:id":1209338453,
-    "wof:lastmodified":1536290140,
+    "wof:lastmodified":1564210214,
     "wof:name":"Louka",
     "wof:parent_id":85632269,
     "wof:placetype":"locality",
@@ -53,9 +83,9 @@
 },
   "bbox": [
     7.20678,
-    13.366420000000002,
+    13.36642,
     7.20678,
-    13.366420000000002
+    13.36642
 ],
   "geometry": {"coordinates":[7.20678,13.36642],"type":"Point"}
 }

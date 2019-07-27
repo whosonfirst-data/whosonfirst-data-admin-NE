@@ -30,11 +30,44 @@
     "mps:longitude":7.587505,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Mayahi"
+    ],
+    "name:deu_x_preferred":[
+        "Mayahi"
+    ],
     "name:eng_x_preferred":[
         "Mayahi"
     ],
     "name:eng_x_variant":[
         "Mayahi"
+    ],
+    "name:fra_x_preferred":[
+        "Mayahi"
+    ],
+    "name:ita_x_preferred":[
+        "Mayahi"
+    ],
+    "name:msa_x_preferred":[
+        "Mayahi"
+    ],
+    "name:nld_x_preferred":[
+        "Mayahi"
+    ],
+    "name:pol_x_preferred":[
+        "Mayahi"
+    ],
+    "name:ron_x_preferred":[
+        "Mayahi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u044f\u0445\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Mayahi"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u4e9e\u5e0c"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -59,7 +92,7 @@
         }
     ],
     "wof:id":1092051435,
-    "wof:lastmodified":1555047486,
+    "wof:lastmodified":1564210698,
     "wof:name":"Mayahi",
     "wof:parent_id":85675281,
     "wof:placetype":"county",

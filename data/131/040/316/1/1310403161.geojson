@@ -25,6 +25,24 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tillia"
+    ],
+    "name:deu_x_preferred":[
+        "Tillia"
+    ],
+    "name:fin_x_preferred":[
+        "Tillia"
+    ],
+    "name:ita_x_preferred":[
+        "Tillia"
+    ],
+    "name:msa_x_preferred":[
+        "Tillia"
+    ],
+    "name:ron_x_preferred":[
+        "Tillia"
+    ],
     "name:und_x_variant":[
         "Tilia",
         "Tillia"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1310403161,
-    "wof:lastmodified":1537674670,
+    "wof:lastmodified":1564210486,
     "wof:name":"Tillia",
     "wof:parent_id":1092051813,
     "wof:placetype":"locality",

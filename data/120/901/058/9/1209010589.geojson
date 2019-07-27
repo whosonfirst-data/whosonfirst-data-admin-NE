@@ -25,6 +25,18 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kaori"
+    ],
+    "name:jpn_x_preferred":[
+        "\u304b\u304a\u308a"
+    ],
+    "name:kor_x_preferred":[
+        "\uac00\uc624\ub9ac"
+    ],
+    "name:pol_x_preferred":[
+        "Kaori"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632269
@@ -42,7 +54,7 @@
         }
     ],
     "wof:id":1209010589,
-    "wof:lastmodified":1536300460,
+    "wof:lastmodified":1564210087,
     "wof:name":"Kaori",
     "wof:parent_id":85632269,
     "wof:placetype":"locality",

@@ -25,6 +25,18 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gaba"
+    ],
+    "name:ita_x_preferred":[
+        "Gaba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u0431\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Gaba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1242799927,
-    "wof:lastmodified":1536743196,
+    "wof:lastmodified":1564210937,
     "wof:name":"Gaba",
     "wof:parent_id":1092051515,
     "wof:placetype":"locality",

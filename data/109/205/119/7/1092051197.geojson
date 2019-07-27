@@ -30,12 +30,42 @@
     "mps:longitude":7.690065,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Agui\u00e9"
+    ],
+    "name:deu_x_preferred":[
+        "Agui\u00e9"
+    ],
     "name:eng_x_preferred":[
         "Aguie"
     ],
     "name:eng_x_variant":[
         "Aguie",
         "Agui\u00e9"
+    ],
+    "name:fin_x_preferred":[
+        "Agui\u00e9"
+    ],
+    "name:fra_x_preferred":[
+        "Agui\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Aguie"
+    ],
+    "name:msa_x_preferred":[
+        "Aguie"
+    ],
+    "name:pol_x_preferred":[
+        "Agui\u00e9"
+    ],
+    "name:ron_x_preferred":[
+        "Aguie"
+    ],
+    "name:spa_x_preferred":[
+        "Agui\u00e9"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06af\u0648\u06cc"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -60,7 +90,7 @@
         }
     ],
     "wof:id":1092051197,
-    "wof:lastmodified":1555047486,
+    "wof:lastmodified":1564210699,
     "wof:name":"Aguie",
     "wof:parent_id":85675281,
     "wof:placetype":"county",

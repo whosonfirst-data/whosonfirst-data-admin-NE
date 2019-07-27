@@ -25,6 +25,24 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sakala"
+    ],
+    "name:deu_x_preferred":[
+        "Sakala"
+    ],
+    "name:est_x_preferred":[
+        "Sakala"
+    ],
+    "name:glg_x_preferred":[
+        "Sakala"
+    ],
+    "name:new_x_preferred":[
+        "\u0938\u0915\u0932\u093e"
+    ],
+    "name:swe_x_preferred":[
+        "Sakala"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632269
@@ -42,7 +60,7 @@
         }
     ],
     "wof:id":1209422419,
-    "wof:lastmodified":1536287487,
+    "wof:lastmodified":1564210246,
     "wof:name":"Sakala",
     "wof:parent_id":85632269,
     "wof:placetype":"locality",

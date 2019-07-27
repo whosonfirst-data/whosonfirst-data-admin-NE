@@ -30,11 +30,53 @@
     "mps:longitude":8.294509,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062a\u064a\u0633\u0627\u0648\u0627"
+    ],
+    "name:cat_x_preferred":[
+        "Tessaoua"
+    ],
+    "name:ceb_x_preferred":[
+        "Tessaoua"
+    ],
+    "name:deu_x_preferred":[
+        "Tessaoua"
+    ],
     "name:eng_x_preferred":[
         "Tessaoua"
     ],
     "name:eng_x_variant":[
         "Tessaoua"
+    ],
+    "name:fra_x_preferred":[
+        "Tessaoua"
+    ],
+    "name:ita_x_preferred":[
+        "Tessaoua"
+    ],
+    "name:msa_x_preferred":[
+        "Tessaoua"
+    ],
+    "name:pol_x_preferred":[
+        "Tessaoua"
+    ],
+    "name:ron_x_preferred":[
+        "Tessaoua"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u0441\u0430\u0432\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Tessaoua"
+    ],
+    "name:tur_x_preferred":[
+        "Tessaoua"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u06cc\u0633\u0627\u0624\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cf0\u85a9\u74e6"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -59,7 +101,7 @@
         }
     ],
     "wof:id":1092051389,
-    "wof:lastmodified":1555047486,
+    "wof:lastmodified":1564210700,
     "wof:name":"Tessaoua",
     "wof:parent_id":85675281,
     "wof:placetype":"county",

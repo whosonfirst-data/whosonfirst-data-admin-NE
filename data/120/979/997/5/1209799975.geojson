@@ -25,9 +25,99 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u064a\u0642\u0629"
+    ],
+    "name:bel_x_preferred":[
+        "Boiga"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u043e\u0439\u0433\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Boiga"
+    ],
+    "name:ces_x_preferred":[
+        "Bojga"
+    ],
+    "name:deu_x_preferred":[
+        "Nachtbaumnattern"
+    ],
+    "name:est_x_preferred":[
+        "Boiga"
+    ],
+    "name:eus_x_preferred":[
+        "Boiga"
+    ],
+    "name:fra_x_preferred":[
+        "Boiga"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05d9\u05d2\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Boiga"
+    ],
+    "name:ind_x_preferred":[
+        "Ular kucing"
+    ],
+    "name:ita_x_preferred":[
+        "Boiga"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30aa\u30ac\u30b7\u30e9\u5c5e"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u043e\u0439\u0433\u0430\u043b\u0430\u0440"
+    ],
+    "name:lit_x_preferred":[
+        "Boigos"
+    ],
+    "name:nld_x_preferred":[
+        "Nachtboomslangen"
+    ],
+    "name:pol_x_preferred":[
+        "Boiga"
+    ],
+    "name:por_x_preferred":[
+        "Boiga"
+    ],
+    "name:ron_x_preferred":[
+        "Boiga"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0439\u0433\u0438"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db8\u0dcf\u0db4\u0dd2\u0dbd\u0dca \u0d9c\u0dab\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Boiga"
+    ],
+    "name:swe_x_preferred":[
+        "Boiga"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e07\u0e39\u0e15\u0e32\u0e41\u0e21\u0e27"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0439\u0433\u0430"
+    ],
     "name:und_x_variant":[
         "Bo\u00efga",
         "Boigua"
+    ],
+    "name:uzb_x_preferred":[
+        "Boygalar"
+    ],
+    "name:vie_x_preferred":[
+        "Boiga"
+    ],
+    "name:war_x_preferred":[
+        "Boiga"
+    ],
+    "name:zho_x_preferred":[
+        "\u6797\u86c7\u5c6c"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +142,7 @@
         }
     ],
     "wof:id":1209799975,
-    "wof:lastmodified":1537674848,
+    "wof:lastmodified":1564210121,
     "wof:name":"Boiga",
     "wof:parent_id":1092051545,
     "wof:placetype":"locality",

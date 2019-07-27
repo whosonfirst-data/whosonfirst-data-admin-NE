@@ -25,6 +25,21 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Dessa"
+    ],
+    "name:ita_x_preferred":[
+        "Dessa"
+    ],
+    "name:msa_x_preferred":[
+        "Dessa"
+    ],
+    "name:ron_x_preferred":[
+        "Dessa"
+    ],
+    "name:spa_x_preferred":[
+        "Dessa"
+    ],
     "name:und_x_variant":[
         "Desa",
         "D\u00e9ssa"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1226034733,
-    "wof:lastmodified":1537674827,
+    "wof:lastmodified":1564211251,
     "wof:name":"Dessa",
     "wof:parent_id":890429081,
     "wof:placetype":"locality",

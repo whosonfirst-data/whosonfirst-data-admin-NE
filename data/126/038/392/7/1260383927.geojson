@@ -25,6 +25,18 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kalgo"
+    ],
+    "name:hau_x_preferred":[
+        "Kalgo"
+    ],
+    "name:ita_x_preferred":[
+        "Kalgo"
+    ],
+    "name:spa_x_preferred":[
+        "Kalgo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1260383927,
-    "wof:lastmodified":1537071359,
+    "wof:lastmodified":1564210363,
     "wof:name":"Kalgo",
     "wof:parent_id":1092051609,
     "wof:placetype":"locality",

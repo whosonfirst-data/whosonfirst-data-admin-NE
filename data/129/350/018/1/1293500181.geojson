@@ -25,6 +25,21 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Foulatari"
+    ],
+    "name:ita_x_preferred":[
+        "Foulatari"
+    ],
+    "name:msa_x_preferred":[
+        "Foulatari"
+    ],
+    "name:ron_x_preferred":[
+        "Foulatari"
+    ],
+    "name:spa_x_preferred":[
+        "Foulatari"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1293500181,
-    "wof:lastmodified":1537569964,
+    "wof:lastmodified":1564209701,
     "wof:name":"Foulatari",
     "wof:parent_id":1092051363,
     "wof:placetype":"locality",

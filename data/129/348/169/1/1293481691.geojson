@@ -25,6 +25,24 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Task"
+    ],
+    "name:fra_x_preferred":[
+        "T\u00e2che"
+    ],
+    "name:ido_x_preferred":[
+        "Tasko"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30b9\u30af"
+    ],
+    "name:swe_x_preferred":[
+        "Task"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0430\u0432\u0434\u0430\u043d\u043d\u044f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1293481691,
-    "wof:lastmodified":1536795692,
+    "wof:lastmodified":1564209657,
     "wof:name":"Task",
     "wof:parent_id":1092051753,
     "wof:placetype":"locality",

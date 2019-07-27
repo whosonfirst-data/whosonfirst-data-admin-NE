@@ -25,6 +25,102 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0628\u0627"
+    ],
+    "name:aze_x_preferred":[
+        "Baba"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u0431\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Baba"
+    ],
+    "name:ceb_x_preferred":[
+        "Baba"
+    ],
+    "name:ces_x_preferred":[
+        "Baba"
+    ],
+    "name:deu_x_preferred":[
+        "Baba"
+    ],
+    "name:epo_x_preferred":[
+        "Baba"
+    ],
+    "name:fin_x_preferred":[
+        "Baba"
+    ],
+    "name:fra_x_preferred":[
+        "Baba"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d1\u05d0"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u093e\u092c\u093e"
+    ],
+    "name:hrv_x_preferred":[
+        "Baba"
+    ],
+    "name:hun_x_preferred":[
+        "Baba"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u0562\u0561"
+    ],
+    "name:ita_x_preferred":[
+        "Baba"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0430\u0431\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Baba"
+    ],
+    "name:nno_x_preferred":[
+        "Baba"
+    ],
+    "name:pol_x_preferred":[
+        "Baba"
+    ],
+    "name:por_x_preferred":[
+        "Baba"
+    ],
+    "name:ron_x_preferred":[
+        "Baba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0431\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Baba"
+    ],
+    "name:slv_x_preferred":[
+        "Baba"
+    ],
+    "name:spa_x_preferred":[
+        "Baba"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0431\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Baba"
+    ],
+    "name:tgl_x_preferred":[
+        "Baba"
+    ],
+    "name:tur_x_preferred":[
+        "Baba"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0431\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0627\u0628\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632269
@@ -34,7 +130,7 @@
         "gn:id":2447374
     },
     "wof:country":"NE",
-    "wof:geomhash":"88b9c7d3812f0bf24d923b51a19df35d",
+    "wof:geomhash":"45c22112f6bf0ca4bbbd9937009441ab",
     "wof:hierarchy":[
         {
             "country_id":85632269,
@@ -42,7 +138,7 @@
         }
     ],
     "wof:id":1209027921,
-    "wof:lastmodified":1536299937,
+    "wof:lastmodified":1564210213,
     "wof:name":"Baba",
     "wof:parent_id":85632269,
     "wof:placetype":"locality",
@@ -52,9 +148,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    8.227139999999999,
+    8.22714,
     14.39521,
-    8.227139999999999,
+    8.22714,
     14.39521
 ],
   "geometry": {"coordinates":[8.22714,14.39521],"type":"Point"}

@@ -25,6 +25,30 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mya"
+    ],
+    "name:deu_x_preferred":[
+        "Mya"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d9\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Mya"
+    ],
+    "name:nld_x_preferred":[
+        "Mya"
+    ],
+    "name:nor_x_preferred":[
+        "Mya"
+    ],
+    "name:pol_x_preferred":[
+        "Mya"
+    ],
+    "name:vie_x_preferred":[
+        "Mya"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632269
@@ -42,7 +66,7 @@
         }
     ],
     "wof:id":1209306233,
-    "wof:lastmodified":1536291187,
+    "wof:lastmodified":1564210092,
     "wof:name":"Mya",
     "wof:parent_id":85632269,
     "wof:placetype":"locality",

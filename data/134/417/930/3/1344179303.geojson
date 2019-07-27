@@ -25,6 +25,21 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ind_x_preferred":[
+        "Kasou"
+    ],
+    "name:ita_x_preferred":[
+        "Kasou"
+    ],
+    "name:por_x_preferred":[
+        "Kasou"
+    ],
+    "name:spa_x_preferred":[
+        "Kasou"
+    ],
+    "name:zho_x_preferred":[
+        "\u82b1\u846c"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1344179303,
-    "wof:lastmodified":1536704428,
+    "wof:lastmodified":1564209515,
     "wof:name":"Kasou",
     "wof:parent_id":1092051329,
     "wof:placetype":"locality",

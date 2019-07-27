@@ -25,6 +25,21 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Koona"
+    ],
+    "name:ita_x_preferred":[
+        "Koona"
+    ],
+    "name:msa_x_preferred":[
+        "Koona"
+    ],
+    "name:ron_x_preferred":[
+        "Koona"
+    ],
+    "name:spa_x_preferred":[
+        "Koona"
+    ],
     "name:und_x_variant":[
         "Birni Kaouna",
         "Koona",
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1243296789,
-    "wof:lastmodified":1537674744,
+    "wof:lastmodified":1564210974,
     "wof:name":"Kona",
     "wof:parent_id":1092051389,
     "wof:placetype":"locality",

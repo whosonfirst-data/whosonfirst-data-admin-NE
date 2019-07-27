@@ -25,6 +25,21 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0628\u0648\u06a9\u0648"
+    ],
+    "name:ceb_x_preferred":[
+        "Boukou"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u06a9\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Boukou"
+    ],
+    "name:swe_x_preferred":[
+        "Boukou"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1310389843,
-    "wof:lastmodified":1537080694,
+    "wof:lastmodified":1564210490,
     "wof:name":"Boukou",
     "wof:parent_id":1092051695,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:yor_x_preferred":[
+        "Darey"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1226642023,
-    "wof:lastmodified":1536863449,
+    "wof:lastmodified":1564211315,
     "wof:name":"Darey",
     "wof:parent_id":421182275,
     "wof:placetype":"locality",

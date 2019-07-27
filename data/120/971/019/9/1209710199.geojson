@@ -25,6 +25,30 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tem"
+    ],
+    "name:fin_x_preferred":[
+        "Tem"
+    ],
+    "name:fra_x_preferred":[
+        "Tem"
+    ],
+    "name:pol_x_preferred":[
+        "Tem"
+    ],
+    "name:por_x_preferred":[
+        "Tem"
+    ],
+    "name:spa_x_preferred":[
+        "Tem"
+    ],
+    "name:swe_x_preferred":[
+        "Tem"
+    ],
+    "name:vie_x_preferred":[
+        "Tem"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1209710199,
-    "wof:lastmodified":1536391035,
+    "wof:lastmodified":1564210151,
     "wof:name":"Tem",
     "wof:parent_id":890429081,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sounga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1293768041,
-    "wof:lastmodified":1536878924,
+    "wof:lastmodified":1564209671,
     "wof:name":"Sounga",
     "wof:parent_id":1092051103,
     "wof:placetype":"locality",

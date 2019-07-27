@@ -25,6 +25,18 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Gangara"
+    ],
+    "name:ita_x_preferred":[
+        "Gangara"
+    ],
+    "name:msa_x_preferred":[
+        "Gangara"
+    ],
+    "name:ron_x_preferred":[
+        "Gangara"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1276540783,
-    "wof:lastmodified":1537569963,
+    "wof:lastmodified":1564210047,
     "wof:name":"Gangara",
     "wof:parent_id":1092051731,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0645\u0646\u062f\u06cc"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0645\u0646\u062f\u06cc"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1310486201,
-    "wof:lastmodified":1536945224,
+    "wof:lastmodified":1564210456,
     "wof:name":"Samandi",
     "wof:parent_id":421182275,
     "wof:placetype":"locality",

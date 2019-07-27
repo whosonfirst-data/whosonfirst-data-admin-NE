@@ -25,6 +25,18 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Tegguida-n-Tessoum"
+    ],
+    "name:fin_x_preferred":[
+        "Tigue Dan Tessoum"
+    ],
+    "name:pol_x_preferred":[
+        "Teguidda-n-Tessoumt"
+    ],
+    "name:por_x_preferred":[
+        "Tegguiada In Tessoum"
+    ],
     "name:und_x_variant":[
         "Tedjidda-n-Tesemt",
         "Teguidda-n-Tessoum",
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":1327445425,
-    "wof:lastmodified":1537674674,
+    "wof:lastmodified":1564209257,
     "wof:name":"Teguidda I-n-Tessoum",
     "wof:parent_id":421182277,
     "wof:placetype":"locality",

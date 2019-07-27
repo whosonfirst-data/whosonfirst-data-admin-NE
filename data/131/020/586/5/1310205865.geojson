@@ -25,6 +25,12 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0395\u03bb\u03af\u03ba\u03b7 \u0391\u03c7\u03b1\u0390\u03b1\u03c2"
+    ],
+    "name:ron_x_preferred":[
+        "Eliki"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1310205865,
-    "wof:lastmodified":1536850628,
+    "wof:lastmodified":1564210544,
     "wof:name":"Eliki",
     "wof:parent_id":1092051663,
     "wof:placetype":"locality",

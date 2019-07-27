@@ -25,6 +25,24 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Matankari"
+    ],
+    "name:fra_x_preferred":[
+        "Matankari"
+    ],
+    "name:ita_x_preferred":[
+        "Matankari"
+    ],
+    "name:msa_x_preferred":[
+        "Matankari"
+    ],
+    "name:ron_x_preferred":[
+        "Matankari"
+    ],
+    "name:spa_x_preferred":[
+        "Matankari"
+    ],
     "name:und_x_variant":[
         "Matankary",
         "Matankari"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1360086713,
-    "wof:lastmodified":1537674718,
+    "wof:lastmodified":1564210647,
     "wof:name":"Matankari",
     "wof:parent_id":1092051467,
     "wof:placetype":"locality",

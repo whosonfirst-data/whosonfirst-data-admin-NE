@@ -25,6 +25,21 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Djiratawa"
+    ],
+    "name:ita_x_preferred":[
+        "Djiratawa"
+    ],
+    "name:msa_x_preferred":[
+        "Djiratawa"
+    ],
+    "name:ron_x_preferred":[
+        "Djiratawa"
+    ],
+    "name:spa_x_preferred":[
+        "Djiratawa"
+    ],
     "name:und_x_variant":[
         "Djirataoua",
         "Djiratawa"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1260188521,
-    "wof:lastmodified":1537674820,
+    "wof:lastmodified":1564210416,
     "wof:name":"Djiratawa",
     "wof:parent_id":1092051007,
     "wof:placetype":"locality",

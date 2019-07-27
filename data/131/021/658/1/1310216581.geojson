@@ -25,6 +25,18 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kor\u00e9 Ma\u00efroua"
+    ],
+    "name:ita_x_preferred":[
+        "Kor\u00e9 Ma\u00efroua"
+    ],
+    "name:msa_x_preferred":[
+        "Kor\u00e9 Ma\u00efroua"
+    ],
+    "name:ron_x_preferred":[
+        "Kor\u00e9 Ma\u00efroua"
+    ],
     "name:und_x_variant":[
         "Kor\u00e9mairwa",
         "Kor\u00e9",
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":1310216581,
-    "wof:lastmodified":1537674742,
+    "wof:lastmodified":1564210577,
     "wof:name":"Koremairoua",
     "wof:parent_id":1092051467,
     "wof:placetype":"locality",

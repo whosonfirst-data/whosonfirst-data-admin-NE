@@ -25,6 +25,33 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Birni N\u2019Gaour\u00e9"
+    ],
+    "name:fin_x_preferred":[
+        "Birni N\u2019Gaour\u00e9"
+    ],
+    "name:fra_x_preferred":[
+        "Birni N'Gaour\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Birni N'Gaour\u00e9"
+    ],
+    "name:msa_x_preferred":[
+        "Birni N'Gaour\u00e9"
+    ],
+    "name:pol_x_preferred":[
+        "Birni N\u2019Gaour\u00e9"
+    ],
+    "name:ron_x_preferred":[
+        "Birni N'Gaour\u00e9"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u0440\u043d\u0438-\u041d\u0433\u0430\u0443\u0440\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Birni N'Gaour\u00e9"
+    ],
     "name:und_x_variant":[
         "Birni Ngaour\u00e9",
         "Birni Ngaure",
@@ -55,7 +82,7 @@
         }
     ],
     "wof:id":1209823093,
-    "wof:lastmodified":1537674647,
+    "wof:lastmodified":1564210155,
     "wof:name":"Birnin Gaoure",
     "wof:parent_id":1092051075,
     "wof:placetype":"locality",

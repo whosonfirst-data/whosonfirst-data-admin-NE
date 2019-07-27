@@ -25,6 +25,18 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lougou"
+    ],
+    "name:ita_x_preferred":[
+        "Lougou"
+    ],
+    "name:msa_x_preferred":[
+        "Lougou"
+    ],
+    "name:swe_x_preferred":[
+        "Lougou"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1310427667,
-    "wof:lastmodified":1537028111,
+    "wof:lastmodified":1564210540,
     "wof:name":"Lougou",
     "wof:parent_id":1092051515,
     "wof:placetype":"locality",

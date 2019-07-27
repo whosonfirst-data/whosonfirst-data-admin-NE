@@ -25,6 +25,9 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ido_x_preferred":[
+        "Korto"
+    ],
     "name:und_x_variant":[
         "Koto",
         "Korto"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1344153129,
-    "wof:lastmodified":1537674739,
+    "wof:lastmodified":1564209367,
     "wof:name":"Korto",
     "wof:parent_id":421182275,
     "wof:placetype":"locality",

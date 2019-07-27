@@ -25,6 +25,18 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Guidimouni"
+    ],
+    "name:ita_x_preferred":[
+        "Guidimouni"
+    ],
+    "name:msa_x_preferred":[
+        "Guidimouni"
+    ],
+    "name:ron_x_preferred":[
+        "Guidimouni"
+    ],
     "name:und_x_variant":[
         "Ginimumi",
         "Gidimouni",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1193039493,
-    "wof:lastmodified":1537674769,
+    "wof:lastmodified":1564210334,
     "wof:name":"Guidimouni",
     "wof:parent_id":1092051411,
     "wof:placetype":"locality",

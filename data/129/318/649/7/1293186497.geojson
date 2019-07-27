@@ -25,6 +25,12 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u200c\u06a9\u0627"
+    ],
+    "name:por_x_preferred":[
+        "Beika"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1293186497,
-    "wof:lastmodified":1536724428,
+    "wof:lastmodified":1564209763,
     "wof:name":"Beika",
     "wof:parent_id":1092051103,
     "wof:placetype":"locality",

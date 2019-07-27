@@ -25,6 +25,21 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Namaro"
+    ],
+    "name:ita_x_preferred":[
+        "Namaro"
+    ],
+    "name:msa_x_preferred":[
+        "Namaro"
+    ],
+    "name:ron_x_preferred":[
+        "Namaro"
+    ],
+    "name:spa_x_preferred":[
+        "Namaro"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1226063959,
-    "wof:lastmodified":1537569954,
+    "wof:lastmodified":1564211325,
     "wof:name":"Namaro",
     "wof:parent_id":421182275,
     "wof:placetype":"locality",

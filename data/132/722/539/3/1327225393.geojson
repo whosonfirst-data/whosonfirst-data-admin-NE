@@ -25,6 +25,21 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Ichirnawa"
+    ],
+    "name:ita_x_preferred":[
+        "Ichirnawa"
+    ],
+    "name:msa_x_preferred":[
+        "Ichirnawa"
+    ],
+    "name:ron_x_preferred":[
+        "Ichirnawa"
+    ],
+    "name:spa_x_preferred":[
+        "Ichirnawa"
+    ],
     "name:und_x_variant":[
         "Tchirnawa Haousa",
         "Tchirnawa Haoussa",
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1327225393,
-    "wof:lastmodified":1537674675,
+    "wof:lastmodified":1564209089,
     "wof:name":"Ichirnawa",
     "wof:parent_id":1092051165,
     "wof:placetype":"locality",

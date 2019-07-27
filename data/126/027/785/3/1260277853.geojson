@@ -25,6 +25,15 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Giovanni Zatara"
+    ],
+    "name:por_x_preferred":[
+        "Zatara"
+    ],
+    "name:tur_x_preferred":[
+        "Zatara"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1260277853,
-    "wof:lastmodified":1536719860,
+    "wof:lastmodified":1564210405,
     "wof:name":"Zatara",
     "wof:parent_id":1092051633,
     "wof:placetype":"locality",

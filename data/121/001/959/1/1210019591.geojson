@@ -25,6 +25,15 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03c1\u03ac\u03bc\u03c0\u03bf"
+    ],
+    "name:ita_x_preferred":[
+        "Marambo"
+    ],
+    "name:swa_x_preferred":[
+        "Marambo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1210019591,
-    "wof:lastmodified":1536393484,
+    "wof:lastmodified":1564210287,
     "wof:name":"Marambo",
     "wof:parent_id":1092051245,
     "wof:placetype":"locality",

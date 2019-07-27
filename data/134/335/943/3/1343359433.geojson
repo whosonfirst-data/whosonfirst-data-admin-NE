@@ -25,6 +25,18 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Labi"
+    ],
+    "name:deu_x_preferred":[
+        "Labi"
+    ],
+    "name:swe_x_preferred":[
+        "Labi"
+    ],
+    "name:tgl_x_preferred":[
+        "Labi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1343359433,
-    "wof:lastmodified":1536891667,
+    "wof:lastmodified":1564209486,
     "wof:name":"Labi",
     "wof:parent_id":1092051663,
     "wof:placetype":"locality",

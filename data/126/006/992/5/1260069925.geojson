@@ -25,6 +25,18 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Marna"
+    ],
+    "name:nor_x_preferred":[
+        "Marna"
+    ],
+    "name:oci_x_preferred":[
+        "Marna"
+    ],
+    "name:slk_x_preferred":[
+        "Marna"
+    ],
     "name:und_x_variant":[
         "Mar\u00e9na",
         "Marna"
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1260069925,
-    "wof:lastmodified":1537674719,
+    "wof:lastmodified":1564210396,
     "wof:name":"Marna",
     "wof:parent_id":1092051103,
     "wof:placetype":"locality",
