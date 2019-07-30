@@ -25,6 +25,9 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "Ko"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1343954729,
-    "wof:lastmodified":1537027111,
+    "wof:lastmodified":1564209460,
     "wof:name":"Ko",
     "wof:parent_id":1092051633,
     "wof:placetype":"locality",

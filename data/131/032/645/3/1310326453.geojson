@@ -25,6 +25,24 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Doungou"
+    ],
+    "name:fra_x_preferred":[
+        "Doungou"
+    ],
+    "name:ita_x_preferred":[
+        "Doungou"
+    ],
+    "name:msa_x_preferred":[
+        "Doungou"
+    ],
+    "name:ron_x_preferred":[
+        "Doungou"
+    ],
+    "name:spa_x_preferred":[
+        "Doungou"
+    ],
     "name:und_x_variant":[
         "Doungou Haousa",
         "Doungo",
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1310326453,
-    "wof:lastmodified":1537674817,
+    "wof:lastmodified":1564210583,
     "wof:name":"Doungou Haoussa",
     "wof:parent_id":1092051165,
     "wof:placetype":"locality",

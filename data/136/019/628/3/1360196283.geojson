@@ -25,6 +25,24 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bana"
+    ],
+    "name:deu_x_preferred":[
+        "Bana"
+    ],
+    "name:ita_x_preferred":[
+        "Bana"
+    ],
+    "name:msa_x_preferred":[
+        "Bana"
+    ],
+    "name:ron_x_preferred":[
+        "Bana"
+    ],
+    "name:spa_x_preferred":[
+        "Bana"
+    ],
     "name:und_x_variant":[
         "Baha",
         "Bana"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1360196283,
-    "wof:lastmodified":1537674858,
+    "wof:lastmodified":1564210690,
     "wof:name":"Bana",
     "wof:parent_id":1092050969,
     "wof:placetype":"locality",

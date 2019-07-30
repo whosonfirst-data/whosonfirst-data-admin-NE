@@ -29,6 +29,9 @@
         "Darey Adamou",
         "Darey"
     ],
+    "name:yor_x_preferred":[
+        "Darey"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1343459015,
-    "wof:lastmodified":1537674829,
+    "wof:lastmodified":1564209543,
     "wof:name":"Darey",
     "wof:parent_id":1092051663,
     "wof:placetype":"locality",

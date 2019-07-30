@@ -25,6 +25,24 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Guesk\u00e9rou"
+    ],
+    "name:deu_x_preferred":[
+        "Guesk\u00e9rou"
+    ],
+    "name:ita_x_preferred":[
+        "Gueskerou"
+    ],
+    "name:msa_x_preferred":[
+        "Gueskerou"
+    ],
+    "name:ron_x_preferred":[
+        "Gueskerou"
+    ],
+    "name:spa_x_preferred":[
+        "Guesk\u00e9rou"
+    ],
     "name:und_x_variant":[
         "Gesk\u00e9rou",
         "Guesk\u00e9rou"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1327336649,
-    "wof:lastmodified":1537674789,
+    "wof:lastmodified":1564209156,
     "wof:name":"Gueskerou",
     "wof:parent_id":1092051245,
     "wof:placetype":"locality",

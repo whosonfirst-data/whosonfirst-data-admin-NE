@@ -25,6 +25,36 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Deba"
+    ],
+    "name:ceb_x_preferred":[
+        "Deba"
+    ],
+    "name:deu_x_preferred":[
+        "Deba"
+    ],
+    "name:eus_x_preferred":[
+        "Deba"
+    ],
+    "name:fra_x_preferred":[
+        "Deba"
+    ],
+    "name:glg_x_preferred":[
+        "Deba"
+    ],
+    "name:oci_x_preferred":[
+        "Deba"
+    ],
+    "name:sco_x_preferred":[
+        "Deba"
+    ],
+    "name:spa_x_preferred":[
+        "Deba"
+    ],
+    "name:swe_x_preferred":[
+        "Deba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +78,7 @@
         }
     ],
     "wof:id":1242957517,
-    "wof:lastmodified":1537012804,
+    "wof:lastmodified":1564210868,
     "wof:name":"Deba",
     "wof:parent_id":1092051103,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "M\u00e1rmaro"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1259404891,
-    "wof:lastmodified":1536971301,
+    "wof:lastmodified":1564211073,
     "wof:name":"Marmaro",
     "wof:parent_id":1092051515,
     "wof:placetype":"locality",

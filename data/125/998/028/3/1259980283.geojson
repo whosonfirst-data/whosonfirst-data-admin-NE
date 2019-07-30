@@ -25,6 +25,9 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bassar\u00e9"
+    ],
     "name:und_x_variant":[
         "Basar\u00e9",
         "Bassar\u00e9"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1259980283,
-    "wof:lastmodified":1537674853,
+    "wof:lastmodified":1564211025,
     "wof:name":"Bassare",
     "wof:parent_id":1092051435,
     "wof:placetype":"locality",

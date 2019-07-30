@@ -25,6 +25,21 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kiota"
+    ],
+    "name:ita_x_preferred":[
+        "Kiota"
+    ],
+    "name:msa_x_preferred":[
+        "Kiota"
+    ],
+    "name:ron_x_preferred":[
+        "Kiota"
+    ],
+    "name:spa_x_preferred":[
+        "Kiota"
+    ],
     "name:und_x_variant":[
         "Kotia",
         "Kiota"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1344268561,
-    "wof:lastmodified":1537674749,
+    "wof:lastmodified":1564209508,
     "wof:name":"Kiota",
     "wof:parent_id":1092051075,
     "wof:placetype":"locality",

@@ -25,6 +25,24 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tounouga"
+    ],
+    "name:deu_x_preferred":[
+        "Tounouga"
+    ],
+    "name:ita_x_preferred":[
+        "Tounouga"
+    ],
+    "name:msa_x_preferred":[
+        "Tounounga"
+    ],
+    "name:ron_x_preferred":[
+        "Tounouga"
+    ],
+    "name:spa_x_preferred":[
+        "Tounouga"
+    ],
     "name:und_x_variant":[
         "Tunoga",
         "Tunuga",
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1209723149,
-    "wof:lastmodified":1537674660,
+    "wof:lastmodified":1564210276,
     "wof:name":"Tounouga",
     "wof:parent_id":1092050969,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0627\u0642\u0648\u0644\u0627\u0644"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06af\u0648\u0644\u0627\u0644"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06af\u0648\u0644\u0627\u0644"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632269
@@ -34,7 +43,7 @@
         "gn:id":6271014
     },
     "wof:country":"NE",
-    "wof:geomhash":"001d6aeab56d8792ebe70ae61f5fd668",
+    "wof:geomhash":"f4c8f852a45ae3ca16967b467c47598c",
     "wof:hierarchy":[
         {
             "country_id":85632269,
@@ -42,7 +51,7 @@
         }
     ],
     "wof:id":1209318607,
-    "wof:lastmodified":1536290777,
+    "wof:lastmodified":1564210063,
     "wof:name":"Aguelal",
     "wof:parent_id":85632269,
     "wof:placetype":"locality",
@@ -53,9 +62,9 @@
 },
   "bbox": [
     7.28056,
-    18.714170000000006,
+    18.71417000000001,
     7.28056,
-    18.714170000000006
+    18.71417000000001
 ],
   "geometry": {"coordinates":[7.28056,18.71417000000001],"type":"Point"}
 }

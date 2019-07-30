@@ -25,6 +25,18 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Dioundiou"
+    ],
+    "name:ita_x_preferred":[
+        "Dioundiou"
+    ],
+    "name:msa_x_preferred":[
+        "Dioundiou"
+    ],
+    "name:ron_x_preferred":[
+        "Dioundiou"
+    ],
     "name:und_x_variant":[
         "Dioundou",
         "Eioundiou",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1193277355,
-    "wof:lastmodified":1537674823,
+    "wof:lastmodified":1564210351,
     "wof:name":"Dioundiou",
     "wof:parent_id":1092050969,
     "wof:placetype":"locality",

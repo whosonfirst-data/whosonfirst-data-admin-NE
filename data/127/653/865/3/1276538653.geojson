@@ -25,6 +25,18 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Bankilar\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Bankilare"
+    ],
+    "name:msa_x_preferred":[
+        "Bankilare"
+    ],
+    "name:ron_x_preferred":[
+        "Bankilare"
+    ],
     "name:und_x_variant":[
         "Bankilar\u00e9"
     ],
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1276538653,
-    "wof:lastmodified":1537674855,
+    "wof:lastmodified":1564210044,
     "wof:name":"Bankilare",
     "wof:parent_id":1092051545,
     "wof:placetype":"locality",

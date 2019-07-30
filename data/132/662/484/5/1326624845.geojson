@@ -25,6 +25,21 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Daouch\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Daouche"
+    ],
+    "name:msa_x_preferred":[
+        "Daouche"
+    ],
+    "name:ron_x_preferred":[
+        "Daouche"
+    ],
+    "name:spa_x_preferred":[
+        "Daouch\u00e9"
+    ],
     "name:und_x_variant":[
         "Angoal Serki Maky\u00e9ra Daoutch\u00e9",
         "Daouch\u00e9"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1326624845,
-    "wof:lastmodified":1537674867,
+    "wof:lastmodified":1564209231,
     "wof:name":"Daouche",
     "wof:parent_id":1092051165,
     "wof:placetype":"locality",

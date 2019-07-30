@@ -25,6 +25,21 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "All\u00e9la"
+    ],
+    "name:ita_x_preferred":[
+        "Allela"
+    ],
+    "name:msa_x_preferred":[
+        "Allela"
+    ],
+    "name:ron_x_preferred":[
+        "Allela"
+    ],
+    "name:spa_x_preferred":[
+        "All\u00e9la"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1309927855,
-    "wof:lastmodified":1536755262,
+    "wof:lastmodified":1564210746,
     "wof:name":"Allela",
     "wof:parent_id":1092051301,
     "wof:placetype":"locality",

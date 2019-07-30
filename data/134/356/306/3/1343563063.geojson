@@ -25,6 +25,27 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tombo"
+    ],
+    "name:deu_x_preferred":[
+        "Tombo"
+    ],
+    "name:glg_x_preferred":[
+        "Tombo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u043c\u0431\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Tombo"
+    ],
+    "name:swe_x_preferred":[
+        "Tombo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u043e\u043c\u0431\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1343563063,
-    "wof:lastmodified":1537092481,
+    "wof:lastmodified":1564209488,
     "wof:name":"Tombo",
     "wof:parent_id":1092050969,
     "wof:placetype":"locality",

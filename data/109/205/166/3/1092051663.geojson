@@ -30,10 +30,37 @@
     "mps:longitude":6.999051,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Dakoro"
+    ],
+    "name:deu_x_preferred":[
+        "Dakoro"
+    ],
     "name:eng_x_preferred":[
         "Dakoro"
     ],
     "name:eng_x_variant":[
+        "Dakoro"
+    ],
+    "name:fra_x_preferred":[
+        "Dakoro"
+    ],
+    "name:ita_x_preferred":[
+        "Dakoro"
+    ],
+    "name:msa_x_preferred":[
+        "Dakoro"
+    ],
+    "name:pol_x_preferred":[
+        "Dakoro"
+    ],
+    "name:ron_x_preferred":[
+        "Dakoro"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u043a\u043e\u0440\u043e"
+    ],
+    "name:spa_x_preferred":[
         "Dakoro"
     ],
     "src:geom":"meso",
@@ -59,7 +86,7 @@
         }
     ],
     "wof:id":1092051663,
-    "wof:lastmodified":1555047486,
+    "wof:lastmodified":1564210695,
     "wof:name":"Dakoro",
     "wof:parent_id":85675281,
     "wof:placetype":"county",

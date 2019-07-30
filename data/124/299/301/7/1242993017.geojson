@@ -25,6 +25,21 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "N\u2019Dounga"
+    ],
+    "name:ita_x_preferred":[
+        "N'Dounga"
+    ],
+    "name:msa_x_preferred":[
+        "N'Dounga"
+    ],
+    "name:ron_x_preferred":[
+        "N'Dounga"
+    ],
+    "name:spa_x_preferred":[
+        "N'Dounga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1242993017,
-    "wof:lastmodified":1536962173,
+    "wof:lastmodified":1564210965,
     "wof:name":"N'Dounga",
     "wof:parent_id":421182275,
     "wof:placetype":"locality",

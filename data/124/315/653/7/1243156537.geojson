@@ -25,6 +25,18 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Goth\u00e8ye"
+    ],
+    "name:ita_x_preferred":[
+        "Goth\u00e8ye"
+    ],
+    "name:msa_x_preferred":[
+        "Goth\u00e8ye"
+    ],
+    "name:ron_x_preferred":[
+        "Goth\u00e8ye"
+    ],
     "name:und_x_variant":[
         "Gothey",
         "Goth\u00e8ye"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1243156537,
-    "wof:lastmodified":1537674794,
+    "wof:lastmodified":1564210900,
     "wof:name":"Gotheye",
     "wof:parent_id":1092051545,
     "wof:placetype":"locality",

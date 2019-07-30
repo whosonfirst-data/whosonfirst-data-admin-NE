@@ -25,6 +25,24 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bagaroua"
+    ],
+    "name:deu_x_preferred":[
+        "Bagaroua"
+    ],
+    "name:ita_x_preferred":[
+        "Bagaroua"
+    ],
+    "name:msa_x_preferred":[
+        "Bagaroua"
+    ],
+    "name:ron_x_preferred":[
+        "Bagaroua"
+    ],
+    "name:spa_x_preferred":[
+        "Bagaroua"
+    ],
     "name:und_x_variant":[
         "Bagarwa",
         "Bagaroua"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1360277943,
-    "wof:lastmodified":1537674861,
+    "wof:lastmodified":1564210660,
     "wof:name":"Bagaroua",
     "wof:parent_id":1092051485,
     "wof:placetype":"locality",

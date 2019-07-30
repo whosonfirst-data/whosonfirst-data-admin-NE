@@ -25,6 +25,12 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Boune"
+    ],
+    "name:swe_x_preferred":[
+        "Boune"
+    ],
     "name:und_x_variant":[
         "Bune",
         "Boun\u00e9"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1293805145,
-    "wof:lastmodified":1537674842,
+    "wof:lastmodified":1564209782,
     "wof:name":"Boune",
     "wof:parent_id":1092051753,
     "wof:placetype":"locality",

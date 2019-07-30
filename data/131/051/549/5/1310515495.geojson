@@ -25,6 +25,9 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Marandet"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1310515495,
-    "wof:lastmodified":1537569970,
+    "wof:lastmodified":1564210616,
     "wof:name":"Marandet",
     "wof:parent_id":421182277,
     "wof:placetype":"locality",

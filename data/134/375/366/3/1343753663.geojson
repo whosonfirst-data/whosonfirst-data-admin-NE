@@ -25,6 +25,18 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Dakoussa"
+    ],
+    "name:ita_x_preferred":[
+        "Dakoussa"
+    ],
+    "name:msa_x_preferred":[
+        "Dakoussa"
+    ],
+    "name:ron_x_preferred":[
+        "Dakoussa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1343753663,
-    "wof:lastmodified":1537569966,
+    "wof:lastmodified":1564209570,
     "wof:name":"Dakoussa",
     "wof:parent_id":1092051411,
     "wof:placetype":"locality",

@@ -25,6 +25,24 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Oll\u00e9l\u00e9wa"
+    ],
+    "name:fra_x_preferred":[
+        "Ollelewa"
+    ],
+    "name:ita_x_preferred":[
+        "Ollelewa"
+    ],
+    "name:msa_x_preferred":[
+        "Ollelewa"
+    ],
+    "name:ron_x_preferred":[
+        "Ollelewa"
+    ],
+    "name:spa_x_preferred":[
+        "Oll\u00e9l\u00e9wa"
+    ],
     "name:und_x_variant":[
         "Ol\u00e9loua",
         "Olleloua",
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1259374687,
-    "wof:lastmodified":1537674704,
+    "wof:lastmodified":1564211040,
     "wof:name":"Olelewa",
     "wof:parent_id":1092051731,
     "wof:placetype":"locality",

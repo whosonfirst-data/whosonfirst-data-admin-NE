@@ -25,6 +25,24 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kantch\u00e9"
+    ],
+    "name:fra_x_preferred":[
+        "Kantch\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Kantche"
+    ],
+    "name:msa_x_preferred":[
+        "Kantche"
+    ],
+    "name:ron_x_preferred":[
+        "Kantche"
+    ],
+    "name:spa_x_preferred":[
+        "Kantch\u00e9"
+    ],
     "name:und_x_variant":[
         "Kantch\u00e9"
     ],
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1309827297,
-    "wof:lastmodified":1537674756,
+    "wof:lastmodified":1564210744,
     "wof:name":"Kantche",
     "wof:parent_id":1092051165,
     "wof:placetype":"locality",

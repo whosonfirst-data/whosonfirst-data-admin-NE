@@ -25,6 +25,21 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062f\u0627\u0628\u0648\u0631\u0627"
+    ],
+    "name:ceb_x_preferred":[
+        "Daboura"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u0628\u0648\u0631\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Daboura"
+    ],
+    "name:swe_x_preferred":[
+        "Daboura"
+    ],
     "name:und_x_variant":[
         "Dabara",
         "Daboura"
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1310210881,
-    "wof:lastmodified":1537674839,
+    "wof:lastmodified":1564210580,
     "wof:name":"Daboura",
     "wof:parent_id":1092051007,
     "wof:placetype":"locality",

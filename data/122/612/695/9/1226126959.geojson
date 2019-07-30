@@ -25,6 +25,12 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Balanta"
+    ],
+    "name:ron_x_preferred":[
+        "Balan\u021ba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1226126959,
-    "wof:lastmodified":1536604967,
+    "wof:lastmodified":1564211301,
     "wof:name":"Balanta",
     "wof:parent_id":1092051545,
     "wof:placetype":"locality",

@@ -25,6 +25,21 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Farey"
+    ],
+    "name:ita_x_preferred":[
+        "Farey"
+    ],
+    "name:msa_x_preferred":[
+        "Farey"
+    ],
+    "name:ron_x_preferred":[
+        "Farey"
+    ],
+    "name:spa_x_preferred":[
+        "Farey"
+    ],
     "name:und_x_variant":[
         "Far\u00e8ye",
         "Farey"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1343366535,
-    "wof:lastmodified":1537674810,
+    "wof:lastmodified":1564209290,
     "wof:name":"Farey",
     "wof:parent_id":1092051041,
     "wof:placetype":"locality",

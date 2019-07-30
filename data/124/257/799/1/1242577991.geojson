@@ -25,6 +25,18 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ang_x_preferred":[
+        "Amani"
+    ],
+    "name:deu_x_preferred":[
+        "Amani"
+    ],
+    "name:fra_x_preferred":[
+        "Amani"
+    ],
+    "name:ita_x_preferred":[
+        "Amani"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1242577991,
-    "wof:lastmodified":1537060412,
+    "wof:lastmodified":1564210844,
     "wof:name":"Amani",
     "wof:parent_id":1092051229,
     "wof:placetype":"locality",

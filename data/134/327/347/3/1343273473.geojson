@@ -25,6 +25,24 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Y\u00e9lou"
+    ],
+    "name:deu_x_preferred":[
+        "Y\u00e9lou"
+    ],
+    "name:ita_x_preferred":[
+        "Yelou"
+    ],
+    "name:msa_x_preferred":[
+        "Yelou"
+    ],
+    "name:ron_x_preferred":[
+        "Yelou"
+    ],
+    "name:spa_x_preferred":[
+        "Y\u00e9lou"
+    ],
     "name:und_x_variant":[
         "Yeli",
         "Yellu",
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1343273473,
-    "wof:lastmodified":1537674653,
+    "wof:lastmodified":1564209541,
     "wof:name":"Yelou",
     "wof:parent_id":1092050969,
     "wof:placetype":"locality",

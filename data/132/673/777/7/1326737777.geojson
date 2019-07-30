@@ -25,6 +25,18 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Gu\u00e9ch\u00e9m\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Guecheme"
+    ],
+    "name:msa_x_preferred":[
+        "Guecheme"
+    ],
+    "name:ron_x_preferred":[
+        "Guecheme"
+    ],
     "name:und_x_variant":[
         "Gu\u00e9sch\u00e9m\u00e9",
         "G\u00e9ch\u00e9m\u00e9",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1326737777,
-    "wof:lastmodified":1537674790,
+    "wof:lastmodified":1564209058,
     "wof:name":"Guecheme",
     "wof:parent_id":1092051467,
     "wof:placetype":"locality",

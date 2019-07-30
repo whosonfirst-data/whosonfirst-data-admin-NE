@@ -25,6 +25,24 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Fakara"
+    ],
+    "name:ita_x_preferred":[
+        "Fakara"
+    ],
+    "name:msa_x_preferred":[
+        "Fakara"
+    ],
+    "name:ron_x_preferred":[
+        "Fakara"
+    ],
+    "name:spa_x_preferred":[
+        "Fakara"
+    ],
+    "name:urd_x_preferred":[
+        "\u0641\u0627\u06a9\u0627\u0631\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1243465879,
-    "wof:lastmodified":1537569964,
+    "wof:lastmodified":1564210893,
     "wof:name":"Fakara",
     "wof:parent_id":1092051273,
     "wof:placetype":"locality",

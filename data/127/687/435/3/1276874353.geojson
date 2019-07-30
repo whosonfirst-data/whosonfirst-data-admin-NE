@@ -25,6 +25,21 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Harikanassou"
+    ],
+    "name:ita_x_preferred":[
+        "Harikanassou"
+    ],
+    "name:msa_x_preferred":[
+        "Harikanassou"
+    ],
+    "name:ron_x_preferred":[
+        "Harikanassou"
+    ],
+    "name:spa_x_preferred":[
+        "Harikanassou"
+    ],
     "name:und_x_variant":[
         "Arikanassou",
         "Harikanassou"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1276874353,
-    "wof:lastmodified":1537674766,
+    "wof:lastmodified":1564209906,
     "wof:name":"Harikanassou",
     "wof:parent_id":1092051075,
     "wof:placetype":"locality",

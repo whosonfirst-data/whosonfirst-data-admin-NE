@@ -25,6 +25,21 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Bengou"
+    ],
+    "name:ita_x_preferred":[
+        "Bengou"
+    ],
+    "name:msa_x_preferred":[
+        "Bengou"
+    ],
+    "name:ron_x_preferred":[
+        "Bengou"
+    ],
+    "name:spa_x_preferred":[
+        "Bengou"
+    ],
     "name:und_x_variant":[
         "Bengu",
         "Bengou"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1276874227,
-    "wof:lastmodified":1537674851,
+    "wof:lastmodified":1564209902,
     "wof:name":"Bengou",
     "wof:parent_id":1092050969,
     "wof:placetype":"locality",

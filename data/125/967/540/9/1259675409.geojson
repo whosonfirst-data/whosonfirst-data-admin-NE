@@ -25,6 +25,15 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kable"
+    ],
+    "name:eus_x_preferred":[
+        "Kable"
+    ],
+    "name:nds_x_preferred":[
+        "Kable"
+    ],
     "name:und_x_variant":[
         "Kabul",
         "Kabl\u00e9"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1259675409,
-    "wof:lastmodified":1537674893,
+    "wof:lastmodified":1564211126,
     "wof:name":"Kable",
     "wof:parent_id":1092051133,
     "wof:placetype":"locality",

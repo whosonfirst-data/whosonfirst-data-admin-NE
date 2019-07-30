@@ -25,6 +25,21 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Karma"
+    ],
+    "name:ita_x_preferred":[
+        "Karma"
+    ],
+    "name:msa_x_preferred":[
+        "Karma"
+    ],
+    "name:ron_x_preferred":[
+        "Karma"
+    ],
+    "name:spa_x_preferred":[
+        "Karma"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1209809901,
-    "wof:lastmodified":1537569958,
+    "wof:lastmodified":1564210238,
     "wof:name":"Karma",
     "wof:parent_id":421182275,
     "wof:placetype":"locality",

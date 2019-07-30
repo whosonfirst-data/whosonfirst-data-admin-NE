@@ -25,6 +25,30 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "M\u0304\u00e9rig"
+    ],
+    "name:deu_x_preferred":[
+        "M\u00e9rig"
+    ],
+    "name:fra_x_preferred":[
+        "Merig"
+    ],
+    "name:glg_x_preferred":[
+        "Merig"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0440\u0438\u0433"
+    ],
+    "name:spa_x_preferred":[
+        "Merig"
+    ],
+    "name:swa_x_preferred":[
+        "Merig"
+    ],
+    "name:zho_x_preferred":[
+        "\u6885\u91cc\u683c\u5cf6"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1360094665,
-    "wof:lastmodified":1536932500,
+    "wof:lastmodified":1564210638,
     "wof:name":"Merig",
     "wof:parent_id":421182277,
     "wof:placetype":"locality",

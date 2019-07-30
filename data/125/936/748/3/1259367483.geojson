@@ -25,6 +25,18 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tini"
+    ],
+    "name:deu_x_preferred":[
+        "Tini"
+    ],
+    "name:ita_x_preferred":[
+        "Tini"
+    ],
+    "name:swe_x_preferred":[
+        "Tini"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1259367483,
-    "wof:lastmodified":1537024225,
+    "wof:lastmodified":1564211013,
     "wof:name":"Tini",
     "wof:parent_id":1092051695,
     "wof:placetype":"locality",

@@ -25,6 +25,21 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Gabi"
+    ],
+    "name:ita_x_preferred":[
+        "Gabi"
+    ],
+    "name:msa_x_preferred":[
+        "Gabi"
+    ],
+    "name:ron_x_preferred":[
+        "Gabi"
+    ],
+    "name:spa_x_preferred":[
+        "Gabi"
+    ],
     "name:und_x_variant":[
         "Gabi",
         "Gabi Mayaki"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1226348175,
-    "wof:lastmodified":1537674806,
+    "wof:lastmodified":1564211227,
     "wof:name":"Gabi Mayaki",
     "wof:parent_id":1092051007,
     "wof:placetype":"locality",

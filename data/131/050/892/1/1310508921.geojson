@@ -25,6 +25,18 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kodo"
+    ],
+    "name:fra_x_preferred":[
+        "Kodo"
+    ],
+    "name:ita_x_preferred":[
+        "Kodo"
+    ],
+    "name:swe_x_preferred":[
+        "Kodo"
+    ],
     "name:und_x_variant":[
         "Kollo",
         "Koddo",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1310508921,
-    "wof:lastmodified":1537674747,
+    "wof:lastmodified":1564210597,
     "wof:name":"Kodo",
     "wof:parent_id":1092051075,
     "wof:placetype":"locality",

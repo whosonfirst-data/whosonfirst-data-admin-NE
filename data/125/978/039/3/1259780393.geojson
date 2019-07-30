@@ -25,6 +25,21 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Dogo"
+    ],
+    "name:ita_x_preferred":[
+        "Dogo"
+    ],
+    "name:msa_x_preferred":[
+        "Dogo"
+    ],
+    "name:ron_x_preferred":[
+        "Dogo"
+    ],
+    "name:spa_x_preferred":[
+        "Dogo"
+    ],
     "name:und_x_variant":[
         "Dogo Dakora",
         "Dogo Dakoroa",
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1259780393,
-    "wof:lastmodified":1537674820,
+    "wof:lastmodified":1564211080,
     "wof:name":"Dogo",
     "wof:parent_id":1092051411,
     "wof:placetype":"locality",

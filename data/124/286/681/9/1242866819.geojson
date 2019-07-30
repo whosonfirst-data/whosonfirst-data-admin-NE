@@ -25,6 +25,111 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bug_x_preferred":[
+        "Agey"
+    ],
+    "name:cat_x_preferred":[
+        "Agey"
+    ],
+    "name:ceb_x_preferred":[
+        "Agey"
+    ],
+    "name:deu_x_preferred":[
+        "Agey"
+    ],
+    "name:epo_x_preferred":[
+        "Agey"
+    ],
+    "name:eus_x_preferred":[
+        "Agey"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u062c\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Agey"
+    ],
+    "name:hun_x_preferred":[
+        "Agey"
+    ],
+    "name:ind_x_preferred":[
+        "Agey"
+    ],
+    "name:ita_x_preferred":[
+        "Agey"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0410\u0436\u0435"
+    ],
+    "name:lat_x_preferred":[
+        "Agey"
+    ],
+    "name:mlg_x_preferred":[
+        "Agey"
+    ],
+    "name:msa_x_preferred":[
+        "Agey"
+    ],
+    "name:nld_x_preferred":[
+        "Agey"
+    ],
+    "name:oci_x_preferred":[
+        "Agey"
+    ],
+    "name:pms_x_preferred":[
+        "Agey"
+    ],
+    "name:pol_x_preferred":[
+        "Agey"
+    ],
+    "name:por_x_preferred":[
+        "Agey"
+    ],
+    "name:ron_x_preferred":[
+        "Agey"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0436\u0435"
+    ],
+    "name:slk_x_preferred":[
+        "Agey"
+    ],
+    "name:spa_x_preferred":[
+        "Agey"
+    ],
+    "name:sqi_x_preferred":[
+        "Agey"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u0436\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Agey"
+    ],
+    "name:szl_x_preferred":[
+        "Agey"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0436\u0435"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u062c\u06d2"
+    ],
+    "name:uzb_x_preferred":[
+        "Agey"
+    ],
+    "name:vie_x_preferred":[
+        "Agey"
+    ],
+    "name:vol_x_preferred":[
+        "Agey"
+    ],
+    "name:war_x_preferred":[
+        "Agey"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u70ed"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +153,7 @@
         }
     ],
     "wof:id":1242866819,
-    "wof:lastmodified":1536646643,
+    "wof:lastmodified":1564210840,
     "wof:name":"Agey",
     "wof:parent_id":1092051609,
     "wof:placetype":"locality",

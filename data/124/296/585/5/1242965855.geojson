@@ -25,6 +25,150 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u0641 \u0636\u0627\u0644\u0639"
+    ],
+    "name:ast_x_preferred":[
+        "Sable"
+    ],
+    "name:bel_x_preferred":[
+        "\u0428\u0430\u0431\u043b\u044f"
+    ],
+    "name:bos_x_preferred":[
+        "Sablja"
+    ],
+    "name:bre_x_preferred":[
+        "Sabrenn"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u0431\u044f"
+    ],
+    "name:cat_x_preferred":[
+        "Sabre"
+    ],
+    "name:ces_x_preferred":[
+        "\u0160avle"
+    ],
+    "name:csb_x_preferred":[
+        "Szabla"
+    ],
+    "name:dan_x_preferred":[
+        "Sabel"
+    ],
+    "name:deu_x_preferred":[
+        "S\u00e4bel"
+    ],
+    "name:epo_x_preferred":[
+        "Sabro"
+    ],
+    "name:eus_x_preferred":[
+        "Sable"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0628\u0631"
+    ],
+    "name:fin_x_preferred":[
+        "Sapeli"
+    ],
+    "name:fra_x_preferred":[
+        "Sabre"
+    ],
+    "name:glg_x_preferred":[
+        "Sabre"
+    ],
+    "name:grn_x_preferred":[
+        "Kysegi"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d9\u05e3 \u05e4\u05e8\u05e9\u05d9\u05dd"
+    ],
+    "name:hrv_x_preferred":[
+        "Sablja"
+    ],
+    "name:hun_x_preferred":[
+        "Szablya"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0578\u0582\u0580"
+    ],
+    "name:ido_x_preferred":[
+        "Sabro"
+    ],
+    "name:ind_x_preferred":[
+        "Sabel"
+    ],
+    "name:ita_x_preferred":[
+        "Sciabola"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30fc\u30d9\u30eb"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0ac\ube0c\ub974"
+    ],
+    "name:kur_x_preferred":[
+        "\u015e\u00fbrbel"
+    ],
+    "name:lit_x_preferred":[
+        "Kardas"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0430\u0431\u0458\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Sabel"
+    ],
+    "name:nno_x_preferred":[
+        "Sabel"
+    ],
+    "name:nor_x_preferred":[
+        "Sabel"
+    ],
+    "name:oci_x_preferred":[
+        "Sabre"
+    ],
+    "name:pol_x_preferred":[
+        "Szabla"
+    ],
+    "name:por_x_preferred":[
+        "Sabre"
+    ],
+    "name:ron_x_preferred":[
+        "Sabie"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0431\u043b\u044f"
+    ],
+    "name:sco_x_preferred":[
+        "Sabre"
+    ],
+    "name:slk_x_preferred":[
+        "\u0160ab\u013ea"
+    ],
+    "name:slv_x_preferred":[
+        "Sablja"
+    ],
+    "name:spa_x_preferred":[
+        "Sable"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u0431\u0459\u0430"
+    ],
+    "name:stq_x_preferred":[
+        "Soabel"
+    ],
+    "name:swe_x_preferred":[
+        "Sabel"
+    ],
+    "name:tur_x_preferred":[
+        "S\u00fcvari k\u0131l\u0131c\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0430\u0431\u043b\u044f"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f69\u528d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +192,7 @@
         }
     ],
     "wof:id":1242965855,
-    "wof:lastmodified":1537000727,
+    "wof:lastmodified":1564210956,
     "wof:name":"Sabre",
     "wof:parent_id":1092051329,
     "wof:placetype":"locality",

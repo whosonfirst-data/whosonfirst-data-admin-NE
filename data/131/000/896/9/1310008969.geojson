@@ -25,6 +25,21 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Toumour"
+    ],
+    "name:deu_x_preferred":[
+        "Toumour"
+    ],
+    "name:ita_x_preferred":[
+        "Toumour"
+    ],
+    "name:msa_x_preferred":[
+        "Toumour"
+    ],
+    "name:ron_x_preferred":[
+        "Toumour"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1310008969,
-    "wof:lastmodified":1537569949,
+    "wof:lastmodified":1564210500,
     "wof:name":"Toumour",
     "wof:parent_id":1092051245,
     "wof:placetype":"locality",

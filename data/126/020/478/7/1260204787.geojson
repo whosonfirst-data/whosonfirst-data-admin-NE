@@ -25,6 +25,12 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ron_x_preferred":[
+        "Zam-Armatay"
+    ],
+    "name:vie_x_preferred":[
+        "Zam"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1260204787,
-    "wof:lastmodified":1536817973,
+    "wof:lastmodified":1564210399,
     "wof:name":"Zam",
     "wof:parent_id":1092051753,
     "wof:placetype":"locality",

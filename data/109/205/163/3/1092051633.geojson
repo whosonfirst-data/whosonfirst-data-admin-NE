@@ -30,10 +30,34 @@
     "mps:longitude":2.218261,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Ouallam"
+    ],
+    "name:deu_x_preferred":[
+        "Ouallam"
+    ],
     "name:eng_x_preferred":[
         "Ouallam"
     ],
     "name:eng_x_variant":[
+        "Ouallam"
+    ],
+    "name:fra_x_preferred":[
+        "Ouallam"
+    ],
+    "name:ita_x_preferred":[
+        "Ouallam"
+    ],
+    "name:msa_x_preferred":[
+        "Ouallam"
+    ],
+    "name:pol_x_preferred":[
+        "Ouallam"
+    ],
+    "name:ron_x_preferred":[
+        "Ouallam"
+    ],
+    "name:spa_x_preferred":[
         "Ouallam"
     ],
     "src:geom":"meso",
@@ -59,7 +83,7 @@
         }
     ],
     "wof:id":1092051633,
-    "wof:lastmodified":1555047486,
+    "wof:lastmodified":1564210701,
     "wof:name":"Ouallam",
     "wof:parent_id":85675265,
     "wof:placetype":"county",

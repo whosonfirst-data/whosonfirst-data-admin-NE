@@ -25,10 +25,40 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Fachi"
+    ],
+    "name:epo_x_preferred":[
+        "Fachi"
+    ],
+    "name:fin_x_preferred":[
+        "Fachi"
+    ],
+    "name:fra_x_preferred":[
+        "Fachi"
+    ],
+    "name:ita_x_preferred":[
+        "Fachi"
+    ],
+    "name:msa_x_preferred":[
+        "Fachi"
+    ],
+    "name:por_x_preferred":[
+        "Fachi"
+    ],
+    "name:ron_x_preferred":[
+        "Fachi"
+    ],
+    "name:spa_x_preferred":[
+        "Fachi"
+    ],
     "name:und_x_variant":[
         "Agaram",
         "Ajaba",
         "Fachi"
+    ],
+    "name:urd_x_preferred":[
+        "\u0641\u0627\u0686\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +84,7 @@
         }
     ],
     "wof:id":1276457757,
-    "wof:lastmodified":1537674813,
+    "wof:lastmodified":1564209891,
     "wof:name":"Fachi",
     "wof:parent_id":1092051881,
     "wof:placetype":"locality",

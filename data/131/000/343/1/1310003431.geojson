@@ -25,6 +25,18 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kankara"
+    ],
+    "name:hau_x_preferred":[
+        "\u0198an\u0199ara"
+    ],
+    "name:ita_x_preferred":[
+        "Kankara"
+    ],
+    "name:spa_x_preferred":[
+        "Kankara"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1310003431,
-    "wof:lastmodified":1536645829,
+    "wof:lastmodified":1564210501,
     "wof:name":"Kankara",
     "wof:parent_id":1092051515,
     "wof:placetype":"locality",

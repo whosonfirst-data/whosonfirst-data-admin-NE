@@ -25,6 +25,12 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:chv_x_preferred":[
+        "\u0412\u0430\u0440\u043c\u0435"
+    ],
+    "name:deu_x_preferred":[
+        "Warme"
+    ],
     "name:und_x_variant":[
         "Ouarm\u00e9",
         "Warm\u00e9"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1310592833,
-    "wof:lastmodified":1537674703,
+    "wof:lastmodified":1564210592,
     "wof:name":"Warme",
     "wof:parent_id":1092051753,
     "wof:placetype":"locality",

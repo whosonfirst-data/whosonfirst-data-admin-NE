@@ -25,6 +25,21 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Droum"
+    ],
+    "name:ita_x_preferred":[
+        "Droum"
+    ],
+    "name:msa_x_preferred":[
+        "Droum"
+    ],
+    "name:ron_x_preferred":[
+        "Droum"
+    ],
+    "name:spa_x_preferred":[
+        "Droum"
+    ],
     "name:und_x_variant":[
         "Drum Kafi",
         "Droum",
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1343482439,
-    "wof:lastmodified":1537674816,
+    "wof:lastmodified":1564209404,
     "wof:name":"Droum Malori",
     "wof:parent_id":1092051411,
     "wof:placetype":"locality",

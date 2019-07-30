@@ -25,6 +25,12 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Belel"
+    ],
+    "name:swe_x_preferred":[
+        "Belel"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1243438703,
-    "wof:lastmodified":1536815915,
+    "wof:lastmodified":1564211012,
     "wof:name":"Belel",
     "wof:parent_id":1092051103,
     "wof:placetype":"locality",

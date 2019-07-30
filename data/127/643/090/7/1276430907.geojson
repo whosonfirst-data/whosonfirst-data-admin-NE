@@ -25,6 +25,15 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0646\u064a \u0625\u062f\u064a\u0644\u0633\u0648\u0646"
+    ],
+    "name:ita_x_preferred":[
+        "Diney"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0456\u043d\u0456 \u0411\u043e\u0440\u0436\u0435\u0441"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1276430907,
-    "wof:lastmodified":1536647507,
+    "wof:lastmodified":1564209869,
     "wof:name":"Diney",
     "wof:parent_id":1092051103,
     "wof:placetype":"locality",

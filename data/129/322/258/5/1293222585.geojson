@@ -25,6 +25,21 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "M\u00e9hana"
+    ],
+    "name:ita_x_preferred":[
+        "Mehana"
+    ],
+    "name:msa_x_preferred":[
+        "Mehana"
+    ],
+    "name:ron_x_preferred":[
+        "Mehana"
+    ],
+    "name:spa_x_preferred":[
+        "M\u00e9hana"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1293222585,
-    "wof:lastmodified":1536671900,
+    "wof:lastmodified":1564209690,
     "wof:name":"Mehana",
     "wof:parent_id":1092051577,
     "wof:placetype":"locality",

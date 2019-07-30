@@ -25,6 +25,15 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Falke"
+    ],
+    "name:nld_x_preferred":[
+        "Falke"
+    ],
+    "name:swe_x_preferred":[
+        "Falke"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1243006239,
-    "wof:lastmodified":1536943773,
+    "wof:lastmodified":1564210786,
     "wof:name":"Falke",
     "wof:parent_id":1092051229,
     "wof:placetype":"locality",

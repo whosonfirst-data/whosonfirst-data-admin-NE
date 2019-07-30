@@ -25,6 +25,9 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Garanga"
+    ],
     "name:und_x_variant":[
         "Garhanga",
         "Garanga"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1310202599,
-    "wof:lastmodified":1537674801,
+    "wof:lastmodified":1564210543,
     "wof:name":"Garanga",
     "wof:parent_id":1092051577,
     "wof:placetype":"locality",

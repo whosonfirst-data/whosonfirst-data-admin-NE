@@ -25,6 +25,33 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Hiro"
+    ],
+    "name:deu_x_preferred":[
+        "Hiro"
+    ],
+    "name:fra_x_preferred":[
+        "Hiro"
+    ],
+    "name:ita_x_preferred":[
+        "Hiro"
+    ],
+    "name:nld_x_preferred":[
+        "Hiro"
+    ],
+    "name:pol_x_preferred":[
+        "Hiro"
+    ],
+    "name:por_x_preferred":[
+        "Hiro"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0438\u0440\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Hiro"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1343583445,
-    "wof:lastmodified":1537063528,
+    "wof:lastmodified":1564209500,
     "wof:name":"Hiro",
     "wof:parent_id":1092051577,
     "wof:placetype":"locality",

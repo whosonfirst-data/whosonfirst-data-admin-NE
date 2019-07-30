@@ -25,6 +25,21 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Falmey"
+    ],
+    "name:fra_x_preferred":[
+        "Falmey"
+    ],
+    "name:ita_x_preferred":[
+        "Falmey"
+    ],
+    "name:msa_x_preferred":[
+        "Falmey"
+    ],
+    "name:ron_x_preferred":[
+        "Falmey"
+    ],
     "name:und_x_variant":[
         "Falme",
         "Falmey"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1276454891,
-    "wof:lastmodified":1537674812,
+    "wof:lastmodified":1564209891,
     "wof:name":"Falmey",
     "wof:parent_id":1092051075,
     "wof:placetype":"locality",

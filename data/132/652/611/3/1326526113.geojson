@@ -25,6 +25,12 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Goria"
+    ],
+    "name:srp_x_preferred":[
+        "Goria"
+    ],
     "name:und_x_variant":[
         "Gourya",
         "Gouria",
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1326526113,
-    "wof:lastmodified":1537674791,
+    "wof:lastmodified":1564209210,
     "wof:name":"Goria",
     "wof:parent_id":1092051103,
     "wof:placetype":"locality",

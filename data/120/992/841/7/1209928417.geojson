@@ -25,6 +25,36 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Ingall"
+    ],
+    "name:ceb_x_preferred":[
+        "I-n-Gall"
+    ],
+    "name:deu_x_preferred":[
+        "Ingall"
+    ],
+    "name:fin_x_preferred":[
+        "Ingall"
+    ],
+    "name:fra_x_preferred":[
+        "Ingall"
+    ],
+    "name:ita_x_preferred":[
+        "Ingall"
+    ],
+    "name:msa_x_preferred":[
+        "In-Gall"
+    ],
+    "name:ron_x_preferred":[
+        "Ingall"
+    ],
+    "name:spa_x_preferred":[
+        "In-Gall"
+    ],
+    "name:swe_x_preferred":[
+        "In-Gall"
+    ],
     "name:und_x_variant":[
         "In-Gal",
         "Ingal",
@@ -54,7 +84,7 @@
         }
     ],
     "wof:id":1209928417,
-    "wof:lastmodified":1537674763,
+    "wof:lastmodified":1564210184,
     "wof:name":"I-n-Gall",
     "wof:parent_id":421182277,
     "wof:placetype":"locality",

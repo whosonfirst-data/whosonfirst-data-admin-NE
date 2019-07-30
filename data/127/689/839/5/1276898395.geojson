@@ -25,6 +25,21 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Madi"
+    ],
+    "name:ceb_x_preferred":[
+        "Madi"
+    ],
+    "name:deu_x_preferred":[
+        "Madi"
+    ],
+    "name:fra_x_preferred":[
+        "Madi"
+    ],
+    "name:swe_x_preferred":[
+        "Madi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1276898395,
-    "wof:lastmodified":1537015655,
+    "wof:lastmodified":1564209898,
     "wof:name":"Madi",
     "wof:parent_id":1092051663,
     "wof:placetype":"locality",

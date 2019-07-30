@@ -25,6 +25,21 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Tamou"
+    ],
+    "name:ita_x_preferred":[
+        "Tamou"
+    ],
+    "name:msa_x_preferred":[
+        "Tamou"
+    ],
+    "name:ron_x_preferred":[
+        "Tamou"
+    ],
+    "name:spa_x_preferred":[
+        "Tamou"
+    ],
     "name:und_x_variant":[
         "Tamu",
         "Tamou"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1343545503,
-    "wof:lastmodified":1537674679,
+    "wof:lastmodified":1564209329,
     "wof:name":"Tamou",
     "wof:parent_id":1092051103,
     "wof:placetype":"locality",

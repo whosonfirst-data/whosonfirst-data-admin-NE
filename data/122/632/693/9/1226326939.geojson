@@ -25,6 +25,12 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Tondibiah"
+    ],
+    "name:fra_x_preferred":[
+        "Tondibia"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1226326939,
-    "wof:lastmodified":1537569949,
+    "wof:lastmodified":1564211255,
     "wof:name":"Tondibia",
     "wof:parent_id":421182275,
     "wof:placetype":"locality",

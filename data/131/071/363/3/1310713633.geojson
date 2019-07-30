@@ -25,6 +25,18 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Boize"
+    ],
+    "name:ceb_x_preferred":[
+        "Boize"
+    ],
+    "name:deu_x_preferred":[
+        "Boize"
+    ],
+    "name:ita_x_preferred":[
+        "Boize"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1310713633,
-    "wof:lastmodified":1536614255,
+    "wof:lastmodified":1564210467,
     "wof:name":"Boize",
     "wof:parent_id":1092051075,
     "wof:placetype":"locality",

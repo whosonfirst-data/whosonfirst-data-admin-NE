@@ -25,6 +25,21 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kalfou"
+    ],
+    "name:ita_x_preferred":[
+        "Kalfou"
+    ],
+    "name:msa_x_preferred":[
+        "Kalfou"
+    ],
+    "name:ron_x_preferred":[
+        "Kalfou"
+    ],
+    "name:spa_x_preferred":[
+        "Kalfou"
+    ],
     "name:und_x_variant":[
         "Kalfou",
         "Kalfou Rafi"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1326627715,
-    "wof:lastmodified":1537674758,
+    "wof:lastmodified":1564209233,
     "wof:name":"Kalfou Rafi",
     "wof:parent_id":1092051609,
     "wof:placetype":"locality",

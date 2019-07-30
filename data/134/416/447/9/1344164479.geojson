@@ -25,6 +25,21 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Doga"
+    ],
+    "name:ces_x_preferred":[
+        "Doga"
+    ],
+    "name:deu_x_preferred":[
+        "Doga"
+    ],
+    "name:ita_x_preferred":[
+        "Doga"
+    ],
+    "name:swe_x_preferred":[
+        "Doga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1344164479,
-    "wof:lastmodified":1536725815,
+    "wof:lastmodified":1564209519,
     "wof:name":"Doga",
     "wof:parent_id":1092051467,
     "wof:placetype":"locality",

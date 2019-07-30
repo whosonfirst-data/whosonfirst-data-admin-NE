@@ -25,6 +25,36 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Agama"
+    ],
+    "name:fra_x_preferred":[
+        "Agama"
+    ],
+    "name:hin_x_preferred":[
+        "\u0906\u0917\u092e"
+    ],
+    "name:lit_x_preferred":[
+        "Agama"
+    ],
+    "name:pol_x_preferred":[
+        "Agamy"
+    ],
+    "name:por_x_preferred":[
+        "Agama"
+    ],
+    "name:rus_x_preferred":[
+        "Agama"
+    ],
+    "name:san_x_preferred":[
+        "\u0906\u0917\u092e\u0903"
+    ],
+    "name:slk_x_preferred":[
+        "Agama"
+    ],
+    "name:swe_x_preferred":[
+        "Agama"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632269
@@ -42,7 +72,7 @@
         }
     ],
     "wof:id":1209320851,
-    "wof:lastmodified":1536290700,
+    "wof:lastmodified":1564210188,
     "wof:name":"Agama",
     "wof:parent_id":85632269,
     "wof:placetype":"locality",

@@ -25,6 +25,24 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tabou"
+    ],
+    "name:deu_x_preferred":[
+        "Tabou"
+    ],
+    "name:fra_x_preferred":[
+        "Tabou"
+    ],
+    "name:ita_x_preferred":[
+        "Tabou"
+    ],
+    "name:swa_x_preferred":[
+        "Tabou"
+    ],
+    "name:swe_x_preferred":[
+        "Tabou"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1310103233,
-    "wof:lastmodified":1536999031,
+    "wof:lastmodified":1564210563,
     "wof:name":"Tabou",
     "wof:parent_id":1092051515,
     "wof:placetype":"locality",

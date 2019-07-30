@@ -25,6 +25,21 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Guidiguir"
+    ],
+    "name:ita_x_preferred":[
+        "Guidiguir"
+    ],
+    "name:msa_x_preferred":[
+        "Guidiguir"
+    ],
+    "name:ron_x_preferred":[
+        "Guidiguir"
+    ],
+    "name:spa_x_preferred":[
+        "Guidiguir"
+    ],
     "name:und_x_variant":[
         "Gidigri",
         "Guidigri",
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1326751651,
-    "wof:lastmodified":1537674770,
+    "wof:lastmodified":1564209045,
     "wof:name":"Guidiguir",
     "wof:parent_id":1092051753,
     "wof:placetype":"locality",

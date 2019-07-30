@@ -25,6 +25,24 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dabaga"
+    ],
+    "name:deu_x_preferred":[
+        "Dabaga"
+    ],
+    "name:ita_x_preferred":[
+        "Dabaga"
+    ],
+    "name:msa_x_preferred":[
+        "Dabaga"
+    ],
+    "name:ron_x_preferred":[
+        "Dabaga"
+    ],
+    "name:spa_x_preferred":[
+        "Dabaga"
+    ],
     "name:und_x_variant":[
         "Dagana",
         "Dabaga"
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1293106287,
-    "wof:lastmodified":1537674838,
+    "wof:lastmodified":1564209794,
     "wof:name":"Dabaga",
     "wof:parent_id":1092051075,
     "wof:placetype":"locality",

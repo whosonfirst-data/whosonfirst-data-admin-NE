@@ -25,6 +25,12 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kiria"
+    ],
+    "name:swe_x_preferred":[
+        "Kiria"
+    ],
     "name:und_x_variant":[
         "Sabon Gari Kolta",
         "Kiria"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1225868825,
-    "wof:lastmodified":1537674883,
+    "wof:lastmodified":1564211264,
     "wof:name":"Kiria",
     "wof:parent_id":1092051007,
     "wof:placetype":"locality",

@@ -25,6 +25,27 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Guidan Roumdji"
+    ],
+    "name:deu_x_preferred":[
+        "Guidan Roumdji"
+    ],
+    "name:fra_x_preferred":[
+        "Guidan-Roumdji"
+    ],
+    "name:ita_x_preferred":[
+        "Guidan Roumji"
+    ],
+    "name:pol_x_preferred":[
+        "Guidan Roumdji"
+    ],
+    "name:ron_x_preferred":[
+        "Guidan Roumji"
+    ],
+    "name:spa_x_preferred":[
+        "Guidan Roumdji"
+    ],
     "name:und_x_variant":[
         "Gidan Roumji",
         "Guidan Roumji"
@@ -52,7 +73,7 @@
         }
     ],
     "wof:id":1360190875,
-    "wof:lastmodified":1537674772,
+    "wof:lastmodified":1564210692,
     "wof:name":"Guidan Roumji",
     "wof:parent_id":1092051229,
     "wof:placetype":"locality",

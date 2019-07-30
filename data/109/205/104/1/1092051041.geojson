@@ -30,11 +30,50 @@
     "mps:longitude":3.27265,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0414\u043e\u0441\u043e"
+    ],
+    "name:cat_x_preferred":[
+        "Dosso"
+    ],
+    "name:ceb_x_preferred":[
+        "Dosso"
+    ],
+    "name:deu_x_preferred":[
+        "Dosso"
+    ],
     "name:eng_x_preferred":[
         "Dosso"
     ],
     "name:eng_x_variant":[
         "Dosso"
+    ],
+    "name:fra_x_preferred":[
+        "Dosso"
+    ],
+    "name:ita_x_preferred":[
+        "Dosso"
+    ],
+    "name:nld_x_preferred":[
+        "Dosso"
+    ],
+    "name:pol_x_preferred":[
+        "Dosso"
+    ],
+    "name:por_x_preferred":[
+        "Dosso"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u0441\u043e"
+    ],
+    "name:srp_x_preferred":[
+        "Dosso"
+    ],
+    "name:swe_x_preferred":[
+        "Dosso"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u0441\u043e"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -59,7 +98,7 @@
         }
     ],
     "wof:id":1092051041,
-    "wof:lastmodified":1555047485,
+    "wof:lastmodified":1564210694,
     "wof:name":"Dosso",
     "wof:parent_id":85675287,
     "wof:placetype":"county",

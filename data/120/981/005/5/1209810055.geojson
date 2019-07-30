@@ -25,6 +25,24 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Korgom"
+    ],
+    "name:fra_x_preferred":[
+        "Korgom"
+    ],
+    "name:ita_x_preferred":[
+        "Korgom"
+    ],
+    "name:msa_x_preferred":[
+        "Korgom"
+    ],
+    "name:ron_x_preferred":[
+        "Korgom"
+    ],
+    "name:spa_x_preferred":[
+        "Korgom"
+    ],
     "name:und_x_variant":[
         "Korgam",
         "Korgom"
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1209810055,
-    "wof:lastmodified":1537674742,
+    "wof:lastmodified":1564210272,
     "wof:name":"Korgom",
     "wof:parent_id":1092051695,
     "wof:placetype":"locality",

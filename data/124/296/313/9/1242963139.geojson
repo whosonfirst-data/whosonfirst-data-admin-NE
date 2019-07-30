@@ -25,6 +25,18 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Sanam"
+    ],
+    "name:ita_x_preferred":[
+        "Sanam"
+    ],
+    "name:msa_x_preferred":[
+        "Sanam"
+    ],
+    "name:ron_x_preferred":[
+        "Sanam"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1242963139,
-    "wof:lastmodified":1537569952,
+    "wof:lastmodified":1564210952,
     "wof:name":"Sanam",
     "wof:parent_id":1092051695,
     "wof:placetype":"locality",

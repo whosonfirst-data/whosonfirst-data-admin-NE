@@ -25,6 +25,36 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tanout"
+    ],
+    "name:deu_x_preferred":[
+        "Tanout"
+    ],
+    "name:fra_x_preferred":[
+        "Tanout"
+    ],
+    "name:ita_x_preferred":[
+        "Tanout"
+    ],
+    "name:msa_x_preferred":[
+        "Tanout"
+    ],
+    "name:pol_x_preferred":[
+        "Tanout"
+    ],
+    "name:ron_x_preferred":[
+        "Tanout"
+    ],
+    "name:spa_x_preferred":[
+        "Tanout"
+    ],
+    "name:szl_x_preferred":[
+        "Tanout"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0627\u0646\u0624\u062a"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +78,7 @@
         }
     ],
     "wof:id":1193270593,
-    "wof:lastmodified":1536371117,
+    "wof:lastmodified":1564210352,
     "wof:name":"Tanout",
     "wof:parent_id":1092051577,
     "wof:placetype":"locality",

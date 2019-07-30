@@ -25,6 +25,24 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Nanaja"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u0646\u0627\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Nanaya"
+    ],
+    "name:ita_x_preferred":[
+        "Nanea"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u043d\u0430\u0439\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Nanaya"
+    ],
     "name:und_x_variant":[
         "Gidan Nanaya",
         "Guidan Anaya",
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1310633711,
-    "wof:lastmodified":1537674786,
+    "wof:lastmodified":1564210519,
     "wof:name":"Nanaya",
     "wof:parent_id":1092051435,
     "wof:placetype":"locality",

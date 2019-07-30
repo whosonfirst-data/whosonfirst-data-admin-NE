@@ -25,6 +25,21 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kankandi"
+    ],
+    "name:ita_x_preferred":[
+        "Kankandi"
+    ],
+    "name:msa_x_preferred":[
+        "Kankandi"
+    ],
+    "name:ron_x_preferred":[
+        "Kankandi"
+    ],
+    "name:spa_x_preferred":[
+        "Kankandi"
+    ],
     "name:und_x_variant":[
         "Kankani"
     ],
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1293590971,
-    "wof:lastmodified":1537674756,
+    "wof:lastmodified":1564209697,
     "wof:name":"Kankandi",
     "wof:parent_id":1092051075,
     "wof:placetype":"locality",

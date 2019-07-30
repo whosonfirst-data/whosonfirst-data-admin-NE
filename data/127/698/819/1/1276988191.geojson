@@ -25,6 +25,21 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Samb\u00e9ra"
+    ],
+    "name:ita_x_preferred":[
+        "Sambera"
+    ],
+    "name:msa_x_preferred":[
+        "Sambera"
+    ],
+    "name:ron_x_preferred":[
+        "Sambera"
+    ],
+    "name:spa_x_preferred":[
+        "Samb\u00e9ra"
+    ],
     "name:und_x_variant":[
         "Sanb\u00e9ra",
         "Samb\u00e9ra"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1276988191,
-    "wof:lastmodified":1537674694,
+    "wof:lastmodified":1564210036,
     "wof:name":"Sambera",
     "wof:parent_id":1092051041,
     "wof:placetype":"locality",
