@@ -18,6 +18,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "DF"
+    ],
     "lbl:latitude":16.251206,
     "lbl:longitude":13.258962,
     "meso:name_local":"Diffa",
@@ -274,16 +277,13 @@
         }
     ],
     "wof:id":85675269,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra"
     ],
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563315872,
+    "wof:lastmodified":1565731311,
     "wof:name":"Diffa",
     "wof:parent_id":85632269,
     "wof:placetype":"region",

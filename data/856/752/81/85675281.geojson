@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MA"
+    ],
     "lbl:latitude":13.974998,
     "lbl:longitude":7.211516,
     "meso:name_local":"Maradi",
@@ -275,16 +278,13 @@
         }
     ],
     "wof:id":85675281,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra"
     ],
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563315874,
+    "wof:lastmodified":1565731311,
     "wof:name":"Maradi",
     "wof:parent_id":85632269,
     "wof:placetype":"region",

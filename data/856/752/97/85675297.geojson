@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TH"
+    ],
     "lbl:latitude":15.776938,
     "lbl:longitude":5.227602,
     "meso:name_local":"Tahoua",
@@ -272,16 +275,13 @@
         }
     ],
     "wof:id":85675297,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra"
     ],
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563315878,
+    "wof:lastmodified":1565731311,
     "wof:name":"Tahoua",
     "wof:parent_id":85632269,
     "wof:placetype":"region",

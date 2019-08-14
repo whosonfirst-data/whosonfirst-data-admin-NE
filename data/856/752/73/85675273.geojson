@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AG"
+    ],
     "lbl:latitude":19.664294,
     "lbl:longitude":10.428008,
     "meso:name_local":"Agadez",
@@ -281,16 +284,13 @@
         }
     ],
     "wof:id":85675273,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra"
     ],
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563315873,
+    "wof:lastmodified":1565731311,
     "wof:name":"Agadez",
     "wof:parent_id":85632269,
     "wof:placetype":"region",

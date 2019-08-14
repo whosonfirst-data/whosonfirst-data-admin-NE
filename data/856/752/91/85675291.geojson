@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "capital district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NI"
+    ],
     "lbl:latitude":13.510681,
     "lbl:longitude":2.135139,
     "meso:name_local":"Niamey",
@@ -530,16 +533,13 @@
         }
     ],
     "wof:id":85675291,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra"
     ],
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563315876,
+    "wof:lastmodified":1565731311,
     "wof:name":"Niamey",
     "wof:parent_id":85632269,
     "wof:placetype":"region",

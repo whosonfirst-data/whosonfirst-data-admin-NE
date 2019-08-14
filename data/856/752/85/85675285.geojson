@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ZI"
+    ],
     "lbl:latitude":14.941762,
     "lbl:longitude":10.071414,
     "meso:name_local":"Zinder",
@@ -275,16 +278,13 @@
         }
     ],
     "wof:id":85675285,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra"
     ],
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563315878,
+    "wof:lastmodified":1565731311,
     "wof:name":"Zinder",
     "wof:parent_id":85632269,
     "wof:placetype":"region",

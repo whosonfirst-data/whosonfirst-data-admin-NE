@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TL"
+    ],
     "lbl:latitude":14.456781,
     "lbl:longitude":2.496329,
     "meso:name_local":"Tillab\u00e9ri",
@@ -278,16 +281,13 @@
         }
     ],
     "wof:id":85675265,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra"
     ],
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563315877,
+    "wof:lastmodified":1565731311,
     "wof:name":"Tillab\u00e9ri",
     "wof:parent_id":85632269,
     "wof:placetype":"region",

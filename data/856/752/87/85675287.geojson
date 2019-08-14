@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "DS"
+    ],
     "lbl:latitude":13.202086,
     "lbl:longitude":3.526458,
     "meso:name_local":"Dosso",
@@ -278,16 +281,13 @@
         }
     ],
     "wof:id":85675287,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra"
     ],
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563315874,
+    "wof:lastmodified":1565731311,
     "wof:name":"Dosso",
     "wof:parent_id":85632269,
     "wof:placetype":"region",
