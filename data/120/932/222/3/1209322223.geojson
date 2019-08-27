@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"3.25197,13.15642,3.29197,13.19642",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Moko"
     ],
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209322223,
-    "wof:lastmodified":1564210192,
+    "wof:lastmodified":1566648538,
     "wof:name":"Moko",
     "wof:parent_id":85632269,
     "wof:placetype":"locality",

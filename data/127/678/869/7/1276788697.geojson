@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"6.28837,14.73836,6.32837,14.77836",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tagatil",
         "Tagalel"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276788697,
-    "wof:lastmodified":1537674683,
+    "wof:lastmodified":1566648381,
     "wof:name":"Tagalel",
     "wof:parent_id":1092051577,
     "wof:placetype":"locality",

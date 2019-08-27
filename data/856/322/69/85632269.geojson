@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":17.431408,
     "lbl:longitude":9.521564,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":17.431408,
     "mps:longitude":9.521564,
     "mz:hierarchy_label":1,
@@ -904,7 +906,7 @@
         "naturalearth",
         "meso"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"227",
     "statoids:ds":"RN",
@@ -949,7 +951,7 @@
         "mzb:id":"niger",
         "ne:adm0_a3":"NER",
         "nyt:id":"47730220596765655041",
-        "qs:id":91450,
+        "qs_pg:id":91450,
         "uncrt:id":"RN",
         "wd:id":"Q1032",
         "wk:page":"Niger",
@@ -971,7 +973,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1565731312,
+    "wof:lastmodified":1566648101,
     "wof:name":"Niger",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"6.04421,14.17324,6.08421,14.21324",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gandessama",
         "Gandessamou",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310197657,
-    "wof:lastmodified":1537674804,
+    "wof:lastmodified":1566648812,
     "wof:name":"Gandasamou",
     "wof:parent_id":1092051329,
     "wof:placetype":"locality",

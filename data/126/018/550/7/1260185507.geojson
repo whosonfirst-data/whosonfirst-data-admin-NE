@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"12.6162,13.27597,12.6562,13.31597",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ch\u00e9timari"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1260185507,
-    "wof:lastmodified":1564210409,
+    "wof:lastmodified":1566648699,
     "wof:name":"Chetimari",
     "wof:parent_id":1092051245,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"6.28475,14.10213,6.32475,14.14213",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1309898355,
-    "wof:lastmodified":1536797792,
+    "wof:lastmodified":1566648959,
     "wof:name":"Guidan Garba",
     "wof:parent_id":1092051329,
     "wof:placetype":"locality",

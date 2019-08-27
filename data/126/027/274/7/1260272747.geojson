@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"2.61284,14.27548,2.65284,14.31548",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1260272747,
-    "wof:lastmodified":1536726701,
+    "wof:lastmodified":1566648696,
     "wof:name":"Tibili",
     "wof:parent_id":1092051633,
     "wof:placetype":"locality",

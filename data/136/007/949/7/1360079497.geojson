@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"8.4811,14.7118,8.5211,14.7518",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cdo_x_preferred":[
         "Kumul"
     ],
@@ -126,7 +130,7 @@
         }
     ],
     "wof:id":1360079497,
-    "wof:lastmodified":1564210628,
+    "wof:lastmodified":1566648856,
     "wof:name":"Hami",
     "wof:parent_id":1092051731,
     "wof:placetype":"locality",

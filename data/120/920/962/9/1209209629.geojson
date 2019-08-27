@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"1.60503,13.01751,1.64503,13.05751",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lilo",
         "Korogoussou"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209209629,
-    "wof:lastmodified":1537674726,
+    "wof:lastmodified":1566648562,
     "wof:name":"Korogoussou",
     "wof:parent_id":85632269,
     "wof:placetype":"locality",

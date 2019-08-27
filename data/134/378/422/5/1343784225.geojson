@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"6.12539,13.80551,6.16539,13.84551",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343784225,
-    "wof:lastmodified":1536777286,
+    "wof:lastmodified":1566648005,
     "wof:name":"Ardo Gaya",
     "wof:parent_id":1092051329,
     "wof:placetype":"locality",

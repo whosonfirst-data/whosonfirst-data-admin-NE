@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"8.3421,14.2054,8.3821,14.2454",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259507647,
-    "wof:lastmodified":1536823199,
+    "wof:lastmodified":1566649225,
     "wof:name":"Guidan Bale",
     "wof:parent_id":1092051389,
     "wof:placetype":"locality",

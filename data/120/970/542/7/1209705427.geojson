@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"1.7081,13.2994,1.7481,13.3394",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209705427,
-    "wof:lastmodified":1536393075,
+    "wof:lastmodified":1566648484,
     "wof:name":"Kossey",
     "wof:parent_id":1092051103,
     "wof:placetype":"locality",

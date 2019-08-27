@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"6.48639,14.3707,6.52639,14.4107",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Koudno",
         "Guidan Kounao"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1360291541,
-    "wof:lastmodified":1537674738,
+    "wof:lastmodified":1566648887,
     "wof:name":"Guidan Kounao",
     "wof:parent_id":1092051663,
     "wof:placetype":"locality",

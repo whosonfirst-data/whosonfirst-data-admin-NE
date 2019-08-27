@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"7.28343,13.19257,7.32343,13.23257",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dan Itatch\u00e9",
         "Naounfana",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310501839,
-    "wof:lastmodified":1537674708,
+    "wof:lastmodified":1566648836,
     "wof:name":"Naoumfana",
     "wof:parent_id":1092051007,
     "wof:placetype":"locality",

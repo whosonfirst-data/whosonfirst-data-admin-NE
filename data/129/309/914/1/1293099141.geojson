@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"7.56794,14.12349,7.60794,14.16349",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Batchi\u00e9ri",
         "Batchy\u00e9ri"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293099141,
-    "wof:lastmodified":1537674852,
+    "wof:lastmodified":1566648113,
     "wof:name":"Batchyeri",
     "wof:parent_id":1092051435,
     "wof:placetype":"locality",

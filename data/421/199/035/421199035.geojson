@@ -10,6 +10,9 @@
     "geom:latitude":14.24953,
     "geom:longitude":13.10921,
     "iso:country":"NE",
+    "lbl:bbox":"13.08921,14.22953,13.12921,14.26953",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -71,7 +74,7 @@
     "name:spa_x_preferred":[
         "N'Guigmi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ngigmi"
     ],
     "name:urd_x_preferred":[
@@ -206,7 +209,7 @@
     "wof:concordances":{
         "gn:id":2440495,
         "gp:id":1381953,
-        "qs:id":188936,
+        "qs_pg:id":188936,
         "wd:id":"Q646915",
         "wk:page":"N'guigmi"
     },
@@ -223,7 +226,7 @@
         }
     ],
     "wof:id":421199035,
-    "wof:lastmodified":1563316935,
+    "wof:lastmodified":1566648971,
     "wof:name":"Nguigmi",
     "wof:parent_id":1092051781,
     "wof:placetype":"locality",

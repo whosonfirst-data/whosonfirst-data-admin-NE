@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"6.90535,13.92212,6.94535,13.96212",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Zagawa",
         "Zagavoa"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327339695,
-    "wof:lastmodified":1537674651,
+    "wof:lastmodified":1566647842,
     "wof:name":"Zagavoa",
     "wof:parent_id":1092051663,
     "wof:placetype":"locality",

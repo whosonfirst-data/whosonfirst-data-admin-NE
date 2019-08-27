@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"1.87589,13.58289,1.91589,13.62289",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bangou Kar\u00e9",
         "Bangou Kouarey"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1242963193,
-    "wof:lastmodified":1537674857,
+    "wof:lastmodified":1566649117,
     "wof:name":"Bangou Kouarey",
     "wof:parent_id":421182275,
     "wof:placetype":"locality",

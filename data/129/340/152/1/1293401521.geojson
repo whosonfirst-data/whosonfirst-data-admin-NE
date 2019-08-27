@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"3.5311,12.19031,3.5711,12.23031",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293401521,
-    "wof:lastmodified":1536911241,
+    "wof:lastmodified":1566648169,
     "wof:name":"Rijia Maifada",
     "wof:parent_id":1092050969,
     "wof:placetype":"locality",

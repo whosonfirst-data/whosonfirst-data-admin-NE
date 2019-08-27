@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"2.8177,13.2232,2.8577,13.2632",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Niakar\u00e9",
         "Daniar\u00e9"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293489311,
-    "wof:lastmodified":1537674834,
+    "wof:lastmodified":1566648153,
     "wof:name":"Daniare",
     "wof:parent_id":1092051075,
     "wof:placetype":"locality",

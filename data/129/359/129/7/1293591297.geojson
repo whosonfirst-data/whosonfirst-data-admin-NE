@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"3.353,13.5926,3.393,13.6326",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gongaz\u00e8y-Koara",
         "Gongazey Kwara",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293591297,
-    "wof:lastmodified":1537674795,
+    "wof:lastmodified":1566648185,
     "wof:name":"Gongazeye-Koara",
     "wof:parent_id":1092051273,
     "wof:placetype":"locality",

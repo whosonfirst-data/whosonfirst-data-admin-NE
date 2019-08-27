@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"7.42052,14.46619,7.46052,14.50619",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632269
@@ -34,7 +38,7 @@
         "gn:id":2440888
     },
     "wof:country":"NE",
-    "wof:geomhash":"b4c91e4c28f1cc889ccccd2ad83d2ef7",
+    "wof:geomhash":"478992d6181c0ffa57f604045655a09a",
     "wof:hierarchy":[
         {
             "country_id":85632269,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209106799,
-    "wof:lastmodified":1536297543,
+    "wof:lastmodified":1566648589,
     "wof:name":"Mongamou",
     "wof:parent_id":85632269,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.4405199999999985,
+    7.44052,
     14.48619,
-    7.4405199999999985,
+    7.44052,
     14.48619
 ],
   "geometry": {"coordinates":[7.44052,14.48619],"type":"Point"}

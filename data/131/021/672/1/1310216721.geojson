@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"3.701,13.3368,3.741,13.3768",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Baro Kwara",
         "Baro-Koara"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310216721,
-    "wof:lastmodified":1537674853,
+    "wof:lastmodified":1566648817,
     "wof:name":"Baro-Koara",
     "wof:parent_id":1092051273,
     "wof:placetype":"locality",

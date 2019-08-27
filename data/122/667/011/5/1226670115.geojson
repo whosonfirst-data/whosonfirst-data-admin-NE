@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"7.61931,13.67502,7.65931,13.71502",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dan Arou Tanbari",
         "Dan Arou Tambari"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226670115,
-    "wof:lastmodified":1537674836,
+    "wof:lastmodified":1566649336,
     "wof:name":"Dan Arou Tambari",
     "wof:parent_id":1092051197,
     "wof:placetype":"locality",

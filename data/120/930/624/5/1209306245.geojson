@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"8.49376,13.18511,8.53376,13.22511",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632269
@@ -34,7 +38,7 @@
         "gn:id":6744648
     },
     "wof:country":"NE",
-    "wof:geomhash":"347848637b38b51a8201dabb94981a10",
+    "wof:geomhash":"693a5d41ba1d5e9567e73e841fc2e8e9",
     "wof:hierarchy":[
         {
             "country_id":85632269,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209306245,
-    "wof:lastmodified":1536291186,
+    "wof:lastmodified":1566648464,
     "wof:name":"Kokotaou",
     "wof:parent_id":85632269,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    8.513760000000001,
+    8.51376,
     13.20511,
-    8.513760000000001,
+    8.51376,
     13.20511
 ],
   "geometry": {"coordinates":[8.51376,13.20511],"type":"Point"}

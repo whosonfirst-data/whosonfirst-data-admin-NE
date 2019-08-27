@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"1.94399,13.18396,1.98399,13.22396",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gorjou\u00e9l",
         "Wind\u00e9 Bidji"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1242672037,
-    "wof:lastmodified":1537674655,
+    "wof:lastmodified":1566649052,
     "wof:name":"Winde Bidji",
     "wof:parent_id":1092051103,
     "wof:placetype":"locality",

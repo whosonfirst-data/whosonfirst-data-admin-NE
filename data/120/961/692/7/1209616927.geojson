@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"3.0014,13.4836,3.0414,13.5236",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dabkoudey",
         "Dabkoudeye"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209616927,
-    "wof:lastmodified":1537674839,
+    "wof:lastmodified":1566648526,
     "wof:name":"Dabkoudeye",
     "wof:parent_id":85632269,
     "wof:placetype":"locality",

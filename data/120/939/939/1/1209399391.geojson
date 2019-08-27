@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"1.19839,13.82001,1.23839,13.86001",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kwaratagui",
         "Kwara Tagui",
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209399391,
-    "wof:lastmodified":1537674732,
+    "wof:lastmodified":1566648461,
     "wof:name":"Kouara Tegui",
     "wof:parent_id":85632269,
     "wof:placetype":"locality",

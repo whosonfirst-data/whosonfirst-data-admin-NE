@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"8.063,14.3823,8.103,14.4223",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Maybag\u00e9y",
         "Maybagu\u00e9y"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310525517,
-    "wof:lastmodified":1537674716,
+    "wof:lastmodified":1566648772,
     "wof:name":"Maybaguey",
     "wof:parent_id":1092051389,
     "wof:placetype":"locality",

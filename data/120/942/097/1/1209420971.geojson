@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"7.3223,14.21447,7.3623,14.25447",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632269
@@ -34,7 +38,7 @@
         "gn:id":2442524
     },
     "wof:country":"NE",
-    "wof:geomhash":"6cc48948c0a4b663d480c4561453e25e",
+    "wof:geomhash":"af2f1322e39ecef5a6339e725e0395ec",
     "wof:hierarchy":[
         {
             "country_id":85632269,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209420971,
-    "wof:lastmodified":1536287532,
+    "wof:lastmodified":1566648576,
     "wof:name":"Katare",
     "wof:parent_id":85632269,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     7.3423,
-    14.234470000000002,
+    14.23447,
     7.3423,
-    14.234470000000002
+    14.23447
 ],
   "geometry": {"coordinates":[7.3423,14.23447],"type":"Point"}
 }

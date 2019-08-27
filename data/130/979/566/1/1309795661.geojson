@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"2.7178,13.3414,2.7578,13.3814",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Korkod\u00e9",
         "Kokorb\u00e9"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1309795661,
-    "wof:lastmodified":1537674741,
+    "wof:lastmodified":1566648932,
     "wof:name":"Kokorbe",
     "wof:parent_id":421182275,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"3.58131,11.86707,3.62131,11.90707",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ourakoss\u00e9",
         "Ourakosso"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310107631,
-    "wof:lastmodified":1537674702,
+    "wof:lastmodified":1566648807,
     "wof:name":"Ourakosso",
     "wof:parent_id":1092050969,
     "wof:placetype":"locality",

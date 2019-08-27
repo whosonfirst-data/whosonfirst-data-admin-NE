@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"4.06401,13.31953,4.10401,13.35953",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632269
@@ -34,7 +38,7 @@
         "gn:id":7003153
     },
     "wof:country":"NE",
-    "wof:geomhash":"588623a02a5d285f132cdb908f1a5f30",
+    "wof:geomhash":"c87f69a9d51bdaf6fc0444c0eefb0ae9",
     "wof:hierarchy":[
         {
             "country_id":85632269,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209316229,
-    "wof:lastmodified":1536290854,
+    "wof:lastmodified":1566648444,
     "wof:name":"Garin Malam",
     "wof:parent_id":85632269,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     4.08401,
-    13.339529999999998,
+    13.33953,
     4.08401,
-    13.339529999999998
+    13.33953
 ],
   "geometry": {"coordinates":[4.08401,13.33953],"type":"Point"}
 }

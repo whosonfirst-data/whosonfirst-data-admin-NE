@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"7.96991,14.71038,8.00991,14.75038",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632269
@@ -34,7 +38,7 @@
         "gn:id":6812451
     },
     "wof:country":"NE",
-    "wof:geomhash":"9609e5218efa38d9bb964ef460a3eafb",
+    "wof:geomhash":"19e95cd48ddffb470f1b7260a364d6d0",
     "wof:hierarchy":[
         {
             "country_id":85632269,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209336007,
-    "wof:lastmodified":1536290219,
+    "wof:lastmodified":1566648557,
     "wof:name":"Zakari",
     "wof:parent_id":85632269,
     "wof:placetype":"locality",
@@ -52,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.989910000000001,
-    14.730379999999998,
-    7.989910000000001,
-    14.730379999999998
+    7.98991,
+    14.73038,
+    7.98991,
+    14.73038
 ],
   "geometry": {"coordinates":[7.98991,14.73038],"type":"Point"}
 }

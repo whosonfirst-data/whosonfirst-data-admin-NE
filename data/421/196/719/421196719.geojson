@@ -10,8 +10,12 @@
     "geom:latitude":12.99826,
     "geom:longitude":8.90991,
     "iso:country":"NE",
+    "lbl:bbox":"8.88991,12.97826,8.92991,13.01826",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u0627\u063a\u0627\u0631\u064a\u0627"
@@ -152,7 +156,7 @@
     "wof:concordances":{
         "gn:id":2441482,
         "gp:id":1505857,
-        "qs:id":1297252,
+        "qs_pg:id":1297252,
         "wd:id":"Q1003540",
         "wk:page":"Magaria"
     },
@@ -169,7 +173,7 @@
         }
     ],
     "wof:id":421196719,
-    "wof:lastmodified":1563316933,
+    "wof:lastmodified":1566648971,
     "wof:name":"Magaria",
     "wof:parent_id":1092051133,
     "wof:placetype":"locality",

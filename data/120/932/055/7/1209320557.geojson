@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"8.29571,13.76684,8.33571,13.80684",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632269
@@ -34,7 +38,7 @@
         "gn:id":2441088
     },
     "wof:country":"NE",
-    "wof:geomhash":"9697d4e45ccc6eaf68d18f7fc695627b",
+    "wof:geomhash":"2f80607923e1c1456ac1d95de6242e60",
     "wof:hierarchy":[
         {
             "country_id":85632269,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209320557,
-    "wof:lastmodified":1536290709,
+    "wof:lastmodified":1566648536,
     "wof:name":"May Kogo",
     "wof:parent_id":85632269,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    8.315710000000001,
+    8.31571,
     13.78684,
-    8.315710000000001,
+    8.31571,
     13.78684
 ],
   "geometry": {"coordinates":[8.31571,13.78684],"type":"Point"}

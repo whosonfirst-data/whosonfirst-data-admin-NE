@@ -11,8 +11,11 @@
     "geom:longitude":0.91738,
     "gn:country":"NE",
     "gn:fcode":"PPL",
-    "gn:pop":26290,
+    "gn:population":26290,
     "iso:country":"NE",
+    "lbl:bbox":"0.89738,14.71075,0.93738,14.75075",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -52,7 +55,7 @@
     "name:rus_x_preferred":[
         "\u0410\u0439\u043e\u0440\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Agorou"
     ],
     "name:zho_x_preferred":[
@@ -168,7 +171,7 @@
     "wof:concordances":{
         "gn:id":2447416,
         "gp:id":1377888,
-        "qs:id":574112,
+        "qs_pg:id":574112,
         "wd:id":"Q793407",
         "wk:page":"Ayourou"
     },
@@ -185,7 +188,7 @@
         }
     ],
     "wof:id":890442515,
-    "wof:lastmodified":1563316939,
+    "wof:lastmodified":1566648973,
     "wof:name":"Ayorou",
     "wof:parent_id":890429081,
     "wof:placetype":"locality",

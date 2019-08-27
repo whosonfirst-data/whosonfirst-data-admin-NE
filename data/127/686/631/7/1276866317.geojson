@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"0.77589,14.44015,0.81589,14.48015",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0422\u0430\u0440\u0430"
     ],
@@ -137,8 +141,7 @@
         "\u0422\u0430\u0440\u0430"
     ],
     "name:und_x_variant":[
-        "Taratako",
-        "Tara"
+        "Taratako"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -163,7 +166,7 @@
         }
     ],
     "wof:id":1276866317,
-    "wof:lastmodified":1564209854,
+    "wof:lastmodified":1566648293,
     "wof:name":"Tara",
     "wof:parent_id":1092051545,
     "wof:placetype":"locality",

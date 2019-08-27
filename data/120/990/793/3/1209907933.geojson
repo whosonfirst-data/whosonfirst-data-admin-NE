@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"9.9353,13.1486,9.9753,13.1886",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "B\u00e0nari"
     ],
@@ -152,8 +156,7 @@
         "\u0411\u0430\u043d\u0430\u0440\u0456"
     ],
     "name:und_x_variant":[
-        "Banori",
-        "Banari"
+        "Banori"
     ],
     "name:uzb_x_preferred":[
         "Banari"
@@ -196,7 +199,7 @@
         }
     ],
     "wof:id":1209907933,
-    "wof:lastmodified":1564210102,
+    "wof:lastmodified":1566648471,
     "wof:name":"Banari",
     "wof:parent_id":1092051753,
     "wof:placetype":"locality",

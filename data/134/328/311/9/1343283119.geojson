@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"9.1274,14.3839,9.1674,14.4239",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343283119,
-    "wof:lastmodified":1537001514,
+    "wof:lastmodified":1566648083,
     "wof:name":"Toubchari",
     "wof:parent_id":1092051411,
     "wof:placetype":"locality",

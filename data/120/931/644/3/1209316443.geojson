@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"3.7643,12.72467,3.8043,12.76467",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Toullou",
         "Toulou"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209316443,
-    "wof:lastmodified":1537674663,
+    "wof:lastmodified":1566648442,
     "wof:name":"Toulou",
     "wof:parent_id":85632269,
     "wof:placetype":"locality",

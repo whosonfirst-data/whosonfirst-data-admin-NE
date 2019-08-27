@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"12.82314,13.45702,12.86314,13.49702",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Guesk\u00e9rou"
     ],
@@ -44,8 +48,7 @@
         "Guesk\u00e9rou"
     ],
     "name:und_x_variant":[
-        "Gesk\u00e9rou",
-        "Guesk\u00e9rou"
+        "Gesk\u00e9rou"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1327336649,
-    "wof:lastmodified":1564209156,
+    "wof:lastmodified":1566647843,
     "wof:name":"Gueskerou",
     "wof:parent_id":1092051245,
     "wof:placetype":"locality",

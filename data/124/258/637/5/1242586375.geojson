@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"11.3677,13.8118,11.4077,13.8518",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1242586375,
-    "wof:lastmodified":1537048831,
+    "wof:lastmodified":1566649060,
     "wof:name":"Dagamri",
     "wof:parent_id":1092051363,
     "wof:placetype":"locality",

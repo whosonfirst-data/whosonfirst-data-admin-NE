@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"1.77068,13.6508,1.81068,13.6908",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Niamey",
         "Niam\u00e9"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226768753,
-    "wof:lastmodified":1537674706,
+    "wof:lastmodified":1566649373,
     "wof:name":"Niame",
     "wof:parent_id":421182275,
     "wof:placetype":"locality",

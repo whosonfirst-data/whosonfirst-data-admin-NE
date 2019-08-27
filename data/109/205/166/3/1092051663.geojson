@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.884351,
     "lbl:longitude":6.999051,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Maradi",
     "meso:gadm_admin":"Dakoro",
     "meso:gadm_hasc2":"NE.MA.DK",
@@ -30,6 +32,7 @@
     "mps:longitude":6.999051,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Dakoro"
     ],
@@ -64,7 +67,7 @@
         "Dakoro"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632269,
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1092051663,
-    "wof:lastmodified":1564210695,
+    "wof:lastmodified":1566648907,
     "wof:name":"Dakoro",
     "wof:parent_id":85675281,
     "wof:placetype":"county",

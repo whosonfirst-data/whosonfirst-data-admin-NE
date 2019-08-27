@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"7.37847,13.14872,7.41847,13.18872",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310411917,
-    "wof:lastmodified":1537049882,
+    "wof:lastmodified":1566648732,
     "wof:name":"Zigahi",
     "wof:parent_id":1092051007,
     "wof:placetype":"locality",

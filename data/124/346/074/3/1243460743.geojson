@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"8.01047,13.42009,8.05047,13.46009",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Birnin Gu\u00e9za",
         "Birnin G\u00e9za",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243460743,
-    "wof:lastmodified":1537674849,
+    "wof:lastmodified":1566649068,
     "wof:name":"Birnin Guieza",
     "wof:parent_id":1092051197,
     "wof:placetype":"locality",

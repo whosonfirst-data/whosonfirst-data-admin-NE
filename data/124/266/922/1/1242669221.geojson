@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"8.8467,14.26,8.8867,14.3",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1242669221,
-    "wof:lastmodified":1536932604,
+    "wof:lastmodified":1566649044,
     "wof:name":"Terwaza",
     "wof:parent_id":1092051731,
     "wof:placetype":"locality",

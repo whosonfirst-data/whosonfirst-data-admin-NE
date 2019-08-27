@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":13.510681,
     "lbl:longitude":2.135139,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Niamey",
     "mps:latitude":13.514266,
     "mps:longitude":2.130841,
@@ -488,9 +489,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-12-10",
+    "src:population_date":"2012-12-10",
     "statoids:area_km":"402",
     "statoids:area_mi":"155",
     "statoids:as_of_date":"2012-12-10",
@@ -515,7 +516,7 @@
         "gp:id":20069994,
         "hasc:id":"NE.NI",
         "iso:id":"NE-8",
-        "qs:id":1118637,
+        "qs_pg:id":1118637,
         "unlc:id":"NE-8",
         "wd:id":"Q3674",
         "wk:page":"Niamey"
@@ -539,11 +540,10 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1565731311,
+    "wof:lastmodified":1566648100,
     "wof:name":"Niamey",
     "wof:parent_id":85632269,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"capital district",
     "wof:population":1026848,
     "wof:population_rank":12,

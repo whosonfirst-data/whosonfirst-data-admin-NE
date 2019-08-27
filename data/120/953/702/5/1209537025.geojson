@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"7.85532,14.62071,7.89532,14.66071",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632269
@@ -34,7 +38,7 @@
         "gn:id":2446065
     },
     "wof:country":"NE",
-    "wof:geomhash":"93a5363ab4fca68d1aa9421d60f7f0c1",
+    "wof:geomhash":"8fca8a3a5f81fa05fe5e56f9fb351c78",
     "wof:hierarchy":[
         {
             "country_id":85632269,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209537025,
-    "wof:lastmodified":1536284108,
+    "wof:lastmodified":1566648448,
     "wof:name":"Dan Haouwa",
     "wof:parent_id":85632269,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.8753199999999985,
+    7.87532,
     14.64071,
-    7.8753199999999985,
+    7.87532,
     14.64071
 ],
   "geometry": {"coordinates":[7.87532,14.64071],"type":"Point"}

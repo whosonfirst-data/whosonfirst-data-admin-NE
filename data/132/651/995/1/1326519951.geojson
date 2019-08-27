@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"1.54329,13.89307,1.58329,13.93307",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kassani Goungou",
         "Ka\u00efssani Goungou"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326519951,
-    "wof:lastmodified":1537674752,
+    "wof:lastmodified":1566647780,
     "wof:name":"Kaissani Goungou",
     "wof:parent_id":890429081,
     "wof:placetype":"locality",

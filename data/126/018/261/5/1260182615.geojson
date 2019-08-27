@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"8.40539,14.12514,8.44539,14.16514",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1260182615,
-    "wof:lastmodified":1536848045,
+    "wof:lastmodified":1566648701,
     "wof:name":"Guidan Boukari",
     "wof:parent_id":1092051389,
     "wof:placetype":"locality",

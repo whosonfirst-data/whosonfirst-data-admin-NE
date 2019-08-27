@@ -10,6 +10,9 @@
     "geom:latitude":14.21167,
     "geom:longitude":1.45306,
     "iso:country":"NE",
+    "lbl:bbox":"1.43306,14.19167,1.47306,14.23167",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -77,7 +80,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0456\u043b\u043b\u0430\u0431\u0435\u0440\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tillab\u00e9ry"
     ],
     "name:zho_x_preferred":[
@@ -208,7 +211,7 @@
     "wof:concordances":{
         "gn:id":2438678,
         "gp:id":1382880,
-        "qs:id":183524,
+        "qs_pg:id":183524,
         "wd:id":"Q1011866",
         "wk:page":"Tillab\u00e9ri"
     },
@@ -225,7 +228,7 @@
         }
     ],
     "wof:id":421167887,
-    "wof:lastmodified":1563316923,
+    "wof:lastmodified":1566648968,
     "wof:name":"Tillaberi",
     "wof:parent_id":890429081,
     "wof:placetype":"locality",

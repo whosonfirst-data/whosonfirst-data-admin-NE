@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"5.20521,13.88494,5.24521,13.92494",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0427\u0435\u0442\u0430"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1242800043,
-    "wof:lastmodified":1564210825,
+    "wof:lastmodified":1566649018,
     "wof:name":"Cheta",
     "wof:parent_id":1092051301,
     "wof:placetype":"locality",

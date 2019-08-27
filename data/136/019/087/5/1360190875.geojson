@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"6.95176,13.82536,6.99176,13.86536",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Guidan Roumdji"
     ],
@@ -47,8 +51,7 @@
         "Guidan Roumdji"
     ],
     "name:und_x_variant":[
-        "Gidan Roumji",
-        "Guidan Roumji"
+        "Gidan Roumji"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1360190875,
-    "wof:lastmodified":1564210692,
+    "wof:lastmodified":1566648905,
     "wof:name":"Guidan Roumji",
     "wof:parent_id":1092051229,
     "wof:placetype":"locality",

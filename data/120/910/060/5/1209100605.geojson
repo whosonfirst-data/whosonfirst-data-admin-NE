@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"7.80808,14.73558,7.84808,14.77558",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632269
@@ -34,7 +38,7 @@
         "gn:id":2446033
     },
     "wof:country":"NE",
-    "wof:geomhash":"b581709240256f66941c4ccffe6a85b8",
+    "wof:geomhash":"b77755a344248cda36e50b3302b28ff6",
     "wof:hierarchy":[
         {
             "country_id":85632269,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209100605,
-    "wof:lastmodified":1536297746,
+    "wof:lastmodified":1566648589,
     "wof:name":"Dan Kande",
     "wof:parent_id":85632269,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     7.82808,
-    14.755579999999998,
+    14.75558,
     7.82808,
-    14.755579999999998
+    14.75558
 ],
   "geometry": {"coordinates":[7.82808,14.75558],"type":"Point"}
 }

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"7.24967,14.07597,7.28967,14.11597",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293390679,
-    "wof:lastmodified":1536927286,
+    "wof:lastmodified":1566648133,
     "wof:name":"Guidan Adji",
     "wof:parent_id":1092051435,
     "wof:placetype":"locality",

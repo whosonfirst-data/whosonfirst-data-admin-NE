@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"2.90303,12.84418,2.94303,12.88418",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Oumiz\u00e9 Kouara",
         "Kobi\u00e8l"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1193277367,
-    "wof:lastmodified":1537674747,
+    "wof:lastmodified":1566648653,
     "wof:name":"Oumize Kouara",
     "wof:parent_id":1092051075,
     "wof:placetype":"locality",

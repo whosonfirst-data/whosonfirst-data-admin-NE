@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"5.644,14.8157,5.684,14.8557",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tamask\u00e9 Sabon Gida",
         "Tamask\u00e9 Sabon Guida"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1260281459,
-    "wof:lastmodified":1537674879,
+    "wof:lastmodified":1566648717,
     "wof:name":"Tamaske Sabon Guida",
     "wof:parent_id":1092051577,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"11.0685,13.8566,11.1085,13.8966",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1360187689,
-    "wof:lastmodified":1536797746,
+    "wof:lastmodified":1566648883,
     "wof:name":"Toraram",
     "wof:parent_id":1092051363,
     "wof:placetype":"locality",

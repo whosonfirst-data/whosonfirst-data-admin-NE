@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"1.65419,12.80918,1.69419,12.84918",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pati"
     ],
@@ -50,8 +54,7 @@
         "Pati"
     ],
     "name:und_x_variant":[
-        "T\u00e9p\u00e9",
-        "Pati"
+        "T\u00e9p\u00e9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1276430811,
-    "wof:lastmodified":1564209871,
+    "wof:lastmodified":1566648303,
     "wof:name":"Pati",
     "wof:parent_id":1092051103,
     "wof:placetype":"locality",

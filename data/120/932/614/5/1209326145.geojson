@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"4.02268,13.88691,4.06268,13.92691",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632269
@@ -34,7 +38,7 @@
         "gn:id":7001453
     },
     "wof:country":"NE",
-    "wof:geomhash":"d0ac82eb0003f657eef8101adb99aca7",
+    "wof:geomhash":"100db6caf3265e2af52eb74c9d79e331",
     "wof:hierarchy":[
         {
             "country_id":85632269,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209326145,
-    "wof:lastmodified":1536290529,
+    "wof:lastmodified":1566648537,
     "wof:name":"Adeki",
     "wof:parent_id":85632269,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.042680000000002,
+    4.04268,
     13.90691,
-    4.042680000000002,
+    4.04268,
     13.90691
 ],
   "geometry": {"coordinates":[4.04268,13.90691],"type":"Point"}

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"2.497,13.7436,2.537,13.7836",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kiran Bilinngol",
         "Kiran Billingol"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1225940865,
-    "wof:lastmodified":1537674749,
+    "wof:lastmodified":1566649276,
     "wof:name":"Kiran Billingol",
     "wof:parent_id":421182275,
     "wof:placetype":"locality",

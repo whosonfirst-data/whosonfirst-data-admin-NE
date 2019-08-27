@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"5.6539,14.3082,5.6939,14.3482",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243476577,
-    "wof:lastmodified":1536762382,
+    "wof:lastmodified":1566649074,
     "wof:name":"Moulela",
     "wof:parent_id":1092051515,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":13.5284,
     "geom:longitude":2.0909,
     "iso:country":"NE",
+    "lbl:bbox":"2.0709,13.5084,2.1109,13.5484",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"NE",
     "qs:gn_fcode":"PPL",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":2438019,
         "gp:id":1383258,
-        "qs:id":231253
+        "qs_pg:id":231253
     },
     "wof:country":"NE",
     "wof:created":1459010148,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":421203367,
-    "wof:lastmodified":1500017987,
+    "wof:lastmodified":1566648969,
     "wof:name":"Yantala",
     "wof:parent_id":421204117,
     "wof:placetype":"locality",

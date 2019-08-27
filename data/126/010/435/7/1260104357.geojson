@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"7.88597,13.9656,7.92597,14.0056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Aytaden",
         "A\u00eftadane"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1260104357,
-    "wof:lastmodified":1537674863,
+    "wof:lastmodified":1566648722,
     "wof:name":"Aitadane",
     "wof:parent_id":1092051435,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"8.37926,13.12424,8.41926,13.16424",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0410\u0434\u0430\u043c\u0430\u0432\u0430"
     ],
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":1260101507,
-    "wof:lastmodified":1564210438,
+    "wof:lastmodified":1566648721,
     "wof:name":"Adamawa",
     "wof:parent_id":1092051133,
     "wof:placetype":"locality",

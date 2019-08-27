@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"8.8611,13.41846,8.9011,13.45846",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1242865885,
-    "wof:lastmodified":1536648098,
+    "wof:lastmodified":1566649031,
     "wof:name":"Dagouji",
     "wof:parent_id":1092051411,
     "wof:placetype":"locality",

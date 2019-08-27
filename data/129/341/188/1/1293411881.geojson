@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"6.09294,14.33542,6.13294,14.37542",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293411881,
-    "wof:lastmodified":1536895913,
+    "wof:lastmodified":1566648149,
     "wof:name":"Guidan Kasaoura",
     "wof:parent_id":1092051515,
     "wof:placetype":"locality",

@@ -12,6 +12,7 @@
     "iso:country":"NE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:eng_x_preferred":[
         "Niamey Air Base"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":102547389,
-    "wof:lastmodified":1563315663,
+    "wof:lastmodified":1566647921,
     "wof:name":"Niamey Airport",
     "wof:parent_id":85675291,
     "wof:placetype":"campus",

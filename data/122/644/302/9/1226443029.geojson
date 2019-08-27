@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"8.14497,14.38827,8.18497,14.42827",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gidan Lanbou",
         "Guidan Lambou",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226443029,
-    "wof:lastmodified":1537674776,
+    "wof:lastmodified":1566649302,
     "wof:name":"Guidan Lanbou",
     "wof:parent_id":1092051389,
     "wof:placetype":"locality",

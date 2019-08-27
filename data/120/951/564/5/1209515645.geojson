@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"7.27383,14.65391,7.31383,14.69391",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632269
@@ -34,7 +38,7 @@
         "gn:id":2443872
     },
     "wof:country":"NE",
-    "wof:geomhash":"b1959a9174b938eb9cd96d1526d4e976",
+    "wof:geomhash":"74390941303c20f061e0b207206e2486",
     "wof:hierarchy":[
         {
             "country_id":85632269,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209515645,
-    "wof:lastmodified":1536284741,
+    "wof:lastmodified":1566648549,
     "wof:name":"Guidan Gado",
     "wof:parent_id":85632269,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.293830000000002,
+    7.29383,
     14.67391,
-    7.293830000000002,
+    7.29383,
     14.67391
 ],
   "geometry": {"coordinates":[7.29383,14.67391],"type":"Point"}

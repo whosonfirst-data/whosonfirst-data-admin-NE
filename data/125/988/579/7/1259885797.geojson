@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"7.14413,14.49383,7.18413,14.53383",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259885797,
-    "wof:lastmodified":1536776345,
+    "wof:lastmodified":1566649270,
     "wof:name":"Son Allah",
     "wof:parent_id":1092051663,
     "wof:placetype":"locality",

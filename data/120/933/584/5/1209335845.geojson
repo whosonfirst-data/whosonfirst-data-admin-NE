@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"8.45886,13.22301,8.49886,13.26301",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632269
@@ -34,7 +38,7 @@
         "gn:id":6740183
     },
     "wof:country":"NE",
-    "wof:geomhash":"6da9ce88d4f20ef8997f3c46c85554b2",
+    "wof:geomhash":"4222ddfa9c1bfe2cb0f5a1178b38bad0",
     "wof:hierarchy":[
         {
             "country_id":85632269,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209335845,
-    "wof:lastmodified":1536290225,
+    "wof:lastmodified":1566648557,
     "wof:name":"Gajere",
     "wof:parent_id":85632269,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    8.478860000000001,
+    8.47886,
     13.24301,
-    8.478860000000001,
+    8.47886,
     13.24301
 ],
   "geometry": {"coordinates":[8.47886,13.24301],"type":"Point"}

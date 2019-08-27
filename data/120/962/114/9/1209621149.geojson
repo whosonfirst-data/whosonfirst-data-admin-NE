@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"6.85698,13.82783,6.89698,13.86783",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kire"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209621149,
-    "wof:lastmodified":1564210082,
+    "wof:lastmodified":1566648457,
     "wof:name":"Kire",
     "wof:parent_id":85632269,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"7.36879,13.24307,7.40879,13.28307",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632269
@@ -34,7 +38,7 @@
         "gn:id":6721681
     },
     "wof:country":"NE",
-    "wof:geomhash":"582e86529f9e67ddcd74073bd774c36b",
+    "wof:geomhash":"cd62d98aa08f5d3b978bd5cf178ac6da",
     "wof:hierarchy":[
         {
             "country_id":85632269,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209247763,
-    "wof:lastmodified":1536293105,
+    "wof:lastmodified":1566648496,
     "wof:name":"Ta-tchi",
     "wof:parent_id":85632269,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.388789999999998,
+    7.38879,
     13.26307,
-    7.388789999999998,
+    7.38879,
     13.26307
 ],
   "geometry": {"coordinates":[7.38879,13.26307],"type":"Point"}

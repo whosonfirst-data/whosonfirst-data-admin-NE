@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":13.974998,
     "lbl:longitude":7.211516,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Maradi",
     "mps:latitude":13.992737,
     "mps:longitude":7.197085,
@@ -236,9 +237,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-12-10",
+    "src:population_date":"2012-12-10",
     "statoids:area_km":"41,796",
     "statoids:area_mi":"16,138",
     "statoids:as_of_date":"2012-12-10",
@@ -263,7 +264,7 @@
         "gp:id":2346327,
         "hasc:id":"NE.MA",
         "iso:id":"NE-4",
-        "qs:id":229380,
+        "qs_pg:id":229380,
         "unlc:id":"NE-4",
         "wd:id":"Q850036",
         "wk:page":"Maradi Region"
@@ -284,11 +285,10 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1565731311,
+    "wof:lastmodified":1566648099,
     "wof:name":"Maradi",
     "wof:parent_id":85632269,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":3402094,
     "wof:population_rank":12,

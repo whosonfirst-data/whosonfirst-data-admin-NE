@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"3.63,13.81333,3.67,13.85333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Kalgo"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1343360995,
-    "wof:lastmodified":1564209284,
+    "wof:lastmodified":1566647923,
     "wof:name":"Kalgo",
     "wof:parent_id":1092051273,
     "wof:placetype":"locality",

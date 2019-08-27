@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"9.29514,13.84622,9.33514,13.88622",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Zermu",
         "Zermo",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259474785,
-    "wof:lastmodified":1537674649,
+    "wof:lastmodified":1566649217,
     "wof:name":"Zermou",
     "wof:parent_id":1092051411,
     "wof:placetype":"locality",

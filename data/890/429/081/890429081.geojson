@@ -11,7 +11,7 @@
     "geom:longitude":1.35641,
     "gn:country":"NE",
     "gn:fcode":"ADM2",
-    "gn:pop":2017214,
+    "gn:population":2017214,
     "iso:country":"NE",
     "label:eng_x_preferred_longname":[
         "Tillaberi Department"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":14.762113,
     "lbl:longitude":1.218408,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Tillaberi",
     "meso:gadm_admin":"Tillab\u00e9ry",
     "meso:gadm_hasc2":"NE.TL.TL",
@@ -33,6 +35,7 @@
     "mps:longitude":1.218408,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Tillaberi"
     ],
@@ -40,7 +43,7 @@
         "Tillaberi",
         "Tillab\u00e9ry"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Arrondissement de Tillab\u00e9ry"
     ],
     "qs:name":"D\u00e9partement de Tillab\u00e9ri",
@@ -51,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -63,7 +66,7 @@
         "gn:id":2438677,
         "gp:id":56055510,
         "hasc:id":"NE.TL.TL",
-        "qs:id":91442
+        "qs_pg:id":91442
     },
     "wof:country":"NE",
     "wof:created":1469051791,
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":890429081,
-    "wof:lastmodified":1555047485,
+    "wof:lastmodified":1566648972,
     "wof:name":"Tillaberi",
     "wof:parent_id":85675265,
     "wof:placetype":"county",

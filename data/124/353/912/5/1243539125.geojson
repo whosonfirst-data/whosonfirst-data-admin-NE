@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"2.61702,14.11082,2.65702,14.15082",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Diab Keyna",
         "Diab Kaina"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243539125,
-    "wof:lastmodified":1537674825,
+    "wof:lastmodified":1566648998,
     "wof:name":"Diab Kaina",
     "wof:parent_id":1092051633,
     "wof:placetype":"locality",

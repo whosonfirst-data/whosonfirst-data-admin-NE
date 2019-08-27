@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"1.5442,13.99446,1.5842,14.03446",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gassik\u00e9na"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327118919,
-    "wof:lastmodified":1537674798,
+    "wof:lastmodified":1566647921,
     "wof:name":"Gassikeyna",
     "wof:parent_id":890429081,
     "wof:placetype":"locality",

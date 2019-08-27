@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"4.00655,13.36298,4.04655,13.40298",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226749321,
-    "wof:lastmodified":1536710671,
+    "wof:lastmodified":1566649313,
     "wof:name":"Garin Helou",
     "wof:parent_id":1092051467,
     "wof:placetype":"locality",

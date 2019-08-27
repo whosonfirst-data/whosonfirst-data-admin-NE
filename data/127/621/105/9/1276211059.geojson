@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"1.81984,12.78458,1.85984,12.82458",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mayenga",
         "Mayanga Gourmantch\u00e9",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276211059,
-    "wof:lastmodified":1537674717,
+    "wof:lastmodified":1566648313,
     "wof:name":"Mayanga Gourmantche",
     "wof:parent_id":1092051103,
     "wof:placetype":"locality",

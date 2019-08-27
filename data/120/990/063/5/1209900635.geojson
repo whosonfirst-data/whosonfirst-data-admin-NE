@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"1.68274,13.70026,1.72274,13.74026",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Zamakwara",
         "Zamo Kwara",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209900635,
-    "wof:lastmodified":1537674651,
+    "wof:lastmodified":1566648471,
     "wof:name":"Zama Kouara Zeno",
     "wof:parent_id":421182275,
     "wof:placetype":"locality",

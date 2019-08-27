@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"7.94018,13.53068,7.98018,13.57068",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Allah S\u00e9rki",
         "Sararaou Garba"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1260182625,
-    "wof:lastmodified":1537674884,
+    "wof:lastmodified":1566648704,
     "wof:name":"Sararaou Garba",
     "wof:parent_id":1092051389,
     "wof:placetype":"locality",

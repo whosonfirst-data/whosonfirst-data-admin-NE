@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"6.45649,13.63883,6.49649,13.67883",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632269
@@ -34,7 +38,7 @@
         "gn:id":2447428
     },
     "wof:country":"NE",
-    "wof:geomhash":"a0b421d9bfbff75f15a5682d3792ffa9",
+    "wof:geomhash":"ecabba56f76f96774731d6fa325a3b9b",
     "wof:hierarchy":[
         {
             "country_id":85632269,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209320825,
-    "wof:lastmodified":1536290700,
+    "wof:lastmodified":1566648535,
     "wof:name":"Awa Kansara",
     "wof:parent_id":85632269,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     6.47649,
-    13.658829999999998,
+    13.65883,
     6.47649,
-    13.658829999999998
+    13.65883
 ],
   "geometry": {"coordinates":[6.47649,13.65883],"type":"Point"}
 }

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"7.73291,13.76908,7.77291,13.80908",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dan Gwywa",
         "Dan Gwiwa",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1360190773,
-    "wof:lastmodified":1537674834,
+    "wof:lastmodified":1566648903,
     "wof:name":"Dan Gouiwa",
     "wof:parent_id":1092051435,
     "wof:placetype":"locality",

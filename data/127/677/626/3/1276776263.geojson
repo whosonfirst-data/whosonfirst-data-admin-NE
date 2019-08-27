@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"11.35858,13.83555,11.39858,13.87555",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dedere",
         "Dedd\u00e9r\u00e9",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276776263,
-    "wof:lastmodified":1537674828,
+    "wof:lastmodified":1566648395,
     "wof:name":"Dadere",
     "wof:parent_id":1092051363,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"5.67499,13.79451,5.71499,13.83451",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:asm_x_preferred":[
         "\u09a4\u09ac\u09b2\u09be"
     ],
@@ -189,7 +193,7 @@
         }
     ],
     "wof:id":1309928061,
-    "wof:lastmodified":1564210747,
+    "wof:lastmodified":1566648945,
     "wof:name":"Tabla",
     "wof:parent_id":1108563383,
     "wof:placetype":"locality",

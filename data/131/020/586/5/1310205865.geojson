@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"7.23,14.73,7.27,14.77",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
         "\u0395\u03bb\u03af\u03ba\u03b7 \u0391\u03c7\u03b1\u0390\u03b1\u03c2"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310205865,
-    "wof:lastmodified":1564210544,
+    "wof:lastmodified":1566648795,
     "wof:name":"Eliki",
     "wof:parent_id":1092051663,
     "wof:placetype":"locality",

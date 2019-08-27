@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"9.59505,13.01125,9.63505,13.05125",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Malawa"
     ],
@@ -39,8 +43,7 @@
     ],
     "name:und_x_variant":[
         "Mallawa",
-        "Mallaoua",
-        "Malawa"
+        "Mallaoua"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1276788095,
-    "wof:lastmodified":1564209983,
+    "wof:lastmodified":1566648383,
     "wof:name":"Malawa",
     "wof:parent_id":1092051133,
     "wof:placetype":"locality",

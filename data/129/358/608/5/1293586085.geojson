@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"9.33454,13.688,9.37454,13.728",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Matarawa",
         "Mataraoua"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293586085,
-    "wof:lastmodified":1537674887,
+    "wof:lastmodified":1566648204,
     "wof:name":"Mataraoua",
     "wof:parent_id":1092051411,
     "wof:placetype":"locality",

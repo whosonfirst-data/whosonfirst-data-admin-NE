@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"3.3685,14.7011,3.4085,14.7411",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "In Dika",
         "I-n-Dika"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1309901725,
-    "wof:lastmodified":1537674763,
+    "wof:lastmodified":1566648919,
     "wof:name":"I-n-Dika",
     "wof:parent_id":1092051695,
     "wof:placetype":"locality",

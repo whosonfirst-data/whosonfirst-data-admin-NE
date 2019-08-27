@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"6.9541,13.85159,6.9941,13.89159",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Sabon-Machi"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1327339375,
-    "wof:lastmodified":1564209150,
+    "wof:lastmodified":1566647837,
     "wof:name":"Sabon Machi",
     "wof:parent_id":1092051229,
     "wof:placetype":"locality",

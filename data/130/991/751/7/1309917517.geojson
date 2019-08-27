@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"3.58715,12.68126,3.62715,12.72126",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1309917517,
-    "wof:lastmodified":1536770496,
+    "wof:lastmodified":1566648915,
     "wof:name":"Kamariga",
     "wof:parent_id":1092050969,
     "wof:placetype":"locality",

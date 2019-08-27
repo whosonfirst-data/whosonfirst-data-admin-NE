@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.276746,
     "lbl:longitude":4.919663,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Tahoua",
     "meso:gadm_admin":"Ill\u00e9la",
     "meso:gadm_hasc2":"NE.TH.IL",
@@ -30,6 +32,7 @@
     "mps:longitude":4.919663,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Illela"
     ],
@@ -44,7 +47,7 @@
         "Ill\u00e9la"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632269,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1092051485,
-    "wof:lastmodified":1564210702,
+    "wof:lastmodified":1566648912,
     "wof:name":"Illela",
     "wof:parent_id":85675297,
     "wof:placetype":"county",

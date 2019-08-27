@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"1.67103,13.74229,1.71103,13.78229",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Koira",
         "Koirya",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1193133163,
-    "wof:lastmodified":1537674733,
+    "wof:lastmodified":1566648638,
     "wof:name":"Koyria",
     "wof:parent_id":890429081,
     "wof:placetype":"locality",

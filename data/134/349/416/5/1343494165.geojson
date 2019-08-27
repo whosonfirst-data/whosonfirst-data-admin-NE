@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"7.84012,13.69963,7.88012,13.73963",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343494165,
-    "wof:lastmodified":1536697809,
+    "wof:lastmodified":1566648001,
     "wof:name":"Guidan Galadima",
     "wof:parent_id":1092051389,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"7.04321,13.41904,7.08321,13.45904",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243555243,
-    "wof:lastmodified":1536648406,
+    "wof:lastmodified":1566649016,
     "wof:name":"Karkin Fadama",
     "wof:parent_id":1092051007,
     "wof:placetype":"locality",

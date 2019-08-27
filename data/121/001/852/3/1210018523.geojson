@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"3.0585,12.90447,3.0985,12.94447",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kyara Kid\u00e9",
         "Kiara-Kid\u00e9"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1210018523,
-    "wof:lastmodified":1537674730,
+    "wof:lastmodified":1566648610,
     "wof:name":"Kiara-Kide",
     "wof:parent_id":1092051041,
     "wof:placetype":"locality",

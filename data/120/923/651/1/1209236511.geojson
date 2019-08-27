@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"6.35307,14.51423,6.39307,14.55423",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632269
@@ -34,7 +38,7 @@
         "gn:id":6849552
     },
     "wof:country":"NE",
-    "wof:geomhash":"ec704c15cf8b09917ed2b82925b4dcf9",
+    "wof:geomhash":"2dfd1e6374fa18830bc20c74f60c48d9",
     "wof:hierarchy":[
         {
             "country_id":85632269,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209236511,
-    "wof:lastmodified":1536293461,
+    "wof:lastmodified":1566648497,
     "wof:name":"Pourkele",
     "wof:parent_id":85632269,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.3730699999999985,
+    6.37307,
     14.53423,
-    6.3730699999999985,
+    6.37307,
     14.53423
 ],
   "geometry": {"coordinates":[6.37307,14.53423],"type":"Point"}
