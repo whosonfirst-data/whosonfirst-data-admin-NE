@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"2.18284,14.65653,2.22284,14.69653",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259869361,
-    "wof:lastmodified":1536799622,
+    "wof:lastmodified":1566649271,
     "wof:name":"Dongha",
     "wof:parent_id":1092051633,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"1.38578,14.20885,1.42578,14.24885",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tilagadji"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293190651,
-    "wof:lastmodified":1537674671,
+    "wof:lastmodified":1566648259,
     "wof:name":"Tiandadji",
     "wof:parent_id":890429081,
     "wof:placetype":"locality",

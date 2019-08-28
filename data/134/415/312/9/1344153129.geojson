@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"2.6732,13.4739,2.7132,13.5139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ido_x_preferred":[
         "Korto"
     ],
     "name:und_x_variant":[
-        "Koto",
-        "Korto"
+        "Koto"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1344153129,
-    "wof:lastmodified":1564209367,
+    "wof:lastmodified":1566647962,
     "wof:name":"Korto",
     "wof:parent_id":421182275,
     "wof:placetype":"locality",

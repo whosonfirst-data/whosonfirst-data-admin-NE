@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"8.79639,13.68779,8.83639,13.72779",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243088763,
-    "wof:lastmodified":1536823280,
+    "wof:lastmodified":1566649003,
     "wof:name":"Ka tirje",
     "wof:parent_id":1092051411,
     "wof:placetype":"locality",

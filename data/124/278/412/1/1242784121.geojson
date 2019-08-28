@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"7.90427,14.4447,7.94427,14.4847",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1242784121,
-    "wof:lastmodified":1536766546,
+    "wof:lastmodified":1566649103,
     "wof:name":"Maygachi",
     "wof:parent_id":1092051435,
     "wof:placetype":"locality",

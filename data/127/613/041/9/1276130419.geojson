@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"2.7707,12.9982,2.8107,13.0382",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ilad\u00e9",
         "Yiladd\u00e9"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276130419,
-    "wof:lastmodified":1537674764,
+    "wof:lastmodified":1566648363,
     "wof:name":"Yiladde",
     "wof:parent_id":1092051075,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"3.66459,12.90835,3.70459,12.94835",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Salou\u00e8ye",
         "Salouey"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209226119,
-    "wof:lastmodified":1537674694,
+    "wof:lastmodified":1566648515,
     "wof:name":"Salouey",
     "wof:parent_id":85632269,
     "wof:placetype":"locality",

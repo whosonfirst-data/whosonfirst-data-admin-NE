@@ -10,8 +10,12 @@
     "geom:latitude":13.75737,
     "geom:longitude":7.9874,
     "iso:country":"NE",
+    "lbl:bbox":"7.9674,13.73737,8.0074,13.77737",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062a\u064a\u0633\u0627\u0648\u0627"
@@ -163,7 +167,7 @@
     "wof:concordances":{
         "gn:id":2438823,
         "gp:id":1382814,
-        "qs:id":430183,
+        "qs_pg:id":430183,
         "wd:id":"Q960488",
         "wk:page":"Tessaoua"
     },
@@ -180,7 +184,7 @@
         }
     ],
     "wof:id":421194475,
-    "wof:lastmodified":1563316922,
+    "wof:lastmodified":1566648968,
     "wof:name":"Tessaoua",
     "wof:parent_id":1092051389,
     "wof:placetype":"locality",

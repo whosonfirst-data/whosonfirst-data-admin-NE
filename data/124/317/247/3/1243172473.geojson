@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"7.15776,14.20754,7.19776,14.24754",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Rijia Aman",
         "Rijya Aman"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243172473,
-    "wof:lastmodified":1537674699,
+    "wof:lastmodified":1566649146,
     "wof:name":"Rijya Aman",
     "wof:parent_id":1092051663,
     "wof:placetype":"locality",

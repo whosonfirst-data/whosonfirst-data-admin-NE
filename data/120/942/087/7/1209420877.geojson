@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"7.34831,14.31621,7.38831,14.35621",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632269
@@ -34,7 +38,7 @@
         "gn:id":2439890
     },
     "wof:country":"NE",
-    "wof:geomhash":"70e7982bb9fa39c9041112f13156d890",
+    "wof:geomhash":"ea562fcb7c519970eb0df0e0ab13994f",
     "wof:hierarchy":[
         {
             "country_id":85632269,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209420877,
-    "wof:lastmodified":1536287535,
+    "wof:lastmodified":1566648577,
     "wof:name":"Sangalgala",
     "wof:parent_id":85632269,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.368310000000001,
+    7.36831,
     14.33621,
-    7.368310000000001,
+    7.36831,
     14.33621
 ],
   "geometry": {"coordinates":[7.36831,14.33621],"type":"Point"}

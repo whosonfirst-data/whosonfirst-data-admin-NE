@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"4.08843,14.28527,4.12843,14.32527",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632269
@@ -34,7 +38,7 @@
         "gn:id":6783620
     },
     "wof:country":"NE",
-    "wof:geomhash":"752fbbef32ef6723fbd89a255f190c0d",
+    "wof:geomhash":"f30d08c6ecc957f476f84bd64db7bf88",
     "wof:hierarchy":[
         {
             "country_id":85632269,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209522939,
-    "wof:lastmodified":1536284522,
+    "wof:lastmodified":1566648475,
     "wof:name":"Kasoura",
     "wof:parent_id":85632269,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     4.10843,
-    14.305270000000002,
+    14.30527,
     4.10843,
-    14.305270000000002
+    14.30527
 ],
   "geometry": {"coordinates":[4.10843,14.30527],"type":"Point"}
 }

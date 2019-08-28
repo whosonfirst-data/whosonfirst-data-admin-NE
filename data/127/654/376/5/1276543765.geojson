@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"9.25908,13.96279,9.29908,14.00279",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kasama"
     ],
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":1276543765,
-    "wof:lastmodified":1564210049,
+    "wof:lastmodified":1566648432,
     "wof:name":"Kasama",
     "wof:parent_id":1092051411,
     "wof:placetype":"locality",

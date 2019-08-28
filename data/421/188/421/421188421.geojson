@@ -10,10 +10,13 @@
     "geom:latitude":13.49283,
     "geom:longitude":2.12954,
     "iso:country":"NE",
+    "lbl:bbox":"2.12454,13.48783,2.13454,13.49783",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gamkall\u00e9"
     ],
     "qs:gn_country":"NE",
@@ -36,16 +39,16 @@
     "qs:woe_id":1379468,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85675291,
         102191573,
         85632269,
-        421204117,
-        85675291
+        421204117
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2444799,
         "gp:id":1379468,
-        "qs:id":1096496
+        "qs_pg:id":1096496
     },
     "wof:country":"NE",
     "wof:created":1459009555,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":421188421,
-    "wof:lastmodified":1531858622,
+    "wof:lastmodified":1566648970,
     "wof:name":"Gamkal\u00e9",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

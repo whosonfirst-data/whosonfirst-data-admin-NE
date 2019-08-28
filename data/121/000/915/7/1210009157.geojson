@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"5.9325,14.7685,5.9725,14.8085",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Teguelguel",
         "T\u00e9gu\u00e9f\u00e9guel",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1210009157,
-    "wof:lastmodified":1537674675,
+    "wof:lastmodified":1566648603,
     "wof:name":"Teleleguel",
     "wof:parent_id":1092051577,
     "wof:placetype":"locality",

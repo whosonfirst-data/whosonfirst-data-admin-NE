@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"2.1574,13.3953,2.1974,13.4353",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Malal\u00e9",
         "Mallaley"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293384585,
-    "wof:lastmodified":1537674722,
+    "wof:lastmodified":1566648104,
     "wof:name":"Mallaley",
     "wof:parent_id":421182275,
     "wof:placetype":"locality",

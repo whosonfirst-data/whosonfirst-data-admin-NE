@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.657449,
     "lbl:longitude":3.583046,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Dosso",
     "meso:gadm_admin":"Loga",
     "meso:gadm_hasc2":"NE.DS.LO",
@@ -30,6 +32,7 @@
     "mps:longitude":3.583046,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Loga"
     ],
@@ -61,7 +64,7 @@
         "\u0644\u0648\u06af\u0627"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632269,
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1092051273,
-    "wof:lastmodified":1564210697,
+    "wof:lastmodified":1566648909,
     "wof:name":"Loga",
     "wof:parent_id":85675287,
     "wof:placetype":"county",

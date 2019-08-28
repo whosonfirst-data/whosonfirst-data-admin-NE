@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"8.72022,14.70335,8.76022,14.74335",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632269
@@ -34,7 +38,7 @@
         "gn:id":2444455
     },
     "wof:country":"NE",
-    "wof:geomhash":"b6dd5247c9f920ec621811fdf48f2d18",
+    "wof:geomhash":"33cab506f02f1e427365e3c337a1dde9",
     "wof:hierarchy":[
         {
             "country_id":85632269,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209606871,
-    "wof:lastmodified":1536281982,
+    "wof:lastmodified":1566648543,
     "wof:name":"Goberawa",
     "wof:parent_id":85632269,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    8.740219999999999,
+    8.74022,
     14.72335,
-    8.740219999999999,
+    8.74022,
     14.72335
 ],
   "geometry": {"coordinates":[8.74022,14.72335],"type":"Point"}

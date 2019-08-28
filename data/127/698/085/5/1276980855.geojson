@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"7.85995,13.54673,7.89995,13.58673",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Koromi",
         "K'\u00f4rami"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276980855,
-    "wof:lastmodified":1537674741,
+    "wof:lastmodified":1566648422,
     "wof:name":"K'orami",
     "wof:parent_id":1092051389,
     "wof:placetype":"locality",

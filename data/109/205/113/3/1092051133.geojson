@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.13896,
     "lbl:longitude":9.442713,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Zinder",
     "meso:gadm_admin":"Magaria",
     "meso:gadm_hasc2":"NE.ZI.MG",
@@ -30,6 +32,7 @@
     "mps:longitude":9.442713,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u063a\u0627\u0631\u064a\u0627"
     ],
@@ -73,7 +76,7 @@
         "\u0645\u0627\u06af\u0627\u0631\u06cc\u0627"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632269,
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1092051133,
-    "wof:lastmodified":1564210703,
+    "wof:lastmodified":1566648913,
     "wof:name":"Magaria",
     "wof:parent_id":85675285,
     "wof:placetype":"county",

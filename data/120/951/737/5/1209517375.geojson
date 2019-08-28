@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"4.09346,13.19927,4.13346,13.23927",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632269
@@ -34,7 +38,7 @@
         "gn:id":7007337
     },
     "wof:country":"NE",
-    "wof:geomhash":"62912d2b64690aed854ef20822c9ea90",
+    "wof:geomhash":"db5a36d09656cdb67c65e502f76f040f",
     "wof:hierarchy":[
         {
             "country_id":85632269,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209517375,
-    "wof:lastmodified":1536284689,
+    "wof:lastmodified":1566648548,
     "wof:name":"Garin Dambu",
     "wof:parent_id":85632269,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     4.11346,
-    13.219270000000002,
+    13.21927,
     4.11346,
-    13.219270000000002
+    13.21927
 ],
   "geometry": {"coordinates":[4.11346,13.21927],"type":"Point"}
 }

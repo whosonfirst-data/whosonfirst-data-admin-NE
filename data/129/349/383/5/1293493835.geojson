@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"7.77818,13.91804,7.81818,13.95804",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dan Lalo",
         "Dan Lala Sofoua"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293493835,
-    "wof:lastmodified":1537674833,
+    "wof:lastmodified":1566648165,
     "wof:name":"Dan Lala Sofoua",
     "wof:parent_id":1092051435,
     "wof:placetype":"locality",

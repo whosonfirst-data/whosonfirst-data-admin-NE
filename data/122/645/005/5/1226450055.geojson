@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"3.539,13.2666,3.579,13.3066",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226450055,
-    "wof:lastmodified":1536638123,
+    "wof:lastmodified":1566649308,
     "wof:name":"Bangoufada-Rouzou",
     "wof:parent_id":1092051041,
     "wof:placetype":"locality",

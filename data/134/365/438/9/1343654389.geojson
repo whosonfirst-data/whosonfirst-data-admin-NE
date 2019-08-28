@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"6.41661,14.42088,6.45661,14.46088",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343654389,
-    "wof:lastmodified":1536963645,
+    "wof:lastmodified":1566647929,
     "wof:name":"Guidan Tchida",
     "wof:parent_id":1092051515,
     "wof:placetype":"locality",

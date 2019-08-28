@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"3.61953,12.65064,3.65953,12.69064",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1309907751,
-    "wof:lastmodified":1536784621,
+    "wof:lastmodified":1566648920,
     "wof:name":"Kassadabi",
     "wof:parent_id":1092050969,
     "wof:placetype":"locality",

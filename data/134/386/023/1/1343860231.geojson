@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"3.735,13.1806,3.775,13.2206",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343860231,
-    "wof:lastmodified":1536666959,
+    "wof:lastmodified":1566648094,
     "wof:name":"Gari-Samna",
     "wof:parent_id":1092051467,
     "wof:placetype":"locality",

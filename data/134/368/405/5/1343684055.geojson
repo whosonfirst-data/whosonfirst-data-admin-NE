@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"5.563,14.4056,5.603,14.4456",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343684055,
-    "wof:lastmodified":1536921711,
+    "wof:lastmodified":1566648026,
     "wof:name":"Katosara",
     "wof:parent_id":1092051485,
     "wof:placetype":"locality",

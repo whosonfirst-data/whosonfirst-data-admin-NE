@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"6.78824,14.59685,6.82824,14.63685",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "May Lafia",
         "Mailafia"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293907613,
-    "wof:lastmodified":1537674714,
+    "wof:lastmodified":1566648136,
     "wof:name":"Mailafia",
     "wof:parent_id":1092051663,
     "wof:placetype":"locality",

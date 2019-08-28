@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"2.1719,13.3834,2.2119,13.4234",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Libor\u00e9"
     ],
@@ -41,8 +45,7 @@
         "Libor\u00e9"
     ],
     "name:und_x_variant":[
-        "Libor\u00e9 Tonko Bangou",
-        "Libor\u00e9"
+        "Libor\u00e9 Tonko Bangou"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1326925243,
-    "wof:lastmodified":1564209078,
+    "wof:lastmodified":1566647790,
     "wof:name":"Libore",
     "wof:parent_id":421182275,
     "wof:placetype":"locality",

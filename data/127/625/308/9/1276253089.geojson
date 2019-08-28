@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"7.05331,13.29924,7.09331,13.33924",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276253089,
-    "wof:lastmodified":1536885727,
+    "wof:lastmodified":1566648365,
     "wof:name":"Rougougoua",
     "wof:parent_id":1092051007,
     "wof:placetype":"locality",

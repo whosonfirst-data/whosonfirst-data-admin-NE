@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":16.738278,
     "lbl:longitude":7.693045,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Agadez",
     "meso:gadm_admin":"Tchighozerine",
     "meso:gadm_hasc2":"NE.AG.AD",
@@ -30,6 +32,7 @@
     "mps:longitude":7.693045,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062a\u0634\u064a\u0631\u0632\u064a\u0631\u064a\u0646"
@@ -101,7 +104,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":137,
     "wof:belongsto":[
         102191573,
@@ -111,7 +114,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56055522,
-        "qs:id":897578,
+        "qs_pg:id":897578,
         "wd:id":"Q569084"
     },
     "wof:country":"NE",
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421182277,
-    "wof:lastmodified":1563316937,
+    "wof:lastmodified":1566648971,
     "wof:name":"Tchighozerine",
     "wof:parent_id":85675273,
     "wof:placetype":"county",

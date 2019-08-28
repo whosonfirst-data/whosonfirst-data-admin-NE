@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"5.7417,14.5378,5.7817,14.5778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Garanga"
     ],
     "name:und_x_variant":[
-        "Garhanga",
-        "Garanga"
+        "Garhanga"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1310202599,
-    "wof:lastmodified":1564210543,
+    "wof:lastmodified":1566648794,
     "wof:name":"Garanga",
     "wof:parent_id":1092051577,
     "wof:placetype":"locality",

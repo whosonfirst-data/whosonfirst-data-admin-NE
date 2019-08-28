@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"6.0876,14.11843,6.1276,14.15843",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Moull\u00e9la",
         "Moul\u00e9la"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1360007819,
-    "wof:lastmodified":1537674710,
+    "wof:lastmodified":1566648860,
     "wof:name":"Moulela",
     "wof:parent_id":1092051329,
     "wof:placetype":"locality",

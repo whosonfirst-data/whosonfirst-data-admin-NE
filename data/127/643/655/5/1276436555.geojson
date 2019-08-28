@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"1.84625,12.84999,1.88625,12.88999",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ti\u00e8nti\u00e8ngafoulb\u00e9",
         "Tientienga",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276436555,
-    "wof:lastmodified":1537674671,
+    "wof:lastmodified":1566648304,
     "wof:name":"Tientienga",
     "wof:parent_id":1092051103,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"3.059,13.5723,3.099,13.6123",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dey T\u00e9gui Y\u00e9ni Kwara",
         "Deytigui-Y\u00e9ni-Koara"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243265873,
-    "wof:lastmodified":1537674825,
+    "wof:lastmodified":1566649154,
     "wof:name":"Deytigui-Yeni-Koara",
     "wof:parent_id":1092051075,
     "wof:placetype":"locality",

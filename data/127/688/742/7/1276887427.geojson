@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"12.94086,20.17485,12.98086,20.21485",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "S\u00e9gu\u00e9dine"
     ],
@@ -41,8 +45,7 @@
         "\u0421\u0435\u0433\u0435\u0434\u0438\u043d"
     ],
     "name:und_x_variant":[
-        "Sogodem",
-        "S\u00e9gu\u00e9dine"
+        "Sogodem"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1276887427,
-    "wof:lastmodified":1564209878,
+    "wof:lastmodified":1566648308,
     "wof:name":"Seguedine",
     "wof:parent_id":1092051881,
     "wof:placetype":"locality",

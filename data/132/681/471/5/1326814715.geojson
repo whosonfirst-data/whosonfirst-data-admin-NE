@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"2.2924,13.6651,2.3324,13.7051",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dey Tagui",
         "D\u00e9y\u00e9tagui",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326814715,
-    "wof:lastmodified":1537674827,
+    "wof:lastmodified":1566647767,
     "wof:name":"Dey Tegui",
     "wof:parent_id":421182275,
     "wof:placetype":"locality",

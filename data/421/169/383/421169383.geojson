@@ -10,8 +10,12 @@
     "geom:latitude":14.51056,
     "geom:longitude":6.765,
     "iso:country":"NE",
+    "lbl:bbox":"6.745,14.49056,6.785,14.53056",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062f\u0627\u0643\u0631\u0648"
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":2446267,
         "gp:id":1505322,
-        "qs:id":1299423,
+        "qs_pg:id":1299423,
         "wd:id":"Q1157748",
         "wk:page":"Dakoro"
     },
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":421169383,
-    "wof:lastmodified":1563316925,
+    "wof:lastmodified":1566648968,
     "wof:name":"Dakoro",
     "wof:parent_id":1092051663,
     "wof:placetype":"locality",

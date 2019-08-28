@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"7.81542,14.00717,7.85542,14.04717",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mal\u00e9k\u00e9kama",
         "Mayl\u00e9ll\u00e9 Karama"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276879015,
-    "wof:lastmodified":1537674714,
+    "wof:lastmodified":1566648325,
     "wof:name":"Maylelle Karama",
     "wof:parent_id":1092051435,
     "wof:placetype":"locality",

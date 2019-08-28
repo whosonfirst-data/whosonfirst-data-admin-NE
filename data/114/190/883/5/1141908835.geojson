@@ -10,10 +10,14 @@
     "geom:latitude":21.014982,
     "geom:longitude":12.307507,
     "iso:country":"NE",
+    "lbl:bbox":"12.2875068753,20.9949821157,12.3275068753,21.0349821157",
     "lbl:latitude":21.014982,
     "lbl:longitude":12.307507,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Brao"
     ],
@@ -163,7 +167,7 @@
         }
     ],
     "wof:id":1141908835,
-    "wof:lastmodified":1563317484,
+    "wof:lastmodified":1566649440,
     "wof:name":"Djado",
     "wof:parent_id":1092051881,
     "wof:placetype":"locality",

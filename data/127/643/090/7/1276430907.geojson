@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"2.31518,12.68869,2.35518,12.72869",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u064a\u0646\u064a \u0625\u062f\u064a\u0644\u0633\u0648\u0646"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1276430907,
-    "wof:lastmodified":1564209869,
+    "wof:lastmodified":1566648302,
     "wof:name":"Diney",
     "wof:parent_id":1092051103,
     "wof:placetype":"locality",

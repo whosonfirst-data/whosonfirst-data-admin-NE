@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"7.08063,13.96455,7.12063,14.00455",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226782505,
-    "wof:lastmodified":1536662649,
+    "wof:lastmodified":1566649375,
     "wof:name":"Guidan Hamou",
     "wof:parent_id":1092051663,
     "wof:placetype":"locality",

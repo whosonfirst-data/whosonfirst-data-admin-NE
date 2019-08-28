@@ -9,22 +9,22 @@
     "geom:bbox":"2.10056,13.48778,2.10056,13.48778",
     "geom:latitude":13.48778,
     "geom:longitude":2.10056,
-    "gn:gn_country":"NE",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"NE",
+    "gn:fcode":"PPLX",
+    "gn:population":0,
     "iso:country":"NE",
+    "lbl:bbox":"2.09556,13.48278,2.10556,13.49278",
     "lbl:latitude":13.48778,
     "lbl:longitude":2.10056,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:fra_x_colloquial":[
         "Gaweye"
     ],
     "name:fra_x_preferred":[
-        "Gaw\u00e9ye"
-    ],
-    "name:unk_x_variant":[
         "Gaw\u00e9ye"
     ],
     "qs_pg:aaroncc":"NE",
@@ -48,7 +48,7 @@
     "qs_pg:woe_adm0":23424906,
     "qs_pg:woe_id":1379711,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424906,
     "woe:name_adm0":"Niger",
     "woe:name_adm1":"Niamey",
@@ -63,7 +63,6 @@
     "wof:concordances":{
         "gn:id":2569130,
         "gp:id":1379711,
-        "qs:id":1083578,
         "qs_pg:id":1083578
     },
     "wof:country":"NE",
@@ -80,7 +79,7 @@
         }
     ],
     "wof:id":1126090759,
-    "wof:lastmodified":1534379385,
+    "wof:lastmodified":1566648973,
     "wof:name":"Gaw\u00e9ye",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

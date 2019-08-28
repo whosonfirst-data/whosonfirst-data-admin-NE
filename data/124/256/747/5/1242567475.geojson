@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"1.81899,12.79449,1.85899,12.83449",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mayanga Foulb\u00e9",
         "Koul\u00e9ba"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1242567475,
-    "wof:lastmodified":1537674894,
+    "wof:lastmodified":1566649063,
     "wof:name":"Mayanga Foulbe",
     "wof:parent_id":1092051103,
     "wof:placetype":"locality",

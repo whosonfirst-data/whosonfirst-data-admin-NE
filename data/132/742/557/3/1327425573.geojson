@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"9.1224,14.3705,9.1624,14.4105",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1327425573,
-    "wof:lastmodified":1536690861,
+    "wof:lastmodified":1566647912,
     "wof:name":"Garin Toudoun Maye Dania",
     "wof:parent_id":1092051411,
     "wof:placetype":"locality",

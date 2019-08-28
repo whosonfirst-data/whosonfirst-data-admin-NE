@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"2.9375,13.7719,2.9775,13.8119",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Agou"
     ],
@@ -32,8 +36,7 @@
         "Agou"
     ],
     "name:und_x_variant":[
-        "Agoub\u00e9ri",
-        "Agou"
+        "Agoub\u00e9ri"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1209935227,
-    "wof:lastmodified":1564210198,
+    "wof:lastmodified":1566648542,
     "wof:name":"Agou",
     "wof:parent_id":1092051695,
     "wof:placetype":"locality",

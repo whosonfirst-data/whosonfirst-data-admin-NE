@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"7.28998,13.92262,7.32998,13.96262",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ila"
     ],
@@ -62,8 +66,7 @@
         "\u0b87\u0bb2\u0bbe"
     ],
     "name:und_x_variant":[
-        "Guidan Hamidan",
-        "Ila"
+        "Guidan Hamidan"
     ],
     "name:vol_x_preferred":[
         "Ila"
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1243560463,
-    "wof:lastmodified":1564210920,
+    "wof:lastmodified":1566649089,
     "wof:name":"Ila",
     "wof:parent_id":1092051435,
     "wof:placetype":"locality",

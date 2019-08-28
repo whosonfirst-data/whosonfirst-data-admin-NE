@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"1.51439,14.41806,1.55439,14.45806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259964083,
-    "wof:lastmodified":1536663121,
+    "wof:lastmodified":1566649174,
     "wof:name":"Tiliwa Ikila Kouara",
     "wof:parent_id":890429081,
     "wof:placetype":"locality",

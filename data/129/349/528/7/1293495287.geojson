@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"3.878,13.4076,3.918,13.4476",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0648\u0644\u0627"
     ],
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":1293495287,
-    "wof:lastmodified":1564209673,
+    "wof:lastmodified":1566648165,
     "wof:name":"Doula",
     "wof:parent_id":1092051467,
     "wof:placetype":"locality",

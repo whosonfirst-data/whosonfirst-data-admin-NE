@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"10.08806,13.38147,10.12806,13.42147",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632269
@@ -34,7 +38,7 @@
         "gn:id":6750124
     },
     "wof:country":"NE",
-    "wof:geomhash":"87e110d459e701ae37ea2ed28eda84f4",
+    "wof:geomhash":"b3186443edab78a7349f1d076f245d6e",
     "wof:hierarchy":[
         {
             "country_id":85632269,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209127413,
-    "wof:lastmodified":1536296913,
+    "wof:lastmodified":1566648494,
     "wof:name":"Garin Gowa",
     "wof:parent_id":85632269,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     10.10806,
-    13.401470000000002,
+    13.40147,
     10.10806,
-    13.401470000000002
+    13.40147
 ],
   "geometry": {"coordinates":[10.10806,13.40147],"type":"Point"}
 }

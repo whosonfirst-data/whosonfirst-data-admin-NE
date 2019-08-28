@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"2.9259,13.5009,2.9659,13.5409",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kolabosseye",
         "Koilabosse\u00ef",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243461957,
-    "wof:lastmodified":1537674745,
+    "wof:lastmodified":1566649066,
     "wof:name":"Kola Bossey",
     "wof:parent_id":1092051075,
     "wof:placetype":"locality",

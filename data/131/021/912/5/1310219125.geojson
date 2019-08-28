@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"7.76444,18.4625,7.80444,18.5025",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Go\u00fbgaram"
     ],
@@ -44,9 +48,6 @@
         "Go\u00fbgaram"
     ],
     "name:spa_x_preferred":[
-        "Go\u00fbgaram"
-    ],
-    "name:und_x_variant":[
         "Go\u00fbgaram"
     ],
     "src:geom":"geonames",
@@ -73,7 +74,7 @@
         }
     ],
     "wof:id":1310219125,
-    "wof:lastmodified":1564210578,
+    "wof:lastmodified":1566648818,
     "wof:name":"Gougaram",
     "wof:parent_id":1092051845,
     "wof:placetype":"locality",

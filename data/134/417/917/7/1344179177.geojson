@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"5.4094,15.1795,5.4494,15.2195",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tarhaliti",
         "Taghaliti"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1344179177,
-    "wof:lastmodified":1537674882,
+    "wof:lastmodified":1566648055,
     "wof:name":"Taghaliti",
     "wof:parent_id":1092051813,
     "wof:placetype":"locality",

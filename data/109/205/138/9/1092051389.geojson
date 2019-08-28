@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.004363,
     "lbl:longitude":8.294509,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Maradi",
     "meso:gadm_admin":"Tessaoua",
     "meso:gadm_hasc2":"NE.MA.TS",
@@ -30,6 +32,7 @@
     "mps:longitude":8.294509,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u062a\u064a\u0633\u0627\u0648\u0627"
     ],
@@ -79,7 +82,7 @@
         "\u6cf0\u85a9\u74e6"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632269,
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1092051389,
-    "wof:lastmodified":1564210700,
+    "wof:lastmodified":1566648911,
     "wof:name":"Tessaoua",
     "wof:parent_id":85675281,
     "wof:placetype":"county",

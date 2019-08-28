@@ -11,8 +11,11 @@
     "geom:longitude":7.10174,
     "gn:country":"NE",
     "gn:fcode":"PPLA",
-    "gn:pop":163487,
+    "gn:population":163487,
     "iso:country":"NE",
+    "lbl:bbox":"7.08174,13.48,7.12174,13.52",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.6,
@@ -271,7 +274,7 @@
     "wof:concordances":{
         "gn:id":2441291,
         "gp:id":1381598,
-        "qs:id":278661,
+        "qs_pg:id":278661,
         "wd:id":"Q664550",
         "wk:page":"Maradi"
     },
@@ -288,7 +291,7 @@
         }
     ],
     "wof:id":890439955,
-    "wof:lastmodified":1563316938,
+    "wof:lastmodified":1566648972,
     "wof:name":"Maradi",
     "wof:parent_id":1092051007,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"3.6244,13.2187,3.6644,13.2587",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0628\u0648\u0631\u0648\u0642\u0648"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1259881565,
-    "wof:lastmodified":1564211152,
+    "wof:lastmodified":1566649267,
     "wof:name":"Borogo",
     "wof:parent_id":1092051041,
     "wof:placetype":"locality",

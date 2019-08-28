@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"3.2253,13.2575,3.2653,13.2975",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Hamka"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1343969545,
-    "wof:lastmodified":1564209321,
+    "wof:lastmodified":1566647935,
     "wof:name":"Hamka",
     "wof:parent_id":1092051041,
     "wof:placetype":"locality",

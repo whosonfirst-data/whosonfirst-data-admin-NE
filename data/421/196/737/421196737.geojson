@@ -10,8 +10,12 @@
     "geom:latitude":14.3521,
     "geom:longitude":3.3168,
     "iso:country":"NE",
+    "lbl:bbox":"3.2968,14.3321,3.3368,14.3721",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0641\u064a\u0644\u064a\u0646\u0642\u064a"
@@ -44,9 +48,6 @@
         "Filingu\u00e9"
     ],
     "name:spa_x_preferred":[
-        "Filingu\u00e9"
-    ],
-    "name:unk_x_variant":[
         "Filingu\u00e9"
     ],
     "name:urd_x_preferred":[
@@ -88,7 +89,7 @@
     "wof:concordances":{
         "gn:id":2444995,
         "gp:id":1379354,
-        "qs:id":1297889,
+        "qs_pg:id":1297889,
         "wd:id":"Q508056",
         "wk:page":"Filingue"
     },
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":421196737,
-    "wof:lastmodified":1563316932,
+    "wof:lastmodified":1566648970,
     "wof:name":"Filingue",
     "wof:parent_id":1092051695,
     "wof:placetype":"locality",

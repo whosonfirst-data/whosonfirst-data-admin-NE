@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"7.00703,14.38202,7.04703,14.42202",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632269
@@ -34,7 +38,7 @@
         "gn:id":6812457
     },
     "wof:country":"NE",
-    "wof:geomhash":"7349bf7895f9b9eeefa4e2bf27e67d92",
+    "wof:geomhash":"0b917874f134263bfe3c8c7d43c9ac3b",
     "wof:hierarchy":[
         {
             "country_id":85632269,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209106613,
-    "wof:lastmodified":1536297549,
+    "wof:lastmodified":1566648587,
     "wof:name":"Kouka Goma",
     "wof:parent_id":85632269,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     7.02703,
-    14.402020000000002,
+    14.40202,
     7.02703,
-    14.402020000000002
+    14.40202
 ],
   "geometry": {"coordinates":[7.02703,14.40202],"type":"Point"}
 }

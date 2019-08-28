@@ -11,8 +11,11 @@
     "geom:longitude":5.2553,
     "gn:country":"NE",
     "gn:fcode":"PPL",
-    "gn:pop":48103,
+    "gn:population":48103,
     "iso:country":"NE",
+    "lbl:bbox":"5.2353,13.77562,5.2753,13.81562",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.1,
@@ -121,7 +124,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0456\u0440\u043d\u0456\u043d-\u041a\u043e\u043d\u043d\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Konni"
     ],
     "name:urd_x_preferred":[
@@ -238,7 +241,7 @@
     "wof:concordances":{
         "gn:id":2437732,
         "gp:id":1378285,
-        "qs:id":278658,
+        "qs_pg:id":278658,
         "wd:id":"Q865804",
         "wk:page":"Birni-N'Konni"
     },
@@ -255,7 +258,7 @@
         }
     ],
     "wof:id":890439953,
-    "wof:lastmodified":1563316937,
+    "wof:lastmodified":1566648972,
     "wof:name":"Birni N Konni",
     "wof:parent_id":1092051301,
     "wof:placetype":"locality",

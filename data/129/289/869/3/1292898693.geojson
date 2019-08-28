@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"5.57109,13.94067,5.61109,13.98067",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dogeraoua",
         "Dogueraua",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1292898693,
-    "wof:lastmodified":1537674819,
+    "wof:lastmodified":1566648138,
     "wof:name":"Dogerawa",
     "wof:parent_id":1092051301,
     "wof:placetype":"locality",

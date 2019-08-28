@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"6.88601,13.53167,6.92601,13.57167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Falke"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1243006239,
-    "wof:lastmodified":1564210786,
+    "wof:lastmodified":1566648982,
     "wof:name":"Falke",
     "wof:parent_id":1092051229,
     "wof:placetype":"locality",

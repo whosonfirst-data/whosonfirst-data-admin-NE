@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.008596,
     "lbl:longitude":1.742197,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Tillaberi",
     "meso:gadm_admin":"Say",
     "meso:gadm_hasc2":"NE.TL.SA",
@@ -30,6 +32,7 @@
     "mps:longitude":1.742197,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Say"
     ],
@@ -76,7 +79,7 @@
         "S\u1eady"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632269,
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1092051103,
-    "wof:lastmodified":1564210699,
+    "wof:lastmodified":1566648910,
     "wof:name":"Say",
     "wof:parent_id":85675265,
     "wof:placetype":"county",

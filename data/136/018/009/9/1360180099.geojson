@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"5.6205,14.2531,5.6605,14.2931",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1360180099,
-    "wof:lastmodified":1536808276,
+    "wof:lastmodified":1566648882,
     "wof:name":"Tounga Arana",
     "wof:parent_id":1092051485,
     "wof:placetype":"locality",

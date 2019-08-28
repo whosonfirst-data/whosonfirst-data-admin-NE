@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"5.244,14.6875,5.284,14.7275",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326522755,
-    "wof:lastmodified":1536996981,
+    "wof:lastmodified":1566647877,
     "wof:name":"Falali",
     "wof:parent_id":1092051609,
     "wof:placetype":"locality",

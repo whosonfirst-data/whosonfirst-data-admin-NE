@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"13.1392,14.24139,13.1792,14.28139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226156165,
-    "wof:lastmodified":1537059973,
+    "wof:lastmodified":1566649387,
     "wof:name":"Kime Gana",
     "wof:parent_id":1092051781,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"3.75114,12.65431,3.79114,12.69431",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ungwan Kara",
         "Tounga Jimino"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1309805305,
-    "wof:lastmodified":1537674661,
+    "wof:lastmodified":1566648953,
     "wof:name":"Tounga Jimino",
     "wof:parent_id":1092050969,
     "wof:placetype":"locality",

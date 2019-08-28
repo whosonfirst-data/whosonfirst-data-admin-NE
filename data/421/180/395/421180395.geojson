@@ -10,8 +10,12 @@
     "geom:latitude":13.30867,
     "geom:longitude":7.15602,
     "iso:country":"NE",
+    "lbl:bbox":"7.13602,13.28867,7.17602,13.32867",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Madarounfa"
@@ -43,7 +47,7 @@
     "name:spa_x_preferred":[
         "Madarounfa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Madarunfa"
     ],
     "name:urd_x_preferred":[
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":2441526,
         "gp:id":1381455,
-        "qs:id":430145,
+        "qs_pg:id":430145,
         "wd:id":"Q984304",
         "wk:page":"Madarounfa"
     },
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":421180395,
-    "wof:lastmodified":1563316928,
+    "wof:lastmodified":1566648969,
     "wof:name":"Madarounfa",
     "wof:parent_id":1092051007,
     "wof:placetype":"locality",

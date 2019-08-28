@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"7.18122,14.83503,7.22122,14.87503",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632269
@@ -34,7 +38,7 @@
         "gn:id":2441037
     },
     "wof:country":"NE",
-    "wof:geomhash":"b2d2583b75d2c2112ba5ad276ea0440e",
+    "wof:geomhash":"7bf0bd5c423caf9998c4af3838a38262",
     "wof:hierarchy":[
         {
             "country_id":85632269,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209515871,
-    "wof:lastmodified":1536284735,
+    "wof:lastmodified":1566648549,
     "wof:name":"Maysaki",
     "wof:parent_id":85632269,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.201219999999998,
+    7.20122,
     14.85503,
-    7.201219999999998,
+    7.20122,
     14.85503
 ],
   "geometry": {"coordinates":[7.20122,14.85503],"type":"Point"}

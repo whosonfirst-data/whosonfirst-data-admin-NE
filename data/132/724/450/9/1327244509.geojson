@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"13.35994,14.39018,13.39994,14.43018",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Malyari",
         "Maliari",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327244509,
-    "wof:lastmodified":1537674721,
+    "wof:lastmodified":1566647819,
     "wof:name":"Faya Malam Yari",
     "wof:parent_id":1092051781,
     "wof:placetype":"locality",

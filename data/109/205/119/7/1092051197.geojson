@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.490184,
     "lbl:longitude":7.690065,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Maradi",
     "meso:gadm_admin":"Agui\u00e9",
     "meso:gadm_hasc2":"NE.MA.AG",
@@ -30,6 +32,7 @@
     "mps:longitude":7.690065,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Agui\u00e9"
     ],
@@ -68,7 +71,7 @@
         "\u0627\u06af\u0648\u06cc"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632269,
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092051197,
-    "wof:lastmodified":1564210699,
+    "wof:lastmodified":1566648910,
     "wof:name":"Aguie",
     "wof:parent_id":85675281,
     "wof:placetype":"county",

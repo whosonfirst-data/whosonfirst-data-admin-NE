@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"0.5786,14.71833,0.6186,14.75833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Alkonghi",
         "Alkongui"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327323317,
-    "wof:lastmodified":1537674870,
+    "wof:lastmodified":1566647845,
     "wof:name":"Alkongui",
     "wof:parent_id":1092051545,
     "wof:placetype":"locality",

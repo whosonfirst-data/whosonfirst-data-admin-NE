@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.134919,
     "lbl:longitude":0.84136,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Tillaberi",
     "meso:gadm_admin":"T\u00e9ra",
     "meso:gadm_hasc2":"NE.TL.TR",
@@ -30,6 +32,7 @@
     "mps:longitude":0.84136,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u0422\u0435\u0440\u0430"
     ],
@@ -86,7 +89,7 @@
         "Tera"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632269,
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":1092051545,
-    "wof:lastmodified":1564210699,
+    "wof:lastmodified":1566648910,
     "wof:name":"Tera",
     "wof:parent_id":85675265,
     "wof:placetype":"county",

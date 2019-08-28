@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":15.776938,
     "lbl:longitude":5.227602,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Tahoua",
     "mps:latitude":15.6834,
     "mps:longitude":5.259195,
@@ -233,9 +234,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-12-10",
+    "src:population_date":"2012-12-10",
     "statoids:area_km":"113,371",
     "statoids:area_mi":"43,773",
     "statoids:as_of_date":"2012-12-10",
@@ -260,7 +261,7 @@
         "gp:id":2346329,
         "hasc:id":"NE.TH",
         "iso:id":"NE-5",
-        "qs:id":229381,
+        "qs_pg:id":229381,
         "unlc:id":"NE-5",
         "wd:id":"Q871083",
         "wk:page":"Tahoua Region"
@@ -281,11 +282,10 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1565731311,
+    "wof:lastmodified":1566648100,
     "wof:name":"Tahoua",
     "wof:parent_id":85632269,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":3328365,
     "wof:population_rank":12,

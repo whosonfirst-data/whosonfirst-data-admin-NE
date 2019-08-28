@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"7.93713,13.40994,7.97713,13.44994",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Boukouzawa Foulani",
         "Boukouxaoua",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1259783963,
-    "wof:lastmodified":1537674844,
+    "wof:lastmodified":1566649210,
     "wof:name":"Boukouzawa Magaji",
     "wof:parent_id":1092051197,
     "wof:placetype":"locality",

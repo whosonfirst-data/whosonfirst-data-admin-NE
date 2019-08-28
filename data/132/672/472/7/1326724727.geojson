@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"1.97028,13.67861,2.01028,13.71861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Fandou B\u00e9ri",
         "Hondou B\u00e9ri"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326724727,
-    "wof:lastmodified":1537674812,
+    "wof:lastmodified":1566647762,
     "wof:name":"Hondou Beri",
     "wof:parent_id":421182275,
     "wof:placetype":"locality",

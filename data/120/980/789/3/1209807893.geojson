@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"5.2452,14.2584,5.2852,14.2984",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Potoa",
         "Foloa"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1209807893,
-    "wof:lastmodified":1537674808,
+    "wof:lastmodified":1566648574,
     "wof:name":"Foloa",
     "wof:parent_id":1092051485,
     "wof:placetype":"locality",

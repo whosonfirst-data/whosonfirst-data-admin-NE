@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"7.26359,14.06105,7.30359,14.10105",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632269
@@ -34,7 +38,7 @@
         "gn:id":2447952
     },
     "wof:country":"NE",
-    "wof:geomhash":"856d3ce3f4d0a0bd243fd286f9b1ef36",
+    "wof:geomhash":"b4d1d7a67e733da1dace6542c81146c9",
     "wof:hierarchy":[
         {
             "country_id":85632269,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209220813,
-    "wof:lastmodified":1536293969,
+    "wof:lastmodified":1566648516,
     "wof:name":"Alakarbo",
     "wof:parent_id":85632269,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.2835899999999985,
+    7.28359,
     14.08105,
-    7.2835899999999985,
+    7.28359,
     14.08105
 ],
   "geometry": {"coordinates":[7.28359,14.08105],"type":"Point"}

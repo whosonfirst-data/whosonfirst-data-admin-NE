@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"6.94697,13.2675,6.98697,13.3075",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259589511,
-    "wof:lastmodified":1536706337,
+    "wof:lastmodified":1566649250,
     "wof:name":"Kayma Sofoa",
     "wof:parent_id":1092051007,
     "wof:placetype":"locality",

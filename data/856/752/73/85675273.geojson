@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":19.664294,
     "lbl:longitude":10.428008,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Agadez",
     "mps:latitude":19.6419,
     "mps:longitude":10.410824,
@@ -242,9 +243,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-12-10",
+    "src:population_date":"2012-12-10",
     "statoids:area_km":"667,799",
     "statoids:area_mi":"257,839",
     "statoids:as_of_date":"2012-12-10",
@@ -269,7 +270,7 @@
         "gp:id":2346324,
         "hasc:id":"NE.AG",
         "iso:id":"NE-1",
-        "qs:id":221178,
+        "qs_pg:id":221178,
         "unlc:id":"NE-1",
         "wd:id":"Q389944",
         "wk:page":"Agadez Region"
@@ -290,11 +291,10 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1565731311,
+    "wof:lastmodified":1566648099,
     "wof:name":"Agadez",
     "wof:parent_id":85632269,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":487620,
     "wof:population_rank":10,

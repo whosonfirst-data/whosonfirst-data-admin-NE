@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"4.3831,15.0878,4.4231,15.1278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "In T\u00e9gar",
         "I-n-T\u00e9gar"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310598581,
-    "wof:lastmodified":1537674881,
+    "wof:lastmodified":1566648828,
     "wof:name":"I-n-Tegar",
     "wof:parent_id":1092051813,
     "wof:placetype":"locality",

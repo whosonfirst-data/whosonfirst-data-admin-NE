@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"10.3905,14.4397,10.4305,14.4797",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Faray"
     ],
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":1276895429,
-    "wof:lastmodified":1564209896,
+    "wof:lastmodified":1566648321,
     "wof:name":"Faray",
     "wof:parent_id":1092051753,
     "wof:placetype":"locality",

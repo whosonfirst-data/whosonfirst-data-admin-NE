@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"9.7546,14.3806,9.7946,14.4206",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Guizamou",
         "Guidzamou"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310326331,
-    "wof:lastmodified":1537674877,
+    "wof:lastmodified":1566648823,
     "wof:name":"Guidzamou",
     "wof:parent_id":1092051753,
     "wof:placetype":"locality",

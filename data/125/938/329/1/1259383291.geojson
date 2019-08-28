@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"7.48263,13.67585,7.52263,13.71585",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Wakasa",
         "Wakassa",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259383291,
-    "wof:lastmodified":1537674656,
+    "wof:lastmodified":1566649167,
     "wof:name":"Wakasso",
     "wof:parent_id":1092051197,
     "wof:placetype":"locality",

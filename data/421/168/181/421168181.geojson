@@ -10,8 +10,12 @@
     "geom:latitude":14.4605,
     "geom:longitude":5.2437,
     "iso:country":"NE",
+    "lbl:bbox":"5.2237,14.4405,5.2637,14.4805",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Ill\u00e9la"
@@ -46,7 +50,7 @@
     "name:spa_x_preferred":[
         "Ill\u00e9la"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ill\u00e9ta"
     ],
     "name:urd_x_preferred":[
@@ -86,7 +90,7 @@
     "wof:concordances":{
         "gn:id":2443304,
         "gp:id":1380496,
-        "qs:id":1035784,
+        "qs_pg:id":1035784,
         "wd:id":"Q1003546",
         "wk:page":"Illela, Niger"
     },
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":421168181,
-    "wof:lastmodified":1563316920,
+    "wof:lastmodified":1566648967,
     "wof:name":"Illela",
     "wof:parent_id":1092051485,
     "wof:placetype":"locality",

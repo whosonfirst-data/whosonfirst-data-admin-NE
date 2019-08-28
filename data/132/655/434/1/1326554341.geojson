@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"7.03899,13.07412,7.07899,13.11412",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Takasaba",
         "Takassaba",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326554341,
-    "wof:lastmodified":1537674681,
+    "wof:lastmodified":1566647875,
     "wof:name":"Taka-saba Hamada",
     "wof:parent_id":1092051007,
     "wof:placetype":"locality",

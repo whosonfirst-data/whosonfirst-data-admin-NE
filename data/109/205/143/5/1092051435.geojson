@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.052277,
     "lbl:longitude":7.587505,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Maradi",
     "meso:gadm_admin":"Mayahi",
     "meso:gadm_hasc2":"NE.MA.MY",
@@ -30,6 +32,7 @@
     "mps:longitude":7.587505,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Mayahi"
     ],
@@ -70,7 +73,7 @@
         "\u99ac\u4e9e\u5e0c"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632269,
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1092051435,
-    "wof:lastmodified":1564210698,
+    "wof:lastmodified":1566648909,
     "wof:name":"Mayahi",
     "wof:parent_id":85675281,
     "wof:placetype":"county",

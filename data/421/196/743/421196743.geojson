@@ -10,8 +10,12 @@
     "geom:latitude":13.56271,
     "geom:longitude":7.04848,
     "iso:country":"NE",
+    "lbl:bbox":"7.02848,13.54271,7.06848,13.58271",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Tibiri"
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":2438774,
         "gp:id":1382846,
-        "qs:id":1297919,
+        "qs_pg:id":1297919,
         "wd:id":"Q684925"
     },
     "wof:country":"NE",
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":421196743,
-    "wof:lastmodified":1563316932,
+    "wof:lastmodified":1566648970,
     "wof:name":"Tibiri",
     "wof:parent_id":1092051229,
     "wof:placetype":"locality",

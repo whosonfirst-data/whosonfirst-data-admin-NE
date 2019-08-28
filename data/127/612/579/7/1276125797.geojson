@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"2.61829,12.52892,2.65829,12.56892",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276125797,
-    "wof:lastmodified":1537054272,
+    "wof:lastmodified":1566648392,
     "wof:name":"Karekopto",
     "wof:parent_id":1092051103,
     "wof:placetype":"locality",

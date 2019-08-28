@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"1.0246,14.52089,1.0646,14.56089",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Toumar\u00e9",
         "Tomar\u00e9"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310194705,
-    "wof:lastmodified":1537674668,
+    "wof:lastmodified":1566648813,
     "wof:name":"Tomare",
     "wof:parent_id":890429081,
     "wof:placetype":"locality",

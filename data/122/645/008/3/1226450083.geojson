@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"3.82396,12.82798,3.86396,12.86798",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226450083,
-    "wof:lastmodified":1536638078,
+    "wof:lastmodified":1566649307,
     "wof:name":"Kourfayawa",
     "wof:parent_id":1092051467,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"1.66614,12.81342,1.70614,12.85342",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Makalend\u00e9",
         "Makaland\u00e9",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1360269923,
-    "wof:lastmodified":1537674723,
+    "wof:lastmodified":1566648903,
     "wof:name":"Makalondi",
     "wof:parent_id":1092051103,
     "wof:placetype":"locality",

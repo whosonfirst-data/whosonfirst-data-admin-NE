@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"9.3762,12.81481,9.4162,12.85481",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Kali"
     ],
@@ -246,7 +250,7 @@
         }
     ],
     "wof:id":1309827329,
-    "wof:lastmodified":1564210742,
+    "wof:lastmodified":1566648942,
     "wof:name":"Kali",
     "wof:parent_id":1092051133,
     "wof:placetype":"locality",

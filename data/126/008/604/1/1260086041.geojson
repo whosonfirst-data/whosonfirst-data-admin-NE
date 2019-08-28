@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"7.83833,14.34599,7.87833,14.38599",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1260086041,
-    "wof:lastmodified":1536983504,
+    "wof:lastmodified":1566648684,
     "wof:name":"Dan Rani",
     "wof:parent_id":1092051435,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"3.3793,14.2058,3.4193,14.2458",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gari Gandou",
         "Gari Ganndou"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327218141,
-    "wof:lastmodified":1537674801,
+    "wof:lastmodified":1566647911,
     "wof:name":"Gari Ganndou",
     "wof:parent_id":1092051695,
     "wof:placetype":"locality",

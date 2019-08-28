@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"13.21043,14.18507,13.25043,14.22507",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1210019665,
-    "wof:lastmodified":1536393453,
+    "wof:lastmodified":1566648608,
     "wof:name":"Gadoumari",
     "wof:parent_id":1092051781,
     "wof:placetype":"locality",

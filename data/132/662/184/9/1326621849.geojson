@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"8.3747,14.33392,8.4147,14.37392",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Yagadji",
         "Yagaji",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326621849,
-    "wof:lastmodified":1537674655,
+    "wof:lastmodified":1566647891,
     "wof:name":"Yagagi",
     "wof:parent_id":1092051731,
     "wof:placetype":"locality",

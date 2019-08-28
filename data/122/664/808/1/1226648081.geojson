@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"3.62139,12.41173,3.66139,12.45173",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Doli"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1226648081,
-    "wof:lastmodified":1564211318,
+    "wof:lastmodified":1566649399,
     "wof:name":"Doli",
     "wof:parent_id":1092050969,
     "wof:placetype":"locality",

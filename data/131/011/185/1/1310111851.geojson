@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"7.27425,13.80553,7.31425,13.84553",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tagaza Dan Kl\u00e9ro",
         "Dan K\u00e9lo",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310111851,
-    "wof:lastmodified":1537674683,
+    "wof:lastmodified":1566648803,
     "wof:name":"Tagaza Dan Keraou",
     "wof:parent_id":1092051663,
     "wof:placetype":"locality",

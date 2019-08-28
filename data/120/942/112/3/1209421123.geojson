@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Niamey",
     "iso:country":"NE",
+    "lbl:bbox":"6.6126,13.57028,6.6526,13.61028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632269
@@ -34,7 +38,7 @@
         "gn:id":2437924
     },
     "wof:country":"NE",
-    "wof:geomhash":"5b22c9705ee7328fca6b067925bef395",
+    "wof:geomhash":"23887e7739a695832b6ae9bd75d7828f",
     "wof:hierarchy":[
         {
             "country_id":85632269,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209421123,
-    "wof:lastmodified":1536287528,
+    "wof:lastmodified":1566648579,
     "wof:name":"Zaboa",
     "wof:parent_id":85632269,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     6.6326,
-    13.590279999999998,
+    13.59028,
     6.6326,
-    13.590279999999998
+    13.59028
 ],
   "geometry": {"coordinates":[6.6326,13.59028],"type":"Point"}
 }
