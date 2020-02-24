@@ -273,6 +273,9 @@
         "wk:page":"Dosso Region"
     },
     "wof:country":"NE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a7afea7529da432f4af952ece4b4220d",
     "wof:hierarchy":[
         {
@@ -288,7 +291,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566648099,
+    "wof:lastmodified":1582355552,
     "wof:name":"Dosso",
     "wof:parent_id":85632269,
     "wof:placetype":"region",

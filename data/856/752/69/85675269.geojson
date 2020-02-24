@@ -269,6 +269,9 @@
         "wk:page":"Diffa Region"
     },
     "wof:country":"NE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6923a883383a0e6f13c291dcf386a7d9",
     "wof:hierarchy":[
         {
@@ -284,7 +287,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566648099,
+    "wof:lastmodified":1582355551,
     "wof:name":"Diffa",
     "wof:parent_id":85632269,
     "wof:placetype":"region",

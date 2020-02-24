@@ -959,6 +959,11 @@
     },
     "wof:country":"NE",
     "wof:country_alpha3":"NER",
+    "wof:geom_alt":[
+        "naturalearth",
+        "meso",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"a3e2f268e2c59c0142e8d1aae206742a",
     "wof:hierarchy":[
         {
@@ -973,7 +978,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566648101,
+    "wof:lastmodified":1582355553,
     "wof:name":"Niger",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

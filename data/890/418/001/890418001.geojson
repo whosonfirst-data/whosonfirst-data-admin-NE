@@ -301,6 +301,9 @@
     },
     "wof:country":"NE",
     "wof:created":1469051230,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"38b8f9fc88a6710c1a37e03d468ea984",
     "wof:hierarchy":[
         {
@@ -312,7 +315,7 @@
         }
     ],
     "wof:id":890418001,
-    "wof:lastmodified":1566648972,
+    "wof:lastmodified":1582355568,
     "wof:name":"Zinder",
     "wof:parent_id":1092051411,
     "wof:placetype":"locality",

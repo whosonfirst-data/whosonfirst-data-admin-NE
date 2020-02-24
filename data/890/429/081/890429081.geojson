@@ -70,6 +70,9 @@
     },
     "wof:country":"NE",
     "wof:created":1469051791,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c8227ca7ac04c9841e436845d41f2514",
     "wof:hierarchy":[
         {
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":890429081,
-    "wof:lastmodified":1566648972,
+    "wof:lastmodified":1582355568,
     "wof:name":"Tillaberi",
     "wof:parent_id":85675265,
     "wof:placetype":"county",
