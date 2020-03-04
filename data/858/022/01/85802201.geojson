@@ -76,6 +76,9 @@
         "qs:id":1083578
     },
     "wof:country":"NE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2e54e8a859e8f84d1ad921cc2fedd14d",
     "wof:hierarchy":[
         {
@@ -91,7 +94,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1534379385,
+    "wof:lastmodified":1582355554,
     "wof:name":"Gaw\u00e9ye",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

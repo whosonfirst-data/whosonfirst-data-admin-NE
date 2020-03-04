@@ -273,6 +273,9 @@
         "wk:page":"Tillab\u00e9ri Region"
     },
     "wof:country":"NE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cef3e2171fc415673c044febc18389ee",
     "wof:hierarchy":[
         {
@@ -288,7 +291,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566648100,
+    "wof:lastmodified":1582355552,
     "wof:name":"Tillab\u00e9ri",
     "wof:parent_id":85632269,
     "wof:placetype":"region",

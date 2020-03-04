@@ -119,6 +119,9 @@
     },
     "wof:country":"NE",
     "wof:created":1459009324,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5d2af29b1b6609d4e84ff7af2c6bf624",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":421182277,
-    "wof:lastmodified":1566648971,
+    "wof:lastmodified":1582355568,
     "wof:name":"Tchighozerine",
     "wof:parent_id":85675273,
     "wof:placetype":"county",

@@ -270,6 +270,9 @@
         "wk:page":"Zinder Region"
     },
     "wof:country":"NE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"546d51b71b0e23df45f72782d9fb9629",
     "wof:hierarchy":[
         {
@@ -285,7 +288,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566648100,
+    "wof:lastmodified":1582355553,
     "wof:name":"Zinder",
     "wof:parent_id":85632269,
     "wof:placetype":"region",

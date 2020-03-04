@@ -276,6 +276,9 @@
         "wk:page":"Agadez Region"
     },
     "wof:country":"NE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c31d1bd2579bbc8d3fc3a8af60b73400",
     "wof:hierarchy":[
         {
@@ -291,7 +294,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566648099,
+    "wof:lastmodified":1582355551,
     "wof:name":"Agadez",
     "wof:parent_id":85632269,
     "wof:placetype":"region",

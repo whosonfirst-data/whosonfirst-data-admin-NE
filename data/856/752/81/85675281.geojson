@@ -270,6 +270,9 @@
         "wk:page":"Maradi Region"
     },
     "wof:country":"NE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f05ca5bb83d6b3b14c5574c02a48d326",
     "wof:hierarchy":[
         {
@@ -285,7 +288,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566648099,
+    "wof:lastmodified":1582355552,
     "wof:name":"Maradi",
     "wof:parent_id":85632269,
     "wof:placetype":"region",

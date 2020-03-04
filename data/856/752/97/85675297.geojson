@@ -267,6 +267,9 @@
         "wk:page":"Tahoua Region"
     },
     "wof:country":"NE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1a679a942c822e9196984be856c23d72",
     "wof:hierarchy":[
         {
@@ -282,7 +285,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566648100,
+    "wof:lastmodified":1582355553,
     "wof:name":"Tahoua",
     "wof:parent_id":85632269,
     "wof:placetype":"region",

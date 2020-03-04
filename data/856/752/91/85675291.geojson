@@ -525,6 +525,9 @@
         421197251
     ],
     "wof:country":"NE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5f08b2d0612a13d0376c768c88cd4425",
     "wof:hierarchy":[
         {
@@ -540,7 +543,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566648100,
+    "wof:lastmodified":1582355552,
     "wof:name":"Niamey",
     "wof:parent_id":85632269,
     "wof:placetype":"region",
