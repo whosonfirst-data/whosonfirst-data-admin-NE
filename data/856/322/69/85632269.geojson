@@ -935,9 +935,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Niger",
-        "digitalenvoy:country_code":[
-            562
-        ],
+        "digitalenvoy:country_code":562,
         "fb:id":"en.niger",
         "fifa:id":"NIG",
         "fips:code":"NG",
@@ -981,7 +979,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1583529192,
+    "wof:lastmodified":1583797400,
     "wof:name":"Niger",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
