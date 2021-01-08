@@ -545,6 +545,7 @@
     "wof:concordances":{
         "gn:id":2440485,
         "gp:id":1505949,
+        "ne:id":1159150605,
         "qs_pg:id":279504,
         "wd:id":"Q3674",
         "wk:page":"Niamey"
@@ -568,7 +569,8 @@
         }
     ],
     "wof:id":421197251,
-    "wof:lastmodified":1607390877,
+    "wof:lastmodified":1608688176,
+    "wof:megacity":1,
     "wof:name":"Niamey",
     "wof:parent_id":421204117,
     "wof:placetype":"locality",
