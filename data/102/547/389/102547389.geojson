@@ -16,6 +16,10 @@
     "name:eng_x_preferred":[
         "Niamey Air Base"
     ],
+    "name:eng_x_variant":[
+        "NIM",
+        "DRRN"
+    ],
     "oa:elevation_ft":"732",
     "oa:type":"medium_airport",
     "src:geom":"wikidata",
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":102547389,
-    "wof:lastmodified":1566647921,
+    "wof:lastmodified":1631752379,
     "wof:name":"Niamey Airport",
     "wof:parent_id":85675291,
     "wof:placetype":"campus",
