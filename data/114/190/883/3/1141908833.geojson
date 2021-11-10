@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"7.32998124048,18.8199739776,7.32998124048,18.8199739776",
+    "geom:bbox":"7.329981,18.819974,7.329981,18.819974",
     "geom:latitude":18.819974,
     "geom:longitude":7.329981,
     "iso:country":"NE",
@@ -47,6 +47,9 @@
     ],
     "name:eus_x_preferred":[
         "Arlit"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0631\u0644\u06cc\u062a"
     ],
     "name:fin_x_preferred":[
         "Arlit"
@@ -252,7 +255,7 @@
     },
     "wof:country":"NE",
     "wof:created":1499130981,
-    "wof:geomhash":"05c0b0fca536e289070e03409b6a05d3",
+    "wof:geomhash":"e8f8adffd7cbc99166fd3c81b547958e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -263,7 +266,7 @@
         }
     ],
     "wof:id":1141908833,
-    "wof:lastmodified":1566649440,
+    "wof:lastmodified":1636502498,
     "wof:name":"Arlit",
     "wof:parent_id":1092051845,
     "wof:placetype":"locality",
@@ -273,10 +276,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.32998124047674,
-    18.81997397763081,
-    7.32998124047674,
-    18.81997397763081
+    7.329981,
+    18.819974,
+    7.329981,
+    18.819974
 ],
-  "geometry": {"coordinates":[7.32998124047674,18.81997397763081],"type":"Point"}
+  "geometry": {"coordinates":[7.329981,18.819974],"type":"Point"}
 }

@@ -69,6 +69,9 @@
         "Kassala"
     ],
     "name:hun_x_preferred":[
+        "Kassala"
+    ],
+    "name:hun_x_variant":[
         "Kaszala"
     ],
     "name:ita_x_preferred":[
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":1293213401,
-    "wof:lastmodified":1566648263,
+    "wof:lastmodified":1636502483,
     "wof:name":"Kassala",
     "wof:parent_id":1092051245,
     "wof:placetype":"locality",

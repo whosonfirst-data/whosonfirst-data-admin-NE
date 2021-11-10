@@ -41,6 +41,9 @@
     "name:eng_x_preferred":[
         "Madaoua"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u062f\u0627\u0626\u0648\u0622"
+    ],
     "name:fin_x_preferred":[
         "Madaoua"
     ],
@@ -50,8 +53,14 @@
     "name:guj_x_preferred":[
         "\u0aae\u0aa6\u0acc\u0a86"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d3\u05d0\u05d5\u05d0\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u092e\u0947\u0921\u0935\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Madaoua"
     ],
     "name:ind_x_preferred":[
         "Madaoua"
@@ -277,7 +286,7 @@
         }
     ],
     "wof:id":421180039,
-    "wof:lastmodified":1566648969,
+    "wof:lastmodified":1636502490,
     "wof:name":"Madaoua",
     "wof:parent_id":1092051329,
     "wof:placetype":"locality",

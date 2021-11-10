@@ -29,6 +29,45 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u09ac\u09be\u0995\u09cb\u09df"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03ba\u03cc\u03b9"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05e7\u05d5\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0915\u094b\u092f"
+    ],
+    "name:ind_x_preferred":[
+        "Bakoy"
+    ],
+    "name:ita_x_preferred":[
+        "Bakoy"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc14\ucf54\uc774"
+    ],
+    "name:nld_x_preferred":[
+        "Bakoy"
+    ],
+    "name:swe_x_preferred":[
+        "Bakoy"
+    ],
+    "name:tur_x_preferred":[
+        "Bakoy"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u043a\u043e\u0439"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0627\u06a9\u0648\u0626\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Bakoy"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -52,7 +91,7 @@
         }
     ],
     "wof:id":1326536187,
-    "wof:lastmodified":1566647898,
+    "wof:lastmodified":1636502479,
     "wof:name":"Bakoy",
     "wof:parent_id":1092051229,
     "wof:placetype":"locality",

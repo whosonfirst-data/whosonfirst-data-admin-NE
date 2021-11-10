@@ -53,6 +53,9 @@
     "name:glg_x_preferred":[
         "Adamawa"
     ],
+    "name:hun_x_preferred":[
+        "Adamawa"
+    ],
     "name:jpn_x_preferred":[
         "\u30a2\u30c0\u30de\u30ef"
     ],
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1260101507,
-    "wof:lastmodified":1566648721,
+    "wof:lastmodified":1636502486,
     "wof:name":"Adamawa",
     "wof:parent_id":1092051133,
     "wof:placetype":"locality",

@@ -41,6 +41,12 @@
     "name:fra_x_preferred":[
         "Sakata"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d0\u05e7\u05d0\u05d8\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Szakata"
+    ],
     "name:lin_x_preferred":[
         "Sakata"
     ],
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":1209314865,
-    "wof:lastmodified":1566648444,
+    "wof:lastmodified":1636502484,
     "wof:name":"Sakata",
     "wof:parent_id":85632269,
     "wof:placetype":"locality",

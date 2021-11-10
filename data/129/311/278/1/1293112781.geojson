@@ -87,6 +87,9 @@
         "Agadez"
     ],
     "name:heb_x_preferred":[
+        "\u05d0\u05d2\u05d0\u05d3\u05d6"
+    ],
+    "name:heb_x_variant":[
         "\u05d0\u05d2\u05d3\u05d6"
     ],
     "name:hrv_x_preferred":[
@@ -193,7 +196,7 @@
         "wk:page":"Agadez"
     },
     "wof:country":"NE",
-    "wof:geomhash":"580ea718126c439dcbc3b63ba848ddce",
+    "wof:geomhash":"7d670a671e4f215ab262e239d1240300",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -204,7 +207,7 @@
         }
     ],
     "wof:id":1293112781,
-    "wof:lastmodified":1566648235,
+    "wof:lastmodified":1636502482,
     "wof:name":"Agadez",
     "wof:parent_id":421182277,
     "wof:placetype":"locality",
@@ -217,9 +220,9 @@
 },
   "bbox": [
     7.99111,
-    16.97332999999999,
+    16.97333,
     7.99111,
-    16.97332999999999
+    16.97333
 ],
-  "geometry": {"coordinates":[7.99111,16.97332999999999],"type":"Point"}
+  "geometry": {"coordinates":[7.99111,16.97333],"type":"Point"}
 }

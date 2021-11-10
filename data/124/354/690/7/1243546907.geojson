@@ -38,6 +38,12 @@
     "name:fra_x_preferred":[
         "Ewa"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05d5\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Ewa"
+    ],
     "name:pol_x_preferred":[
         "Ewa"
     ],
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":1243546907,
-    "wof:lastmodified":1566648997,
+    "wof:lastmodified":1636502492,
     "wof:name":"Ewa",
     "wof:parent_id":1092051813,
     "wof:placetype":"locality",

@@ -50,6 +50,9 @@
     "name:eus_x_preferred":[
         "Diffa"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u06cc\u0641\u0627"
+    ],
     "name:fin_x_preferred":[
         "Diffa"
     ],
@@ -65,8 +68,14 @@
     "name:hau_x_preferred":[
         "Diffa"
     ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d9\u05e4\u05e4\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u0921\u093f\u092b\u094d\u092b\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Diffa"
     ],
     "name:ind_x_preferred":[
         "Diffa"
@@ -289,7 +298,7 @@
         }
     ],
     "wof:id":421198541,
-    "wof:lastmodified":1566648970,
+    "wof:lastmodified":1636502490,
     "wof:name":"Diffa",
     "wof:parent_id":1092051245,
     "wof:placetype":"locality",

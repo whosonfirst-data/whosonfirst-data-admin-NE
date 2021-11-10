@@ -35,6 +35,12 @@
     "name:deu_x_preferred":[
         "Kasama"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u0632\u0627\u0645\u0627"
+    ],
+    "name:hun_x_preferred":[
+        "Kasama"
+    ],
     "name:ita_x_preferred":[
         "Kasama"
     ],
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1276543765,
-    "wof:lastmodified":1566648432,
+    "wof:lastmodified":1636502484,
     "wof:name":"Kasama",
     "wof:parent_id":1092051411,
     "wof:placetype":"locality",

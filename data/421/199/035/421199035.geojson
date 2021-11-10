@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0646\u0642\u064a\u0642\u0645\u064a"
     ],
+    "name:ben_x_preferred":[
+        "\u098f\u09a8\u0997\u09c1\u0987\u0997\u09ae\u09bf"
+    ],
     "name:bul_x_preferred":[
         "\u041d\u0433\u0443\u0438\u0433\u043c\u0438"
     ],
@@ -29,8 +32,14 @@
     "name:deu_x_preferred":[
         "N\u2019Guigmi"
     ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b3\u03ba\u03bf\u03c5\u03af\u03b3\u03ba\u03bc\u03b9"
+    ],
     "name:eng_x_preferred":[
         "N'Guigmi"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u06af\u06cc\u06af\u0645\u06cc"
     ],
     "name:fin_x_preferred":[
         "N\u2019guigmi"
@@ -40,6 +49,15 @@
     ],
     "name:fra_x_preferred":[
         "N\u2019Guigmi"
+    ],
+    "name:hin_x_preferred":[
+        "\u0917\u0941\u0908\u0917\u094d\u092e\u0940"
+    ],
+    "name:hun_x_preferred":[
+        "Nguigmi"
+    ],
+    "name:ind_x_preferred":[
+        "Nguigmi"
     ],
     "name:ita_x_preferred":[
         "N'guigmi"
@@ -74,11 +92,23 @@
     "name:spa_x_preferred":[
         "N'Guigmi"
     ],
+    "name:swe_x_preferred":[
+        "Nguigmi"
+    ],
+    "name:tur_x_preferred":[
+        "Nguigmi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0433\u0456\u0433\u043c\u0456"
+    ],
     "name:und_x_variant":[
         "Ngigmi"
     ],
     "name:urd_x_preferred":[
         "\u0646\u06af\u0648\u06cc\u06af\u0645\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Nguigmi"
     ],
     "name:zho_x_preferred":[
         "\u6069\u5409\u683c\u7c73"
@@ -226,7 +256,7 @@
         }
     ],
     "wof:id":421199035,
-    "wof:lastmodified":1566648971,
+    "wof:lastmodified":1636502491,
     "wof:name":"Nguigmi",
     "wof:parent_id":1092051781,
     "wof:placetype":"locality",

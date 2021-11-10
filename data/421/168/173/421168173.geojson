@@ -47,6 +47,9 @@
     "name:eus_x_preferred":[
         "Dosso"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0633\u0648"
+    ],
     "name:fin_x_preferred":[
         "Dosso"
     ],
@@ -62,10 +65,16 @@
     "name:hau_x_preferred":[
         "Dosso"
     ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d5\u05e1\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u0921\u094b\u0938\u094b"
     ],
     "name:hrv_x_preferred":[
+        "Dosso"
+    ],
+    "name:hun_x_preferred":[
         "Dosso"
     ],
     "name:ind_x_preferred":[
@@ -289,7 +298,7 @@
         }
     ],
     "wof:id":421168173,
-    "wof:lastmodified":1566648967,
+    "wof:lastmodified":1636502490,
     "wof:name":"Dosso",
     "wof:parent_id":1092051041,
     "wof:placetype":"locality",
