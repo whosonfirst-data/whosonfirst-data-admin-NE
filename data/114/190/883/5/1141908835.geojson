@@ -66,6 +66,9 @@
     "name:kor_x_preferred":[
         "\uc790\ub3c4"
     ],
+    "name:msa_x_preferred":[
+        "Djado"
+    ],
     "name:nld_x_preferred":[
         "Djado"
     ],
@@ -224,7 +227,7 @@
         }
     ],
     "wof:id":1141908835,
-    "wof:lastmodified":1636502498,
+    "wof:lastmodified":1690848324,
     "wof:name":"Djado",
     "wof:parent_id":1092051881,
     "wof:placetype":"locality",

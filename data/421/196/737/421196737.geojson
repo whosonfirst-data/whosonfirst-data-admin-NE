@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0641\u064a\u0644\u064a\u0646\u0642\u064a"
     ],
+    "name:cat_x_preferred":[
+        "Filingu\u00e9"
+    ],
     "name:ceb_x_preferred":[
         "Filingu\u00e9"
     ],
@@ -30,6 +33,9 @@
         "Filingu\u00e9"
     ],
     "name:fra_x_preferred":[
+        "Filingu\u00e9"
+    ],
+    "name:hau_x_preferred":[
         "Filingu\u00e9"
     ],
     "name:ita_x_preferred":[
@@ -46,6 +52,9 @@
     ],
     "name:ron_x_preferred":[
         "Filingu\u00e9"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0438\u043b\u0438\u043d\u0433"
     ],
     "name:spa_x_preferred":[
         "Filingu\u00e9"
@@ -106,7 +115,7 @@
         }
     ],
     "wof:id":421196737,
-    "wof:lastmodified":1566648970,
+    "wof:lastmodified":1690848318,
     "wof:name":"Filingue",
     "wof:parent_id":1092051695,
     "wof:placetype":"locality",

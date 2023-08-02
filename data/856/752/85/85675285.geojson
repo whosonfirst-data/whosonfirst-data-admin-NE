@@ -36,6 +36,9 @@
     "name:ben_x_preferred":[
         "\u099c\u09bf\u09a8\u09cd\u09a1\u09be\u09b0 \u0985\u099e\u09cd\u099a\u09b2"
     ],
+    "name:cat_x_preferred":[
+        "Zinder"
+    ],
     "name:ceb_x_preferred":[
         "Zinder"
     ],
@@ -297,7 +300,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1636502480,
+    "wof:lastmodified":1690848308,
     "wof:name":"Zinder",
     "wof:parent_id":85632269,
     "wof:placetype":"region",

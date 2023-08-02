@@ -26,6 +26,9 @@
     "name:bul_x_preferred":[
         "\u041d\u0433\u0443\u0438\u0433\u043c\u0438"
     ],
+    "name:cat_x_preferred":[
+        "N\u2019Guigmi"
+    ],
     "name:ceb_x_preferred":[
         "Nguigmi"
     ],
@@ -49,6 +52,12 @@
     ],
     "name:fra_x_preferred":[
         "N\u2019Guigmi"
+    ],
+    "name:hau_x_preferred":[
+        "N'guigmi"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d6'\u05d5\u05d5\u05d9\u05d2\u05de\u05d9"
     ],
     "name:hin_x_preferred":[
         "\u0917\u0941\u0908\u0917\u094d\u092e\u0940"
@@ -256,7 +265,7 @@
         }
     ],
     "wof:id":421199035,
-    "wof:lastmodified":1636502491,
+    "wof:lastmodified":1690848320,
     "wof:name":"Nguigmi",
     "wof:parent_id":1092051781,
     "wof:placetype":"locality",

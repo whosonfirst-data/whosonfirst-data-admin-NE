@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Madarounfa"
+    ],
     "name:ceb_x_preferred":[
         "Madarounfa"
     ],
@@ -27,6 +30,9 @@
         "Madarounfa"
     ],
     "name:fra_x_preferred":[
+        "Madarounfa"
+    ],
+    "name:hau_x_preferred":[
         "Madarounfa"
     ],
     "name:ita_x_preferred":[
@@ -55,6 +61,9 @@
     ],
     "name:urd_x_variant":[
         "\u0645\u06cc\u0688\u0627\u0631\u0648\u0646\u0641\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Madarounfa"
     ],
     "qs:gn_country":"NE",
     "qs:gn_fcode":"PPL",
@@ -104,7 +113,7 @@
         }
     ],
     "wof:id":421180395,
-    "wof:lastmodified":1566648969,
+    "wof:lastmodified":1690848317,
     "wof:name":"Madarounfa",
     "wof:parent_id":1092051007,
     "wof:placetype":"locality",

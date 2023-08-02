@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
+    "name:aka_x_preferred":[
+        "Tillab\u00e9ri"
+    ],
     "name:ara_x_preferred":[
         "\u062a\u064a\u0644\u0627\u0628\u064a\u0631\u064a"
     ],
@@ -35,6 +38,9 @@
     "name:eng_x_preferred":[
         "Tillab\u00e9ri"
     ],
+    "name:epo_x_preferred":[
+        "Tilaberi"
+    ],
     "name:fin_x_preferred":[
         "Tillab\u00e9ri"
     ],
@@ -42,6 +48,9 @@
         "Tillab\u00e9ri"
     ],
     "name:frr_x_preferred":[
+        "Tillab\u00e9ri"
+    ],
+    "name:hau_x_preferred":[
         "Tillab\u00e9ri"
     ],
     "name:ind_x_preferred":[
@@ -82,6 +91,9 @@
     ],
     "name:und_x_variant":[
         "Tillab\u00e9ry"
+    ],
+    "name:vie_x_preferred":[
+        "Tillab\u00e9ri"
     ],
     "name:zho_x_preferred":[
         "\u8482\u62c9\u8c9d\u91cc"
@@ -228,7 +240,7 @@
         }
     ],
     "wof:id":421167887,
-    "wof:lastmodified":1566648968,
+    "wof:lastmodified":1690848314,
     "wof:name":"Tillaberi",
     "wof:parent_id":890429081,
     "wof:placetype":"locality",

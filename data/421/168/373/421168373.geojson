@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0644\u0645\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u064a\u0644\u0645\u0627"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u0456\u043b\u044c\u043c\u0430"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u0438\u043b\u043c\u0430"
     ],
@@ -48,6 +54,9 @@
         "Bilma"
     ],
     "name:fra_x_preferred":[
+        "Bilma"
+    ],
+    "name:hau_x_preferred":[
         "Bilma"
     ],
     "name:hrv_x_preferred":[
@@ -92,11 +101,20 @@
     "name:swe_x_preferred":[
         "Bilma"
     ],
+    "name:tur_x_preferred":[
+        "Bilma"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0456\u043b\u043c\u0430"
+    ],
     "name:und_x_variant":[
         "Fort Dromard"
     ],
     "name:urd_x_preferred":[
         "\u0628\u06cc\u0644\u0645\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Bilma"
     ],
     "name:zho_x_preferred":[
         "\u6bd4\u723e\u99ac"
@@ -153,7 +171,7 @@
         }
     ],
     "wof:id":421168373,
-    "wof:lastmodified":1566648967,
+    "wof:lastmodified":1690848313,
     "wof:name":"Bilma",
     "wof:parent_id":1092051881,
     "wof:placetype":"locality",

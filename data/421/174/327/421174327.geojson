@@ -44,6 +44,9 @@
     "name:fra_x_preferred":[
         "Abalak"
     ],
+    "name:hau_x_preferred":[
+        "Abalak"
+    ],
     "name:ita_x_preferred":[
         "Abalak"
     ],
@@ -62,11 +65,17 @@
     "name:ron_x_preferred":[
         "Abalak"
     ],
+    "name:rus_x_preferred":[
+        "\u0410\u0431\u0430\u043b\u0430\u043a"
+    ],
     "name:und_x_variant":[
         "Ibeka"
     ],
     "name:urd_x_preferred":[
         "\u0627\u0628\u0627\u0644\u0627\u06a9"
+    ],
+    "name:vie_x_preferred":[
+        "Abalak"
     ],
     "name:zho_x_preferred":[
         "\u963f\u5df4\u62c9\u514b"
@@ -122,7 +131,7 @@
         }
     ],
     "wof:id":421174327,
-    "wof:lastmodified":1566648969,
+    "wof:lastmodified":1690848316,
     "wof:name":"Abalak",
     "wof:parent_id":1092051813,
     "wof:placetype":"locality",

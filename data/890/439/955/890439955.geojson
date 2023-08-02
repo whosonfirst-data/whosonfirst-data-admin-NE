@@ -22,8 +22,17 @@
     "name:ara_x_preferred":[
         "\u0645\u0631\u0627\u062f\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0631\u0627\u062f\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Maradi"
+    ],
     "name:bak_x_preferred":[
         "\u041c\u0430\u0440\u0430\u0434\u0438"
+    ],
+    "name:bel_x_preferred":[
+        "\u041c\u0430\u0440\u0430\u0434\u044b"
     ],
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09b0\u09be\u09a6\u09bf"
@@ -32,6 +41,9 @@
         "Maradi"
     ],
     "name:ceb_x_preferred":[
+        "Maradi"
+    ],
+    "name:ces_x_preferred":[
         "Maradi"
     ],
     "name:dan_x_preferred":[
@@ -64,6 +76,9 @@
     "name:frr_x_preferred":[
         "Maradi"
     ],
+    "name:gle_x_preferred":[
+        "Maradi"
+    ],
     "name:guj_x_preferred":[
         "\u0aae\u0abe\u0ab0\u0abe\u0aa1\u0ac0"
     ],
@@ -73,6 +88,9 @@
     "name:heb_x_preferred":[
         "\u05de\u05e8\u05d4\u05d5\u05d0\u05d4"
     ],
+    "name:heb_x_variant":[
+        "\u05de\u05e8\u05d0\u05d3\u05d9"
+    ],
     "name:hin_x_preferred":[
         "\u092e\u0941\u0930\u0948\u0921\u0940"
     ],
@@ -81,6 +99,9 @@
     ],
     "name:hun_x_preferred":[
         "Maradi"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u0580\u0561\u0564\u056b"
     ],
     "name:ind_x_preferred":[
         "Maradi"
@@ -108,6 +129,9 @@
     ],
     "name:mar_x_preferred":[
         "\u092e\u093e\u0930\u0921\u0940"
+    ],
+    "name:mdf_x_preferred":[
+        "\u041c\u0430\u0440\u0430\u0434\u0438"
     ],
     "name:mon_x_preferred":[
         "\u041c\u0430\u0440\u0430\u0434\u0438"
@@ -166,11 +190,17 @@
     "name:urd_x_variant":[
         "\u0645\u0627\u0631\u0627\u062f\u06cc"
     ],
+    "name:vec_x_preferred":[
+        "Maradi"
+    ],
     "name:vie_x_preferred":[
         "Maradi"
     ],
     "name:war_x_preferred":[
         "Maradi"
+    ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u62c9\u8fea"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Niger",
@@ -297,7 +327,7 @@
         }
     ],
     "wof:id":890439955,
-    "wof:lastmodified":1636502491,
+    "wof:lastmodified":1690848321,
     "wof:name":"Maradi",
     "wof:parent_id":1092051007,
     "wof:placetype":"locality",

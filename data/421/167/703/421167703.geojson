@@ -38,6 +38,9 @@
     "name:fra_x_preferred":[
         "Say"
     ],
+    "name:hau_x_preferred":[
+        "Say"
+    ],
     "name:ita_x_preferred":[
         "Say"
     ],
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":421167703,
-    "wof:lastmodified":1566648968,
+    "wof:lastmodified":1690848315,
     "wof:name":"Say",
     "wof:parent_id":1092051103,
     "wof:placetype":"locality",

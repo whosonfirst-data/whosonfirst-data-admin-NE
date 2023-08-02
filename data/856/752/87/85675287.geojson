@@ -66,6 +66,9 @@
     "name:fas_x_preferred":[
         "\u062f\u0648\u0633\u0648"
     ],
+    "name:fas_x_variant":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u062f\u0648\u0633\u0648"
+    ],
     "name:fin_x_preferred":[
         "Dosso"
     ],
@@ -91,6 +94,9 @@
         "Dosso"
     ],
     "name:hun_x_preferred":[
+        "Dosso"
+    ],
+    "name:ina_x_preferred":[
         "Dosso"
     ],
     "name:ind_x_preferred":[
@@ -300,7 +306,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1636502480,
+    "wof:lastmodified":1690848306,
     "wof:name":"Dosso",
     "wof:parent_id":85632269,
     "wof:placetype":"region",

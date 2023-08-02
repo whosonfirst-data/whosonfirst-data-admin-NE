@@ -23,6 +23,9 @@
     "name:ben_x_preferred":[
         "\u09ae\u09be\u0987\u09a8\u09c7-\u09b8\u09cb\u09b0\u09cb\u09af\u09bc\u09be"
     ],
+    "name:cat_x_preferred":[
+        "Ma\u00efn\u00e9-Soroa"
+    ],
     "name:ceb_x_preferred":[
         "Ma\u00efn\u00e9 Soroa"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0ac8\u0aa8\u0ac7-\u0ab8\u0acb\u0ab0\u0acb\u0a86"
+    ],
+    "name:hau_x_preferred":[
+        "Maine-Soroa"
     ],
     "name:hin_x_preferred":[
         "\u092e\u0948\u0928\u0947-\u0938\u094b\u0930\u094b\u0906"
@@ -104,6 +110,9 @@
     "name:swe_x_preferred":[
         "Ma\u00efn\u00e9-Soroa"
     ],
+    "name:szl_x_preferred":[
+        "Ma\u00efn\u00e9-Soroa"
+    ],
     "name:tam_x_preferred":[
         "\u0bae\u0bc8\u0ba9\u0bbf-\u0b9a\u0bca\u0bb0\u0bbe\u0baf\u0bbe"
     ],
@@ -124,6 +133,9 @@
     ],
     "name:vie_x_preferred":[
         "Maine-Soroa"
+    ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u4f0a\u5185\u7d22\u7f57\u963f"
     ],
     "qs:gn_country":"NE",
     "qs:gn_fcode":"PPL",
@@ -173,7 +185,7 @@
         }
     ],
     "wof:id":421180393,
-    "wof:lastmodified":1566648970,
+    "wof:lastmodified":1690848317,
     "wof:name":"Maine-Soroa",
     "wof:parent_id":1092051363,
     "wof:placetype":"locality",

@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u0442\u0430\u043c\u0435\u0439"
     ],
+    "name:cat_x_preferred":[
+        "Matamey"
+    ],
     "name:ceb_x_preferred":[
         "Matamey"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:fra_x_preferred":[
         "Matam\u00e8ye"
+    ],
+    "name:hau_x_preferred":[
+        "Matameye"
     ],
     "name:ita_x_preferred":[
         "Matamey"
@@ -46,6 +52,9 @@
     ],
     "name:ron_x_preferred":[
         "Matam\u00e8ye"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0442\u0430\u043c\u0435\u0439\u0435"
     ],
     "name:spa_x_preferred":[
         "Matam\u00e8ye"
@@ -98,7 +107,7 @@
         }
     ],
     "wof:id":421196741,
-    "wof:lastmodified":1566648970,
+    "wof:lastmodified":1690848319,
     "wof:name":"Matamey",
     "wof:parent_id":1092051165,
     "wof:placetype":"locality",
