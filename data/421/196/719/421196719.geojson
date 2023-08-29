@@ -23,6 +23,9 @@
     "name:ben_x_preferred":[
         "\u09ae\u09be\u0997\u09be\u09b0\u09bf\u09af\u09bc\u09be"
     ],
+    "name:cat_x_preferred":[
+        "Magaria"
+    ],
     "name:ceb_x_preferred":[
         "Magaria"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0ac7\u0a97\u0ab0\u0ac0\u0aaf\u0abe"
+    ],
+    "name:hau_x_preferred":[
+        "Magaria"
     ],
     "name:hin_x_preferred":[
         "\u092e\u093f\u0917\u0947\u0930\u093f\u092f\u093e"
@@ -173,7 +179,7 @@
         }
     ],
     "wof:id":421196719,
-    "wof:lastmodified":1566648971,
+    "wof:lastmodified":1690848319,
     "wof:name":"Magaria",
     "wof:parent_id":1092051133,
     "wof:placetype":"locality",

@@ -52,6 +52,9 @@
     "name:fra_x_preferred":[
         "Ay\u00e9rou"
     ],
+    "name:hau_x_preferred":[
+        "Ayourou"
+    ],
     "name:heb_x_preferred":[
         "\u05d0\u05d9\u05d5\u05e8\u05d5\u05d0\u05d5"
     ],
@@ -239,7 +242,7 @@
         }
     ],
     "wof:id":890442515,
-    "wof:lastmodified":1636502491,
+    "wof:lastmodified":1690848322,
     "wof:name":"Ayorou",
     "wof:parent_id":890429081,
     "wof:placetype":"locality",

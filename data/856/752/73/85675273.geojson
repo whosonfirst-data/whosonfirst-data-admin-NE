@@ -96,6 +96,9 @@
     "name:jpn_x_preferred":[
         "\u30a2\u30ac\u30c7\u30b9\u5dde"
     ],
+    "name:kab_x_preferred":[
+        "Agadiz"
+    ],
     "name:kan_x_preferred":[
         "\u0c85\u0c97\u0ca1\u0cc6\u0c9c\u0ccd \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
     ],
@@ -300,7 +303,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1636502480,
+    "wof:lastmodified":1690848306,
     "wof:name":"Agadez",
     "wof:parent_id":85632269,
     "wof:placetype":"region",

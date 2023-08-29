@@ -53,6 +53,9 @@
     "name:guj_x_preferred":[
         "\u0a9f\u0ac7\u0ab8\u0acc\u0a86"
     ],
+    "name:hau_x_preferred":[
+        "Tessaoua"
+    ],
     "name:hin_x_preferred":[
         "\u091f\u0947\u0938\u094b\u0935\u093e"
     ],
@@ -184,7 +187,7 @@
         }
     ],
     "wof:id":421194475,
-    "wof:lastmodified":1566648968,
+    "wof:lastmodified":1690848314,
     "wof:name":"Tessaoua",
     "wof:parent_id":1092051389,
     "wof:placetype":"locality",

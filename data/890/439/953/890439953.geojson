@@ -25,6 +25,12 @@
     "name:ben_x_preferred":[
         "\u09ac\u09bf\u09b0\u09a8\u09bf-\u09a8'\u0995\u09a8\u09cd\u09a8\u09bf"
     ],
+    "name:bre_x_preferred":[
+        "Birni N'Konni"
+    ],
+    "name:cat_x_preferred":[
+        "Birnin-Konni"
+    ],
     "name:ceb_x_preferred":[
         "Birni N Konni"
     ],
@@ -258,7 +264,7 @@
         }
     ],
     "wof:id":890439953,
-    "wof:lastmodified":1566648972,
+    "wof:lastmodified":1690848321,
     "wof:name":"Birni N Konni",
     "wof:parent_id":1092051301,
     "wof:placetype":"locality",

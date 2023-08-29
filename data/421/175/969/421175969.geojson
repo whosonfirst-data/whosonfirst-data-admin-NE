@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Bouza"
+    ],
     "name:ceb_x_preferred":[
         "Bouza"
     ],
@@ -27,6 +30,9 @@
         "Bouza"
     ],
     "name:fra_x_preferred":[
+        "Bouza"
+    ],
+    "name:hau_x_preferred":[
         "Bouza"
     ],
     "name:ita_x_preferred":[
@@ -52,6 +58,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0628\u0624\u0632\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Bouza"
     ],
     "qs:gn_country":"NE",
     "qs:gn_fcode":"PPL",
@@ -101,7 +110,7 @@
         }
     ],
     "wof:id":421175969,
-    "wof:lastmodified":1566648970,
+    "wof:lastmodified":1690848317,
     "wof:name":"Bouza",
     "wof:parent_id":1092051515,
     "wof:placetype":"locality",

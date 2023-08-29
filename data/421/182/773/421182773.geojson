@@ -17,6 +17,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Kollo"
+    ],
     "name:ceb_x_preferred":[
         "Kollo"
     ],
@@ -27,6 +30,9 @@
         "Kollo"
     ],
     "name:fra_x_preferred":[
+        "Kollo"
+    ],
+    "name:hau_x_preferred":[
         "Kollo"
     ],
     "name:ita_x_preferred":[
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":421182773,
-    "wof:lastmodified":1566648972,
+    "wof:lastmodified":1690848320,
     "wof:name":"Kollo",
     "wof:parent_id":421182275,
     "wof:placetype":"locality",

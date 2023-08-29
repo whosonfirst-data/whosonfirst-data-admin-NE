@@ -59,6 +59,9 @@
     "name:guj_x_preferred":[
         "\u0a9f\u0ac7\u0ab0\u0abe"
     ],
+    "name:hau_x_preferred":[
+        "Tera"
+    ],
     "name:hin_x_preferred":[
         "\u091f\u0947\u0930\u093e"
     ],
@@ -187,7 +190,7 @@
         }
     ],
     "wof:id":421167697,
-    "wof:lastmodified":1566648968,
+    "wof:lastmodified":1690848315,
     "wof:name":"Tera",
     "wof:parent_id":1092051545,
     "wof:placetype":"locality",

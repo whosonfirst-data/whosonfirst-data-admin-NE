@@ -23,6 +23,9 @@
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09af\u09bc\u09be\u09b9\u09bf"
     ],
+    "name:cat_x_preferred":[
+        "Mayahi"
+    ],
     "name:ceb_x_preferred":[
         "Mayahi"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0abe\u0aaf\u0abe\u0ab9\u0ac0"
+    ],
+    "name:hau_x_preferred":[
+        "Mayahi"
     ],
     "name:hin_x_preferred":[
         "\u092e\u0947\u092f\u093e\u0939\u0940"
@@ -184,7 +190,7 @@
         }
     ],
     "wof:id":421196739,
-    "wof:lastmodified":1566648970,
+    "wof:lastmodified":1690848318,
     "wof:name":"Mayahi",
     "wof:parent_id":1092051435,
     "wof:placetype":"locality",

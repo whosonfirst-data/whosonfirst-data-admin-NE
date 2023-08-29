@@ -60,6 +60,9 @@
     "name:guj_x_preferred":[
         "\u0a85\u0ab0\u0acd\u0ab2\u0abf\u0a9f"
     ],
+    "name:hau_x_preferred":[
+        "Arlit"
+    ],
     "name:heb_x_preferred":[
         "\u05d0\u05e8\u05dc\u05d9\u05d8"
     ],
@@ -67,6 +70,9 @@
         "\u0905\u0930\u094d\u0932\u093f\u0924"
     ],
     "name:hrv_x_preferred":[
+        "Arlit"
+    ],
+    "name:hun_x_preferred":[
         "Arlit"
     ],
     "name:ind_x_preferred":[
@@ -266,7 +272,7 @@
         }
     ],
     "wof:id":1141908833,
-    "wof:lastmodified":1636502498,
+    "wof:lastmodified":1690848324,
     "wof:name":"Arlit",
     "wof:parent_id":1092051845,
     "wof:placetype":"locality",

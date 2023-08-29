@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u062f\u0648\u0633\u0648"
     ],
+    "name:bel_x_preferred":[
+        "\u0414\u043e\u0441\u0430"
+    ],
     "name:ben_x_preferred":[
         "\u09a6\u09cb\u09b8\u09cd\u09af"
     ],
@@ -298,7 +301,7 @@
         }
     ],
     "wof:id":421168173,
-    "wof:lastmodified":1636502490,
+    "wof:lastmodified":1690848313,
     "wof:name":"Dosso",
     "wof:parent_id":1092051041,
     "wof:placetype":"locality",

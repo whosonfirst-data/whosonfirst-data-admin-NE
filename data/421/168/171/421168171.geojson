@@ -23,6 +23,9 @@
     "name:ben_x_preferred":[
         "\u0997\u09be\u09df\u09be"
     ],
+    "name:cat_x_preferred":[
+        "Gaya"
+    ],
     "name:ceb_x_preferred":[
         "Gaya"
     ],
@@ -45,6 +48,9 @@
         "Gaya"
     ],
     "name:fra_x_preferred":[
+        "Gaya"
+    ],
+    "name:hau_x_preferred":[
         "Gaya"
     ],
     "name:heb_x_preferred":[
@@ -103,6 +109,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06af\u0627\u06cc\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Gaya"
     ],
     "name:zho_x_preferred":[
         "\u52a0\u4e9e"
@@ -249,7 +258,7 @@
         }
     ],
     "wof:id":421168171,
-    "wof:lastmodified":1636502490,
+    "wof:lastmodified":1690848314,
     "wof:name":"Gaya",
     "wof:parent_id":1092050969,
     "wof:placetype":"locality",

@@ -60,6 +60,9 @@
     "name:fas_x_preferred":[
         "\u0637\u0627\u0647\u0648\u0627"
     ],
+    "name:fas_x_variant":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u062a\u0627\u0647\u0648\u0622"
+    ],
     "name:fin_x_preferred":[
         "Tahoua"
     ],
@@ -294,7 +297,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1636502480,
+    "wof:lastmodified":1690848307,
     "wof:name":"Tahoua",
     "wof:parent_id":85632269,
     "wof:placetype":"region",

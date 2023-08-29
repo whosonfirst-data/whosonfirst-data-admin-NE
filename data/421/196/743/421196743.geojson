@@ -29,6 +29,9 @@
     "name:fra_x_preferred":[
         "Tibiri"
     ],
+    "name:hau_x_preferred":[
+        "Tibiri"
+    ],
     "name:ita_x_preferred":[
         "Tibiri"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421196743,
-    "wof:lastmodified":1566648970,
+    "wof:lastmodified":1690848319,
     "wof:name":"Tibiri",
     "wof:parent_id":1092051229,
     "wof:placetype":"locality",

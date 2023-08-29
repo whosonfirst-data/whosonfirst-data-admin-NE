@@ -23,6 +23,9 @@
     "name:ben_x_preferred":[
         "\u0985\u09cd\u09af\u09be\u0997\u09c1\u09c1\u0987"
     ],
+    "name:cat_x_preferred":[
+        "Agui\u00e9"
+    ],
     "name:ceb_x_preferred":[
         "Agui\u00e9"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0a8f\u0a97\u0ac1\u0a88\u0a8f"
+    ],
+    "name:hau_x_preferred":[
+        "Agui\u00e9"
     ],
     "name:hin_x_preferred":[
         "\u090f\u0917\u093f\u092f"
@@ -173,7 +179,7 @@
         }
     ],
     "wof:id":421174325,
-    "wof:lastmodified":1566648969,
+    "wof:lastmodified":1690848316,
     "wof:name":"Aguie",
     "wof:parent_id":1092051197,
     "wof:placetype":"locality",

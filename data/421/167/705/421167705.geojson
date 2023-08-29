@@ -23,6 +23,9 @@
     "name:bul_x_preferred":[
         "\u041e\u0443\u0430\u043b\u0430\u043c"
     ],
+    "name:cat_x_preferred":[
+        "Ouallam"
+    ],
     "name:ceb_x_preferred":[
         "Ouallam"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:fra_x_preferred":[
         "Ouallam"
+    ],
+    "name:hau_x_preferred":[
+        "Wallam"
     ],
     "name:ita_x_preferred":[
         "Ouallam"
@@ -61,6 +67,9 @@
     ],
     "name:und_x_variant":[
         "Oualam"
+    ],
+    "name:vie_x_preferred":[
+        "Ouallam"
     ],
     "qs:gn_country":"NE",
     "qs:gn_fcode":"PPL",
@@ -110,7 +119,7 @@
         }
     ],
     "wof:id":421167705,
-    "wof:lastmodified":1566648968,
+    "wof:lastmodified":1690848315,
     "wof:name":"Ouallam",
     "wof:parent_id":1092051633,
     "wof:placetype":"locality",
