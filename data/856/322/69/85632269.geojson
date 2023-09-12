@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":100.458237,
-    "geom:area_square_m":1183942312717.114502,
+    "geom:area_square_m":1183942312717.118408,
     "geom:bbox":"0.166667,11.693756,15.999034,23.5",
     "geom:latitude":17.410127,
     "geom:longitude":9.402888,
@@ -14,6 +14,9 @@
     "iso:country":"NE",
     "itu:country_code":[
         "227"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "NE"
@@ -1113,7 +1116,8 @@
         "meso"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_year":"2019",
     "statoids:dial":"227",
     "statoids:ds":"RN",
     "statoids:fifa":"NIG",
@@ -1172,7 +1176,7 @@
         "meso",
         "naturalearth-display-terrestrial-zoom6"
     ],
-    "wof:geomhash":"de27412a6659f9b4dac6e6b7402c1ff6",
+    "wof:geomhash":"3e11c63fd48a255f8531b1dcd52dc2bf",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -1186,12 +1190,12 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690848308,
+    "wof:lastmodified":1694492100,
     "wof:name":"Niger",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
-    "wof:population":17831270,
-    "wof:population_rank":14,
+    "wof:population":23310715,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-ne",
     "wof:shortcode":"NE",
     "wof:superseded_by":[],
