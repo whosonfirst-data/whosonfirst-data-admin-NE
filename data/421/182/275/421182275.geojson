@@ -97,7 +97,7 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population_year":"2010-07-01",
+    "src:population_date":"2010-07-01",
     "statoids:areakm":10002,
     "statoids:capital":"Kollo",
     "statoids:country":"NE",
@@ -136,7 +136,7 @@
         }
     ],
     "wof:id":421182275,
-    "wof:lastmodified":1694492499,
+    "wof:lastmodified":1694639689,
     "wof:name":"Kollo",
     "wof:parent_id":85675265,
     "wof:placetype":"county",

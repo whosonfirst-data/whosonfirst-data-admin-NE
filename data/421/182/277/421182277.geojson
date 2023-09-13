@@ -112,7 +112,7 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population_year":"2010-07-01",
+    "src:population_date":"2010-07-01",
     "statoids:areakm":154746,
     "statoids:capital":"Tchiroz\u00e9rine",
     "statoids:country":"NE",
@@ -151,7 +151,7 @@
         }
     ],
     "wof:id":421182277,
-    "wof:lastmodified":1694492500,
+    "wof:lastmodified":1694639689,
     "wof:name":"Tchighozerine",
     "wof:parent_id":85675273,
     "wof:placetype":"county",

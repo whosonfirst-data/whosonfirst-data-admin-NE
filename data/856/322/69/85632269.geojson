@@ -1117,7 +1117,7 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"2019",
+    "src:population_date":"2019",
     "statoids:dial":"227",
     "statoids:ds":"RN",
     "statoids:fifa":"NIG",
@@ -1190,7 +1190,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1694492100,
+    "wof:lastmodified":1694639553,
     "wof:name":"Niger",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
