@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.669327,
-    "geom:area_square_m":8048262825.309093,
+    "geom:area_square_m":8048262837.71038,
     "geom:bbox":"1.483866,12.514871,2.862366,13.899071",
     "geom:latitude":13.479577,
     "geom:longitude":2.294139,
@@ -96,6 +96,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_date":"2010-07-01",
+    "statoids:areakm":10002,
+    "statoids:capital":"Kollo",
+    "statoids:country":"NE",
+    "statoids:date":"2010-07-01",
+    "statoids:hasc":"NE.TL.KO",
+    "statoids:name":"Kollo",
+    "statoids:population":431017,
+    "statoids:statoid":"NE.TL",
+    "statoids:timezone":"+1",
+    "statoids:type":"arrondissement",
     "wd:wordcount":101,
     "wof:belongsto":[
         102191573,
@@ -105,6 +117,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56055507,
+        "hasc:id":"NE.TL.KO",
         "qs_pg:id":897577,
         "wd:id":"Q987243"
     },
@@ -113,7 +126,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5f5cb49b8fdaff01a2b7641ad28db18c",
+    "wof:geomhash":"3968e29bf064c4e37b662e6440044c9a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -123,10 +136,12 @@
         }
     ],
     "wof:id":421182275,
-    "wof:lastmodified":1690848320,
+    "wof:lastmodified":1694639689,
     "wof:name":"Kollo",
     "wof:parent_id":85675265,
     "wof:placetype":"county",
+    "wof:population":431017,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],

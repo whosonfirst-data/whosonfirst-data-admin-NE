@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":12.301785,
-    "geom:area_square_m":145266864743.772003,
+    "geom:area_square_m":145266841617.027313,
     "geom:bbox":"4.242493,15.319471,10.987366,19.437671",
     "geom:latitude":17.234169,
     "geom:longitude":7.692583,
@@ -111,6 +111,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_date":"2010-07-01",
+    "statoids:areakm":154746,
+    "statoids:capital":"Tchiroz\u00e9rine",
+    "statoids:country":"NE",
+    "statoids:date":"2010-07-01",
+    "statoids:hasc":"NE.AG.AD",
+    "statoids:name":"Tchiroz\u00e9rine",
+    "statoids:population":312698,
+    "statoids:statoid":"NE.AG",
+    "statoids:timezone":"+1",
+    "statoids:type":"arrondissement",
     "wd:wordcount":137,
     "wof:belongsto":[
         102191573,
@@ -120,6 +132,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56055522,
+        "hasc:id":"NE.AG.AD",
         "qs_pg:id":897578,
         "wd:id":"Q569084"
     },
@@ -128,7 +141,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7a282170fda34cb2f26613f537e09301",
+    "wof:geomhash":"feb7a899e82a03cba73d393fccb04ee8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -138,10 +151,12 @@
         }
     ],
     "wof:id":421182277,
-    "wof:lastmodified":1690848320,
+    "wof:lastmodified":1694639689,
     "wof:name":"Tchighozerine",
     "wof:parent_id":85675273,
     "wof:placetype":"county",
+    "wof:population":312698,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
