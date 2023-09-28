@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.416023,
-    "geom:area_square_m":4973599020.441916,
+    "geom:area_square_m":4973599020.441895,
     "geom:bbox":"5.36166633973,14.5006713683,6.55866633973,15.1102713683",
     "geom:latitude":14.796451,
     "geom:longitude":5.990422,
@@ -89,9 +89,10 @@
     "wof:concordances":{
         "hasc:id":"NE.TH.KE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NE",
     "wof:created":1473898571,
-    "wof:geomhash":"df35ec6331ab0dbf06afcf0ccc3088f8",
+    "wof:geomhash":"c252d2bbef41eb93611c826fbd6fee96",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1092051577,
-    "wof:lastmodified":1566648907,
+    "wof:lastmodified":1695886422,
     "wof:name":"Keita",
     "wof:parent_id":85675297,
     "wof:placetype":"county",

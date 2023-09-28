@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.739074,
-    "geom:area_square_m":20800274369.189774,
+    "geom:area_square_m":20800274369.18977,
     "geom:bbox":"1.49866633973,13.8387713683,3.06496633973,15.3674926758",
     "geom:latitude":14.692842,
     "geom:longitude":2.233119,
@@ -74,9 +74,10 @@
     "wof:concordances":{
         "hasc:id":"NE.TL.OU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NE",
     "wof:created":1473898573,
-    "wof:geomhash":"02f55d24e6cdc234e01e10e83e4aec05",
+    "wof:geomhash":"91011fdff6ac87c06db5f8af825c3462",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1092051633,
-    "wof:lastmodified":1566648911,
+    "wof:lastmodified":1695886424,
     "wof:name":"Ouallam",
     "wof:parent_id":85675265,
     "wof:placetype":"county",

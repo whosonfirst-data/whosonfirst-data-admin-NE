@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.184912,
-    "geom:area_square_m":2224141122.053527,
+    "geom:area_square_m":2224143509.55229,
     "geom:bbox":"8.255966,13.154471,8.77948,13.671875",
     "geom:latitude":13.407971,
     "geom:longitude":8.517431,
@@ -54,9 +54,10 @@
     "wof:concordances":{
         "hasc:id":"NE.ZI.MT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NE",
     "wof:created":1473898554,
-    "wof:geomhash":"c29ca7962d43b3acea10ef8b9bf61845",
+    "wof:geomhash":"e98cf958c0f8d2fdb8191133bb25d89e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1092051165,
-    "wof:lastmodified":1627522463,
+    "wof:lastmodified":1695886085,
     "wof:name":"Matamey",
     "wof:parent_id":85675285,
     "wof:placetype":"county",

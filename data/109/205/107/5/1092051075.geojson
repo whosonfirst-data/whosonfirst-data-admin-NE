@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.374627,
-    "geom:area_square_m":4514370979.045375,
+    "geom:area_square_m":4514370985.720819,
     "geom:bbox":"2.469666,12.276771,3.109366,13.619471",
     "geom:latitude":12.954462,
     "geom:longitude":2.814694,
@@ -54,9 +54,10 @@
     "wof:concordances":{
         "hasc:id":"NE.DS.BG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NE",
     "wof:created":1473898551,
-    "wof:geomhash":"7ec8c043f0a03488fa0c88782ecd3d70",
+    "wof:geomhash":"cd1d5b6d0eebeaac498b8e1f523a79b3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1092051075,
-    "wof:lastmodified":1627522463,
+    "wof:lastmodified":1695886085,
     "wof:name":"Birni N'Gaoure",
     "wof:parent_id":85675287,
     "wof:placetype":"county",

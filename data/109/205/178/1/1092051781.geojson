@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":10.497741,
-    "geom:area_square_m":124598532639.087326,
+    "geom:area_square_m":124598540024.540024,
     "geom:bbox":"11.911966,13.770271,15.576612,18.015471",
     "geom:latitude":16.247835,
     "geom:longitude":13.448274,
@@ -54,9 +54,10 @@
     "wof:concordances":{
         "hasc:id":"NE.DF.NG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NE",
     "wof:created":1473898578,
-    "wof:geomhash":"05ba05a558239fa08ecda35dc6eaf28d",
+    "wof:geomhash":"f25864b5048f06cb91dd6850e44a4c5d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1092051781,
-    "wof:lastmodified":1627522463,
+    "wof:lastmodified":1695886085,
     "wof:name":"N'Guigmi",
     "wof:parent_id":85675269,
     "wof:placetype":"county",

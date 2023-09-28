@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.165923,
-    "geom:area_square_m":73141848973.438766,
+    "geom:area_square_m":73141854435.697342,
     "geom:bbox":"3.855286,15.001571,6.725366,18.681519",
     "geom:latitude":16.374135,
     "geom:longitude":5.143253,
@@ -54,9 +54,10 @@
     "wof:concordances":{
         "hasc:id":"NE.TH.TC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NE",
     "wof:created":1473898579,
-    "wof:geomhash":"27ae8023562aa813fc447428751c585d",
+    "wof:geomhash":"b683464d6e366b20484d1d4bc0bd6655",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1092051813,
-    "wof:lastmodified":1627522463,
+    "wof:lastmodified":1695886086,
     "wof:name":"Tchin Tabaradene",
     "wof:parent_id":85675297,
     "wof:placetype":"county",

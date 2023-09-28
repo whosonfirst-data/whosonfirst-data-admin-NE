@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.398987,
-    "geom:area_square_m":4794349691.491903,
+    "geom:area_square_m":4794349698.972126,
     "geom:bbox":"6.277866,13.173571,7.487466,13.907171",
     "geom:latitude":13.642445,
     "geom:longitude":6.855518,
@@ -54,9 +54,10 @@
     "wof:concordances":{
         "hasc:id":"NE.MA.GR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NE",
     "wof:created":1473898556,
-    "wof:geomhash":"0b7d44b847fbb81f0d7aa45da7a7c5f3",
+    "wof:geomhash":"36d61ba5cc63721ec76adee09902823f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1092051229,
-    "wof:lastmodified":1627522463,
+    "wof:lastmodified":1695886085,
     "wof:name":"Guidan roumji",
     "wof:parent_id":85675281,
     "wof:placetype":"county",

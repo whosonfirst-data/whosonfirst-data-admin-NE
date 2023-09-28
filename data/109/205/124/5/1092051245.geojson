@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.567726,
-    "geom:area_square_m":6824198316.943892,
+    "geom:area_square_m":6824197426.500561,
     "geom:bbox":"12.133566,13.062371,13.623291,13.915987",
     "geom:latitude":13.564398,
     "geom:longitude":12.72577,
@@ -137,9 +137,10 @@
     "wof:concordances":{
         "hasc:id":"NE.DF.DF"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NE",
     "wof:created":1473898557,
-    "wof:geomhash":"55c920cfb70234b4fbf80813469bf684",
+    "wof:geomhash":"45fd043c53603a78f4b4ac0ce3f37de4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -149,7 +150,7 @@
         }
     ],
     "wof:id":1092051245,
-    "wof:lastmodified":1636502489,
+    "wof:lastmodified":1695886064,
     "wof:name":"Diffa",
     "wof:parent_id":85675269,
     "wof:placetype":"county",

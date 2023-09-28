@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.666196,
-    "geom:area_square_m":8030358044.564164,
+    "geom:area_square_m":8030358056.364438,
     "geom:bbox":"2.957366,12.106871,3.765866,13.599271",
     "geom:latitude":12.876183,
     "geom:longitude":3.278977,
@@ -98,9 +98,10 @@
     "wof:concordances":{
         "hasc:id":"NE.DS.DS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NE",
     "wof:created":1473898550,
-    "wof:geomhash":"0ff5d372b8dfe823c47a17bc803c8b2d",
+    "wof:geomhash":"b4378a58157a0909f509850a79104ac4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1092051041,
-    "wof:lastmodified":1636502489,
+    "wof:lastmodified":1695886064,
     "wof:name":"Dosso",
     "wof:parent_id":85675287,
     "wof:placetype":"county",

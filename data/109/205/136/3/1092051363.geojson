@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.290292,
-    "geom:area_square_m":15498363540.955286,
+    "geom:area_square_m":15498363565.304588,
     "geom:bbox":"10.613666,13.080871,12.448166,14.428171",
     "geom:latitude":13.733781,
     "geom:longitude":11.589476,
@@ -54,9 +54,10 @@
     "wof:concordances":{
         "hasc:id":"NE.DF.MS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NE",
     "wof:created":1473898562,
-    "wof:geomhash":"fa0f2a6922069027033b7b642c130c69",
+    "wof:geomhash":"1c911b507bbd9a022f94cebb689bfe99",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1092051363,
-    "wof:lastmodified":1627522463,
+    "wof:lastmodified":1695886085,
     "wof:name":"Maine-Soroa",
     "wof:parent_id":85675269,
     "wof:placetype":"county",

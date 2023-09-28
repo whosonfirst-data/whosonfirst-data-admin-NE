@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":7.510745,
-    "geom:area_square_m":89556265141.357727,
+    "geom:area_square_m":89556265141.357758,
     "geom:bbox":"9.35986633973,13.0358713683,12.0027663397,17.4943713683",
     "geom:latitude":15.32362,
     "geom:longitude":10.799268,
@@ -78,9 +78,10 @@
     "wof:concordances":{
         "hasc:id":"NE.ZI.GO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NE",
     "wof:created":1473898577,
-    "wof:geomhash":"9d2dc9314554a374f06e479ebc659dbd",
+    "wof:geomhash":"d030368a25c056ddda711a23836305c1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":1092051753,
-    "wof:lastmodified":1566648910,
+    "wof:lastmodified":1695886423,
     "wof:name":"Goure",
     "wof:parent_id":85675285,
     "wof:placetype":"county",
