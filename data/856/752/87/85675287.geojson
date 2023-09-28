@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.623197,
-    "geom:area_square_m":31577588907.505035,
+    "geom:area_square_m":31577588955.112263,
     "geom:bbox":"2.469666,11.697471,4.597166,14.635471",
     "geom:latitude":13.19912,
     "geom:longitude":3.542464,
@@ -281,17 +281,19 @@
         "gn:id":2445486,
         "gp:id":2346326,
         "hasc:id":"NE.DS",
+        "iso:code":"NE-3",
         "iso:id":"NE-3",
         "qs_pg:id":1222620,
         "unlc:id":"NE-3",
         "wd:id":"Q850055",
         "wk:page":"Dosso Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NE",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"cc49bcd8fabb468e7276d7f2b87132da",
+    "wof:geomhash":"d3b8be69d6203dd97227319338355ee7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -306,7 +308,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690848306,
+    "wof:lastmodified":1695884933,
     "wof:name":"Dosso",
     "wof:parent_id":85632269,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":7.60076,
-    "geom:area_square_m":91112604305.995728,
+    "geom:area_square_m":91112620947.672501,
     "geom:bbox":"0.166321,11.901571,4.255566,15.691895",
     "geom:latitude":14.18181,
     "geom:longitude":2.187327,
@@ -269,17 +269,19 @@
         "gn:id":2595293,
         "gp:id":20069995,
         "hasc:id":"NE.TL",
+        "iso:code":"NE-6",
         "iso:id":"NE-6",
         "qs_pg:id":1118638,
         "unlc:id":"NE-6",
         "wd:id":"Q861914",
         "wk:page":"Tillab\u00e9ri Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NE",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0649297db2af092de1539f17e3f1bb33",
+    "wof:geomhash":"20fdc6d59e7663616b8e39cf14b45287",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -294,7 +296,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690848307,
+    "wof:lastmodified":1695884366,
     "wof:name":"Tillab\u00e9ri",
     "wof:parent_id":85632269,
     "wof:placetype":"region",
