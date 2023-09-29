@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":12.355759,
-    "geom:area_square_m":146921094496.986755,
+    "geom:area_square_m":146921101016.34549,
     "geom:bbox":"10.613666,13.062371,15.576612,18.015471",
     "geom:latitude":15.861997,
     "geom:longitude":13.220965,
@@ -274,17 +274,19 @@
         "gn:id":2445702,
         "gp:id":2346325,
         "hasc:id":"NE.DF",
+        "iso:code":"NE-2",
         "iso:id":"NE-2",
         "qs_pg:id":1135181,
         "unlc:id":"NE-2",
         "wd:id":"Q1053302",
         "wk:page":"Diffa Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NE",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"241f403f1f416e99c3f06beffa246fae",
+    "wof:geomhash":"98396c335f357f882b1d603c88af880b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -299,7 +301,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690848306,
+    "wof:lastmodified":1695884933,
     "wof:name":"Diffa",
     "wof:parent_id":85632269,
     "wof:placetype":"region",

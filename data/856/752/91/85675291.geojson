@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020654,
-    "geom:area_square_m":248317207.712129,
+    "geom:area_square_m":248317208.095564,
     "geom:bbox":"2.027166,13.425171,2.233666,13.604171",
     "geom:latitude":13.511011,
     "geom:longitude":2.135139,
@@ -572,12 +572,14 @@
         "gn:id":2595294,
         "gp:id":20069994,
         "hasc:id":"NE.NI",
+        "iso:code":"NE-8",
         "iso:id":"NE-8",
         "qs_pg:id":1118637,
         "unlc:id":"NE-8",
         "wd:id":"Q3674",
         "wk:page":"Niamey"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         421197251
     ],
@@ -585,7 +587,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"09d54b39bdd3ba9d3402ac610d607399",
+    "wof:geomhash":"1298b2bfe3c2fd6924d2e7822a917ca8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -600,7 +602,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690848307,
+    "wof:lastmodified":1695884366,
     "wof:name":"Niamey",
     "wof:parent_id":85632269,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.684203,
-    "geom:area_square_m":8187521879.543653,
+    "geom:area_square_m":8187524321.218596,
     "geom:bbox":"0.707966,13.748171,1.891266,15.279294",
     "geom:latitude":14.584264,
     "geom:longitude":1.356409,
@@ -71,12 +71,13 @@
         "hasc:id":"NE.TL.TL",
         "qs_pg:id":91442
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NE",
     "wof:created":1469051791,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"01007d97f19def2b2cd7f041881e0d31",
+    "wof:geomhash":"27ad0ba6f722f2a51bb55318ebda2e58",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":890429081,
-    "wof:lastmodified":1627522463,
+    "wof:lastmodified":1695886084,
     "wof:name":"Tillaberi",
     "wof:parent_id":85675265,
     "wof:placetype":"county",

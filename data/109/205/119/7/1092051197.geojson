@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.238213,
-    "geom:area_square_m":2864421312.23559,
+    "geom:area_square_m":2864421312.235581,
     "geom:bbox":"7.39036633973,13.2177713683,8.19246633973,13.7521713683",
     "geom:latitude":13.478156,
     "geom:longitude":7.750935,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"NE.MA.AG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NE",
     "wof:created":1473898555,
-    "wof:geomhash":"c0d280499da97829974ecef13d81f71b",
+    "wof:geomhash":"b22db352c9a08704ad52e05e6c6dfc13",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092051197,
-    "wof:lastmodified":1566648910,
+    "wof:lastmodified":1695886423,
     "wof:name":"Aguie",
     "wof:parent_id":85675281,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":12.264994,
-    "geom:area_square_m":146475466051.559204,
+    "geom:area_square_m":146475466303.648315,
     "geom:bbox":"7.354466,12.803571,12.002766,17.494371",
     "geom:latitude":14.98824,
     "geom:longitude":10.03644,
@@ -275,17 +275,19 @@
         "gn:id":2437797,
         "gp:id":2346330,
         "hasc:id":"NE.ZI",
+        "iso:code":"NE-7",
         "iso:id":"NE-7",
         "qs_pg:id":890087,
         "unlc:id":"NE-7",
         "wd:id":"Q204367",
         "wk:page":"Zinder Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NE",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b97a89eab94253008623f7807f235594",
+    "wof:geomhash":"d2ffd27983e7d70dd0ec4a1b3cf24aff",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -300,7 +302,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690848308,
+    "wof:lastmodified":1695884933,
     "wof:name":"Zinder",
     "wof:parent_id":85632269,
     "wof:placetype":"region",

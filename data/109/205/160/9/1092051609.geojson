@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.766045,
-    "geom:area_square_m":9156185985.826941,
+    "geom:area_square_m":9156186001.425344,
     "geom:bbox":"4.120466,14.472471,5.665666,15.206771",
     "geom:latitude":14.843056,
     "geom:longitude":4.95084,
@@ -134,9 +134,10 @@
     "wof:concordances":{
         "hasc:id":"NE.TH.TH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NE",
     "wof:created":1473898572,
-    "wof:geomhash":"9bca674d2a4c36e94623619ea2cca43c",
+    "wof:geomhash":"00abba1c2f6e1ac939f6709f2ae14280",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -146,7 +147,7 @@
         }
     ],
     "wof:id":1092051609,
-    "wof:lastmodified":1636502489,
+    "wof:lastmodified":1695886064,
     "wof:name":"Tahoua",
     "wof:parent_id":85675297,
     "wof:placetype":"county",

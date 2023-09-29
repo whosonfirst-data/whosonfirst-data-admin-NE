@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.303884,
-    "geom:area_square_m":3657218806.695756,
+    "geom:area_square_m":3657218806.695782,
     "geom:bbox":"6.76546633973,12.9885713683,7.61376633973,13.5510713683",
     "geom:latitude":13.271759,
     "geom:longitude":7.15438,
@@ -77,9 +77,10 @@
     "wof:concordances":{
         "hasc:id":"NE.MA.MF"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NE",
     "wof:created":1473898549,
-    "wof:geomhash":"076304a804f9d55e02923e3ff03938fb",
+    "wof:geomhash":"5979014ce3a844216031ed1b3556fa2c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -89,7 +90,7 @@
         }
     ],
     "wof:id":1092051007,
-    "wof:lastmodified":1566648911,
+    "wof:lastmodified":1695886423,
     "wof:name":"Madarounfa",
     "wof:parent_id":85675281,
     "wof:placetype":"county",

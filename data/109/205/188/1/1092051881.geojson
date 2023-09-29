@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":24.035958,
-    "geom:area_square_m":278475061481.232727,
+    "geom:area_square_m":278475061481.232849,
     "geom:bbox":"10.9720663397,17.0597713683,16.0119018555,23.5250713683",
     "geom:latitude":20.395878,
     "geom:longitude":13.149444,
@@ -116,9 +116,10 @@
     "wof:concordances":{
         "hasc:id":"NE.AG.BL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NE",
     "wof:created":1473898581,
-    "wof:geomhash":"7c8b76ef5cce6681be018287cdb3f09b",
+    "wof:geomhash":"f63c6181ab6a37f13ce3c5e412bcae23",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -128,7 +129,7 @@
         }
     ],
     "wof:id":1092051881,
-    "wof:lastmodified":1566648909,
+    "wof:lastmodified":1695886423,
     "wof:name":"Bilma",
     "wof:parent_id":85675273,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.387904,
-    "geom:area_square_m":16605666897.398457,
+    "geom:area_square_m":16605666897.398388,
     "geom:bbox":"6.32856633973,13.7562713683,7.77876633973,15.4381713683",
     "geom:latitude":14.618273,
     "geom:longitude":6.988025,
@@ -77,9 +77,10 @@
     "wof:concordances":{
         "hasc:id":"NE.MA.DK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NE",
     "wof:created":1473898574,
-    "wof:geomhash":"8e6a3fc964678a96ecb47c2e1880880b",
+    "wof:geomhash":"51b6955cd69b4a7488fb8cbde7cfc8c3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -89,7 +90,7 @@
         }
     ],
     "wof:id":1092051663,
-    "wof:lastmodified":1566648907,
+    "wof:lastmodified":1695886422,
     "wof:name":"Dakoro",
     "wof:parent_id":85675281,
     "wof:placetype":"county",

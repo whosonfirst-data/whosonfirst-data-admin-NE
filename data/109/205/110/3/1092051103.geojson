@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.232335,
-    "geom:area_square_m":14851189269.574432,
+    "geom:area_square_m":14851189269.574429,
     "geom:bbox":"0.990666339733,11.9015713683,2.84546633973,13.6274713683",
     "geom:latitude":12.936438,
     "geom:longitude":1.88246,
@@ -89,9 +89,10 @@
     "wof:concordances":{
         "hasc:id":"NE.TL.SA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NE",
     "wof:created":1473898552,
-    "wof:geomhash":"0415687c09b77179510564136e79fedf",
+    "wof:geomhash":"bf1da0a7187d6d725ed08f84bb0d836f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1092051103,
-    "wof:lastmodified":1566648910,
+    "wof:lastmodified":1695886423,
     "wof:name":"Say",
     "wof:parent_id":85675265,
     "wof:placetype":"county",

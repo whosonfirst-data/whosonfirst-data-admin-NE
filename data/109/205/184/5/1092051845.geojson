@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":17.347452,
-    "geom:area_square_m":201758877394.292236,
+    "geom:area_square_m":201758877861.654083,
     "geom:bbox":"5.800766,17.904771,11.006366,22.948571",
     "geom:latitude":19.816743,
     "geom:longitude":8.873701,
@@ -125,9 +125,10 @@
     "wof:concordances":{
         "hasc:id":"NE.AG.AR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NE",
     "wof:created":1473898580,
-    "wof:geomhash":"5f6610e368f8875b1d8a7922ce4b9381",
+    "wof:geomhash":"6af8913174e292ba5ce271928714e7d7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -137,7 +138,7 @@
         }
     ],
     "wof:id":1092051845,
-    "wof:lastmodified":1636502490,
+    "wof:lastmodified":1695886064,
     "wof:name":"Arlit",
     "wof:parent_id":85675273,
     "wof:placetype":"county",

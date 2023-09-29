@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.404507,
-    "geom:area_square_m":4854065806.811876,
+    "geom:area_square_m":4854065814.568507,
     "geom:bbox":"4.445566,13.730171,5.741666,14.263271",
     "geom:latitude":13.959922,
     "geom:longitude":5.132116,
@@ -54,9 +54,10 @@
     "wof:concordances":{
         "hasc:id":"NE.TH.BK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NE",
     "wof:created":1473898559,
-    "wof:geomhash":"bf3678ae495f17e3f191a4c4ac845edc",
+    "wof:geomhash":"a385a258f32e6f74e04e5e6071f0dd5c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1092051301,
-    "wof:lastmodified":1627522463,
+    "wof:lastmodified":1695886085,
     "wof:name":"Birni N'Konni",
     "wof:parent_id":85675297,
     "wof:placetype":"county",

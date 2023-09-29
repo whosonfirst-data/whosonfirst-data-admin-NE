@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.297243,
-    "geom:area_square_m":3559347794.676263,
+    "geom:area_square_m":3559347794.676268,
     "geom:bbox":"5.64876633973,14.1807713683,6.55436633973,14.8184713683",
     "geom:latitude":14.440376,
     "geom:longitude":6.098754,
@@ -77,9 +77,10 @@
     "wof:concordances":{
         "hasc:id":"NE.TH.BZ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NE",
     "wof:created":1473898569,
-    "wof:geomhash":"ad979b725a6f92301e6534e2854d1eaa",
+    "wof:geomhash":"a23712bfe50377c956a264bd482472ec",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -89,7 +90,7 @@
         }
     ],
     "wof:id":1092051515,
-    "wof:lastmodified":1566648908,
+    "wof:lastmodified":1695886422,
     "wof:name":"Bouza",
     "wof:parent_id":85675297,
     "wof:placetype":"county",

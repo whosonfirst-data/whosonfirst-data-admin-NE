@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.31956,
-    "geom:area_square_m":3841167334.997699,
+    "geom:area_square_m":3841167334.997691,
     "geom:bbox":"2.99536633973,13.2492713683,3.90516633973,13.9594713683",
     "geom:latitude":13.565521,
     "geom:longitude":3.462297,
@@ -74,9 +74,10 @@
     "wof:concordances":{
         "hasc:id":"NE.DS.LO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NE",
     "wof:created":1473898559,
-    "wof:geomhash":"431c8fc177133c1ebf301aaef4b59d71",
+    "wof:geomhash":"5581bd0dd7cfd61e16c5cb4ec0a4c208",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1092051273,
-    "wof:lastmodified":1566648909,
+    "wof:lastmodified":1695886423,
     "wof:name":"Loga",
     "wof:parent_id":85675287,
     "wof:placetype":"county",

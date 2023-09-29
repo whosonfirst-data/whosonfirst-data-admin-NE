@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.779398,
-    "geom:area_square_m":33184431445.450333,
+    "geom:area_square_m":33184431445.450535,
     "geom:bbox":"7.35446633973,14.1123713683,9.63006633973,16.1684713683",
     "geom:latitude":15.073412,
     "geom:longitude":8.629312,
@@ -80,9 +80,10 @@
     "wof:concordances":{
         "hasc:id":"NE.ZI.TN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NE",
     "wof:created":1473898576,
-    "wof:geomhash":"cf75fed2dfb23d9d4a4002a71d1ed188",
+    "wof:geomhash":"8cc661813a06f837de61e2014ab0ac34",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1092051731,
-    "wof:lastmodified":1566648908,
+    "wof:lastmodified":1695886423,
     "wof:name":"Tanout",
     "wof:parent_id":85675285,
     "wof:placetype":"county",

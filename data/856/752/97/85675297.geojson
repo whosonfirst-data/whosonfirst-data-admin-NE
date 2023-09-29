@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":8.970034,
-    "geom:area_square_m":106716851647.23761,
+    "geom:area_square_m":106716857165.133179,
     "geom:bbox":"3.855286,13.642871,6.725366,18.681519",
     "geom:latitude":15.774236,
     "geom:longitude":5.227485,
@@ -272,17 +272,19 @@
         "gn:id":2439374,
         "gp:id":2346329,
         "hasc:id":"NE.TH",
+        "iso:code":"NE-5",
         "iso:id":"NE-5",
         "qs_pg:id":229381,
         "unlc:id":"NE-5",
         "wd:id":"Q871083",
         "wk:page":"Tahoua Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NE",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"27d9ea7f87f439a8e6345462376d68ac",
+    "wof:geomhash":"d48982e3539de77bb05e8fc50915bbb5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -297,7 +299,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690848307,
+    "wof:lastmodified":1695884933,
     "wof:name":"Tahoua",
     "wof:parent_id":85632269,
     "wof:placetype":"region",

@@ -1155,6 +1155,7 @@
         "hasc:id":"NE",
         "icao:code":"5U",
         "ioc:id":"NIG",
+        "iso:code":"NE",
         "itu:id":"NGR",
         "loc:id":"n79065240",
         "m49:code":"562",
@@ -1169,6 +1170,7 @@
         "wk:page":"Niger",
         "wmo:id":"NR"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NE",
     "wof:country_alpha3":"NER",
     "wof:geom_alt":[
@@ -1190,7 +1192,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1694639553,
+    "wof:lastmodified":1695881211,
     "wof:name":"Niger",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

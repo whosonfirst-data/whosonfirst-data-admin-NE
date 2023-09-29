@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.543702,
-    "geom:area_square_m":6519839999.48403,
+    "geom:area_square_m":6519839999.48404,
     "geom:bbox":"7.16656633973,13.6998713683,8.08906633973,14.5167713683",
     "geom:latitude":14.119385,
     "geom:longitude":7.624592,
@@ -83,9 +83,10 @@
     "wof:concordances":{
         "hasc:id":"NE.MA.MY"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NE",
     "wof:created":1473898565,
-    "wof:geomhash":"3b8df618a8fec9547c7211b567cb711b",
+    "wof:geomhash":"53689bef95f32606617eceb8c5430ee6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -95,7 +96,7 @@
         }
     ],
     "wof:id":1092051435,
-    "wof:lastmodified":1566648909,
+    "wof:lastmodified":1695886423,
     "wof:name":"Mayahi",
     "wof:parent_id":85675281,
     "wof:placetype":"county",
